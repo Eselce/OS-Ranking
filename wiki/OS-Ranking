@@ -57,9 +57,9 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 19.
 
 Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 20. Die endgültige Festlegung erfolgt durch die Spielleitung nach Saisonende.
 
-<span style=color:red>'''Stand vor ZAT 5 (OSCQ / OSEQ)'''</span>
+<span style=color:red>'''Stand nach ZAT 5 (OSCQ Runde 1 Hinspiel / OSEQ Runde 1 Hinspiel)'''</span>
 
-<span>Nächster Spieltag: ZAT 5 (OSCQ Runde 1 Hinspiel / OSEQ Runde 1 Hinspiel)</span>
+<span>Nächster Spieltag: ZAT 7 (OSCQ Runde 1 Rückspiel / OSEQ Runde 1 Rückspiel)</span>
 
 <small>Titelverteidiger [[OSC]]: Wales - Titelverteidiger [[OSE]]: Kroatien - Fairplaywertung: Ungarn, Türkei, Ukraine</small>
 
@@ -72,13 +72,17 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 20. Die endg�
 ![[OS-Ranking Saison 15|S.15<br/>]]
 !Land
 !Teiln.<br/>
+!drin<br/>
 !CC<br/>
 !EC<br/>
+!neu<br/>
 !Punkte<br/>
+!neu<br/>
 !Saison 16<br/>
 !Saison 17<br/>
 !Saison 18<br/>
 !Koeff.<br/>
+!neu<br/>
 !bgcolor=#EEFFFF|'''Platz<br/>S19'''
 !bgcolor=#EEFFFF|'''Koeff.<br/>S19'''
 !bgcolor=#EEFFFF|'''Teiln.<br/>S19'''
@@ -95,15 +99,19 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 20. Die endg�
 |7
 |align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/AUT.gif '''[[Österreich]]'''
 |8
+|8
 |bgcolor=#EEFFFF|4
 |bgcolor=#EEFFFF|4
-!2,0
+|3
+!4,0
+| +2,0
 |9,13
 |9,14
-|0,25
-!18,52
+|0,50
+!18,77
+| +0,25
 |bgcolor=#EEFFFF|2
-|bgcolor=#EEFFFF|9,39
+|bgcolor=#EEFFFF|9,64
 |bgcolor=#EEFFFF|8
 |8
 |2
@@ -118,15 +126,19 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 20. Die endg�
 |5
 |align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/BIH.gif '''[[Bosnien-Herzegowina]]'''
 |8
+|8
 |bgcolor=#EEFFFF|3
 |bgcolor=#EEFFFF|5
-!1,0
+|4
+!3,5
+| +2,5
 |9,50
 |7,33
-|0,13
-!16,96
+|0,44
+!17,27
+| +0,31
 |bgcolor=#EEFFFF|5
-|bgcolor=#EEFFFF|7,46
+|bgcolor=#EEFFFF|7,77
 |bgcolor=#EEFFFF|8
 |8
 |2
@@ -141,15 +153,19 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 20. Die endg�
 |9
 |align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/POR.gif '''[[Portugal]]'''
 |7
+|7
 |bgcolor=#EEFFFF|3
 |bgcolor=#EEFFFF|4
-!1,0
+|4
+!2,5
+| +1,5
 |6,25
 |10,36
-|0,14
-!16,75
+|0,36
+!16,97
+| +0,21
 |bgcolor=#EEFFFF|1
-|bgcolor=#EEFFFF|10,50
+|bgcolor=#EEFFFF|10,72
 |bgcolor=#EEFFFF|8
 |8
 |2
@@ -157,22 +173,26 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 20. Die endg�
 |2
 |2
 |-align=center style="border-top:2px solid grey"
-!<span style=color:green>↑</span>
+!
 !4
-|6
 |4
-|6
-|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/CRO.gif '''[[Kroatien]]'''
-|9
+|1
+|2
+|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/NED.gif '''[[Niederlande]]'''
+|8
+|8
+|bgcolor=#EEFFFF|5
 |bgcolor=#EEFFFF|3
+|4
+!5,5
+| +3,5
+|8,31
+|6,81
+|0,69
+!15,81
+| +0,44
 |bgcolor=#EEFFFF|6
-!1,0
-|7,44
-|7,94
-|0,11
-!15,49
-|bgcolor=#EEFFFF|3
-|bgcolor=#EEFFFF|8,05
+|bgcolor=#EEFFFF|7,50
 |bgcolor=#EEFFFF|8
 |8
 |1
@@ -180,22 +200,26 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 20. Die endg�
 |3
 |2
 |-align=center
-!<span style=color:red>↓</span>
+!<span style=color:green>↑</span>
 !5
+|6
 |4
-|1
-|2
-|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/NED.gif '''[[Niederlande]]'''
-|8
-|bgcolor=#EEFFFF|5
+|6
+|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/CRO.gif '''[[Kroatien]]'''
+|9
+|9
 |bgcolor=#EEFFFF|3
-!2,0
-|8,31
-|6,81
-|0,25
-!15,37
-|bgcolor=#EEFFFF|7
-|bgcolor=#EEFFFF|7,06
+|bgcolor=#EEFFFF|6
+|4
+!2,5
+| +1,5
+|7,44
+|7,94
+|0,28
+!15,66
+| +0,17
+|bgcolor=#EEFFFF|3
+|bgcolor=#EEFFFF|8,22
 |bgcolor=#EEFFFF|8
 |8
 |1
@@ -210,15 +234,19 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 20. Die endg�
 |3
 |align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/ESP.gif '''[[Spanien]]'''
 |8
+|8
 |bgcolor=#EEFFFF|4
 |bgcolor=#EEFFFF|4
-!2,0
+|4
+!5,0
+| +3,0
 |6,07
 |7,38
-|0,25
-!13,70
+|0,63
+!14,08
+| +0,38
 |bgcolor=#EEFFFF|4
-|bgcolor=#EEFFFF|7,63
+|bgcolor=#EEFFFF|8,01
 |bgcolor=#EEFFFF|8
 |8
 |1
@@ -233,15 +261,19 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 20. Die endg�
 |10
 |align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/FRA.gif '''Frankreich'''
 |7
+|7
 |bgcolor=#EEFFFF|3
 |bgcolor=#EEFFFF|4
-!1,0
+|4
+!3,0
+| +2,0
 |6,64
 |6,79
-|0,14
-!13,57
-|bgcolor=#EEFFFF|8
-|bgcolor=#EEFFFF|6,93
+|0,43
+!13,86
+| +0,29
+|bgcolor=#EEFFFF|9
+|bgcolor=#EEFFFF|7,22
 |bgcolor=#EEFFFF|7
 |7
 |1
@@ -256,15 +288,19 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 20. Die endg�
 |44
 |align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/SCG.gif '''Serbien und Montenegro'''
 |6
+|6
 |bgcolor=#EEFFFF|1
 |bgcolor=#EEFFFF|5
-!0,0
+|5
+!4,0
+| +4,0
 |5,90
 |6,80
-|0,00
-!12,70
-|bgcolor=#EEFFFF|9
-|bgcolor=#EEFFFF|6,80
+|0,67
+!13,37
+| +0,67
+|bgcolor=#EEFFFF|7
+|bgcolor=#EEFFFF|7,47
 |bgcolor=#EEFFFF|7
 |7
 |1
@@ -274,21 +310,25 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 20. Die endg�
 |-align=center
 !<span style=color:green>↑</span>
 !9
-|21
-|34
-|52
-|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/LTU.gif '''[[Litauen]]'''
-|5
-|bgcolor=#EEFFFF|1
-|bgcolor=#EEFFFF|4
-!0,0
-|7,00
-|5,00
-|0,00
-!12,00
-|bgcolor=#EEFFFF|17
-|bgcolor=#EEFFFF|5,00
+|14
+|17
+|13
+|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/WAL.gif '''[[Wales]]'''
+|8
+|8
+|bgcolor=#EEFFFF|2
 |bgcolor=#EEFFFF|6
+|4
+!3,5
+| +2,5
+|4,79
+|7,00
+|0,44
+!12,23
+| +0,31
+|bgcolor=#EEFFFF|8
+|bgcolor=#EEFFFF|7,44
+|bgcolor=#EEFFFF|7
 |7
 |1
 |2
@@ -297,21 +337,25 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 20. Die endg�
 |-align=center
 !<span style=color:green>↑</span>
 !10
-|14
-|17
-|13
-|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/WAL.gif '''[[Wales]]'''
-|8
-|bgcolor=#EEFFFF|2
-|bgcolor=#EEFFFF|6
+|21
+|34
+|52
+|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/LTU.gif '''[[Litauen]]'''
+|5
+|5
+|bgcolor=#EEFFFF|1
+|bgcolor=#EEFFFF|4
+|4
 !1,0
-|4,79
+| +1,0
 |7,00
-|0,13
-!11,92
+|5,00
+|0,20
+!12,20
+| +0,20
+|bgcolor=#EEFFFF|18
+|bgcolor=#EEFFFF|5,20
 |bgcolor=#EEFFFF|6
-|bgcolor=#EEFFFF|7,13
-|bgcolor=#EEFFFF|7
 |7
 |1
 |2
@@ -325,15 +369,19 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 20. Die endg�
 |19
 |align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/ROM.gif '''Rumänien'''
 |7
+|7
 |bgcolor=#EEFFFF|3
 |bgcolor=#EEFFFF|4
-!1,0
+|4
+!2,5
+| +1,5
 |6,43
 |5,25
-|0,14
-!11,82
+|0,36
+!12,04
+| +0,21
 |bgcolor=#EEFFFF|15
-|bgcolor=#EEFFFF|5,39
+|bgcolor=#EEFFFF|5,61
 |bgcolor=#EEFFFF|6
 |7
 |1
@@ -341,22 +389,26 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 20. Die endg�
 |3
 |2
 |-align=center
-!
+!<span style=color:red>↓</span>
 !12
-|12
-|14
-|17
-|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/AZE.gif '''Aserbaidschan'''
-|7
-|bgcolor=#EEFFFF|2
+|10
+|19
+|34
+|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/IRL.gif '''[[Irland]]'''
+|6
+|6
+|bgcolor=#EEFFFF|1
 |bgcolor=#EEFFFF|5
-!0,0
-|5,42
-|6,14
-|0,00
-!11,56
-|bgcolor=#EEFFFF|11
-|bgcolor=#EEFFFF|6,14
+|4
+!2,5
+| +2,5
+|7,25
+|4,30
+|0,42
+!11,97
+| +0,42
+|bgcolor=#EEFFFF|24
+|bgcolor=#EEFFFF|4,72
 |bgcolor=#EEFFFF|7
 |7
 |1
@@ -366,20 +418,24 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 20. Die endg�
 |-align=center style="border-top:2px solid grey"
 !<span style=color:red>↓</span>
 !13
-|10
-|19
-|34
-|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/IRL.gif '''[[Irland]]'''
-|6
-|bgcolor=#EEFFFF|1
+|12
+|14
+|17
+|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/AZE.gif '''Aserbaidschan'''
+|7
+|7
+|bgcolor=#EEFFFF|2
 |bgcolor=#EEFFFF|5
-!0,0
-|7,25
-|4,30
-|0,00
-!11,55
-|bgcolor=#EEFFFF|23
-|bgcolor=#EEFFFF|4,30
+|4
+!2,0
+| +2,0
+|5,42
+|6,14
+|0,29
+!11,85
+| +0,29
+|bgcolor=#EEFFFF|11
+|bgcolor=#EEFFFF|6,43
 |bgcolor=#EEFFFF|7
 |7
 | -
@@ -394,15 +450,19 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 20. Die endg�
 |29
 |align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/HUN.gif '''Ungarn'''
 |8
+|8
 |bgcolor=#EEFFFF|1
 |bgcolor=#EEFFFF|7
-!0,0
+|4
+!1,5
+| +1,5
 |6,20
 |4,67
-|0,00
-!10,87
-|bgcolor=#EEFFFF|20
-|bgcolor=#EEFFFF|4,67
+|0,19
+!11,06
+| +0,19
+|bgcolor=#EEFFFF|23
+|bgcolor=#EEFFFF|4,86
 |bgcolor=#EEFFFF|7
 |7
 | -
@@ -410,23 +470,27 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 20. Die endg�
 |3
 |2
 |-align=center style="border-top:2px solid grey"
-!
+!<span style=color:green>↑</span>
 !15
-|15
-|31
-|31
-|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/ITA.gif '''[[Italien]]'''
-|6
+|23
+|32
+|32
+|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/ENG.gif '''[[England]]'''
+|5
+|5
 |bgcolor=#EEFFFF|1
-|bgcolor=#EEFFFF|5
-!0,0
-|3,92
-|5,50
-|0,00
-!9,42
-|bgcolor=#EEFFFF|14
-|bgcolor=#EEFFFF|5,50
-|bgcolor=#EEFFFF|7
+|bgcolor=#EEFFFF|4
+|4
+!3,0
+| +3,0
+|3,58
+|5,60
+|0,60
+!9,78
+| +0,60
+|bgcolor=#EEFFFF|12
+|bgcolor=#EEFFFF|6,20
+|bgcolor=#EEFFFF|6
 |7
 | -
 |1
@@ -435,20 +499,24 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 20. Die endg�
 |-align=center
 !<span style=color:green>↑</span>
 !16
-|23
-|32
-|32
-|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/ENG.gif '''[[England]]'''
-|5
+|27
+|22
+|27
+|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/LIE.gif '''[[Liechtenstein]]'''
+|6
+|6
 |bgcolor=#EEFFFF|1
-|bgcolor=#EEFFFF|4
-!0,0
-|3,58
-|5,60
-|0,00
-!9,18
-|bgcolor=#EEFFFF|13
-|bgcolor=#EEFFFF|5,60
+|bgcolor=#EEFFFF|5
+|4
+!3,5
+| +3,5
+|2,57
+|6,42
+|0,58
+!9,57
+| +0,58
+|bgcolor=#EEFFFF|10
+|bgcolor=#EEFFFF|7,00
 |bgcolor=#EEFFFF|6
 |7
 | -
@@ -463,15 +531,19 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 20. Die endg�
 |37
 |align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/SVK.gif '''[[Slowakei]]'''
 |6
+|6
 |bgcolor=#EEFFFF|1
 |bgcolor=#EEFFFF|5
-!0,0
+|4
+!3,0
+| +3,0
 |5,75
 |3,30
-|0,00
-!9,05
-|bgcolor=#EEFFFF|36
-|bgcolor=#EEFFFF|3,30
+|0,50
+!9,55
+| +0,50
+|bgcolor=#EEFFFF|33
+|bgcolor=#EEFFFF|3,80
 |bgcolor=#EEFFFF|6
 |7
 | -
@@ -479,29 +551,60 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 20. Die endg�
 |3
 |3
 |-align=center style="border-top:2px solid black"
-!<span style=color:green>↑</span>
+!<span style=color:red>↓</span>
 !18
-|27
-|22
-|27
-|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/LIE.gif '''[[Liechtenstein]]'''
+|15
+|31
+|31
+|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/ITA.gif '''[[Italien]]'''
+|6
 |6
 |bgcolor=#EEFFFF|1
 |bgcolor=#EEFFFF|5
-!0,0
-|2,57
-|6,42
-|0,00
-!8,99
-|bgcolor=#EEFFFF|10
-|bgcolor=#EEFFFF|6,42
-|bgcolor=#EEFFFF|6
+|5
+!0,5
+| +0,5
+|3,92
+|5,50
+|0,08
+!9,50
+| +0,08
+|bgcolor=#EEFFFF|16
+|bgcolor=#EEFFFF|5,58
+|bgcolor=#EEFFFF|7
 |6
 | -
 |1
 |3
 |2
 |-align=center style="border-top:2px solid grey"
+!<span style=color:green>↑</span>
+!19
+|31
+|41
+|39
+|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/FRO.gif '''Färöer'''
+|5
+|5
+|bgcolor=#EEFFFF|1
+|bgcolor=#EEFFFF|4
+|4
+!2,0
+| +2,0
+|4,42
+|4,50
+|0,40
+!9,32
+| +0,40
+|bgcolor=#EEFFFF|21
+|bgcolor=#EEFFFF|4,90
+|bgcolor=#EEFFFF|6
+|6
+| -
+|1
+|2
+|3
+|-align=center
 !<span style=color:red>↓</span>
 !19
 |8
@@ -509,39 +612,20 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 20. Die endg�
 |21
 |align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/GRE.gif '''[[Griechenland]]'''
 |7
+|7
 |bgcolor=#EEFFFF|2
 |bgcolor=#EEFFFF|5
-!0,0
+|4
+!2,5
+| +2,5
 |3,63
 |5,33
-|0,00
-!8,96
-|bgcolor=#EEFFFF|16
-|bgcolor=#EEFFFF|5,33
+|0,36
+!9,32
+| +0,36
+|bgcolor=#EEFFFF|13
+|bgcolor=#EEFFFF|5,69
 |bgcolor=#EEFFFF|7
-|6
-| -
-|1
-|2
-|3
-|-align=center
-!<span style=color:green>↑</span>
-!20
-|31
-|41
-|39
-|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/FRO.gif '''Färöer'''
-|5
-|bgcolor=#EEFFFF|1
-|bgcolor=#EEFFFF|4
-!0,0
-|4,42
-|4,50
-|0,00
-!8,92
-|bgcolor=#EEFFFF|22
-|bgcolor=#EEFFFF|4,50
-|bgcolor=#EEFFFF|6
 |6
 | -
 |1
@@ -555,15 +639,19 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 20. Die endg�
 |24
 |align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/LUX.gif '''[[Luxemburg]]'''
 |6
+|6
 |bgcolor=#EEFFFF|1
 |bgcolor=#EEFFFF|5
-!0,0
+|4
+!2,0
+| +2,0
 |3,92
 |4,92
-|0,00
-!8,84
-|bgcolor=#EEFFFF|19
-|bgcolor=#EEFFFF|4,92
+|0,33
+!9,17
+| +0,33
+|bgcolor=#EEFFFF|17
+|bgcolor=#EEFFFF|5,25
 |bgcolor=#EEFFFF|7
 |6
 | -
@@ -573,43 +661,24 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 20. Die endg�
 |-align=center
 !<span style=color:red>↓</span>
 !22
-|7
-|6
-|1
-|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/GER.gif '''Deutschland'''
-|8
-|bgcolor=#EEFFFF|3
-|bgcolor=#EEFFFF|5
-!1,0
-|2,94
-|5,50
-|0,13
-!8,57
-|bgcolor=#EEFFFF|12
-|bgcolor=#EEFFFF|5,63
-|bgcolor=#EEFFFF|7
-|6
-| -
-|1
-|2
-|3
-|-align=center
-!<span style=color:red>↓</span>
-!23
 |18
 |24
 |15
 |align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/BLR.gif '''Weißrussland'''
 |6
+|6
 |bgcolor=#EEFFFF|1
 |bgcolor=#EEFFFF|5
-!0,0
+|4
+!4,0
+| +4,0
 |4,50
 |3,93
-|0,00
-!8,43
+|0,67
+!9,10
+| +0,67
 |bgcolor=#EEFFFF|25
-|bgcolor=#EEFFFF|3,93
+|bgcolor=#EEFFFF|4,60
 |bgcolor=#EEFFFF|6
 |6
 | -
@@ -618,21 +687,52 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 20. Die endg�
 |3
 |-align=center
 !<span style=color:red>↓</span>
-!24
+!23
 |22
 |35
 |12
 |align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/SVN.gif '''[[Slowenien]]'''
 |5
+|5
 |bgcolor=#EEFFFF|1
 |bgcolor=#EEFFFF|4
-!0,0
+|4
+!2,5
+| +2,5
 |3,64
 |4,57
-|0,00
-!8,21
-|bgcolor=#EEFFFF|21
-|bgcolor=#EEFFFF|4,57
+|0,50
+!8,71
+| +0,50
+|bgcolor=#EEFFFF|19
+|bgcolor=#EEFFFF|5,07
+|bgcolor=#EEFFFF|6
+|6
+| -
+|1
+|2
+|3
+|-align=center
+!
+!24
+|24
+|23
+|25
+|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/GEO.gif '''Georgien'''
+|6
+|6
+|bgcolor=#EEFFFF|1
+|bgcolor=#EEFFFF|5
+|4
+!3,0
+| +3,0
+|4,58
+|3,58
+|0,50
+!8,66
+| +0,50
+|bgcolor=#EEFFFF|29
+|bgcolor=#EEFFFF|4,08
 |bgcolor=#EEFFFF|6
 |6
 | -
@@ -642,44 +742,25 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 20. Die endg�
 |-align=center
 !<span style=color:red>↓</span>
 !25
-|24
-|23
-|25
-|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/GEO.gif '''Georgien'''
+|7
 |6
-|bgcolor=#EEFFFF|1
-|bgcolor=#EEFFFF|5
-!0,0
-|4,58
-|3,58
-|0,00
-!8,16
-|bgcolor=#EEFFFF|32
-|bgcolor=#EEFFFF|3,58
-|bgcolor=#EEFFFF|6
-|6
-| -
 |1
-|2
-|3
-|-align=center
-!
-!26
-|26
-|18
-|14
-|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/NOR.gif '''[[Norwegen]]'''
-|6
-|bgcolor=#EEFFFF|1
+|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/GER.gif '''Deutschland'''
+|8
+|8
+|bgcolor=#EEFFFF|3
 |bgcolor=#EEFFFF|5
-!0,0
-|4,00
-|3,79
-|0,00
-!7,79
-|bgcolor=#EEFFFF|27
-|bgcolor=#EEFFFF|3,79
-|bgcolor=#EEFFFF|6
+|4
+!1,5
+| +0,5
+|2,94
+|5,50
+|0,19
+!8,63
+| +0,06
+|bgcolor=#EEFFFF|13
+|bgcolor=#EEFFFF|5,69
+|bgcolor=#EEFFFF|7
 |6
 | -
 |1
@@ -687,22 +768,53 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 20. Die endg�
 |3
 |-align=center
 !<span style=color:green>↑</span>
-!27
+!26
 |32
 |20
 |16
 |align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/KAZ.gif '''Kasachstan'''
 |6
+|6
 |bgcolor=#EEFFFF|1
 |bgcolor=#EEFFFF|5
-!0,0
+|4
+!2,0
+| +2,0
 |4,25
 |3,43
-|0,00
-!7,68
+|0,33
+!8,01
+| +0,33
 |bgcolor=#EEFFFF|34
-|bgcolor=#EEFFFF|3,43
+|bgcolor=#EEFFFF|3,76
 |bgcolor=#EEFFFF|5
+|6
+| -
+|1
+|2
+|3
+|-align=center
+!<span style=color:red>↓</span>
+!27
+|26
+|18
+|14
+|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/NOR.gif '''[[Norwegen]]'''
+|6
+|6
+|bgcolor=#EEFFFF|1
+|bgcolor=#EEFFFF|5
+|3
+!1,0
+| +1,0
+|4,00
+|3,79
+|0,17
+!7,96
+| +0,17
+|bgcolor=#EEFFFF|30
+|bgcolor=#EEFFFF|3,96
+|bgcolor=#EEFFFF|6
 |6
 | -
 |1
@@ -716,15 +828,19 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 20. Die endg�
 |4
 |align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/DEN.gif '''[[Dänemark]]'''
 |7
+|7
 |bgcolor=#EEFFFF|3
 |bgcolor=#EEFFFF|4
-!1,0
+|4
+!4,0
+| +3,0
 |4,94
 |2,38
-|0,14
-!7,46
+|0,57
+!7,89
+| +0,43
 |bgcolor=#EEFFFF|37
-|bgcolor=#EEFFFF|2,52
+|bgcolor=#EEFFFF|2,95
 |bgcolor=#EEFFFF|6
 |6
 | -
@@ -732,22 +848,53 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 20. Die endg�
 |2
 |3
 |-align=center style="border-top:2px solid grey"
-!<span style=color:red>↓</span>
+!<span style=color:green>↑</span>
 !29
+|34
+|44
+|26
+|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/CYP.gif '''[[Zypern]]'''
+|4
+|4
+|bgcolor=#EEFFFF|1
+|bgcolor=#EEFFFF|3
+|3
+!2,0
+| +2,0
+|3,29
+|3,67
+|0,50
+!7,46
+| +0,50
+|bgcolor=#EEFFFF|28
+|bgcolor=#EEFFFF|4,17
+|bgcolor=#EEFFFF|5
+|6
+| -
+|1
+|1
+|4
+|-align=center
+!<span style=color:red>↓</span>
+!30
 |17
 |11
 |23
 |align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/MDA.gif '''[[Moldawien]]'''
 |7
+|7
 |bgcolor=#EEFFFF|2
 |bgcolor=#EEFFFF|5
-!1,0
+|3
+!1,5
+| +0,5
 |3,67
 |3,33
-|0,14
-!7,14
-|bgcolor=#EEFFFF|33
-|bgcolor=#EEFFFF|3,47
+|0,21
+!7,21
+| +0,07
+|bgcolor=#EEFFFF|36
+|bgcolor=#EEFFFF|3,54
 |bgcolor=#EEFFFF|7
 |6
 | -
@@ -756,44 +903,25 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 20. Die endg�
 |4
 |-align=center
 !<span style=color:green>↑</span>
-!30
-|34
-|44
-|26
-|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/CYP.gif '''[[Zypern]]'''
-|4
-|bgcolor=#EEFFFF|1
-|bgcolor=#EEFFFF|3
-!0,0
-|3,29
-|3,67
-|0,00
-!6,96
-|bgcolor=#EEFFFF|29
-|bgcolor=#EEFFFF|3,67
-|bgcolor=#EEFFFF|5
-|6
-| -
-|1
-|1
-|4
-|-align=center
-!<span style=color:green>↑</span>
 !31
-|39
-|45
-|33
-|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/NIR.gif '''Nordirland'''
-|4
+|40
+|26
+|43
+|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/ARM.gif '''[[Armenien]]'''
+|6
+|6
 |bgcolor=#EEFFFF|1
-|bgcolor=#EEFFFF|3
-!0,0
-|1,88
+|bgcolor=#EEFFFF|5
+|4
+!2,0
+| +2,0
 |5,00
-|0,00
-!6,88
-|bgcolor=#EEFFFF|17
-|bgcolor=#EEFFFF|5,00
+|1,75
+|0,33
+!7,08
+| +0,33
+|bgcolor=#EEFFFF|43
+|bgcolor=#EEFFFF|2,08
 |bgcolor=#EEFFFF|5
 |6
 | -
@@ -803,20 +931,24 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 20. Die endg�
 |-align=center style="border-top:2px solid black"
 !<span style=color:green>↑</span>
 !32
-|40
-|26
-|43
-|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/ARM.gif '''[[Armenien]]'''
-|6
+|33
+|42
+|35
+|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/ISR.gif '''Israel'''
+|4
+|4
 |bgcolor=#EEFFFF|1
-|bgcolor=#EEFFFF|5
-!0,0
-|5,00
-|1,75
-|0,00
-!6,75
-|bgcolor=#EEFFFF|42
-|bgcolor=#EEFFFF|1,75
+|bgcolor=#EEFFFF|3
+|3
+!2,0
+| +2,0
+|2,70
+|3,70
+|0,50
+!6,90
+| +0,50
+|bgcolor=#EEFFFF|27
+|bgcolor=#EEFFFF|4,20
 |bgcolor=#EEFFFF|5
 |5
 | -
@@ -826,44 +958,52 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 20. Die endg�
 |-align=center
 !<span style=color:green>↑</span>
 !33
-|42
 |39
-|46
-|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/SCO.gif '''[[Schottland]]'''
-|5
+|45
+|33
+|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/NIR.gif '''Nordirland'''
+|4
+|4
 |bgcolor=#EEFFFF|1
-|bgcolor=#EEFFFF|4
+|bgcolor=#EEFFFF|3
+|3
 !0,0
-|5,92
-|0,63
+| +0,0
+|1,88
+|5,00
 |0,00
-!6,55
-|bgcolor=#EEFFFF|52
-|bgcolor=#EEFFFF|0,63
-|bgcolor=#EEFFFF|4
+!6,88
+| +0,00
+|bgcolor=#EEFFFF|20
+|bgcolor=#EEFFFF|5,00
+|bgcolor=#EEFFFF|5
 |5
 | -
 |1
 |1
 |3
 |-align=center
-!<span style=color:red>↓</span>
+!<span style=color:green>↑</span>
 !34
-|33
 |42
-|35
-|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/ISR.gif '''Israel'''
-|4
+|39
+|46
+|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/SCO.gif '''[[Schottland]]'''
+|5
+|5
 |bgcolor=#EEFFFF|1
-|bgcolor=#EEFFFF|3
-!0,0
-|2,70
-|3,70
-|0,00
-!6,40
-|bgcolor=#EEFFFF|28
-|bgcolor=#EEFFFF|3,70
-|bgcolor=#EEFFFF|5
+|bgcolor=#EEFFFF|4
+|4
+!0,5
+| +0,5
+|5,92
+|0,63
+|0,10
+!6,65
+| +0,10
+|bgcolor=#EEFFFF|52
+|bgcolor=#EEFFFF|0,73
+|bgcolor=#EEFFFF|4
 |5
 | -
 |1
@@ -877,15 +1017,19 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 20. Die endg�
 |8
 |align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/POL.gif '''[[Polen]]'''
 |7
+|7
 |bgcolor=#EEFFFF|1
 |bgcolor=#EEFFFF|6
-!0,0
+|3
+!2,0
+| +2,0
 |2,64
 |3,64
-|0,00
-!6,28
-|bgcolor=#EEFFFF|30
-|bgcolor=#EEFFFF|3,64
+|0,29
+!6,57
+| +0,29
+|bgcolor=#EEFFFF|31
+|bgcolor=#EEFFFF|3,93
 |bgcolor=#EEFFFF|6
 |5
 | -
@@ -900,15 +1044,19 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 20. Die endg�
 |45
 |align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/AND.gif '''[[Andorra]]'''
 |4
+|4
 |bgcolor=#EEFFFF|1
 |bgcolor=#EEFFFF|3
-!0,0
+|3
+!1,0
+| +1,0
 |2,25
 |3,63
-|0,00
-!5,88
-|bgcolor=#EEFFFF|31
-|bgcolor=#EEFFFF|3,63
+|0,25
+!6,13
+| +0,25
+|bgcolor=#EEFFFF|32
+|bgcolor=#EEFFFF|3,88
 |bgcolor=#EEFFFF|4
 |5
 | -
@@ -923,15 +1071,19 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 20. Die endg�
 |50
 |align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/MLT.gif '''[[Malta]]'''
 |5
+|5
 |bgcolor=#EEFFFF|1
 |bgcolor=#EEFFFF|4
-!0,0
+|4
+!1,0
+| +1,0
 |4,60
 |1,17
-|0,00
-!5,77
-|bgcolor=#EEFFFF|48
-|bgcolor=#EEFFFF|1,17
+|0,20
+!5,97
+| +0,20
+|bgcolor=#EEFFFF|49
+|bgcolor=#EEFFFF|1,37
 |bgcolor=#EEFFFF|4
 |5
 | -
@@ -946,15 +1098,19 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 20. Die endg�
 |20
 |align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/MKD.gif '''[[Mazedonien]]'''
 |7
+|7
 |bgcolor=#EEFFFF|2
 |bgcolor=#EEFFFF|5
-!1,0
+|3
+!2,0
+| +1,0
 |3,40
 |2,14
-|0,14
-!5,68
-|bgcolor=#EEFFFF|39
-|bgcolor=#EEFFFF|2,28
+|0,29
+!5,83
+| +0,14
+|bgcolor=#EEFFFF|40
+|bgcolor=#EEFFFF|2,43
 |bgcolor=#EEFFFF|6
 |5
 | -
@@ -969,15 +1125,19 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 20. Die endg�
 |35
 |align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/BEL.gif '''[[Belgien]]'''
 |4
+|4
 |bgcolor=#EEFFFF|1
 |bgcolor=#EEFFFF|3
-!0,0
+|3
+!1,5
+| +1,5
 |1,50
 |3,90
-|0,00
-!5,40
+|0,38
+!5,78
+| +0,38
 |bgcolor=#EEFFFF|26
-|bgcolor=#EEFFFF|3,90
+|bgcolor=#EEFFFF|4,28
 |bgcolor=#EEFFFF|4
 |5
 | -
@@ -987,43 +1147,51 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 20. Die endg�
 |-align=center
 !<span style=color:red>↓</span>
 !40
-|37
-|27
-|11
-|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/RUS.gif '''Russland'''
-|6
+|30
+|36
+|21
+|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/SWE.gif '''[[Schweden]]'''
+|5
+|5
 |bgcolor=#EEFFFF|1
-|bgcolor=#EEFFFF|5
-!0,0
-|2,00
-|3,36
-|0,00
-!5,36
-|bgcolor=#EEFFFF|35
-|bgcolor=#EEFFFF|3,36
-|bgcolor=#EEFFFF|5
+|bgcolor=#EEFFFF|4
+|4
+!3,5
+| +3,5
+|0,75
+|4,17
+|0,70
+!5,62
+| +0,70
+|bgcolor=#EEFFFF|22
+|bgcolor=#EEFFFF|4,87
+|bgcolor=#EEFFFF|6
 |5
 | -
 |1
 |1
 |3
 |-align=center
-!
+!<span style=color:red>↓</span>
 !41
-|41
-|43
-|38
-|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/BUL.gif '''[[Bulgarien]]'''
-|4
+|37
+|27
+|11
+|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/RUS.gif '''Russland'''
+|6
+|6
 |bgcolor=#EEFFFF|1
-|bgcolor=#EEFFFF|3
-!0,0
-|2,75
-|2,30
-|0,00
-!5,05
-|bgcolor=#EEFFFF|38
-|bgcolor=#EEFFFF|2,30
+|bgcolor=#EEFFFF|5
+|4
+!1,5
+| +1,5
+|2,00
+|3,36
+|0,25
+!5,61
+| +0,25
+|bgcolor=#EEFFFF|35
+|bgcolor=#EEFFFF|3,61
 |bgcolor=#EEFFFF|5
 |5
 | -
@@ -1033,21 +1201,25 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 20. Die endg�
 |-align=center style="border-top:2px solid black"
 !<span style=color:red>↓</span>
 !42
+|35
 |30
-|36
-|21
-|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/SWE.gif '''[[Schweden]]'''
-|5
+|40
+|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/TUR.gif '''Türkei'''
+|7
+|7
 |bgcolor=#EEFFFF|1
-|bgcolor=#EEFFFF|4
-!0,0
-|0,75
-|4,17
-|0,00
-!4,92
-|bgcolor=#EEFFFF|24
-|bgcolor=#EEFFFF|4,17
 |bgcolor=#EEFFFF|6
+|6
+!3,0
+| +3,0
+|3,67
+|1,25
+|0,43
+!5,35
+| +0,43
+|bgcolor=#EEFFFF|46
+|bgcolor=#EEFFFF|1,68
+|bgcolor=#EEFFFF|5
 |4
 | -
 |1
@@ -1055,21 +1227,25 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 20. Die endg�
 |2
 |-align=center
 !<span style=color:red>↓</span>
-!42
-|35
-|30
-|40
-|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/TUR.gif '''Türkei'''
-|7
+!43
+|41
+|43
+|38
+|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/BUL.gif '''[[Bulgarien]]'''
+|4
+|4
 |bgcolor=#EEFFFF|1
-|bgcolor=#EEFFFF|6
-!0,0
-|3,67
-|1,25
-|0,00
-!4,92
-|bgcolor=#EEFFFF|47
-|bgcolor=#EEFFFF|1,25
+|bgcolor=#EEFFFF|3
+|3
+!1,0
+| +1,0
+|2,75
+|2,30
+|0,25
+!5,30
+| +0,25
+|bgcolor=#EEFFFF|38
+|bgcolor=#EEFFFF|2,55
 |bgcolor=#EEFFFF|5
 |4
 | -
@@ -1084,38 +1260,19 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 20. Die endg�
 |28
 |align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/SUI.gif '''[[Schweiz]]'''
 |5
+|5
 |bgcolor=#EEFFFF|1
 |bgcolor=#EEFFFF|4
-!0,0
+|4
+!1,0
+| +1,0
 |3,10
 |1,33
-|0,00
-!4,43
-|bgcolor=#EEFFFF|45
-|bgcolor=#EEFFFF|1,33
-|bgcolor=#EEFFFF|5
-|4
-| -
-|1
-|1
-|2
-|-align=center
-!<span style=color:red>↓</span>
-!45
-|38
-|28
-|18
-|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/ISL.gif '''[[Island]]'''
-|6
-|bgcolor=#EEFFFF|1
-|bgcolor=#EEFFFF|5
-!0,0
-|3,33
-|0,92
-|0,00
-!4,25
-|bgcolor=#EEFFFF|51
-|bgcolor=#EEFFFF|0,92
+|0,20
+!4,63
+| +0,20
+|bgcolor=#EEFFFF|47
+|bgcolor=#EEFFFF|1,53
 |bgcolor=#EEFFFF|5
 |4
 | -
@@ -1124,20 +1281,51 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 20. Die endg�
 |2
 |-align=center
 !<span style=color:green>↑</span>
-!46
+!45
 |47
 |46
 |48
 |align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/SMR.gif '''San Marino'''
 |4
+|4
 |bgcolor=#EEFFFF|1
 |bgcolor=#EEFFFF|3
-!0,0
+|3
+!1,0
+| +1,0
 |1,83
 |2,25
-|0,00
-!4,08
-|bgcolor=#EEFFFF|40
+|0,25
+!4,33
+| +0,25
+|bgcolor=#EEFFFF|39
+|bgcolor=#EEFFFF|2,50
+|bgcolor=#EEFFFF|4
+|4
+| -
+|1
+|1
+|2
+|-align=center
+!<span style=color:red>↓</span>
+!46
+|45
+|37
+|42
+|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/FIN.gif '''[[Finnland]]'''
+|5
+|5
+|bgcolor=#EEFFFF|1
+|bgcolor=#EEFFFF|4
+|4
+!2,5
+| +2,5
+|2,00
+|1,75
+|0,50
+!4,25
+| +0,50
+|bgcolor=#EEFFFF|41
 |bgcolor=#EEFFFF|2,25
 |bgcolor=#EEFFFF|4
 |4
@@ -1147,22 +1335,26 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 20. Die endg�
 |2
 |-align=center
 !<span style=color:red>↓</span>
-!47
-|45
-|37
-|42
-|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/FIN.gif '''[[Finnland]]'''
-|5
+!46
+|38
+|28
+|18
+|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/ISL.gif '''[[Island]]'''
+|6
+|6
 |bgcolor=#EEFFFF|1
-|bgcolor=#EEFFFF|4
+|bgcolor=#EEFFFF|5
+|4
 !0,0
-|2,00
-|1,75
+| +0,0
+|3,33
+|0,92
 |0,00
-!3,75
-|bgcolor=#EEFFFF|42
-|bgcolor=#EEFFFF|1,75
-|bgcolor=#EEFFFF|4
+!4,25
+| +0,00
+|bgcolor=#EEFFFF|51
+|bgcolor=#EEFFFF|0,92
+|bgcolor=#EEFFFF|5
 |4
 | -
 |1
@@ -1176,15 +1368,19 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 20. Die endg�
 |49
 |align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/CZE.gif '''Tschechien'''
 |3
+|3
 |bgcolor=#EEFFFF|1
 |bgcolor=#EEFFFF|2
-!0,0
+|2
+!1,0
+| +1,0
 |2,38
 |1,00
-|0,00
-!3,38
+|0,33
+!3,71
+| +0,33
 |bgcolor=#EEFFFF|50
-|bgcolor=#EEFFFF|1,00
+|bgcolor=#EEFFFF|1,33
 |bgcolor=#EEFFFF|3
 |4
 | -
@@ -1199,15 +1395,19 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 20. Die endg�
 |41
 |align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/EST.gif '''Estland'''
 |3
+|3
 |bgcolor=#EEFFFF|1
 |bgcolor=#EEFFFF|2
-!0,0
+|2
+!0,5
+| +0,5
 |1,80
 |1,30
-|0,00
-!3,10
-|bgcolor=#EEFFFF|46
-|bgcolor=#EEFFFF|1,30
+|0,17
+!3,27
+| +0,17
+|bgcolor=#EEFFFF|48
+|bgcolor=#EEFFFF|1,47
 |bgcolor=#EEFFFF|3
 |3
 | -
@@ -1217,21 +1417,25 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 20. Die endg�
 |-align=center
 !<span style=color:red>↓</span>
 !50
-|48
-|52
-|51
-|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/UKR.gif '''[[Ukraine]]'''
+|49
+|40
+|30
+|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/ALB.gif '''Albanien'''
+|5
+|5
+|bgcolor=#EEFFFF|1
+|bgcolor=#EEFFFF|4
 |4
-|bgcolor=#EEFFFF| -
-|bgcolor=#EEFFFF|4
-!0,0
-|0,67
-|2,00
-|0,00
-!2,67
-|bgcolor=#EEFFFF|41
-|bgcolor=#EEFFFF|2,00
-|bgcolor=#EEFFFF|4
+!3,0
+| +3,0
+|1,30
+|1,17
+|0,60
+!3,07
+| +0,60
+|bgcolor=#EEFFFF|45
+|bgcolor=#EEFFFF|1,77
+|bgcolor=#EEFFFF|3
 |3
 | -
 |1
@@ -1240,21 +1444,25 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 20. Die endg�
 |-align=center
 !<span style=color:red>↓</span>
 !51
-|49
-|40
-|30
-|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/ALB.gif '''Albanien'''
-|5
-|bgcolor=#EEFFFF|1
+|48
+|52
+|51
+|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/UKR.gif '''[[Ukraine]]'''
+|4
+|4
+|bgcolor=#EEFFFF| -
 |bgcolor=#EEFFFF|4
-!0,0
-|1,30
-|1,17
-|0,00
-!2,47
-|bgcolor=#EEFFFF|48
-|bgcolor=#EEFFFF|1,17
-|bgcolor=#EEFFFF|3
+|2
+!0,5
+| +0,5
+|0,67
+|2,00
+|0,13
+!2,80
+| +0,13
+|bgcolor=#EEFFFF|42
+|bgcolor=#EEFFFF|2,13
+|bgcolor=#EEFFFF|4
 |3
 | -
 |1
@@ -1268,15 +1476,19 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 20. Die endg�
 |47
 |align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/LVA.gif '''[[Lettland]]'''
 |3
+|3
 |bgcolor=#EEFFFF|1
 |bgcolor=#EEFFFF|2
-!0,0
+|2
+!0,5
+| +0,5
 |0,67
 |1,75
-|0,00
-!2,42
-|bgcolor=#EEFFFF|42
-|bgcolor=#EEFFFF|1,75
+|0,17
+!2,59
+| +0,17
+|bgcolor=#EEFFFF|44
+|bgcolor=#EEFFFF|1,92
 |bgcolor=#EEFFFF|3
 |3
 | -
