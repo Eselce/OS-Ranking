@@ -1,10 +1,10 @@
 [[Kategorie:Wertungen]]
 {| style="background-color:#F9F9F9; font-family:verdana; font-size: 12px; float: right; margin:3px 3px 3px 10px; border:1px solid #999; border-color: #000000; border-collapse:collapse;" cellpadding=4 cellspacing=0
-|- bgcolor="#F9F9F9" 
+|- bgcolor="#F9F9F9"
 | ← <small>[[OS-Ranking Punkte Saison 2]]</small>
 | align="right" | <small>[[OS-Ranking Punkte Saison 4]]</small> →
 |-
-| colspan="2" style="padding:0.3em; background-color:#DEDEDE; font-size: 18px" align=center| '''OS-Ranking Punkte Saison 3'''
+| colspan="2" style="padding:0.3em; background-color:#DEDEDE; font-size: 18px" align=center | '''OS-Ranking Punkte Saison 3'''
 |- bgcolor="#F9F9F9"
 | '''Int. Vereine'''
 | 465
@@ -13,7 +13,7 @@
 | 21.09.2010 - 24.05.2011
 |- bgcolor="#F9F9F9"
 | '''OSC-Sieger'''
-| http://os.ongapo.com/images/flaggen/BIH.gif Sava Srbac
+| http://os.ongapo.com/images/flaggen/BIH.gif [[Sava Srbac]]
 |- bgcolor="#F9F9F9"
 | '''OSE-Sieger'''
 | http://os.ongapo.com/images/flaggen/ITA.gif SC Cesena
@@ -22,7 +22,7 @@
 | [[OS-Ranking Saison 3]]
 |- bgcolor="#F9F9F9"
 | '''Vereine'''
-| [[OS-Ranking Vereine Saison 3]]
+| [[OS-Ranking Vereine Saison 3|Ranking Vereine Saison 3]]
 |}
 
 Das '''OS-Ranking''' - auch '''Dreijahreswertung''' genannt - ist eine Rangliste, nach der den einzelnen Ligaverbänden Startplätze für die [[Spielregeln_II._Wettbewerbe#b.29_internationale_Wettbewerbe|internationalen Pokalwettbewerbe]] zugewiesen werden.
@@ -34,27 +34,38 @@ Im Forum kann über die [http://os.ongapo.com/forum/index.php?page=Thread&thread
 ==== Offizielles OS-Ranking ====
 ----
 
+Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 5.
+
+<big>'''↳'''</big> [https://os.ongapo.com/forum/index.php?page=Thread&postID=436924#post436924 '''Zum offiziellen Saison-Ranking für Saison 3''' (Offizielle Saisonwertung vom 28. Mai 2011)]
+----
+
+Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 5.
+
+<big>'''↳'''</big> [https://os.ongapo.com/forum/index.php?page=Thread&postID=443366#post443366 '''Zum offiziellen OS-Ranking nach Saison 3''' (Offizielle 3-Jahreswertung vom 11. Juni 2011)]
+
 ==== Abschließende Wertung Saison 3 (inoffiziell) ====
 ----
 
-Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bisheringen Saisons. Die endgültige Festlegung erfolgt durch die Spielleitung nach Saisonende.
+Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bisherigen Saisons. Die endgültige Festlegung erfolgt durch die Spielleitung nach Saisonende.
 
-<span style=color:red>'''Stand nach ZAT 71'''</span> (Saisonfinale)
+<span style=color:red>'''Stand nach ZAT 71 (OSC Finale / OSE Finale)'''</span>
+
+<span>Saisonfinale</span>
 
 {|class="wikitable sortable" style=font-family:verdana;font-size:10px
 |-
 !class=unsortable|↕
-!Platz
-!style=width:4em|[[OS-Ranking Punkte Saison 2|Platz<br>S2]]
-!style=width:4em|[[OS-Ranking Punkte halbe Saison 2|Platz<br>H2]]
+!Platz<br/>
+!class=unsortable|[[OS-Ranking Punkte Saison 2|S.2<br/>]]
+!class=unsortable|[[OS-Ranking Punkte halbe Saison 2|H2<br/>]]
 !Land
 !Verein
-!data-sort-type=text|aktiv
-!#
-!Punkte<br>S2
-!Punkte<br>S3
-!Punkte<br>Summe
-!Anteil<br>Land
+!data-sort-type=text|aktiv<br/>
+!Teiln.<br/>
+!S.2<br/>
+!S.3<br/>
+!Summe<br/>
+!Anteil<br/>Land
 |-align=center
 !<span style=color:green>↑</span>
 !1
@@ -62,10 +73,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |49
 |align=left|http://os.ongapo.com/images/flaggen/BIH.gif '''BIH'''
 |align=left|'''[[Sava Srbac]]'''
-|<span style=color:red>OSC</span>
+|<span style=color:brown title="OSC Sieger (OSCQ)">''OSC''</span>
 |2
-|<span style=color:green>18,0</span>
-|<span style=color:red>37,5</span>
+|<span style=color:navy title="OSE Halbfinale (OSE) 18,0">18,0</span>
+|<span style=color:brown title="OSC Sieger (OSCQ) 37,5">''37,5''</span>
 !55,5
 |66%
 |-align=center style="border-top:2px solid grey"
@@ -75,10 +86,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |3
 |align=left|http://os.ongapo.com/images/flaggen/NIR.gif '''NIR'''
 |align=left|'''[[Crumlin City]]'''
-|raus
+|<span title="OSC Viertelfinale (OSC)">raus</span>
 |2
-|<span style=color:red>32,5</span>
-|<span style=color:red>21,0</span>
+|<span style=color:brown title="OSC Sieger (OSCQ) 32,5">''32,5''</span>
+|<span style=color:brown title="OSC Viertelfinale (OSC) 21,0 raus">21,0</span>
 !53,5
 |38%
 |-align=center style="border-top:2px solid grey"
@@ -88,10 +99,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |2
 |align=left|http://os.ongapo.com/images/flaggen/DEN.gif '''DEN'''
 |align=left|'''[[Farum IF]]'''
-|raus
+|<span title="OSC Finale (OSCQ)">raus</span>
 |2
-|<span style=color:red>18,0</span>
-|<span style=color:red>34,5</span>
+|<span style=color:red title="OSC-ZR (OSCQ) 18,0">''18,0''</span>
+|<span style=color:brown title="OSC Finale (OSCQ) 34,5 raus">''34,5''</span>
 !52,5
 |58%
 |-align=center style="border-top:2px solid grey"
@@ -101,10 +112,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |1
 |align=left|http://os.ongapo.com/images/flaggen/AZE.gif '''AZE'''
 |align=left|'''[[SC Gusari]]'''
-|raus
+|<span title="OSC Halbfinale (OSC)">raus</span>
 |2
-|<span style=color:red>31,0</span>
-|<span style=color:red>20,0</span>
+|<span style=color:brown title="OSC Halbfinale (OSCQ) 31,0">''31,0''</span>
+|<span style=color:brown title="OSC Halbfinale (OSC) 20,0 raus">20,0</span>
 !51,0
 |52%
 |-align=center style="border-top:2px solid grey"
@@ -114,10 +125,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |5
 |align=left|http://os.ongapo.com/images/flaggen/NED.gif '''NED'''
 |align=left|'''[[SC Vaals]]'''
-|raus
+|<span title="OSE Runde 4 (OSE)">raus</span>
 |2
-|<span style=color:red>25,5</span>
-|<span style=color:green>13,0</span>
+|<span style=color:brown title="OSC Viertelfinale (OSCQ) 25,5">''25,5''</span>
+|<span style=color:darkgreen title="OSE Runde 4 (OSE) 13,0 raus">13,0</span>
 !38,5
 |52%
 |-align=center style="border-top:2px solid grey"
@@ -127,10 +138,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |35
 |align=left|http://os.ongapo.com/images/flaggen/SCG.gif '''SCG'''
 |align=left|'''[[Spartak Belgrad]]'''
-|raus
+|<span title="OSE Runde 4 (OSE)">raus</span>
 |2
-|<span style=color:green>24,0</span>
-|<span style=color:green>11,0</span>
+|<span style=color:navy title="OSE Halbfinale (OSEQ) 24,0">''24,0''</span>
+|<span style=color:darkgreen title="OSE Runde 4 (OSE) 11,0 raus">11,0</span>
 !35,0
 |47%
 |-align=center style="border-top:2px solid grey"
@@ -140,10 +151,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |7
 |align=left|http://os.ongapo.com/images/flaggen/SWE.gif '''SWE'''
 |align=left|'''[[Mjällby BK]]'''
-|raus
+|<span title="OSE Runde 3 (OSCQ)">raus</span>
 |2
-|<span style=color:red>28,5</span>
-|<span style=color:green>2,5</span>
+|<span style=color:brown title="OSC Finale (OSCQ) 28,5">''28,5''</span>
+|<span style=color:blue title="OSE Runde 3 (OSCQ) 2,5 raus">''2,5''</span>
 !31,0
 |56%
 |-align=center style="border-top:2px solid grey"
@@ -153,10 +164,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |166
 |align=left|http://os.ongapo.com/images/flaggen/LTU.gif '''LTU'''
 |align=left|'''[[Kran Panevezys]]'''
-|raus
+|<span title="OSC Halbfinale (OSCQ)">raus</span>
 |2
-|<span style=color:green>1,5</span>
-|<span style=color:red>26,5</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 1,5">''1,5''</span>
+|<span style=color:brown title="OSC Halbfinale (OSCQ) 26,5 raus">''26,5''</span>
 !28,0
 |57%
 |-align=center style="border-top:2px solid grey"
@@ -166,10 +177,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |6
 |align=left|http://os.ongapo.com/images/flaggen/MLT.gif '''MLT'''
 |align=left|'''[[Xghajra Athletics]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |2
-|<span style=color:red>26,0</span>
-|<span style=color:green>1,0</span>
+|<span style=color:brown title="OSC Viertelfinale (OSCQ) 26,0">''26,0''</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 1,0 raus">''1,0''</span>
 !27,0
 |32%
 |-align=center style="border-top:2px solid grey"
@@ -179,10 +190,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |122
 |align=left|http://os.ongapo.com/images/flaggen/DEN.gif '''DEN'''
 |align=left|'''[[Holbaek BK]]'''
-|raus
+|<span title="OSE Runde 2 (OSE)">raus</span>
 |2
-|<span style=color:green>22,5</span>
-|<span style=color:green>4,0</span>
+|<span style=color:darkmagenta title="OSE Sieger (OSCQ) 22,5">''22,5''</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 4,0 raus">4,0</span>
 !26,5
 |29%
 |-align=center
@@ -192,10 +203,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/ITA.gif '''ITA'''
 |align=left|'''[[SC Cesena]]'''
-|<span style=color:green>OSE</span>
+|<span style=color:darkmagenta title="OSE Sieger (OSCQ)">''OSE''</span>
 |1
 | -
-|<span style=color:green>26,5</span>
+|<span style=color:darkmagenta title="OSE Sieger (OSCQ) 26,5">''26,5''</span>
 !26,5
 |21%
 |-align=center style="border-top:2px solid grey"
@@ -205,10 +216,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |49
 |align=left|http://os.ongapo.com/images/flaggen/NIR.gif '''NIR'''
 |align=left|'''[[FC Newry Druids]]'''
-|raus
+|<span title="OSC-ZR (OSC)">raus</span>
 |2
-|<span style=color:green>10,0</span>
-|<span style=color:red>16,0</span>
+|<span style=color:darkgreen title="OSE Runde 4 (OSE) 10,0">10,0</span>
+|<span style=color:red title="OSC-ZR (OSC) 16,0 raus">16,0</span>
 !26,0
 |18%
 |-align=center style="border-top:2px solid grey"
@@ -220,7 +231,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Sheffield Owls]]'''
 | -
 |1
-|<span style=color:red>25,5</span>
+|<span style=color:brown title="OSC Halbfinale (OSCQ) 25,5">''25,5''</span>
 | -
 !25,5
 |23%
@@ -231,10 +242,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/FRA.gif '''FRA'''
 |align=left|'''[[Bastia Unité]]'''
-|raus
+|<span title="OSE Halbfinale (OSE)">raus</span>
 |1
 | -
-|<span style=color:green>25,0</span>
+|<span style=color:navy title="OSE Halbfinale (OSE) 25,0 raus">25,0</span>
 !25,0
 |31%
 |-align=center style="border-top:2px solid grey"
@@ -246,7 +257,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[CF Mons Lézard]]'''
 | -
 |1
-|<span style=color:red>24,0</span>
+|<span style=color:brown title="OSC Viertelfinale (OSCQ) 24,0">''24,0''</span>
 | -
 !24,0
 |27%
@@ -257,10 +268,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |8
 |align=left|http://os.ongapo.com/images/flaggen/LUX.gif '''LUX'''
 |align=left|'''[[CS Berbourg]]'''
-|raus
+|<span title="OSE Runde 2 (OSE)">raus</span>
 |2
-|<span style=color:red>19,0</span>
-|<span style=color:green>5,0</span>
+|<span style=color:brown title="OSC Viertelfinale (OSC) 19,0">19,0</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 5,0 raus">5,0</span>
 !24,0
 |48%
 |-align=center style="border-top:2px solid grey"
@@ -270,10 +281,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/ITA.gif '''ITA'''
 |align=left|'''[[SC Pordenone]]'''
-|raus
+|<span title="OSC Viertelfinale (OSC)">raus</span>
 |1
 | -
-|<span style=color:red>22,0</span>
+|<span style=color:brown title="OSC Viertelfinale (OSC) 22,0 raus">22,0</span>
 !22,0
 |18%
 |-align=center style="border-top:2px solid grey"
@@ -283,10 +294,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/UKR.gif '''UKR'''
 |align=left|'''[[Metalan Saporoschje]]'''
-|raus
+|<span title="OSC Viertelfinale (OSCQ)">raus</span>
 |1
 | -
-|<span style=color:red>21,5</span>
+|<span style=color:brown title="OSC Viertelfinale (OSCQ) 21,5 raus">''21,5''</span>
 !21,5
 |49%
 |-align=center style="border-top:2px solid grey"
@@ -298,7 +309,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[FC Vecchio Torino]]'''
 | -
 |1
-|<span style=color:green>21,0</span>
+|<span style=color:navy title="OSE Finale (OSE) 21,0">21,0</span>
 | -
 !21,0
 |17%
@@ -309,10 +320,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |178
 |align=left|http://os.ongapo.com/images/flaggen/GRE.gif '''GRE'''
 |align=left|'''[[Aris Peristeri]]'''
-|raus
+|<span title="OSC Viertelfinale (OSCQ)">raus</span>
 |2
-|<span style=color:green>1,0</span>
-|<span style=color:red>20,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 1,0">1,0</span>
+|<span style=color:brown title="OSC Viertelfinale (OSCQ) 20,0 raus">''20,0''</span>
 !21,0
 |45%
 |-align=center style="border-top:2px solid grey"
@@ -322,10 +333,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |64
 |align=left|http://os.ongapo.com/images/flaggen/EST.gif '''EST'''
 |align=left|'''[[JK Hansa Tallinn]]'''
-|raus
+|<span title="OSE Achtelfinale (OSE)">raus</span>
 |2
-|<span style=color:green>6,0</span>
-|<span style=color:green>14,0</span>
+|<span style=color:darkgreen title="OSE Runde 3 (OSE) 6,0">6,0</span>
+|<span style=color:navy title="OSE Achtelfinale (OSE) 14,0 raus">14,0</span>
 !20,0
 |51%
 |-align=center style="border-top:2px solid grey"
@@ -335,10 +346,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |35
 |align=left|http://os.ongapo.com/images/flaggen/FRA.gif '''FRA'''
 |align=left|'''[[Catolica Saint Priest]]'''
-|raus
+|<span title="OSE Viertelfinale (OSCQ)">raus</span>
 |2
-|<span style=color:red>7,0</span>
-|<span style=color:green>12,5</span>
+|<span style=color:orange title="OSC-HR (OSC) 7,0">7,0</span>
+|<span style=color:darkmagenta title="OSE Viertelfinale (OSCQ) 12,5 raus">''12,5''</span>
 !19,5
 |25%
 |-align=center
@@ -348,10 +359,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |122
 |align=left|http://os.ongapo.com/images/flaggen/CRO.gif '''CRO'''
 |align=left|'''[[Croatia Split]]'''
-|raus
+|<span title="OSE Achtelfinale (OSEQ)">raus</span>
 |2
-|<span style=color:green>4,5</span>
-|<span style=color:green>15,0</span>
+|<span style=color:blue title="OSE Runde 3 (OSCQ) 4,5">''4,5''</span>
+|<span style=color:navy title="OSE Achtelfinale (OSEQ) 15,0 raus">''15,0''</span>
 !19,5
 |34%
 |-align=center
@@ -361,10 +372,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |21
 |align=left|http://os.ongapo.com/images/flaggen/NIR.gif '''NIR'''
 |align=left|'''[[Brantwood City]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |2
-|<span style=color:green>19,5</span>
-|<span style=color:green>0,0</span>
+|<span style=color:navy title="OSE Viertelfinale (OSEQ) 19,5">''19,5''</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0 raus">0,0</span>
 !19,5
 |14%
 |-align=center style="border-top:2px solid grey"
@@ -374,10 +385,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |15
 |align=left|http://os.ongapo.com/images/flaggen/KAZ.gif '''KAZ'''
 |align=left|'''[[Kaspirskoje-More Aktau]]'''
-|raus
+|<span title="OSC-HR (OSCQ)">raus</span>
 |2
-|<span style=color:red>10,0</span>
-|<span style=color:red>9,0</span>
+|<span style=color:orange title="OSC-HR (OSCQ) 10,0">''10,0''</span>
+|<span style=color:orange title="OSC-HR (OSCQ) 9,0 raus">''9,0''</span>
 !19,0
 |48%
 |-align=center
@@ -387,10 +398,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/WAL.gif '''WAL'''
 |align=left|'''[[Port Talbot Rangers AFC]]'''
-|raus
+|<span title="OSE Finale (OSCQ)">raus</span>
 |1
 | -
-|<span style=color:green>19,0</span>
+|<span style=color:darkmagenta title="OSE Finale (OSCQ) 19,0 raus">''19,0''</span>
 !19,0
 |33%
 |-align=center style="border-top:2px solid grey"
@@ -400,10 +411,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/SCG.gif '''SCG'''
 |align=left|'''[[SK Srbija Belgrad]]'''
-|raus
+|<span title="OSC-ZR (OSCQ)">raus</span>
 |1
 | -
-|<span style=color:red>18,5</span>
+|<span style=color:red title="OSC-ZR (OSCQ) 18,5 raus">''18,5''</span>
 !18,5
 |25%
 |-align=center style="border-top:2px solid grey"
@@ -413,10 +424,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |104
 |align=left|http://os.ongapo.com/images/flaggen/NIR.gif '''NIR'''
 |align=left|'''[[Saintfield Town]]'''
-|raus
+|<span title="OSE Achtelfinale (OSE)">raus</span>
 |2
-|<span style=color:green>3,0</span>
-|<span style=color:green>15,0</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 3,0">''3,0''</span>
+|<span style=color:navy title="OSE Achtelfinale (OSE) 15,0 raus">15,0</span>
 !18,0
 |13%
 |-align=center
@@ -428,7 +439,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Inter Cailungo]]'''
 | -
 |1
-|<span style=color:green>18,0</span>
+|<span style=color:navy title="OSE Viertelfinale (OSE) 18,0">18,0</span>
 | -
 !18,0
 |32%
@@ -441,7 +452,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Benfica Amora]]'''
 | -
 |1
-|<span style=color:green>18,0</span>
+|<span style=color:navy title="OSE Viertelfinale (OSE) 18,0">18,0</span>
 | -
 !18,0
 |22%
@@ -454,7 +465,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[NK Voglajna Celje]]'''
 | -
 |1
-|<span style=color:red>17,5</span>
+|<span style=color:red title="OSC-ZR (OSCQ) 17,5">''17,5''</span>
 | -
 !17,5
 |36%
@@ -465,10 +476,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |142
 |align=left|http://os.ongapo.com/images/flaggen/ENG.gif '''ENG'''
 |align=left|'''[[Wimbledon Rovers]]'''
-|raus
+|<span title="OSE Viertelfinale (OSCQ)">raus</span>
 |2
-|<span style=color:green>2,0</span>
-|<span style=color:green>15,0</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 2,0">''2,0''</span>
+|<span style=color:darkmagenta title="OSE Viertelfinale (OSCQ) 15,0 raus">''15,0''</span>
 !17,0
 |15%
 |-align=center
@@ -480,7 +491,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Eintracht Wuppertal]]'''
 | -
 |1
-|<span style=color:red>17,0</span>
+|<span style=color:red title="OSC-ZR (OSC) 17,0">17,0</span>
 | -
 !17,0
 |19%
@@ -491,10 +502,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/ITA.gif '''ITA'''
 |align=left|'''[[FC Catania]]'''
-|raus
+|<span title="OSC-ZR (OSCQ)">raus</span>
 |1
 | -
-|<span style=color:red>17,0</span>
+|<span style=color:red title="OSC-ZR (OSCQ) 17,0 raus">''17,0''</span>
 !17,0
 |14%
 |-align=center
@@ -504,10 +515,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |64
 |align=left|http://os.ongapo.com/images/flaggen/FRA.gif '''FRA'''
 |align=left|'''[[Union Gueugnon]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |2
-|<span style=color:green>17,0</span>
-|<span style=color:green>0,0</span>
+|<span style=color:navy title="OSE Viertelfinale (OSE) 17,0">17,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0 raus">0,0</span>
 !17,0
 |21%
 |-align=center
@@ -517,10 +528,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |178
 |align=left|http://os.ongapo.com/images/flaggen/ENG.gif '''ENG'''
 |align=left|'''[[AC Kingstonian]]'''
-|raus
+|<span title="OSC-ZR (OSC)">raus</span>
 |2
-|<span style=color:green>1,0</span>
-|<span style=color:red>16,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 1,0">1,0</span>
+|<span style=color:red title="OSC-ZR (OSC) 16,0 raus">16,0</span>
 !17,0
 |15%
 |-align=center
@@ -530,10 +541,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |22
 |align=left|http://os.ongapo.com/images/flaggen/MLT.gif '''MLT'''
 |align=left|'''[[Hibernians SC]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |2
-|<span style=color:green>17,0</span>
-|<span style=color:green>0,0</span>
+|<span style=color:navy title="OSE Achtelfinale (OSE) 17,0">17,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0 raus">0,0</span>
 !17,0
 |20%
 |-align=center style="border-top:2px solid grey"
@@ -543,10 +554,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |178
 |align=left|http://os.ongapo.com/images/flaggen/MKD.gif '''MKD'''
 |align=left|'''[[Pelister Belasica]]'''
-|raus
+|<span title="OSE Halbfinale (OSCQ)">raus</span>
 |2
-|<span style=color:green>1,0</span>
-|<span style=color:green>15,5</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 1,0">''1,0''</span>
+|<span style=color:darkmagenta title="OSE Halbfinale (OSCQ) 15,5 raus">''15,5''</span>
 !16,5
 |35%
 |-align=center
@@ -556,10 +567,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |15
 |align=left|http://os.ongapo.com/images/flaggen/GER.gif '''GER'''
 |align=left|'''[[Trafo Dresden]]'''
-|raus
+|<span title="OSE Runde 2 (OSEQ)">raus</span>
 |2
-|<span style=color:red>10,0</span>
-|<span style=color:green>6,5</span>
+|<span style=color:orange title="OSC-HR (OSCQ) 10,0">''10,0''</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSEQ) 6,5 raus">''6,5''</span>
 !16,5
 |18%
 |-align=center style="border-top:2px solid grey"
@@ -569,10 +580,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |35
 |align=left|http://os.ongapo.com/images/flaggen/ISR.gif '''ISR'''
 |align=left|'''[[FC Petah-Tikva]]'''
-|raus
+|<span title="OSE Runde 3 (OSE)">raus</span>
 |2
-|<span style=color:green>9,0</span>
-|<span style=color:green>7,0</span>
+|<span style=color:darkgreen title="OSE Runde 3 (OSEQ) 9,0">''9,0''</span>
+|<span style=color:darkgreen title="OSE Runde 3 (OSE) 7,0 raus">7,0</span>
 !16,0
 |28%
 |-align=center
@@ -582,10 +593,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/BEL.gif '''BEL'''
 |align=left|'''[[CR Mouscron]]'''
-|raus
+|<span title="OSC-ZR (OSC)">raus</span>
 |1
 | -
-|<span style=color:red>16,0</span>
+|<span style=color:red title="OSC-ZR (OSC) 16,0 raus">16,0</span>
 !16,0
 |18%
 |-align=center
@@ -595,10 +606,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |22
 |align=left|http://os.ongapo.com/images/flaggen/ENG.gif '''ENG'''
 |align=left|'''[[FC Leicester]]'''
-|raus
+|<span title="OSC-HR (OSC)">raus</span>
 |2
-|<span style=color:green>9,0</span>
-|<span style=color:red>7,0</span>
+|<span style=color:darkgreen title="OSE Runde 3 (OSE) 9,0">9,0</span>
+|<span style=color:orange title="OSC-HR (OSC) 7,0 raus">7,0</span>
 !16,0
 |14%
 |-align=center
@@ -608,10 +619,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/POR.gif '''POR'''
 |align=left|'''[[FC Esposende]]'''
-|raus
+|<span title="OSE Achtelfinale (OSE)">raus</span>
 |1
 | -
-|<span style=color:green>16,0</span>
+|<span style=color:navy title="OSE Achtelfinale (OSE) 16,0 raus">16,0</span>
 !16,0
 |20%
 |-align=center
@@ -621,10 +632,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/ISR.gif '''ISR'''
 |align=left|'''[[Hapoel Ahi Nazareth]]'''
-|raus
+|<span title="OSE Viertelfinale (OSCQ)">raus</span>
 |1
 | -
-|<span style=color:green>16,0</span>
+|<span style=color:darkmagenta title="OSE Viertelfinale (OSCQ) 16,0 raus">''16,0''</span>
 !16,0
 |28%
 |-align=center
@@ -634,10 +645,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |81
 |align=left|http://os.ongapo.com/images/flaggen/SVK.gif '''SVK'''
 |align=left|'''[[SK Spartak Senec]]'''
-|raus
+|<span title="OSE Runde 3 (OSE)">raus</span>
 |2
-|<span style=color:green>9,0</span>
-|<span style=color:green>7,0</span>
+|<span style=color:blue title="OSE Runde 4 (OSCQ) 9,0">''9,0''</span>
+|<span style=color:darkgreen title="OSE Runde 3 (OSE) 7,0 raus">7,0</span>
 !16,0
 |22%
 |-align=center style="border-top:2px solid grey"
@@ -649,7 +660,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[St. Cavan Swallows]]'''
 | -
 |1
-|<span style=color:red>15,0</span>
+|<span style=color:red title="OSC-ZR (OSC) 15,0">15,0</span>
 | -
 !15,0
 |31%
@@ -662,7 +673,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[SC Adiga Suedtirol]]'''
 | -
 |1
-|<span style=color:red>15,0</span>
+|<span style=color:red title="OSC-ZR (OSC) 15,0">15,0</span>
 | -
 !15,0
 |12%
@@ -675,7 +686,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Aphrodite Paphos]]'''
 | -
 |1
-|<span style=color:green>14,0</span>
+|<span style=color:navy title="OSE Achtelfinale (OSEQ) 14,0">''14,0''</span>
 | -
 !14,0
 |41%
@@ -686,10 +697,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |64
 |align=left|http://os.ongapo.com/images/flaggen/BIH.gif '''BIH'''
 |align=left|'''[[Radnik Sarajevo]]'''
-|raus
+|<span title="OSE Runde 3 (OSE)">raus</span>
 |2
-|<span style=color:green>5,0</span>
-|<span style=color:green>9,0</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 5,0">5,0</span>
+|<span style=color:darkgreen title="OSE Runde 3 (OSE) 9,0 raus">9,0</span>
 !14,0
 |17%
 |-align=center
@@ -699,10 +710,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |22
 |align=left|http://os.ongapo.com/images/flaggen/SVK.gif '''SVK'''
 |align=left|'''[[Spartak Bratislava]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |2
-|<span style=color:green>14,0</span>
-|<span style=color:green>0,0</span>
+|<span style=color:darkgreen title="OSE Runde 4 (OSE) 14,0">14,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0 raus">''0,0''</span>
 !14,0
 |20%
 |-align=center style="border-top:2px solid grey"
@@ -712,10 +723,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |22
 |align=left|http://os.ongapo.com/images/flaggen/LVA.gif '''LVA'''
 |align=left|'''[[Olimpia Ventspils]]'''
-|raus
+|<span title="OSEQ Runde 3 (OSEQ)">raus</span>
 |2
-|<span style=color:green>9,0</span>
-|<span style=color:green>4,5</span>
+|<span style=color:darkgreen title="OSE Runde 3 (OSE) 9,0">9,0</span>
+|<span style=color:lime title="OSEQ Runde 3 (OSEQ) 4,5 raus">''4,5''</span>
 !13,5
 |27%
 |-align=center
@@ -725,10 +736,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/NED.gif '''NED'''
 |align=left|'''[[Vitesse Amsterdam]]'''
-|raus
+|<span title="OSE Viertelfinale (OSCQ)">raus</span>
 |1
 | -
-|<span style=color:green>13,5</span>
+|<span style=color:darkmagenta title="OSE Viertelfinale (OSCQ) 13,5 raus">''13,5''</span>
 !13,5
 |18%
 |-align=center style="border-top:2px solid grey"
@@ -740,7 +751,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[FC Vale]]'''
 | -
 |1
-|<span style=color:red>13,0</span>
+|<span style=color:red title="OSC-ZR (OSC) 13,0">13,0</span>
 | -
 !13,0
 |23%
@@ -751,10 +762,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/GER.gif '''GER'''
 |align=left|'''[[FC Greuther Fürth]]'''
-|raus
+|<span title="OSC-ZR (OSC)">raus</span>
 |1
 | -
-|<span style=color:red>13,0</span>
+|<span style=color:red title="OSC-ZR (OSC) 13,0 raus">13,0</span>
 !13,0
 |15%
 |-align=center
@@ -764,10 +775,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |14
 |align=left|http://os.ongapo.com/images/flaggen/SUI.gif '''SUI'''
 |align=left|'''[[Bellacher SC]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |2
-|<span style=color:red>11,0</span>
-|<span style=color:green>2,0</span>
+|<span style=color:orange title="OSC-HR (OSCQ) 11,0">''11,0''</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 2,0 raus">2,0</span>
 !13,0
 |36%
 |-align=center
@@ -779,7 +790,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Heerenveen 02]]'''
 | -
 |1
-|<span style=color:green>13,0</span>
+|<span style=color:darkgreen title="OSE Runde 4 (OSE) 13,0">13,0</span>
 | -
 !13,0
 |18%
@@ -790,10 +801,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |35
 |align=left|http://os.ongapo.com/images/flaggen/SMR.gif '''SMR'''
 |align=left|'''[[Santa Mustiola Rosa]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |2
-|<span style=color:green>13,0</span>
-|<span style=color:green>0,0</span>
+|<span style=color:navy title="OSE Achtelfinale (OSE) 13,0">13,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0 raus">0,0</span>
 !13,0
 |23%
 |-align=center style="border-top:2px solid grey"
@@ -803,10 +814,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |166
 |align=left|http://os.ongapo.com/images/flaggen/AUT.gif '''AUT'''
 |align=left|'''[[Schwarzach 07]]'''
-|raus
+|<span title="OSEQ Runde 3 (OSEQ)">raus</span>
 |2
-|<span style=color:green>8,5</span>
-|<span style=color:green>4,0</span>
+|<span style=color:darkmagenta title="OSE Achtelfinale (OSCQ) 8,5">''8,5''</span>
+|<span style=color:lime title="OSEQ Runde 3 (OSEQ) 4,0 raus">''4,0''</span>
 !12,5
 |32%
 |-align=center style="border-top:2px solid grey"
@@ -816,10 +827,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/AND.gif '''AND'''
 |align=left|'''[[Gimnastic Juvenil]]'''
-|raus
+|<span title="OSE Achtelfinale (OSE)">raus</span>
 |1
 | -
-|<span style=color:green>12,0</span>
+|<span style=color:navy title="OSE Achtelfinale (OSE) 12,0 raus">12,0</span>
 !12,0
 |83%
 |-align=center
@@ -831,7 +842,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Union Piräus]]'''
 | -
 |1
-|<span style=color:red>12,0</span>
+|<span style=color:red title="OSC-ZR (OSC) 12,0">12,0</span>
 | -
 !12,0
 |26%
@@ -844,7 +855,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Kücükyali Istanbul]]'''
 | -
 |1
-|<span style=color:green>12,0</span>
+|<span style=color:darkgreen title="OSE Runde 4 (OSEQ) 12,0">''12,0''</span>
 | -
 !12,0
 |29%
@@ -857,7 +868,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[RSC Genk]]'''
 | -
 |1
-|<span style=color:green>12,0</span>
+|<span style=color:darkgreen title="OSE Runde 4 (OSEQ) 12,0">''12,0''</span>
 | -
 !12,0
 |13%
@@ -868,10 +879,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |81
 |align=left|http://os.ongapo.com/images/flaggen/ESP.gif '''ESP'''
 |align=left|'''[[Cataluña Deportiva Premia]]'''
-|raus
+|<span title="OSE Runde 3 (OSE)">raus</span>
 |2
-|<span style=color:green>4,0</span>
-|<span style=color:green>8,0</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 4,0">4,0</span>
+|<span style=color:darkgreen title="OSE Runde 3 (OSE) 8,0 raus">8,0</span>
 !12,0
 |24%
 |-align=center
@@ -881,10 +892,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/BEL.gif '''BEL'''
 |align=left|'''[[Racing Lier]]'''
-|raus
+|<span title="OSE Runde 4 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>12,0</span>
+|<span style=color:darkgreen title="OSE Runde 4 (OSEQ) 12,0 raus">''12,0''</span>
 !12,0
 |13%
 |-align=center
@@ -894,10 +905,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/ROM.gif '''ROM'''
 |align=left|'''[[FC Ferastrau Suceava]]'''
-|raus
+|<span title="OSE Runde 4 (OSE)">raus</span>
 |1
 | -
-|<span style=color:green>12,0</span>
+|<span style=color:darkgreen title="OSE Runde 4 (OSE) 12,0 raus">12,0</span>
 !12,0
 |57%
 |-align=center
@@ -909,7 +920,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[B 26 Gotu]]'''
 | -
 |1
-|<span style=color:green>12,0</span>
+|<span style=color:navy title="OSE Achtelfinale (OSE) 12,0">12,0</span>
 | -
 !12,0
 |23%
@@ -922,7 +933,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[FC Bairro]]'''
 | -
 |1
-|<span style=color:red>12,0</span>
+|<span style=color:red title="OSC-ZR (OSC) 12,0">12,0</span>
 | -
 !12,0
 |15%
@@ -933,10 +944,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |81
 |align=left|http://os.ongapo.com/images/flaggen/AZE.gif '''AZE'''
 |align=left|'''[[KF Agdam]]'''
-|raus
+|<span title="OSE Runde 3 (OSEQ)">raus</span>
 |2
-|<span style=color:green>4,0</span>
-|<span style=color:green>8,0</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 4,0">4,0</span>
+|<span style=color:darkgreen title="OSE Runde 3 (OSEQ) 8,0 raus">''8,0''</span>
 !12,0
 |12%
 |-align=center
@@ -948,7 +959,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Flexsys Cefn Nomads]]'''
 | -
 |1
-|<span style=color:green>12,0</span>
+|<span style=color:navy title="OSE Achtelfinale (OSE) 12,0">12,0</span>
 | -
 !12,0
 |21%
@@ -959,10 +970,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/SCG.gif '''SCG'''
 |align=left|'''[[FK Kula]]'''
-|raus
+|<span title="OSE Runde 4 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>12,0</span>
+|<span style=color:darkgreen title="OSE Runde 4 (OSEQ) 12,0 raus">''12,0''</span>
 !12,0
 |16%
 |-align=center style="border-top:2px solid grey"
@@ -972,10 +983,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |256
 |align=left|http://os.ongapo.com/images/flaggen/SUI.gif '''SUI'''
 |align=left|'''[[Winterthur Lions]]'''
-|raus
+|<span title="OSE Achtelfinale (OSCQ)">raus</span>
 |2
-|<span style=color:green>0,0</span>
-|<span style=color:green>11,5</span>
+|<span style=color:blue title="OSE Runde 2 (OSCQ) 0,0">''0,0''</span>
+|<span style=color:darkmagenta title="OSE Achtelfinale (OSCQ) 11,5 raus">''11,5''</span>
 !11,5
 |32%
 |-align=center
@@ -985,10 +996,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |104
 |align=left|http://os.ongapo.com/images/flaggen/CZE.gif '''CZE'''
 |align=left|'''[[FFK Olmütz]]'''
-|raus
+|<span title="OSC-HR (OSCQ)">raus</span>
 |2
-|<span style=color:green>3,0</span>
-|<span style=color:red>8,5</span>
+|<span style=color:lime title="OSEQ Runde 3 (OSEQ) 3,0">''3,0''</span>
+|<span style=color:orange title="OSC-HR (OSCQ) 8,5 raus">''8,5''</span>
 !11,5
 |50%
 |-align=center
@@ -998,10 +1009,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |15
 |align=left|http://os.ongapo.com/images/flaggen/HUN.gif '''HUN'''
 |align=left|'''[[Györi SC]]'''
-|raus
+|<span title="OSEQ Runde 2 (OSEQ)">raus</span>
 |2
-|<span style=color:red>10,0</span>
-|<span style=color:green>1,5</span>
+|<span style=color:orange title="OSC-HR (OSCQ) 10,0">''10,0''</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 1,5 raus">''1,5''</span>
 !11,5
 |30%
 |-align=center style="border-top:2px solid grey"
@@ -1011,10 +1022,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |142
 |align=left|http://os.ongapo.com/images/flaggen/POL.gif '''POL'''
 |align=left|'''[[Hutnik Zabrze]]'''
-|raus
+|<span title="OSE Runde 3 (OSE)">raus</span>
 |2
-|<span style=color:green>2,0</span>
-|<span style=color:green>9,0</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 2,0">2,0</span>
+|<span style=color:darkgreen title="OSE Runde 3 (OSE) 9,0 raus">9,0</span>
 !11,0
 |47%
 |-align=center
@@ -1024,10 +1035,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |49
 |align=left|http://os.ongapo.com/images/flaggen/RUS.gif '''RUS'''
 |align=left|'''[[MosDok Wyksa]]'''
-|raus
+|<span title="OSE Runde 2 (OSEQ)">raus</span>
 |2
-|<span style=color:green>6,0</span>
-|<span style=color:green>5,0</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSEQ) 6,0">''6,0''</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSEQ) 5,0 raus">''5,0''</span>
 !11,0
 |32%
 |-align=center
@@ -1037,10 +1048,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |178
 |align=left|http://os.ongapo.com/images/flaggen/IRL.gif '''IRL'''
 |align=left|'''[[FC Galway]]'''
-|raus
+|<span title="OSE Runde 3 (OSE)">raus</span>
 |2
-|<span style=color:green>1,0</span>
-|<span style=color:green>10,0</span>
+|<span style=color:blue title="OSE Runde 2 (OSCQ) 1,0">''1,0''</span>
+|<span style=color:darkgreen title="OSE Runde 3 (OSE) 10,0 raus">10,0</span>
 !11,0
 |23%
 |-align=center
@@ -1050,10 +1061,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |35
 |align=left|http://os.ongapo.com/images/flaggen/CRO.gif '''CRO'''
 |align=left|'''[[Dinamo Istra-Pula]]'''
-|raus
+|<span title="OSE Runde 2 (OSE)">raus</span>
 |2
-|<span style=color:green>7,0</span>
-|<span style=color:green>4,0</span>
+|<span style=color:darkgreen title="OSE Runde 3 (OSE) 7,0">7,0</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 4,0 raus">4,0</span>
 !11,0
 |19%
 |-align=center
@@ -1063,10 +1074,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/LVA.gif '''LVA'''
 |align=left|'''[[Sorbezabob Ludza]]'''
-|raus
+|<span title="OSE Runde 4 (OSE)">raus</span>
 |1
 | -
-|<span style=color:green>11,0</span>
+|<span style=color:darkgreen title="OSE Runde 4 (OSE) 11,0 raus">11,0</span>
 !11,0
 |22%
 |-align=center
@@ -1076,10 +1087,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |64
 |align=left|http://os.ongapo.com/images/flaggen/SVK.gif '''SVK'''
 |align=left|'''[[Slowakia Nitra]]'''
-|raus
+|<span title="OSE Runde 4 (OSCQ)">raus</span>
 |2
-|<span style=color:green>5,0</span>
-|<span style=color:green>6,0</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 5,0">5,0</span>
+|<span style=color:blue title="OSE Runde 4 (OSCQ) 6,0 raus">''6,0''</span>
 !11,0
 |15%
 |-align=center style="border-top:2px solid grey"
@@ -1089,10 +1100,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |49
 |align=left|http://os.ongapo.com/images/flaggen/GEO.gif '''GEO'''
 |align=left|'''[[Choir Rustavi]]'''
-|raus
+|<span title="OSEQ Runde 3 (OSEQ)">raus</span>
 |2
-|<span style=color:green>7,0</span>
-|<span style=color:green>3,5</span>
+|<span style=color:darkgreen title="OSE Runde 3 (OSE) 7,0">7,0</span>
+|<span style=color:lime title="OSEQ Runde 3 (OSEQ) 3,5 raus">''3,5''</span>
 !10,5
 |32%
 |-align=center
@@ -1102,10 +1113,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |49
 |align=left|http://os.ongapo.com/images/flaggen/MLT.gif '''MLT'''
 |align=left|'''[[Mosta Wanderers]]'''
-|raus
+|<span title="OSE Runde 3 (OSCQ)">raus</span>
 |2
-|<span style=color:green>6,0</span>
-|<span style=color:green>4,5</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 6,0">6,0</span>
+|<span style=color:blue title="OSE Runde 3 (OSCQ) 4,5 raus">''4,5''</span>
 !10,5
 |13%
 |-align=center
@@ -1115,10 +1126,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |35
 |align=left|http://os.ongapo.com/images/flaggen/ALB.gif '''ALB'''
 |align=left|'''[[SC Kruje]]'''
-|raus
+|<span title="OSEQ Runde 2 (OSEQ)">raus</span>
 |2
-|<span style=color:green>8,0</span>
-|<span style=color:green>2,5</span>
+|<span style=color:darkgreen title="OSE Runde 3 (OSE) 8,0">8,0</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 2,5 raus">''2,5''</span>
 !10,5
 |57%
 |-align=center
@@ -1128,10 +1139,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/SCO.gif '''SCO'''
 |align=left|'''[[Dumfries Rovers]]'''
-|raus
+|<span title="OSE Runde 3 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>10,5</span>
+|<span style=color:darkgreen title="OSE Runde 3 (OSEQ) 10,5 raus">''10,5''</span>
 !10,5
 |26%
 |-align=center style="border-top:2px solid grey"
@@ -1141,10 +1152,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/FIN.gif '''FIN'''
 |align=left|'''[[FC Helsinki Rangers]]'''
-|raus
+|<span title="OSC-HR (OSCQ)">raus</span>
 |1
 | -
-|<span style=color:red>10,0</span>
+|<span style=color:orange title="OSC-HR (OSCQ) 10,0 raus">''10,0''</span>
 !10,0
 |51%
 |-align=center
@@ -1154,10 +1165,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |142
 |align=left|http://os.ongapo.com/images/flaggen/SVN.gif '''SVN'''
 |align=left|'''[[Murska Sobota]]'''
-|raus
+|<span title="OSE Runde 3 (OSE)">raus</span>
 |2
-|<span style=color:green>4,0</span>
-|<span style=color:green>6,0</span>
+|<span style=color:blue title="OSE Runde 3 (OSCQ) 4,0">''4,0''</span>
+|<span style=color:darkgreen title="OSE Runde 3 (OSE) 6,0 raus">6,0</span>
 !10,0
 |20%
 |-align=center
@@ -1167,10 +1178,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |35
 |align=left|http://os.ongapo.com/images/flaggen/TUR.gif '''TUR'''
 |align=left|'''[[Yesil-Mor Konyaspor]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |2
-|<span style=color:green>9,0</span>
-|<span style=color:green>1,0</span>
+|<span style=color:darkgreen title="OSE Runde 4 (OSE) 9,0">9,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 1,0 raus">''1,0''</span>
 !10,0
 |24%
 |-align=center
@@ -1180,10 +1191,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |35
 |align=left|http://os.ongapo.com/images/flaggen/MKD.gif '''MKD'''
 |align=left|'''[[Vodno Skopje]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |2
-|<span style=color:green>9,0</span>
-|<span style=color:green>1,0</span>
+|<span style=color:darkgreen title="OSE Runde 3 (OSE) 9,0">9,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 1,0 raus">''1,0''</span>
 !10,0
 |21%
 |-align=center
@@ -1193,10 +1204,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/ENG.gif '''ENG'''
 |align=left|'''[[Wycombe County]]'''
-|raus
+|<span title="OSE Runde 3 (OSE)">raus</span>
 |1
 | -
-|<span style=color:green>10,0</span>
+|<span style=color:darkgreen title="OSE Runde 3 (OSE) 10,0 raus">10,0</span>
 !10,0
 |9%
 |-align=center
@@ -1206,10 +1217,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/GER.gif '''GER'''
 |align=left|'''[[Borussia Wolfsburg]]'''
-|raus
+|<span title="OSC-ZR (OSC)">raus</span>
 |1
 | -
-|<span style=color:red>10,0</span>
+|<span style=color:red title="OSC-ZR (OSC) 10,0 raus">10,0</span>
 !10,0
 |11%
 |-align=center
@@ -1219,10 +1230,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/POR.gif '''POR'''
 |align=left|'''[[Maritimo Felgueiras]]'''
-|raus
+|<span title="OSC-ZR (OSC)">raus</span>
 |1
 | -
-|<span style=color:red>10,0</span>
+|<span style=color:red title="OSC-ZR (OSC) 10,0 raus">10,0</span>
 !10,0
 |12%
 |-align=center
@@ -1232,10 +1243,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |104
 |align=left|http://os.ongapo.com/images/flaggen/FRO.gif '''FRO'''
 |align=left|'''[[IF Torshavn]]'''
-|raus
+|<span title="OSE Runde 3 (OSE)">raus</span>
 |2
-|<span style=color:green>3,0</span>
-|<span style=color:green>7,0</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 3,0">3,0</span>
+|<span style=color:darkgreen title="OSE Runde 3 (OSE) 7,0 raus">7,0</span>
 !10,0
 |19%
 |-align=center
@@ -1245,10 +1256,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |22
 |align=left|http://os.ongapo.com/images/flaggen/KAZ.gif '''KAZ'''
 |align=left|'''[[FK Almaty]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |2
-|<span style=color:green>9,0</span>
-|<span style=color:green>1,0</span>
+|<span style=color:darkgreen title="OSE Runde 3 (OSEQ) 9,0">''9,0''</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 1,0 raus">''1,0''</span>
 !10,0
 |25%
 |-align=center
@@ -1258,10 +1269,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |46
 |align=left|http://os.ongapo.com/images/flaggen/SVK.gif '''SVK'''
 |align=left|'''[[Dukla Puchov]]'''
-|raus
+|<span title="OSE Runde 3 (OSCQ)">raus</span>
 |2
-|<span style=color:green>6,5</span>
-|<span style=color:green>3,5</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSEQ) 6,5">''6,5''</span>
+|<span style=color:blue title="OSE Runde 3 (OSCQ) 3,5 raus">''3,5''</span>
 !10,0
 |14%
 |-align=center
@@ -1271,10 +1282,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |49
 |align=left|http://os.ongapo.com/images/flaggen/UKR.gif '''UKR'''
 |align=left|'''[[SKA Donezk]]'''
-|raus
+|<span title="OSEQ Runde 3 (OSEQ)">raus</span>
 |2
-|<span style=color:green>7,0</span>
-|<span style=color:green>3,0</span>
+|<span style=color:darkgreen title="OSE Runde 3 (OSE) 7,0">7,0</span>
+|<span style=color:lime title="OSEQ Runde 3 (OSEQ) 3,0 raus">''3,0''</span>
 !10,0
 |23%
 |-align=center
@@ -1284,10 +1295,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |229
 |align=left|http://os.ongapo.com/images/flaggen/SCO.gif '''SCO'''
 |align=left|'''[[Forres Rangers FC]]'''
-|raus
+|<span title="OSE Runde 4 (OSCQ)">raus</span>
 |2
-|<span style=color:green>0,5</span>
-|<span style=color:green>9,5</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5">''0,5''</span>
+|<span style=color:blue title="OSE Runde 4 (OSCQ) 9,5 raus">''9,5''</span>
 !10,0
 |25%
 |-align=center
@@ -1297,10 +1308,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |256
 |align=left|http://os.ongapo.com/images/flaggen/EST.gif '''EST'''
 |align=left|'''[[JK Elva]]'''
-|raus
+|<span title="OSE Achtelfinale (OSCQ)">raus</span>
 |2
-|<span style=color:green>0,0</span>
-|<span style=color:green>10,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0">''0,0''</span>
+|<span style=color:darkmagenta title="OSE Achtelfinale (OSCQ) 10,0 raus">''10,0''</span>
 !10,0
 |25%
 |-align=center style="border-top:2px solid grey"
@@ -1310,10 +1321,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |166
 |align=left|http://os.ongapo.com/images/flaggen/HUN.gif '''HUN'''
 |align=left|'''[[Hatvan TE]]'''
-|raus
+|<span title="OSEQ Runde 2 (OSEQ)">raus</span>
 |2
-|<span style=color:green>6,5</span>
-|<span style=color:green>3,0</span>
+|<span style=color:blue title="OSE Runde 4 (OSCQ) 6,5">''6,5''</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 3,0 raus">''3,0''</span>
 !9,5
 |25%
 |-align=center
@@ -1325,7 +1336,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Jeunesse Hamm]]'''
 | -
 |1
-|<span style=color:red>9,5</span>
+|<span style=color:orange title="OSC-HR (OSCQ) 9,5">''9,5''</span>
 | -
 !9,5
 |19%
@@ -1336,10 +1347,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |229
 |align=left|http://os.ongapo.com/images/flaggen/NIR.gif '''NIR'''
 |align=left|'''[[Glenavon City]]'''
-|raus
+|<span title="OSC-HR (OSCQ)">raus</span>
 |2
-|<span style=color:green>0,5</span>
-|<span style=color:red>9,0</span>
+|<span style=color:blue title="OSE Runde 2 (OSCQ) 0,5">''0,5''</span>
+|<span style=color:orange title="OSC-HR (OSCQ) 9,0 raus">''9,0''</span>
 !9,5
 |7%
 |-align=center
@@ -1351,7 +1362,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[SZ Goris]]'''
 | -
 |1
-|<span style=color:green>9,5</span>
+|<span style=color:darkmagenta title="OSE Achtelfinale (OSCQ) 9,5">''9,5''</span>
 | -
 !9,5
 |41%
@@ -1362,10 +1373,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |229
 |align=left|http://os.ongapo.com/images/flaggen/CRO.gif '''CRO'''
 |align=left|'''[[Naprid Zagreb]]'''
-|raus
+|<span title="OSC-HR (OSCQ)">raus</span>
 |2
-|<span style=color:green>0,5</span>
-|<span style=color:red>8,5</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5">''0,5''</span>
+|<span style=color:orange title="OSC-HR (OSCQ) 8,5 raus">''8,5''</span>
 !9,0
 |16%
 |-align=center
@@ -1377,7 +1388,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[CD Extremadura]]'''
 | -
 |1
-|<span style=color:green>9,0</span>
+|<span style=color:darkgreen title="OSE Runde 3 (OSEQ) 9,0">''9,0''</span>
 | -
 !9,0
 |18%
@@ -1388,10 +1399,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |64
 |align=left|http://os.ongapo.com/images/flaggen/TUR.gif '''TUR'''
 |align=left|'''[[Kartal Salihli]]'''
-|raus
+|<span title="OSE Runde 2 (OSE)">raus</span>
 |2
-|<span style=color:green>5,0</span>
-|<span style=color:green>4,0</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 5,0">5,0</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 4,0 raus">4,0</span>
 !9,0
 |22%
 |-align=center
@@ -1401,10 +1412,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |64
 |align=left|http://os.ongapo.com/images/flaggen/AUT.gif '''AUT'''
 |align=left|'''[[BW St. Pölten]]'''
-|raus
+|<span title="OSE Runde 2 (OSE)">raus</span>
 |2
-|<span style=color:red>5,0</span>
-|<span style=color:green>4,0</span>
+|<span style=color:orange title="OSC-HR (OSC) 5,0">5,0</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 4,0 raus">4,0</span>
 !9,0
 |23%
 |-align=center
@@ -1414,10 +1425,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |104
 |align=left|http://os.ongapo.com/images/flaggen/BEL.gif '''BEL'''
 |align=left|'''[[RFC Bocholt]]'''
-|raus
+|<span title="OSE Runde 2 (OSE)">raus</span>
 |2
-|<span style=color:green>3,0</span>
-|<span style=color:green>6,0</span>
+|<span style=color:lime title="OSEQ Runde 3 (OSEQ) 3,0">''3,0''</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 6,0 raus">6,0</span>
 !9,0
 |10%
 |-align=center
@@ -1427,10 +1438,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |178
 |align=left|http://os.ongapo.com/images/flaggen/EST.gif '''EST'''
 |align=left|'''[[Lövi Pärnu]]'''
-|raus
+|<span title="OSE Runde 3 (OSEQ)">raus</span>
 |2
-|<span style=color:green>1,0</span>
-|<span style=color:green>8,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 1,0">''1,0''</span>
+|<span style=color:darkgreen title="OSE Runde 3 (OSEQ) 8,0 raus">''8,0''</span>
 !9,0
 |23%
 |-align=center
@@ -1440,10 +1451,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |98
 |align=left|http://os.ongapo.com/images/flaggen/AZE.gif '''AZE'''
 |align=left|'''[[Automobilchi Baku]]'''
-|raus
+|<span title="OSE Runde 4 (OSCQ)">raus</span>
 |2
-|<span style=color:green>3,5</span>
-|<span style=color:green>5,5</span>
+|<span style=color:lime title="OSEQ Runde 3 (OSEQ) 3,5">''3,5''</span>
+|<span style=color:blue title="OSE Runde 4 (OSCQ) 5,5 raus">''5,5''</span>
 !9,0
 |9%
 |-align=center
@@ -1455,7 +1466,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Dinamo Mashtagi]]'''
 | -
 |1
-|<span style=color:green>9,0</span>
+|<span style=color:darkgreen title="OSE Runde 4 (OSE) 9,0">9,0</span>
 | -
 !9,0
 |9%
@@ -1468,7 +1479,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[1.FK Köln]]'''
 | -
 |1
-|<span style=color:green>9,0</span>
+|<span style=color:darkgreen title="OSE Runde 3 (OSE) 9,0">9,0</span>
 | -
 !9,0
 |10%
@@ -1479,10 +1490,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/CYP.gif '''CYP'''
 |align=left|'''[[AE Limassol]]'''
-|raus
+|<span title="OSC-HR (OSCQ)">raus</span>
 |1
 | -
-|<span style=color:red>9,0</span>
+|<span style=color:orange title="OSC-HR (OSCQ) 9,0 raus">''9,0''</span>
 !9,0
 |26%
 |-align=center style="border-top:2px solid grey"
@@ -1492,10 +1503,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |178
 |align=left|http://os.ongapo.com/images/flaggen/ROM.gif '''ROM'''
 |align=left|'''[[CF Olimpia Timisoara]]'''
-|raus
+|<span title="OSC-HR (OSCQ)">raus</span>
 |2
-|<span style=color:green>1,0</span>
-|<span style=color:red>7,5</span>
+|<span style=color:blue title="OSE Runde 2 (OSCQ) 1,0">''1,0''</span>
+|<span style=color:orange title="OSC-HR (OSCQ) 7,5 raus">''7,5''</span>
 !8,5
 |40%
 |-align=center
@@ -1505,10 +1516,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |60
 |align=left|http://os.ongapo.com/images/flaggen/MKD.gif '''MKD'''
 |align=left|'''[[Borec Skopje]]'''
-|raus
+|<span title="OSEQ Runde 2 (OSEQ)">raus</span>
 |2
-|<span style=color:green>5,5</span>
-|<span style=color:green>3,0</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSEQ) 5,5">''5,5''</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 3,0 raus">''3,0''</span>
 !8,5
 |18%
 |-align=center style="border-top:2px solid grey"
@@ -1518,10 +1529,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/GER.gif '''GER'''
 |align=left|'''[[Germania Berlin]]'''
-|raus
+|<span title="OSE Runde 4 (OSCQ)">raus</span>
 |1
 | -
-|<span style=color:green>8,0</span>
+|<span style=color:blue title="OSE Runde 4 (OSCQ) 8,0 raus">''8,0''</span>
 !8,0
 |9%
 |-align=center
@@ -1531,10 +1542,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |35
 |align=left|http://os.ongapo.com/images/flaggen/GEO.gif '''GEO'''
 |align=left|'''[[CSKA Tiflis]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |2
-|<span style=color:green>8,0</span>
-|<span style=color:green>0,0</span>
+|<span style=color:darkgreen title="OSE Runde 3 (OSE) 8,0">8,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0 raus">''0,0''</span>
 !8,0
 |24%
 |-align=center
@@ -1546,7 +1557,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Tottenham United]]'''
 | -
 |1
-|<span style=color:red>8,0</span>
+|<span style=color:orange title="OSC-HR (OSC) 8,0">8,0</span>
 | -
 !8,0
 |7%
@@ -1557,10 +1568,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/MLT.gif '''MLT'''
 |align=left|'''[[Floriana Hotspurs]]'''
-|raus
+|<span title="OSC-HR (OSC)">raus</span>
 |1
 | -
-|<span style=color:red>8,0</span>
+|<span style=color:orange title="OSC-HR (OSC) 8,0 raus">8,0</span>
 !8,0
 |10%
 |-align=center
@@ -1572,7 +1583,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Shalom Petah Tikva]]'''
 | -
 |1
-|<span style=color:green>8,0</span>
+|<span style=color:darkmagenta title="OSE Achtelfinale (OSCQ) 8,0">''8,0''</span>
 | -
 !8,0
 |14%
@@ -1583,10 +1594,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/SVN.gif '''SVN'''
 |align=left|'''[[SK Martjanci 04]]'''
-|raus
+|<span title="OSE Runde 3 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>8,0</span>
+|<span style=color:darkgreen title="OSE Runde 3 (OSEQ) 8,0 raus">''8,0''</span>
 !8,0
 |16%
 |-align=center
@@ -1596,10 +1607,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/MLT.gif '''MLT'''
 |align=left|'''[[Monte Sciberras Valletta]]'''
-|raus
+|<span title="OSE Runde 3 (OSE)">raus</span>
 |1
 | -
-|<span style=color:green>8,0</span>
+|<span style=color:darkgreen title="OSE Runde 3 (OSE) 8,0 raus">8,0</span>
 !8,0
 |10%
 |-align=center
@@ -1609,10 +1620,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |142
 |align=left|http://os.ongapo.com/images/flaggen/FRO.gif '''FRO'''
 |align=left|'''[[KB Klaksvik]]'''
-|raus
+|<span title="OSE Runde 2 (OSE)">raus</span>
 |2
-|<span style=color:green>4,0</span>
-|<span style=color:green>4,0</span>
+|<span style=color:blue title="OSE Runde 3 (OSCQ) 4,0">''4,0''</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 4,0 raus">4,0</span>
 !8,0
 |15%
 |-align=center
@@ -1622,10 +1633,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/NIR.gif '''NIR'''
 |align=left|'''[[Queens Utd FC]]'''
-|raus
+|<span title="OSC-HR (OSC)">raus</span>
 |1
 | -
-|<span style=color:red>8,0</span>
+|<span style=color:orange title="OSC-HR (OSC) 8,0 raus">8,0</span>
 !8,0
 |6%
 |-align=center
@@ -1635,10 +1646,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |178
 |align=left|http://os.ongapo.com/images/flaggen/SMR.gif '''SMR'''
 |align=left|'''[[SS La Fiorita Calcio]]'''
-|raus
+|<span title="OSE Runde 3 (OSE)">raus</span>
 |2
-|<span style=color:green>1,0</span>
-|<span style=color:green>7,0</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 1,0">''1,0''</span>
+|<span style=color:darkgreen title="OSE Runde 3 (OSE) 7,0 raus">7,0</span>
 !8,0
 |14%
 |-align=center style="border-top:2px solid grey"
@@ -1650,7 +1661,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[NK Hajduk Koprivinica]]'''
 | -
 |1
-|<span style=color:green>7,5</span>
+|<span style=color:darkgreen title="OSE Runde 3 (OSEQ) 7,5">''7,5''</span>
 | -
 !7,5
 |13%
@@ -1663,7 +1674,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[FK Torpedo Tomsk]]'''
 | -
 |1
-|<span style=color:green>7,5</span>
+|<span style=color:blue title="OSE Runde 4 (OSCQ) 7,5">''7,5''</span>
 | -
 !7,5
 |22%
@@ -1674,10 +1685,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |122
 |align=left|http://os.ongapo.com/images/flaggen/ISL.gif '''ISL'''
 |align=left|'''[[Viking Reykjavik]]'''
-|raus
+|<span title="OSE Runde 2 (OSEQ)">raus</span>
 |2
-|<span style=color:green>2,5</span>
-|<span style=color:green>5,0</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 2,5">''2,5''</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSEQ) 5,0 raus">''5,0''</span>
 !7,5
 |25%
 |-align=center
@@ -1687,10 +1698,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |122
 |align=left|http://os.ongapo.com/images/flaggen/LVA.gif '''LVA'''
 |align=left|'''[[Akora Riga]]'''
-|raus
+|<span title="OSE Runde 2 (OSE)">raus</span>
 |2
-|<span style=color:green>2,5</span>
-|<span style=color:green>5,0</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 2,5">''2,5''</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 5,0 raus">5,0</span>
 !7,5
 |15%
 |-align=center
@@ -1700,10 +1711,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |81
 |align=left|http://os.ongapo.com/images/flaggen/SMR.gif '''SMR'''
 |align=left|'''[[SSC Murata]]'''
-|raus
+|<span title="OSE Runde 2 (OSCQ)">raus</span>
 |2
-|<span style=color:green>7,0</span>
-|<span style=color:green>0,5</span>
+|<span style=color:blue title="OSE Runde 4 (OSCQ) 7,0">''7,0''</span>
+|<span style=color:blue title="OSE Runde 2 (OSCQ) 0,5 raus">''0,5''</span>
 !7,5
 |13%
 |-align=center style="border-top:2px solid grey"
@@ -1713,10 +1724,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/GER.gif '''GER'''
 |align=left|'''[[Teutonia SV Aachen]]'''
-|raus
+|<span title="OSE Runde 4 (OSCQ)">raus</span>
 |1
 | -
-|<span style=color:green>7,0</span>
+|<span style=color:blue title="OSE Runde 4 (OSCQ) 7,0 raus">''7,0''</span>
 !7,0
 |8%
 |-align=center
@@ -1726,10 +1737,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |81
 |align=left|http://os.ongapo.com/images/flaggen/SWE.gif '''SWE'''
 |align=left|'''[[Falkenberg BK]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |2
-|<span style=color:green>7,0</span>
-|<span style=color:green>0,0</span>
+|<span style=color:blue title="OSE Runde 4 (OSCQ) 7,0">''7,0''</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0 raus">''0,0''</span>
 !7,0
 |13%
 |-align=center
@@ -1741,7 +1752,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Suduva Rudiskes]]'''
 | -
 |1
-|<span style=color:green>7,0</span>
+|<span style=color:darkgreen title="OSE Runde 3 (OSE) 7,0">7,0</span>
 | -
 !7,0
 |14%
@@ -1754,7 +1765,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Yimpas Antalya]]'''
 | -
 |1
-|<span style=color:green>7,0</span>
+|<span style=color:blue title="OSE Runde 4 (OSCQ) 7,0">''7,0''</span>
 | -
 !7,0
 |17%
@@ -1765,10 +1776,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/NOR.gif '''NOR'''
 |align=left|'''[[Sandnes Fotball]]'''
-|raus
+|<span title="OSE Runde 3 (OSE)">raus</span>
 |1
 | -
-|<span style=color:green>7,0</span>
+|<span style=color:darkgreen title="OSE Runde 3 (OSE) 7,0 raus">7,0</span>
 !7,0
 |27%
 |-align=center
@@ -1778,10 +1789,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/SWE.gif '''SWE'''
 |align=left|'''[[GIF Göteborg 07]]'''
-|raus
+|<span title="OSE Runde 3 (OSE)">raus</span>
 |1
 | -
-|<span style=color:green>7,0</span>
+|<span style=color:darkgreen title="OSE Runde 3 (OSE) 7,0 raus">7,0</span>
 !7,0
 |13%
 |-align=center
@@ -1791,10 +1802,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |178
 |align=left|http://os.ongapo.com/images/flaggen/MKD.gif '''MKD'''
 |align=left|'''[[Bregalnica Sasa Kamenica]]'''
-|raus
+|<span title="OSE Runde 2 (OSE)">raus</span>
 |2
-|<span style=color:green>1,0</span>
-|<span style=color:green>6,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 1,0">1,0</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 6,0 raus">6,0</span>
 !7,0
 |15%
 |-align=center
@@ -1804,10 +1815,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |81
 |align=left|http://os.ongapo.com/images/flaggen/SVN.gif '''SVN'''
 |align=left|'''[[Slavia Dravograd]]'''
-|raus
+|<span title="OSE Runde 3 (OSCQ)">raus</span>
 |2
-|<span style=color:green>4,0</span>
-|<span style=color:green>3,0</span>
+|<span style=color:lime title="OSEQ Runde 3 (OSEQ) 4,0">''4,0''</span>
+|<span style=color:blue title="OSE Runde 3 (OSCQ) 3,0 raus">''3,0''</span>
 !7,0
 |14%
 |-align=center
@@ -1817,10 +1828,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/SCO.gif '''SCO'''
 |align=left|'''[[Pentland Wednesday]]'''
-|raus
+|<span title="OSE Runde 3 (OSE)">raus</span>
 |1
 | -
-|<span style=color:green>7,0</span>
+|<span style=color:darkgreen title="OSE Runde 3 (OSE) 7,0 raus">7,0</span>
 !7,0
 |18%
 |-align=center
@@ -1830,10 +1841,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |142
 |align=left|http://os.ongapo.com/images/flaggen/GEO.gif '''GEO'''
 |align=left|'''[[FC Gori]]'''
-|raus
+|<span title="OSE Runde 2 (OSE)">raus</span>
 |2
-|<span style=color:green>2,0</span>
-|<span style=color:green>5,0</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 2,0">''2,0''</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 5,0 raus">5,0</span>
 !7,0
 |21%
 |-align=center style="border-top:2px solid grey"
@@ -1843,10 +1854,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |98
 |align=left|http://os.ongapo.com/images/flaggen/ENG.gif '''ENG'''
 |align=left|'''[[Yeovil Rovers]]'''
-|raus
+|<span title="OSEQ Runde 2 (OSEQ)">raus</span>
 |2
-|<span style=color:green>3,5</span>
-|<span style=color:green>3,0</span>
+|<span style=color:lime title="OSEQ Runde 3 (OSEQ) 3,5">''3,5''</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 3,0 raus">''3,0''</span>
 !6,5
 |6%
 |-align=center
@@ -1856,10 +1867,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |178
 |align=left|http://os.ongapo.com/images/flaggen/HUN.gif '''HUN'''
 |align=left|'''[[Bekescsapa VSC]]'''
-|raus
+|<span title="OSC-HR (OSCQ)">raus</span>
 |2
-|<span style=color:green>1,0</span>
-|<span style=color:red>5,5</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 1,0">''1,0''</span>
+|<span style=color:orange title="OSC-HR (OSCQ) 5,5 raus">''5,5''</span>
 !6,5
 |17%
 |-align=center
@@ -1869,10 +1880,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/NIR.gif '''NIR'''
 |align=left|'''[[Dungiven Rangers]]'''
-|raus
+|<span title="OSE Runde 2 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>6,5</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSEQ) 6,5 raus">''6,5''</span>
 !6,5
 |5%
 |-align=center
@@ -1882,10 +1893,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |178
 |align=left|http://os.ongapo.com/images/flaggen/ISR.gif '''ISR'''
 |align=left|'''[[FC Jerusalem]]'''
-|raus
+|<span title="OSE Runde 2 (OSEQ)">raus</span>
 |2
-|<span style=color:green>1,0</span>
-|<span style=color:green>5,5</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 1,0">1,0</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSEQ) 5,5 raus">''5,5''</span>
 !6,5
 |11%
 |-align=center
@@ -1895,10 +1906,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |256
 |align=left|http://os.ongapo.com/images/flaggen/MLT.gif '''MLT'''
 |align=left|'''[[Marsaxlokk Eagles]]'''
-|raus
+|<span title="OSE Runde 2 (OSEQ)">raus</span>
 |2
-|<span style=color:green>0,0</span>
-|<span style=color:green>6,5</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0">''0,0''</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSEQ) 6,5 raus">''6,5''</span>
 !6,5
 |8%
 |-align=center
@@ -1908,10 +1919,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |81
 |align=left|http://os.ongapo.com/images/flaggen/FRO.gif '''FRO'''
 |align=left|'''[[FS Sandavagur]]'''
-|raus
+|<span title="OSEQ Runde 2 (OSEQ)">raus</span>
 |2
-|<span style=color:green>4,0</span>
-|<span style=color:green>2,5</span>
+|<span style=color:lime title="OSEQ Runde 3 (OSEQ) 4,0">''4,0''</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 2,5 raus">''2,5''</span>
 !6,5
 |13%
 |-align=center
@@ -1921,10 +1932,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |178
 |align=left|http://os.ongapo.com/images/flaggen/FRO.gif '''FRO'''
 |align=left|'''[[HB Suduroy Hvalba]]'''
-|raus
+|<span title="OSE Runde 2 (OSEQ)">raus</span>
 |2
-|<span style=color:green>1,0</span>
-|<span style=color:green>5,5</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 1,0">''1,0''</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSEQ) 5,5 raus">''5,5''</span>
 !6,5
 |13%
 |-align=center
@@ -1934,10 +1945,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |81
 |align=left|http://os.ongapo.com/images/flaggen/LVA.gif '''LVA'''
 |align=left|'''[[Vulkans Rezekne]]'''
-|raus
+|<span title="OSEQ Runde 2 (OSEQ)">raus</span>
 |2
-|<span style=color:green>4,0</span>
-|<span style=color:green>2,5</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 4,0">4,0</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 2,5 raus">''2,5''</span>
 !6,5
 |13%
 |-align=center
@@ -1947,10 +1958,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/AZE.gif '''AZE'''
 |align=left|'''[[Universiteti Salyany]]'''
-|raus
+|<span title="OSE Achtelfinale (OSCQ)">raus</span>
 |1
 | -
-|<span style=color:green>6,5</span>
+|<span style=color:darkmagenta title="OSE Achtelfinale (OSCQ) 6,5 raus">''6,5''</span>
 !6,5
 |7%
 |-align=center
@@ -1962,7 +1973,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Tabe Borisov]]'''
 | -
 |1
-|<span style=color:red>6,5</span>
+|<span style=color:orange title="OSC-HR (OSCQ) 6,5">''6,5''</span>
 | -
 !6,5
 |39%
@@ -1975,7 +1986,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Inter Presov]]'''
 | -
 |1
-|<span style=color:green>6,5</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSEQ) 6,5">''6,5''</span>
 | -
 !6,5
 |9%
@@ -1986,10 +1997,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |178
 |align=left|http://os.ongapo.com/images/flaggen/SVK.gif '''SVK'''
 |align=left|'''[[Dukla Bratislava]]'''
-|raus
+|<span title="OSE Runde 3 (OSE)">raus</span>
 |2
-|<span style=color:green>1,0</span>
-|<span style=color:green>5,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 1,0">''1,0''</span>
+|<span style=color:darkgreen title="OSE Runde 3 (OSE) 5,0 raus">5,0</span>
 !6,0
 |8%
 |-align=center
@@ -1999,10 +2010,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |142
 |align=left|http://os.ongapo.com/images/flaggen/FRA.gif '''FRA'''
 |align=left|'''[[SC Monaco]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |2
-|<span style=color:green>6,0</span>
-|<span style=color:green>0,0</span>
+|<span style=color:blue title="OSE Runde 4 (OSCQ) 6,0">''6,0''</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0 raus">''0,0''</span>
 !6,0
 |8%
 |-align=center
@@ -2012,10 +2023,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/SVK.gif '''SVK'''
 |align=left|'''[[ZTS Prievidza]]'''
-|raus
+|<span title="OSC-HR (OSC)">raus</span>
 |1
 | -
-|<span style=color:red>6,0</span>
+|<span style=color:orange title="OSC-HR (OSC) 6,0 raus">6,0</span>
 !6,0
 |8%
 |-align=center
@@ -2027,7 +2038,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[FC Raufoss]]'''
 | -
 |1
-|<span style=color:green>6,0</span>
+|<span style=color:blue title="OSE Runde 4 (OSCQ) 6,0">''6,0''</span>
 | -
 !6,0
 |24%
@@ -2038,10 +2049,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/RUS.gif '''RUS'''
 |align=left|'''[[Yahanin 91 Volotschek]]'''
-|raus
+|<span title="OSE Runde 4 (OSCQ)">raus</span>
 |1
 | -
-|<span style=color:green>6,0</span>
+|<span style=color:blue title="OSE Runde 4 (OSCQ) 6,0 raus">''6,0''</span>
 !6,0
 |17%
 |-align=center
@@ -2053,7 +2064,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Haverfordwest College]]'''
 | -
 |1
-|<span style=color:green>6,0</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSEQ) 6,0">''6,0''</span>
 | -
 !6,0
 |11%
@@ -2066,7 +2077,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Varzim FC]]'''
 | -
 |1
-|<span style=color:green>6,0</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 6,0">6,0</span>
 | -
 !6,0
 |7%
@@ -2079,7 +2090,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[SS Torres]]'''
 | -
 |1
-|<span style=color:green>6,0</span>
+|<span style=color:blue title="OSE Runde 4 (OSCQ) 6,0">''6,0''</span>
 | -
 !6,0
 |5%
@@ -2090,10 +2101,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |178
 |align=left|http://os.ongapo.com/images/flaggen/AZE.gif '''AZE'''
 |align=left|'''[[Dinamo Masalli]]'''
-|raus
+|<span title="OSE Runde 2 (OSE)">raus</span>
 |2
-|<span style=color:green>1,0</span>
-|<span style=color:green>5,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 1,0">''1,0''</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 5,0 raus">5,0</span>
 !6,0
 |6%
 |-align=center
@@ -2103,10 +2114,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |178
 |align=left|http://os.ongapo.com/images/flaggen/BEL.gif '''BEL'''
 |align=left|'''[[KSV Wevelgem]]'''
-|raus
+|<span title="OSE Runde 4 (OSCQ)">raus</span>
 |2
-|<span style=color:green>1,0</span>
-|<span style=color:green>5,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 1,0">1,0</span>
+|<span style=color:blue title="OSE Runde 4 (OSCQ) 5,0 raus">''5,0''</span>
 !6,0
 |7%
 |-align=center
@@ -2116,10 +2127,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/LTU.gif '''LTU'''
 |align=left|'''[[SK Nevezis Gelezinis]]'''
-|raus
+|<span title="OSE Runde 3 (OSE)">raus</span>
 |1
 | -
-|<span style=color:green>6,0</span>
+|<span style=color:darkgreen title="OSE Runde 3 (OSE) 6,0 raus">6,0</span>
 !6,0
 |12%
 |-align=center
@@ -2129,10 +2140,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |104
 |align=left|http://os.ongapo.com/images/flaggen/LVA.gif '''LVA'''
 |align=left|'''[[SC Lignums]]'''
-|raus
+|<span title="OSEQ Runde 3 (OSEQ)">raus</span>
 |2
-|<span style=color:green>3,0</span>
-|<span style=color:green>3,0</span>
+|<span style=color:blue title="OSE Runde 2 (OSCQ) 3,0">''3,0''</span>
+|<span style=color:lime title="OSEQ Runde 3 (OSEQ) 3,0 raus">''3,0''</span>
 !6,0
 |12%
 |-align=center
@@ -2142,10 +2153,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/NOR.gif '''NOR'''
 |align=left|'''[[Sogndal Fotball]]'''
-|raus
+|<span title="OSE Runde 4 (OSCQ)">raus</span>
 |1
 | -
-|<span style=color:green>6,0</span>
+|<span style=color:blue title="OSE Runde 4 (OSCQ) 6,0 raus">''6,0''</span>
 !6,0
 |24%
 |-align=center
@@ -2155,10 +2166,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/ISL.gif '''ISL'''
 |align=left|'''[[Leiftur Akranes]]'''
-|raus
+|<span title="OSE Runde 3 (OSE)">raus</span>
 |1
 | -
-|<span style=color:green>6,0</span>
+|<span style=color:darkgreen title="OSE Runde 3 (OSE) 6,0 raus">6,0</span>
 !6,0
 |20%
 |-align=center style="border-top:2px solid grey"
@@ -2170,7 +2181,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[AS Caen]]'''
 | -
 |1
-|<span style=color:green>5,5</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSEQ) 5,5">''5,5''</span>
 | -
 !5,5
 |7%
@@ -2181,10 +2192,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/ENG.gif '''ENG'''
 |align=left|'''[[Athletic Scunthorpe]]'''
-|raus
+|<span title="OSC-HR (OSCQ)">raus</span>
 |1
 | -
-|<span style=color:red>5,5</span>
+|<span style=color:orange title="OSC-HR (OSCQ) 5,5 raus">''5,5''</span>
 !5,5
 |5%
 |-align=center
@@ -2194,10 +2205,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |166
 |align=left|http://os.ongapo.com/images/flaggen/SWE.gif '''SWE'''
 |align=left|'''[[Elfsborg BK]]'''
-|raus
+|<span title="OSEQ Runde 3 (OSEQ)">raus</span>
 |2
-|<span style=color:green>1,5</span>
-|<span style=color:green>4,0</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 1,5">''1,5''</span>
+|<span style=color:lime title="OSEQ Runde 3 (OSEQ) 4,0 raus">''4,0''</span>
 !5,5
 |10%
 |-align=center
@@ -2207,10 +2218,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/DEN.gif '''DEN'''
 |align=left|'''[[Bagsværd Kopenhagen]]'''
-|raus
+|<span title="OSE Runde 2 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>5,5</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSEQ) 5,5 raus">''5,5''</span>
 !5,5
 |6%
 |-align=center
@@ -2222,7 +2233,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[FC Torrense]]'''
 | -
 |1
-|<span style=color:green>5,5</span>
+|<span style=color:blue title="OSE Runde 3 (OSCQ) 5,5">''5,5''</span>
 | -
 !5,5
 |7%
@@ -2235,7 +2246,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[AF Tel-Aviv]]'''
 | -
 |1
-|<span style=color:green>5,5</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSEQ) 5,5">''5,5''</span>
 | -
 !5,5
 |9%
@@ -2246,10 +2257,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/ESP.gif '''ESP'''
 |align=left|'''[[San Torrelavega]]'''
-|raus
+|<span title="OSE Runde 3 (OSCQ)">raus</span>
 |1
 | -
-|<span style=color:green>5,5</span>
+|<span style=color:blue title="OSE Runde 3 (OSCQ) 5,5 raus">''5,5''</span>
 !5,5
 |11%
 |-align=center
@@ -2261,7 +2272,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Dukla Pilsen]]'''
 | -
 |1
-|<span style=color:red>5,5</span>
+|<span style=color:orange title="OSC-HR (OSCQ) 5,5">''5,5''</span>
 | -
 !5,5
 |24%
@@ -2272,10 +2283,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/POR.gif '''POR'''
 |align=left|'''[[Benfica Leixões]]'''
-|raus
+|<span title="OSE Runde 3 (OSCQ)">raus</span>
 |1
 | -
-|<span style=color:green>5,5</span>
+|<span style=color:blue title="OSE Runde 3 (OSCQ) 5,5 raus">''5,5''</span>
 !5,5
 |7%
 |-align=center
@@ -2285,10 +2296,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/ARM.gif '''ARM'''
 |align=left|'''[[ASC Yerevan]]'''
-|raus
+|<span title="OSE Runde 4 (OSCQ)">raus</span>
 |1
 | -
-|<span style=color:green>5,5</span>
+|<span style=color:blue title="OSE Runde 4 (OSCQ) 5,5 raus">''5,5''</span>
 !5,5
 |24%
 |-align=center style="border-top:2px solid grey"
@@ -2300,7 +2311,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[FC Burjassot]]'''
 | -
 |1
-|<span style=color:red>5,0</span>
+|<span style=color:orange title="OSC-HR (OSC) 5,0">5,0</span>
 | -
 !5,0
 |10%
@@ -2313,7 +2324,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[SC Kaiserslautern]]'''
 | -
 |1
-|<span style=color:green>5,0</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 5,0">5,0</span>
 | -
 !5,0
 |6%
@@ -2324,10 +2335,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |104
 |align=left|http://os.ongapo.com/images/flaggen/CZE.gif '''CZE'''
 |align=left|'''[[Slavia Steti]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |2
-|<span style=color:green>5,0</span>
-|<span style=color:green>0,0</span>
+|<span style=color:blue title="OSE Runde 3 (OSCQ) 5,0">''5,0''</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0 raus">0,0</span>
 !5,0
 |22%
 |-align=center
@@ -2339,7 +2350,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Thor Reykjavik]]'''
 | -
 |1
-|<span style=color:green>5,0</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 5,0">5,0</span>
 | -
 !5,0
 |17%
@@ -2350,10 +2361,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |104
 |align=left|http://os.ongapo.com/images/flaggen/LTU.gif '''LTU'''
 |align=left|'''[[Nabga Gargzdai]]'''
-|raus
+|<span title="OSEQ Runde 2 (OSEQ)">raus</span>
 |2
-|<span style=color:green>3,0</span>
-|<span style=color:green>2,0</span>
+|<span style=color:blue title="OSE Runde 2 (OSCQ) 3,0">''3,0''</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 2,0 raus">''2,0''</span>
 !5,0
 |10%
 |-align=center
@@ -2365,7 +2376,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Thistle Glasgow]]'''
 | -
 |1
-|<span style=color:green>5,0</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 5,0">5,0</span>
 | -
 !5,0
 |13%
@@ -2376,10 +2387,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |178
 |align=left|http://os.ongapo.com/images/flaggen/IRL.gif '''IRL'''
 |align=left|'''[[Dublin United]]'''
-|raus
+|<span title="OSE Runde 2 (OSEQ)">raus</span>
 |2
-|<span style=color:green>1,0</span>
-|<span style=color:green>4,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 1,0">''1,0''</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSEQ) 4,0 raus">''4,0''</span>
 !5,0
 |10%
 |-align=center
@@ -2389,10 +2400,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/LUX.gif '''LUX'''
 |align=left|'''[[CF Grevenmacher]]'''
-|raus
+|<span title="OSC-HR (OSC)">raus</span>
 |1
 | -
-|<span style=color:red>5,0</span>
+|<span style=color:orange title="OSC-HR (OSC) 5,0 raus">5,0</span>
 !5,0
 |10%
 |-align=center
@@ -2402,10 +2413,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/ITA.gif '''ITA'''
 |align=left|'''[[SSC Tricase]]'''
-|raus
+|<span title="OSE Runde 2 (OSE)">raus</span>
 |1
 | -
-|<span style=color:green>5,0</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 5,0 raus">5,0</span>
 !5,0
 |4%
 |-align=center
@@ -2415,10 +2426,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/ESP.gif '''ESP'''
 |align=left|'''[[CF Linares]]'''
-|raus
+|<span title="OSE Runde 2 (OSE)">raus</span>
 |1
 | -
-|<span style=color:green>5,0</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 5,0 raus">5,0</span>
 !5,0
 |10%
 |-align=center
@@ -2430,7 +2441,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Hebar Minor]]'''
 | -
 |1
-|<span style=color:green>5,0</span>
+|<span style=color:lime title="OSEQ Runde 3 (OSEQ) 5,0">''5,0''</span>
 | -
 !5,0
 |26%
@@ -2443,7 +2454,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Whitehall United]]'''
 | -
 |1
-|<span style=color:green>5,0</span>
+|<span style=color:darkgreen title="OSE Runde 3 (OSE) 5,0">5,0</span>
 | -
 !5,0
 |10%
@@ -2454,10 +2465,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/SVN.gif '''SVN'''
 |align=left|'''[[NK Kidricevo]]'''
-|raus
+|<span title="OSEQ Runde 3 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>5,0</span>
+|<span style=color:lime title="OSEQ Runde 3 (OSEQ) 5,0 raus">''5,0''</span>
 !5,0
 |10%
 |-align=center
@@ -2469,7 +2480,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Kirbvar Krivoj Rog]]'''
 | -
 |1
-|<span style=color:green>5,0</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 5,0">5,0</span>
 | -
 !5,0
 |11%
@@ -2482,7 +2493,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Spartak Iskar]]'''
 | -
 |1
-|<span style=color:green>5,0</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 5,0">5,0</span>
 | -
 !5,0
 |26%
@@ -2493,10 +2504,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |142
 |align=left|http://os.ongapo.com/images/flaggen/AUT.gif '''AUT'''
 |align=left|'''[[Austria Steyr]]'''
-|raus
+|<span title="OSEQ Runde 2 (OSEQ)">raus</span>
 |2
-|<span style=color:green>2,0</span>
-|<span style=color:green>2,5</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 2,0">2,0</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 2,5 raus">''2,5''</span>
 !4,5
 |12%
 |-align=center
@@ -2506,10 +2517,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |104
 |align=left|http://os.ongapo.com/images/flaggen/SUI.gif '''SUI'''
 |align=left|'''[[Mäntix Basel]]'''
-|raus
+|<span title="OSEQ Runde 2 (OSEQ)">raus</span>
 |2
-|<span style=color:green>3,0</span>
-|<span style=color:green>1,5</span>
+|<span style=color:lime title="OSEQ Runde 3 (OSEQ) 3,0">''3,0''</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 1,5 raus">''1,5''</span>
 !4,5
 |13%
 |-align=center
@@ -2519,10 +2530,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |81
 |align=left|http://os.ongapo.com/images/flaggen/FRO.gif '''FRO'''
 |align=left|'''[[Viking Midvágur]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |2
-|<span style=color:green>4,0</span>
-|<span style=color:green>0,5</span>
+|<span style=color:lime title="OSEQ Runde 3 (OSEQ) 4,0">''4,0''</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5 raus">''0,5''</span>
 !4,5
 |9%
 |-align=center
@@ -2532,10 +2543,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/HUN.gif '''HUN'''
 |align=left|'''[[Valogatott Budapest]]'''
-|raus
+|<span title="OSEQ Runde 3 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>4,5</span>
+|<span style=color:lime title="OSEQ Runde 3 (OSEQ) 4,5 raus">''4,5''</span>
 !4,5
 |12%
 |-align=center
@@ -2545,10 +2556,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/BLR.gif '''BLR'''
 |align=left|'''[[ZSKA Orsha]]'''
-|raus
+|<span title="OSE Runde 4 (OSCQ)">raus</span>
 |1
 | -
-|<span style=color:green>4,5</span>
+|<span style=color:blue title="OSE Runde 4 (OSCQ) 4,5 raus">''4,5''</span>
 !4,5
 |27%
 |-align=center
@@ -2558,10 +2569,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |122
 |align=left|http://os.ongapo.com/images/flaggen/WAL.gif '''WAL'''
 |align=left|'''[[Pontllanfraith William F.C.]]'''
-|raus
+|<span title="OSEQ Runde 2 (OSEQ)">raus</span>
 |2
-|<span style=color:green>2,5</span>
-|<span style=color:green>2,0</span>
+|<span style=color:blue title="OSE Runde 3 (OSCQ) 2,5">''2,5''</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 2,0 raus">''2,0''</span>
 !4,5
 |8%
 |-align=center
@@ -2571,10 +2582,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |166
 |align=left|http://os.ongapo.com/images/flaggen/SMR.gif '''SMR'''
 |align=left|'''[[SS Faetano]]'''
-|raus
+|<span title="OSE Runde 2 (OSE)">raus</span>
 |2
-|<span style=color:green>1,5</span>
-|<span style=color:green>3,0</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 1,5">''1,5''</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 3,0 raus">3,0</span>
 !4,5
 |8%
 |-align=center style="border-top:2px solid grey"
@@ -2584,10 +2595,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |178
 |align=left|http://os.ongapo.com/images/flaggen/MLT.gif '''MLT'''
 |align=left|'''[[St. Joseph SC]]'''
-|raus
+|<span title="OSE Runde 3 (OSCQ)">raus</span>
 |2
-|<span style=color:green>1,0</span>
-|<span style=color:green>3,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 1,0">''1,0''</span>
+|<span style=color:blue title="OSE Runde 3 (OSCQ) 3,0 raus">''3,0''</span>
 !4,0
 |5%
 |-align=center
@@ -2599,7 +2610,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[FC Nivellois]]'''
 | -
 |1
-|<span style=color:red>4,0</span>
+|<span style=color:orange title="OSC-HR (OSC) 4,0">4,0</span>
 | -
 !4,0
 |4%
@@ -2610,10 +2621,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |104
 |align=left|http://os.ongapo.com/images/flaggen/LUX.gif '''LUX'''
 |align=left|'''[[Blue Boys Etzelbrück]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |2
-|<span style=color:green>3,0</span>
-|<span style=color:green>1,0</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 3,0">''3,0''</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 1,0 raus">1,0</span>
 !4,0
 |8%
 |-align=center
@@ -2623,10 +2634,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/ENG.gif '''ENG'''
 |align=left|'''[[Blackburn City]]'''
-|raus
+|<span title="OSE Runde 2 (OSE)">raus</span>
 |1
 | -
-|<span style=color:green>4,0</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 4,0 raus">4,0</span>
 !4,0
 |4%
 |-align=center
@@ -2636,10 +2647,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/IRL.gif '''IRL'''
 |align=left|'''[[SC Shanagolden]]'''
-|raus
+|<span title="OSE Runde 2 (OSE)">raus</span>
 |1
 | -
-|<span style=color:green>4,0</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 4,0 raus">4,0</span>
 !4,0
 |8%
 |-align=center
@@ -2649,10 +2660,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/LVA.gif '''LVA'''
 |align=left|'''[[PFV Vetra Riga]]'''
-|raus
+|<span title="OSE Runde 3 (OSCQ)">raus</span>
 |1
 | -
-|<span style=color:green>4,0</span>
+|<span style=color:blue title="OSE Runde 3 (OSCQ) 4,0 raus">''4,0''</span>
 !4,0
 |8%
 |-align=center
@@ -2664,7 +2675,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Intersport Carpineni]]'''
 | -
 |1
-|<span style=color:green>4,0</span>
+|<span style=color:lime title="OSEQ Runde 3 (OSEQ) 4,0">''4,0''</span>
 | -
 !4,0
 |33%
@@ -2675,10 +2686,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/BIH.gif '''BIH'''
 |align=left|'''[[FK Ugljevik]]'''
-|raus
+|<span title="OSEQ Runde 3 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>4,0</span>
+|<span style=color:lime title="OSEQ Runde 3 (OSEQ) 4,0 raus">''4,0''</span>
 !4,0
 |5%
 |-align=center
@@ -2690,7 +2701,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[CD Gernika]]'''
 | -
 |1
-|<span style=color:green>4,0</span>
+|<span style=color:blue title="OSE Runde 3 (OSCQ) 4,0">''4,0''</span>
 | -
 !4,0
 |8%
@@ -2701,10 +2712,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |104
 |align=left|http://os.ongapo.com/images/flaggen/BUL.gif '''BUL'''
 |align=left|'''[[Lokomotive Burgas]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |2
-|<span style=color:green>3,0</span>
-|<span style=color:green>1,0</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 3,0">''3,0''</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 1,0 raus">''1,0''</span>
 !4,0
 |21%
 |-align=center
@@ -2716,7 +2727,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Lokomotive Zagreb]]'''
 | -
 |1
-|<span style=color:green>4,0</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 4,0">4,0</span>
 | -
 !4,0
 |7%
@@ -2729,7 +2740,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Lok Stavropol]]'''
 | -
 |1
-|<span style=color:red>4,0</span>
+|<span style=color:orange title="OSC-HR (OSC) 4,0">4,0</span>
 | -
 !4,0
 |12%
@@ -2742,7 +2753,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Malmö IS]]'''
 | -
 |1
-|<span style=color:green>4,0</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 4,0">4,0</span>
 | -
 !4,0
 |7%
@@ -2755,7 +2766,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Olimpija Nagykanizsa]]'''
 | -
 |1
-|<span style=color:green>4,0</span>
+|<span style=color:lime title="OSEQ Runde 3 (OSEQ) 4,0">''4,0''</span>
 | -
 !4,0
 |10%
@@ -2768,7 +2779,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Mattersburg OSC]]'''
 | -
 |1
-|<span style=color:green>4,0</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 4,0">4,0</span>
 | -
 !4,0
 |10%
@@ -2781,7 +2792,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[FC Kabel]]'''
 | -
 |1
-|<span style=color:green>4,0</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 4,0">4,0</span>
 | -
 !4,0
 |5%
@@ -2794,7 +2805,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Stavanger Fotball]]'''
 | -
 |1
-|<span style=color:green>3,5</span>
+|<span style=color:blue title="OSE Runde 3 (OSCQ) 3,5">''3,5''</span>
 | -
 !3,5
 |14%
@@ -2805,10 +2816,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/POR.gif '''POR'''
 |align=left|'''[[FC Ermesinde]]'''
-|raus
+|<span title="OSEQ Runde 3 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>3,5</span>
+|<span style=color:lime title="OSEQ Runde 3 (OSEQ) 3,5 raus">''3,5''</span>
 !3,5
 |4%
 |-align=center
@@ -2818,10 +2829,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/BIH.gif '''BIH'''
 |align=left|'''[[NK Mostar]]'''
-|raus
+|<span title="OSEQ Runde 3 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>3,5</span>
+|<span style=color:lime title="OSEQ Runde 3 (OSEQ) 3,5 raus">''3,5''</span>
 !3,5
 |4%
 |-align=center
@@ -2831,10 +2842,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |104
 |align=left|http://os.ongapo.com/images/flaggen/NED.gif '''NED'''
 |align=left|'''[[FC Nijmegen]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |2
-|<span style=color:red>3,0</span>
-|<span style=color:green>0,5</span>
+|<span style=color:orange title="OSC-HR (OSC) 3,0">3,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5 raus">''0,5''</span>
 !3,5
 |5%
 |-align=center
@@ -2844,10 +2855,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |98
 |align=left|http://os.ongapo.com/images/flaggen/BIH.gif '''BIH'''
 |align=left|'''[[Krusno Kakanj]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |2
-|<span style=color:green>3,5</span>
-|<span style=color:green>0,0</span>
+|<span style=color:blue title="OSE Runde 3 (OSCQ) 3,5">''3,5''</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0 raus">''0,0''</span>
 !3,5
 |4%
 |-align=center
@@ -2859,7 +2870,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Groclin Wielkopolski]]'''
 | -
 |1
-|<span style=color:green>3,5</span>
+|<span style=color:lime title="OSEQ Runde 3 (OSEQ) 3,5">''3,5''</span>
 | -
 !3,5
 |15%
@@ -2872,7 +2883,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Skendija Skopje]]'''
 | -
 |1
-|<span style=color:green>3,5</span>
+|<span style=color:blue title="OSE Runde 3 (OSCQ) 3,5">''3,5''</span>
 | -
 !3,5
 |7%
@@ -2883,10 +2894,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/AUT.gif '''AUT'''
 |align=left|'''[[VFC Rheintal Wolfurt]]'''
-|raus
+|<span title="OSE Runde 3 (OSCQ)">raus</span>
 |1
 | -
-|<span style=color:green>3,5</span>
+|<span style=color:blue title="OSE Runde 3 (OSCQ) 3,5 raus">''3,5''</span>
 !3,5
 |9%
 |-align=center
@@ -2896,10 +2907,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/BEL.gif '''BEL'''
 |align=left|'''[[SC Tubize]]'''
-|raus
+|<span title="OSE Runde 3 (OSCQ)">raus</span>
 |1
 | -
-|<span style=color:green>3,5</span>
+|<span style=color:blue title="OSE Runde 3 (OSCQ) 3,5 raus">''3,5''</span>
 !3,5
 |4%
 |-align=center
@@ -2909,10 +2920,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |178
 |align=left|http://os.ongapo.com/images/flaggen/UKR.gif '''UKR'''
 |align=left|'''[[Choromonets Odessa]]'''
-|raus
+|<span title="OSEQ Runde 3 (OSEQ)">raus</span>
 |2
-|<span style=color:green>1,0</span>
-|<span style=color:green>2,5</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 1,0">''1,0''</span>
+|<span style=color:lime title="OSEQ Runde 3 (OSEQ) 2,5 raus">''2,5''</span>
 !3,5
 |8%
 |-align=center
@@ -2922,10 +2933,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |178
 |align=left|http://os.ongapo.com/images/flaggen/KAZ.gif '''KAZ'''
 |align=left|'''[[Dynamo Uralsk]]'''
-|raus
+|<span title="OSEQ Runde 2 (OSEQ)">raus</span>
 |2
-|<span style=color:green>1,0</span>
-|<span style=color:green>2,5</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 1,0">1,0</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 2,5 raus">''2,5''</span>
 !3,5
 |9%
 |-align=center style="border-top:2px solid grey"
@@ -2935,10 +2946,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/FRA.gif '''FRA'''
 |align=left|'''[[Athletique Lyon]]'''
-|raus
+|<span title="OSE Runde 2 (OSE)">raus</span>
 |1
 | -
-|<span style=color:green>3,0</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 3,0 raus">3,0</span>
 !3,0
 |4%
 |-align=center
@@ -2948,10 +2959,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |166
 |align=left|http://os.ongapo.com/images/flaggen/ISL.gif '''ISL'''
 |align=left|'''[[KF Hofsstaðir Stjarnan]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |2
-|<span style=color:green>2,5</span>
-|<span style=color:green>0,5</span>
+|<span style=color:blue title="OSE Runde 3 (OSCQ) 2,5">''2,5''</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5 raus">''0,5''</span>
 !3,0
 |10%
 |-align=center
@@ -2963,7 +2974,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[AS Foggia]]'''
 | -
 |1
-|<span style=color:green>3,0</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 3,0">3,0</span>
 | -
 !3,0
 |2%
@@ -2974,10 +2985,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |178
 |align=left|http://os.ongapo.com/images/flaggen/MLT.gif '''MLT'''
 |align=left|'''[[Santa Lucia]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |2
-|<span style=color:green>1,0</span>
-|<span style=color:green>2,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 1,0">''1,0''</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 2,0 raus">2,0</span>
 !3,0
 |4%
 |-align=center
@@ -2989,7 +3000,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Biochimik Wolga]]'''
 | -
 |1
-|<span style=color:green>3,0</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 3,0">3,0</span>
 | -
 !3,0
 |9%
@@ -3000,10 +3011,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/AUT.gif '''AUT'''
 |align=left|'''[[Blau-Weiß Lustenau]]'''
-|raus
+|<span title="OSEQ Runde 2 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>3,0</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 3,0 raus">''3,0''</span>
 !3,0
 |8%
 |-align=center
@@ -3013,10 +3024,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/FIN.gif '''FIN'''
 |align=left|'''[[BK Gnistan]]'''
-|raus
+|<span title="OSE Runde 2 (OSE)">raus</span>
 |1
 | -
-|<span style=color:green>3,0</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 3,0 raus">3,0</span>
 !3,0
 |15%
 |-align=center
@@ -3026,10 +3037,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/SCO.gif '''SCO'''
 |align=left|'''[[St. Johnstone Athletic]]'''
-|raus
+|<span title="OSEQ Runde 3 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>3,0</span>
+|<span style=color:lime title="OSEQ Runde 3 (OSEQ) 3,0 raus">''3,0''</span>
 !3,0
 |8%
 |-align=center
@@ -3039,10 +3050,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |178
 |align=left|http://os.ongapo.com/images/flaggen/ARM.gif '''ARM'''
 |align=left|'''[[AAL Yerevan]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |2
-|<span style=color:green>1,0</span>
-|<span style=color:green>2,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 1,0">1,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 2,0 raus">2,0</span>
 !3,0
 |13%
 |-align=center
@@ -3054,7 +3065,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Belnishja Bobruisk]]'''
 | -
 |1
-|<span style=color:green>3,0</span>
+|<span style=color:lime title="OSEQ Runde 3 (OSEQ) 3,0">''3,0''</span>
 | -
 !3,0
 |18%
@@ -3065,10 +3076,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |256
 |align=left|http://os.ongapo.com/images/flaggen/GEO.gif '''GEO'''
 |align=left|'''[[Samgularis Gori]]'''
-|raus
+|<span title="OSE Runde 2 (OSE)">raus</span>
 |2
-|<span style=color:green>0,0</span>
-|<span style=color:green>3,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0">''0,0''</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 3,0 raus">3,0</span>
 !3,0
 |9%
 |-align=center
@@ -3080,7 +3091,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Orense RC]]'''
 | -
 |1
-|<span style=color:green>3,0</span>
+|<span style=color:lime title="OSEQ Runde 3 (OSEQ) 3,0">''3,0''</span>
 | -
 !3,0
 |6%
@@ -3091,10 +3102,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/ENG.gif '''ENG'''
 |align=left|'''[[Hereford City]]'''
-|raus
+|<span title="OSE Runde 2 (OSE)">raus</span>
 |1
 | -
-|<span style=color:green>3,0</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 3,0 raus">3,0</span>
 !3,0
 |3%
 |-align=center
@@ -3104,10 +3115,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |142
 |align=left|http://os.ongapo.com/images/flaggen/ALB.gif '''ALB'''
 |align=left|'''[[Partisani Pogradeci]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |2
-|<span style=color:green>3,0</span>
-|<span style=color:green>0,0</span>
+|<span style=color:blue title="OSE Runde 3 (OSCQ) 3,0">''3,0''</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0 raus">''0,0''</span>
 !3,0
 |16%
 |-align=center
@@ -3119,7 +3130,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Lok Tskhaltubo]]'''
 | -
 |1
-|<span style=color:green>3,0</span>
+|<span style=color:blue title="OSE Runde 3 (OSCQ) 3,0">''3,0''</span>
 | -
 !3,0
 |9%
@@ -3130,10 +3141,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/ITA.gif '''ITA'''
 |align=left|'''[[SC Sangiustese]]'''
-|raus
+|<span title="OSE Runde 2 (OSE)">raus</span>
 |1
 | -
-|<span style=color:green>3,0</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 3,0 raus">3,0</span>
 !3,0
 |2%
 |-align=center
@@ -3143,10 +3154,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |178
 |align=left|http://os.ongapo.com/images/flaggen/KAZ.gif '''KAZ'''
 |align=left|'''[[FK Torpedo Astana]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |2
-|<span style=color:green>1,0</span>
-|<span style=color:green>2,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 1,0">1,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 2,0 raus">2,0</span>
 !3,0
 |8%
 |-align=center
@@ -3156,10 +3167,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/SMR.gif '''SMR'''
 |align=left|'''[[Atalanta Virtus]]'''
-|raus
+|<span title="OSEQ Runde 3 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>3,0</span>
+|<span style=color:lime title="OSEQ Runde 3 (OSEQ) 3,0 raus">''3,0''</span>
 !3,0
 |5%
 |-align=center
@@ -3171,7 +3182,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Glacier Sion]]'''
 | -
 |1
-|<span style=color:green>3,0</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 3,0">3,0</span>
 | -
 !3,0
 |8%
@@ -3182,10 +3193,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/ISR.gif '''ISR'''
 |align=left|'''[[Kfar-Shalem]]'''
-|raus
+|<span title="OSEQ Runde 3 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>3,0</span>
+|<span style=color:lime title="OSEQ Runde 3 (OSEQ) 3,0 raus">''3,0''</span>
 !3,0
 |5%
 |-align=center style="border-top:2px solid grey"
@@ -3197,7 +3208,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[FK Kokshetau]]'''
 | -
 |1
-|<span style=color:green>2,5</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 2,5">''2,5''</span>
 | -
 !2,5
 |6%
@@ -3210,7 +3221,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[NK Bekjia Grude]]'''
 | -
 |1
-|<span style=color:green>2,5</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 2,5">''2,5''</span>
 | -
 !2,5
 |3%
@@ -3221,10 +3232,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/GRE.gif '''GRE'''
 |align=left|'''[[AO Athen]]'''
-|raus
+|<span title="OSEQ Runde 2 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>2,5</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 2,5 raus">''2,5''</span>
 !2,5
 |5%
 |-align=center
@@ -3236,7 +3247,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[AS Martina Franca]]'''
 | -
 |1
-|<span style=color:green>2,5</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 2,5">''2,5''</span>
 | -
 !2,5
 |2%
@@ -3247,10 +3258,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/CYP.gif '''CYP'''
 |align=left|'''[[APOEL Paphos]]'''
-|raus
+|<span title="OSEQ Runde 3 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>2,5</span>
+|<span style=color:lime title="OSEQ Runde 3 (OSEQ) 2,5 raus">''2,5''</span>
 !2,5
 |7%
 |-align=center
@@ -3262,7 +3273,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[INTER Helsinki]]'''
 | -
 |1
-|<span style=color:green>2,5</span>
+|<span style=color:blue title="OSE Runde 3 (OSCQ) 2,5">''2,5''</span>
 | -
 !2,5
 |13%
@@ -3275,7 +3286,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Skoda Skopelos]]'''
 | -
 |1
-|<span style=color:green>2,5</span>
+|<span style=color:lime title="OSEQ Runde 3 (OSEQ) 2,5">''2,5''</span>
 | -
 !2,5
 |5%
@@ -3286,10 +3297,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |229
 |align=left|http://os.ongapo.com/images/flaggen/MDA.gif '''MDA'''
 |align=left|'''[[FC Edinet]]'''
-|raus
+|<span title="OSE Runde 2 (OSCQ)">raus</span>
 |2
-|<span style=color:green>0,5</span>
-|<span style=color:green>2,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5">''0,5''</span>
+|<span style=color:blue title="OSE Runde 2 (OSCQ) 2,0 raus">''2,0''</span>
 !2,5
 |21%
 |-align=center
@@ -3301,7 +3312,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Alzano Lupi]]'''
 | -
 |1
-|<span style=color:green>2,5</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 2,5">''2,5''</span>
 | -
 !2,5
 |2%
@@ -3312,10 +3323,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |256
 |align=left|http://os.ongapo.com/images/flaggen/BEL.gif '''BEL'''
 |align=left|'''[[FC Beerschot]]'''
-|raus
+|<span title="OSEQ Runde 2 (OSEQ)">raus</span>
 |2
-|<span style=color:green>0,0</span>
-|<span style=color:green>2,5</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0">0,0</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 2,5 raus">''2,5''</span>
 !2,5
 |3%
 |-align=center
@@ -3327,7 +3338,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[SC Kerry Town]]'''
 | -
 |1
-|<span style=color:green>2,5</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 2,5">''2,5''</span>
 | -
 !2,5
 |5%
@@ -3340,7 +3351,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Benfica Bragança]]'''
 | -
 |1
-|<span style=color:green>2,5</span>
+|<span style=color:lime title="OSEQ Runde 3 (OSEQ) 2,5">''2,5''</span>
 | -
 !2,5
 |3%
@@ -3351,10 +3362,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/HUN.gif '''HUN'''
 |align=left|'''[[FC Budapest]]'''
-|raus
+|<span title="OSEQ Runde 2 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>2,5</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 2,5 raus">''2,5''</span>
 !2,5
 |6%
 |-align=center
@@ -3366,7 +3377,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Poseidon Nikea]]'''
 | -
 |1
-|<span style=color:green>2,5</span>
+|<span style=color:blue title="OSE Runde 2 (OSCQ) 2,5">''2,5''</span>
 | -
 !2,5
 |5%
@@ -3377,10 +3388,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/FRO.gif '''FRO'''
 |align=left|'''[[KI Vestmanna]]'''
-|raus
+|<span title="OSE Runde 2 (OSCQ)">raus</span>
 |1
 | -
-|<span style=color:green>2,5</span>
+|<span style=color:blue title="OSE Runde 2 (OSCQ) 2,5 raus">''2,5''</span>
 !2,5
 |5%
 |-align=center
@@ -3392,7 +3403,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Physik Glogow]]'''
 | -
 |1
-|<span style=color:green>2,5</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 2,5">''2,5''</span>
 | -
 !2,5
 |11%
@@ -3405,7 +3416,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Dinamo Dubasari]]'''
 | -
 |1
-|<span style=color:green>2,5</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 2,5">''2,5''</span>
 | -
 !2,5
 |21%
@@ -3418,7 +3429,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[FK Dainava Jegeriai]]'''
 | -
 |1
-|<span style=color:green>2,5</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 2,5">''2,5''</span>
 | -
 !2,5
 |5%
@@ -3429,10 +3440,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/LUX.gif '''LUX'''
 |align=left|'''[[Olympique Mansfeldia]]'''
-|raus
+|<span title="OSEQ Runde 2 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>2,5</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 2,5 raus">''2,5''</span>
 !2,5
 |5%
 |-align=center
@@ -3442,10 +3453,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |122
 |align=left|http://os.ongapo.com/images/flaggen/AZE.gif '''AZE'''
 |align=left|'''[[FC Baku]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |2
-|<span style=color:green>2,5</span>
-|<span style=color:green>0,0</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 2,5">''2,5''</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0 raus">0,0</span>
 !2,5
 |3%
 |-align=center
@@ -3455,10 +3466,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/CRO.gif '''CRO'''
 |align=left|'''[[HNK 1999 Pitomaca]]'''
-|raus
+|<span title="OSEQ Runde 2 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>2,5</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 2,5 raus">''2,5''</span>
 !2,5
 |4%
 |-align=center
@@ -3468,10 +3479,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/SCG.gif '''SCG'''
 |align=left|'''[[BD Podgorica]]'''
-|raus
+|<span title="OSEQ Runde 2 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>2,5</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 2,5 raus">''2,5''</span>
 !2,5
 |3%
 |-align=center style="border-top:2px solid grey"
@@ -3483,7 +3494,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Aachener BSC]]'''
 | -
 |1
-|<span style=color:green>2,0</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 2,0">''2,0''</span>
 | -
 !2,0
 |2%
@@ -3494,10 +3505,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |178
 |align=left|http://os.ongapo.com/images/flaggen/RUS.gif '''RUS'''
 |align=left|'''[[FK Metisnik Magnitogorsk]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |2
-|<span style=color:green>1,0</span>
-|<span style=color:green>1,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 1,0">1,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 1,0 raus">1,0</span>
 !2,0
 |6%
 |-align=center
@@ -3507,10 +3518,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |256
 |align=left|http://os.ongapo.com/images/flaggen/GRE.gif '''GRE'''
 |align=left|'''[[Proodeftiki Patra]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |2
-|<span style=color:green>0,0</span>
-|<span style=color:green>2,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0">0,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 2,0 raus">2,0</span>
 !2,0
 |4%
 |-align=center
@@ -3520,10 +3531,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |178
 |align=left|http://os.ongapo.com/images/flaggen/CYP.gif '''CYP'''
 |align=left|'''[[Nea Nikosia]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |2
-|<span style=color:green>1,0</span>
-|<span style=color:green>1,0</span>
+|<span style=color:blue title="OSE Runde 2 (OSCQ) 1,0">''1,0''</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 1,0 raus">''1,0''</span>
 !2,0
 |6%
 |-align=center
@@ -3533,10 +3544,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |178
 |align=left|http://os.ongapo.com/images/flaggen/TUR.gif '''TUR'''
 |align=left|'''[[FC Kardemir]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |2
-|<span style=color:red>1,0</span>
-|<span style=color:green>1,0</span>
+|<span style=color:orange title="OSC-HR (OSC) 1,0">1,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 1,0 raus">1,0</span>
 !2,0
 |5%
 |-align=center
@@ -3546,10 +3557,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |256
 |align=left|http://os.ongapo.com/images/flaggen/LUX.gif '''LUX'''
 |align=left|'''[[CS Mertzig 02]]'''
-|raus
+|<span title="OSE Runde 2 (OSE)">raus</span>
 |2
-|<span style=color:green>0,0</span>
-|<span style=color:green>2,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0">''0,0''</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 2,0 raus">2,0</span>
 !2,0
 |4%
 |-align=center
@@ -3561,7 +3572,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[AO Kreta]]'''
 | -
 |1
-|<span style=color:green>2,0</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 2,0">''2,0''</span>
 | -
 !2,0
 |4%
@@ -3574,7 +3585,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[SC Tampere]]'''
 | -
 |1
-|<span style=color:green>2,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 2,0">2,0</span>
 | -
 !2,0
 |10%
@@ -3587,7 +3598,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Union Schötz]]'''
 | -
 |1
-|<span style=color:green>2,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 2,0">2,0</span>
 | -
 !2,0
 |6%
@@ -3598,10 +3609,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/ESP.gif '''ESP'''
 |align=left|'''[[Real Alicante]]'''
-|raus
+|<span title="OSEQ Runde 2 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>2,0</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 2,0 raus">''2,0''</span>
 !2,0
 |4%
 |-align=center
@@ -3613,7 +3624,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[CF Acui de Jos]]'''
 | -
 |1
-|<span style=color:green>2,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 2,0">2,0</span>
 | -
 !2,0
 |17%
@@ -3626,7 +3637,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Hakarl Hafnarfjördur]]'''
 | -
 |1
-|<span style=color:green>2,0</span>
+|<span style=color:blue title="OSE Runde 3 (OSCQ) 2,0">''2,0''</span>
 | -
 !2,0
 |7%
@@ -3639,7 +3650,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Anorthosis Limassol]]'''
 | -
 |1
-|<span style=color:green>2,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 2,0">2,0</span>
 | -
 !2,0
 |6%
@@ -3652,7 +3663,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Celtic Huntly]]'''
 | -
 |1
-|<span style=color:red>2,0</span>
+|<span style=color:orange title="OSC-HR (OSC) 2,0">2,0</span>
 | -
 !2,0
 |5%
@@ -3665,7 +3676,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[CSKA Gyumri]]'''
 | -
 |1
-|<span style=color:green>2,0</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 2,0">''2,0''</span>
 | -
 !2,0
 |9%
@@ -3676,10 +3687,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/SVK.gif '''SVK'''
 |align=left|'''[[FC Bratislava]]'''
-|raus
+|<span title="OSEQ Runde 2 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>2,0</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 2,0 raus">''2,0''</span>
 !2,0
 |3%
 |-align=center
@@ -3689,10 +3700,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/ESP.gif '''ESP'''
 |align=left|'''[[Real Reyes]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
 | -
-|<span style=color:green>2,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 2,0 raus">2,0</span>
 !2,0
 |4%
 |-align=center
@@ -3702,10 +3713,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |178
 |align=left|http://os.ongapo.com/images/flaggen/IRL.gif '''IRL'''
 |align=left|'''[[Cork College]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |2
-|<span style=color:green>1,0</span>
-|<span style=color:green>1,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 1,0">1,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 1,0 raus">1,0</span>
 !2,0
 |4%
 |-align=center
@@ -3715,10 +3726,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/IRL.gif '''IRL'''
 |align=left|'''[[Cobh Villa]]'''
-|raus
+|<span title="OSEQ Runde 2 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>2,0</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 2,0 raus">''2,0''</span>
 !2,0
 |4%
 |-align=center
@@ -3728,10 +3739,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/SMR.gif '''SMR'''
 |align=left|'''[[US San Marino]]'''
-|raus
+|<span title="OSC-HR (OSC)">raus</span>
 |1
 | -
-|<span style=color:red>2,0</span>
+|<span style=color:orange title="OSC-HR (OSC) 2,0 raus">2,0</span>
 !2,0
 |4%
 |-align=center
@@ -3741,10 +3752,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/KAZ.gif '''KAZ'''
 |align=left|'''[[1.FC Kamenogorsk]]'''
-|raus
+|<span title="OSEQ Runde 2 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>2,0</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 2,0 raus">''2,0''</span>
 !2,0
 |5%
 |-align=center
@@ -3756,7 +3767,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[SW Hundsheim 07]]'''
 | -
 |1
-|<span style=color:green>2,0</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 2,0">''2,0''</span>
 | -
 !2,0
 |5%
@@ -3767,10 +3778,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/FRO.gif '''FRO'''
 |align=left|'''[[SB Sorvagur Vagar]]'''
-|raus
+|<span title="OSEQ Runde 2 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>2,0</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 2,0 raus">''2,0''</span>
 !2,0
 |4%
 |-align=center
@@ -3780,10 +3791,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |178
 |align=left|http://os.ongapo.com/images/flaggen/DEN.gif '''DEN'''
 |align=left|'''[[BK Vanloese]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |2
-|<span style=color:green>1,0</span>
-|<span style=color:green>1,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 1,0">1,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 1,0 raus">1,0</span>
 !2,0
 |2%
 |-align=center
@@ -3793,10 +3804,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |256
 |align=left|http://os.ongapo.com/images/flaggen/POR.gif '''POR'''
 |align=left|'''[[Benfica Beira-Mar]]'''
-|raus
+|<span title="OSE Runde 2 (OSCQ)">raus</span>
 |2
-|<span style=color:green>0,0</span>
-|<span style=color:green>2,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0">''0,0''</span>
+|<span style=color:blue title="OSE Runde 2 (OSCQ) 2,0 raus">''2,0''</span>
 !2,0
 |2%
 |-align=center
@@ -3806,10 +3817,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/CYP.gif '''CYP'''
 |align=left|'''[[AE Larnaca]]'''
-|raus
+|<span title="OSEQ Runde 2 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>2,0</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 2,0 raus">''2,0''</span>
 !2,0
 |6%
 |-align=center
@@ -3819,10 +3830,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/ALB.gif '''ALB'''
 |align=left|'''[[Naftetari Tirana]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
 | -
-|<span style=color:green>2,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 2,0 raus">2,0</span>
 !2,0
 |11%
 |-align=center
@@ -3834,7 +3845,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Olympique Dunkerque]]'''
 | -
 |1
-|<span style=color:green>2,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 2,0">2,0</span>
 | -
 !2,0
 |3%
@@ -3845,10 +3856,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/ISL.gif '''ISL'''
 |align=left|'''[[KF Landselir Keflavik]]'''
-|raus
+|<span title="OSE Runde 2 (OSCQ)">raus</span>
 |1
 | -
-|<span style=color:green>2,0</span>
+|<span style=color:blue title="OSE Runde 2 (OSCQ) 2,0 raus">''2,0''</span>
 !2,0
 |7%
 |-align=center
@@ -3860,7 +3871,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Fyllingen SK]]'''
 | -
 |1
-|<span style=color:green>2,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 2,0">2,0</span>
 | -
 !2,0
 |8%
@@ -3871,10 +3882,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/ISR.gif '''ISR'''
 |align=left|'''[[Haifa United]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
 | -
-|<span style=color:green>2,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 2,0 raus">2,0</span>
 !2,0
 |3%
 |-align=center
@@ -3886,7 +3897,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Korabi Patos]]'''
 | -
 |1
-|<span style=color:green>2,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 2,0">2,0</span>
 | -
 !2,0
 |11%
@@ -3899,7 +3910,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Polonia Plock]]'''
 | -
 |1
-|<span style=color:green>2,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 2,0">2,0</span>
 | -
 !2,0
 |9%
@@ -3910,10 +3921,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/BUL.gif '''BUL'''
 |align=left|'''[[Gigant Suhindol]]'''
-|raus
+|<span title="OSE Runde 2 (OSCQ)">raus</span>
 |1
 | -
-|<span style=color:green>2,0</span>
+|<span style=color:blue title="OSE Runde 2 (OSCQ) 2,0 raus">''2,0''</span>
 !2,0
 |10%
 |-align=center style="border-top:2px solid grey"
@@ -3923,10 +3934,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |229
 |align=left|http://os.ongapo.com/images/flaggen/DEN.gif '''DEN'''
 |align=left|'''[[FC Lundtofte]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |2
-|<span style=color:green>0,5</span>
-|<span style=color:green>1,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5">''0,5''</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 1,0 raus">''1,0''</span>
 !1,5
 |2%
 |-align=center
@@ -3936,10 +3947,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/ISL.gif '''ISL'''
 |align=left|'''[[Viking Grindavik]]'''
-|raus
+|<span title="OSEQ Runde 2 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>1,5</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 1,5 raus">''1,5''</span>
 !1,5
 |5%
 |-align=center
@@ -3949,10 +3960,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |178
 |align=left|http://os.ongapo.com/images/flaggen/FRA.gif '''FRA'''
 |align=left|'''[[Olympique Lusitanos]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |2
-|<span style=color:green>1,0</span>
-|<span style=color:green>0,5</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 1,0">''1,0''</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5 raus">''0,5''</span>
 !1,5
 |2%
 |-align=center
@@ -3964,7 +3975,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Deveronvale United]]'''
 | -
 |1
-|<span style=color:green>1,5</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 1,5">''1,5''</span>
 | -
 !1,5
 |4%
@@ -3975,10 +3986,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |166
 |align=left|http://os.ongapo.com/images/flaggen/CRO.gif '''CRO'''
 |align=left|'''[[N.K. Istra Rovinj]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |2
-|<span style=color:green>1,5</span>
-|<span style=color:green>0,0</span>
+|<span style=color:blue title="OSE Runde 2 (OSCQ) 1,5">''1,5''</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0 raus">0,0</span>
 !1,5
 |3%
 |-align=center
@@ -3990,7 +4001,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Thor Bessastadahreppur]]'''
 | -
 |1
-|<span style=color:green>1,5</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 1,5">''1,5''</span>
 | -
 !1,5
 |5%
@@ -4001,10 +4012,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/DEN.gif '''DEN'''
 |align=left|'''[[Amager 1910]]'''
-|raus
+|<span title="OSEQ Runde 2 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>1,5</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 1,5 raus">''1,5''</span>
 !1,5
 |2%
 |-align=center
@@ -4014,10 +4025,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/GRE.gif '''GRE'''
 |align=left|'''[[Atromitos Saloniki]]'''
-|raus
+|<span title="OSEQ Runde 2 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>1,5</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 1,5 raus">''1,5''</span>
 !1,5
 |3%
 |-align=center
@@ -4027,10 +4038,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/AZE.gif '''AZE'''
 |align=left|'''[[NF Baku]]'''
-|raus
+|<span title="OSEQ Runde 2 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>1,5</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 1,5 raus">''1,5''</span>
 !1,5
 |2%
 |-align=center
@@ -4040,10 +4051,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |229
 |align=left|http://os.ongapo.com/images/flaggen/BUL.gif '''BUL'''
 |align=left|'''[[Sheleznite Pernik]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |2
-|<span style=color:green>0,5</span>
-|<span style=color:green>1,0</span>
+|<span style=color:blue title="OSE Runde 2 (OSCQ) 0,5">''0,5''</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 1,0 raus">1,0</span>
 !1,5
 |8%
 |-align=center
@@ -4055,7 +4066,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Zooveti Zugdidi]]'''
 | -
 |1
-|<span style=color:green>1,5</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 1,5">''1,5''</span>
 | -
 !1,5
 |5%
@@ -4066,10 +4077,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/LVA.gif '''LVA'''
 |align=left|'''[[Policijas Ventspils]]'''
-|raus
+|<span title="OSEQ Runde 2 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>1,5</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 1,5 raus">''1,5''</span>
 !1,5
 |3%
 |-align=center
@@ -4079,10 +4090,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |178
 |align=left|http://os.ongapo.com/images/flaggen/LUX.gif '''LUX'''
 |align=left|'''[[RC Rumelange]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |2
-|<span style=color:green>1,0</span>
-|<span style=color:green>0,5</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 1,0">1,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5 raus">''0,5''</span>
 !1,5
 |3%
 |-align=center
@@ -4092,10 +4103,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/SUI.gif '''SUI'''
 |align=left|'''[[Rapid Schaffhausen]]'''
-|raus
+|<span title="OSEQ Runde 2 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>1,5</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 1,5 raus">''1,5''</span>
 !1,5
 |4%
 |-align=center
@@ -4107,7 +4118,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Torpedo Kiew]]'''
 | -
 |1
-|<span style=color:green>1,5</span>
+|<span style=color:blue title="OSE Runde 3 (OSCQ) 1,5">''1,5''</span>
 | -
 !1,5
 |3%
@@ -4118,10 +4129,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/POL.gif '''POL'''
 |align=left|'''[[FK Olesnica]]'''
-|raus
+|<span title="OSEQ Runde 2 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>1,5</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 1,5 raus">''1,5''</span>
 !1,5
 |6%
 |-align=center style="border-top:2px solid grey"
@@ -4131,10 +4142,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/ESP.gif '''ESP'''
 |align=left|'''[[Real Majadahonda]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
 | -
-|<span style=color:green>1,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 1,0 raus">1,0</span>
 !1,0
 |2%
 |-align=center
@@ -4144,10 +4155,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/BEL.gif '''BEL'''
 |align=left|'''[[KV Rhodienne-Verrewinkel]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
 | -
-|<span style=color:green>1,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 1,0 raus">1,0</span>
 !1,0
 |1%
 |-align=center
@@ -4157,10 +4168,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/GER.gif '''GER'''
 |align=left|'''[[OSV Rostock]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
 | -
-|<span style=color:green>1,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 1,0 raus">1,0</span>
 !1,0
 |1%
 |-align=center
@@ -4170,10 +4181,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |256
 |align=left|http://os.ongapo.com/images/flaggen/AND.gif '''AND'''
 |align=left|'''[[Real Principat]]'''
-|raus
+|<span title="OSE Runde 2 (OSCQ)">raus</span>
 |2
-|<span style=color:green>0,0</span>
-|<span style=color:green>1,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0">''0,0''</span>
+|<span style=color:blue title="OSE Runde 2 (OSCQ) 1,0 raus">''1,0''</span>
 !1,0
 |7%
 |-align=center
@@ -4183,10 +4194,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |178
 |align=left|http://os.ongapo.com/images/flaggen/ARM.gif '''ARM'''
 |align=left|'''[[Unispor Yerevan]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |2
-|<span style=color:green>1,0</span>
-|<span style=color:green>0,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 1,0">1,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0 raus">0,0</span>
 !1,0
 |4%
 |-align=center
@@ -4196,10 +4207,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/CRO.gif '''CRO'''
 |align=left|'''[[Plavo-Bijeli Rijeka]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
 | -
-|<span style=color:green>1,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 1,0 raus">1,0</span>
 !1,0
 |2%
 |-align=center
@@ -4211,7 +4222,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[RW Alkmaar ´67]]'''
 | -
 |1
-|<span style=color:green>1,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 1,0">1,0</span>
 | -
 !1,0
 |1%
@@ -4224,7 +4235,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[KA Haukar]]'''
 | -
 |1
-|<span style=color:green>1,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 1,0">''1,0''</span>
 | -
 !1,0
 |3%
@@ -4237,7 +4248,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[KoJK Kokkola]]'''
 | -
 |1
-|<span style=color:green>1,0</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 1,0">''1,0''</span>
 | -
 !1,0
 |5%
@@ -4248,10 +4259,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |178
 |align=left|http://os.ongapo.com/images/flaggen/ESP.gif '''ESP'''
 |align=left|'''[[CD Loeonesa]]'''
-|raus
+|<span title="OSE Runde 2 (OSCQ)">raus</span>
 |2
-|<span style=color:green>1,0</span>
-|<span style=color:green>0,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 1,0">1,0</span>
+|<span style=color:blue title="OSE Runde 2 (OSCQ) 0,0 raus">''0,0''</span>
 !1,0
 |2%
 |-align=center
@@ -4261,10 +4272,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/IRL.gif '''IRL'''
 |align=left|'''[[Shelbourne Athletics FC]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>1,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 1,0 raus">''1,0''</span>
 !1,0
 |2%
 |-align=center
@@ -4274,10 +4285,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |229
 |align=left|http://os.ongapo.com/images/flaggen/CZE.gif '''CZE'''
 |align=left|'''[[SK Vinohrady Prag]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |2
-|<span style=color:green>0,5</span>
-|<span style=color:green>0,5</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5">''0,5''</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5 raus">''0,5''</span>
 !1,0
 |4%
 |-align=center
@@ -4289,7 +4300,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[CD Lusitanos]]'''
 | -
 |1
-|<span style=color:green>1,0</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 1,0">''1,0''</span>
 | -
 !1,0
 |7%
@@ -4300,10 +4311,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |178
 |align=left|http://os.ongapo.com/images/flaggen/WAL.gif '''WAL'''
 |align=left|'''[[Cardiff College]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |2
-|<span style=color:green>1,0</span>
-|<span style=color:green>0,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 1,0">1,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0 raus">0,0</span>
 !1,0
 |2%
 |-align=center
@@ -4313,10 +4324,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/NED.gif '''NED'''
 |align=left|'''[[BV Waalwijk]]'''
-|raus
+|<span title="OSC-HR (OSC)">raus</span>
 |1
 | -
-|<span style=color:red>1,0</span>
+|<span style=color:orange title="OSC-HR (OSC) 1,0 raus">1,0</span>
 !1,0
 |1%
 |-align=center
@@ -4328,7 +4339,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Enosis Famagusta]]'''
 | -
 |1
-|<span style=color:green>1,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 1,0">''1,0''</span>
 | -
 !1,0
 |3%
@@ -4341,7 +4352,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Dinamo Kapan]]'''
 | -
 |1
-|<span style=color:green>1,0</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 1,0">''1,0''</span>
 | -
 !1,0
 |4%
@@ -4352,10 +4363,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/CYP.gif '''CYP'''
 |align=left|'''[[Kinyras Katokopias]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
 | -
-|<span style=color:green>1,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 1,0 raus">1,0</span>
 !1,0
 |3%
 |-align=center
@@ -4365,10 +4376,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/BIH.gif '''BIH'''
 |align=left|'''[[Drovno Siroki Brijeg]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
 | -
-|<span style=color:green>1,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 1,0 raus">1,0</span>
 !1,0
 |1%
 |-align=center
@@ -4380,7 +4391,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Zaglebie Krakau]]'''
 | -
 |1
-|<span style=color:green>1,0</span>
+|<span style=color:blue title="OSE Runde 2 (OSCQ) 1,0">''1,0''</span>
 | -
 !1,0
 |4%
@@ -4393,7 +4404,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[VV Spakenburg]]'''
 | -
 |1
-|<span style=color:green>1,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 1,0">''1,0''</span>
 | -
 !1,0
 |1%
@@ -4404,10 +4415,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/NIR.gif '''NIR'''
 |align=left|'''[[H and W Celtic]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>1,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 1,0 raus">''1,0''</span>
 !1,0
 |1%
 |-align=center
@@ -4417,10 +4428,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/GER.gif '''GER'''
 |align=left|'''[[KFC Krefeld]]'''
-|raus
+|<span title="OSE Runde 3 (OSCQ)">raus</span>
 |1
 | -
-|<span style=color:green>1,0</span>
+|<span style=color:blue title="OSE Runde 3 (OSCQ) 1,0 raus">''1,0''</span>
 !1,0
 |1%
 |-align=center
@@ -4430,10 +4441,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/WAL.gif '''WAL'''
 |align=left|'''[[United Rhyl]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
 | -
-|<span style=color:green>1,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 1,0 raus">1,0</span>
 !1,0
 |2%
 |-align=center
@@ -4443,10 +4454,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |229
 |align=left|http://os.ongapo.com/images/flaggen/SCG.gif '''SCG'''
 |align=left|'''[[Mladost Svilajnac]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |2
-|<span style=color:green>0,5</span>
-|<span style=color:green>0,5</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5">''0,5''</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5 raus">''0,5''</span>
 !1,0
 |1%
 |-align=center
@@ -4458,7 +4469,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Pirin Kjustendil]]'''
 | -
 |1
-|<span style=color:green>1,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 1,0">1,0</span>
 | -
 !1,0
 |5%
@@ -4469,10 +4480,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |256
 |align=left|http://os.ongapo.com/images/flaggen/SVN.gif '''SVN'''
 |align=left|'''[[SD Triglav Bovec]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |2
-|<span style=color:green>0,0</span>
-|<span style=color:green>1,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0">0,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 1,0 raus">1,0</span>
 !1,0
 |2%
 |-align=center
@@ -4482,10 +4493,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/LUX.gif '''LUX'''
 |align=left|'''[[SC Wiltz]]'''
-|raus
+|<span title="OSE Runde 2 (OSCQ)">raus</span>
 |1
 | -
-|<span style=color:green>1,0</span>
+|<span style=color:blue title="OSE Runde 2 (OSCQ) 1,0 raus">''1,0''</span>
 !1,0
 |2%
 |-align=center
@@ -4497,7 +4508,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Sparta Rijnsburg]]'''
 | -
 |1
-|<span style=color:green>1,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 1,0">''1,0''</span>
 | -
 !1,0
 |1%
@@ -4508,10 +4519,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/DEN.gif '''DEN'''
 |align=left|'''[[FC Helsingoer]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
 | -
-|<span style=color:green>1,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 1,0 raus">1,0</span>
 !1,0
 |1%
 |-align=center
@@ -4521,10 +4532,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/IRL.gif '''IRL'''
 |align=left|'''[[Drogheda FC]]'''
-|raus
+|<span title="OSE Runde 2 (OSCQ)">raus</span>
 |1
 | -
-|<span style=color:green>1,0</span>
+|<span style=color:blue title="OSE Runde 2 (OSCQ) 1,0 raus">''1,0''</span>
 !1,0
 |2%
 |-align=center
@@ -4534,10 +4545,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |178
 |align=left|http://os.ongapo.com/images/flaggen/ISR.gif '''ISR'''
 |align=left|'''[[Ironi Majdel Krum]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |2
-|<span style=color:green>1,0</span>
-|<span style=color:green>0,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 1,0">1,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0 raus">''0,0''</span>
 !1,0
 |2%
 |-align=center
@@ -4547,10 +4558,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/NED.gif '''NED'''
 |align=left|'''[[AFC Ajax Ambacht]]'''
-|raus
+|<span title="OSE Runde 2 (OSCQ)">raus</span>
 |1
 | -
-|<span style=color:green>1,0</span>
+|<span style=color:blue title="OSE Runde 2 (OSCQ) 1,0 raus">''1,0''</span>
 !1,0
 |1%
 |-align=center
@@ -4562,7 +4573,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Polygraktinaka Oleksandria]]'''
 | -
 |1
-|<span style=color:green>1,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 1,0">''1,0''</span>
 | -
 !1,0
 |2%
@@ -4573,10 +4584,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |256
 |align=left|http://os.ongapo.com/images/flaggen/FIN.gif '''FIN'''
 |align=left|'''[[Jokerit Vaasa]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |2
-|<span style=color:green>0,0</span>
-|<span style=color:green>1,0</span>
+|<span style=color:blue title="OSE Runde 2 (OSCQ) 0,0">''0,0''</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 1,0 raus">''1,0''</span>
 !1,0
 |5%
 |-align=center
@@ -4588,7 +4599,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Dynamo Dnjepropetrowsk]]'''
 | -
 |1
-|<span style=color:green>1,0</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 1,0">''1,0''</span>
 | -
 !1,0
 |2%
@@ -4601,7 +4612,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Iraklis Idaliou]]'''
 | -
 |1
-|<span style=color:green>1,0</span>
+|<span style=color:blue title="OSE Runde 2 (OSCQ) 1,0">''1,0''</span>
 | -
 !1,0
 |3%
@@ -4612,10 +4623,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |229
 |align=left|http://os.ongapo.com/images/flaggen/BLR.gif '''BLR'''
 |align=left|'''[[Olympia Borisov]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |2
-|<span style=color:green>0,5</span>
-|<span style=color:green>0,5</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5">''0,5''</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5 raus">''0,5''</span>
 !1,0
 |6%
 |-align=center
@@ -4627,7 +4638,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Karaorman Vadar]]'''
 | -
 |1
-|<span style=color:green>1,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 1,0">''1,0''</span>
 | -
 !1,0
 |2%
@@ -4640,7 +4651,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[FC Balti]]'''
 | -
 |1
-|<span style=color:green>1,0</span>
+|<span style=color:blue title="OSE Runde 2 (OSCQ) 1,0">''1,0''</span>
 | -
 !1,0
 |8%
@@ -4651,10 +4662,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/AZE.gif '''AZE'''
 |align=left|'''[[OK Barda]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
 | -
-|<span style=color:green>1,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 1,0 raus">1,0</span>
 !1,0
 |1%
 |-align=center
@@ -4664,10 +4675,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |229
 |align=left|http://os.ongapo.com/images/flaggen/BUL.gif '''BUL'''
 |align=left|'''[[FC Dobritsch]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |2
-|<span style=color:green>0,5</span>
-|<span style=color:green>0,5</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5">''0,5''</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5 raus">''0,5''</span>
 !1,0
 |5%
 |-align=center
@@ -4677,10 +4688,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/CRO.gif '''CRO'''
 |align=left|'''[[KR Vukovar]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>1,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 1,0 raus">''1,0''</span>
 !1,0
 |2%
 |-align=center
@@ -4692,7 +4703,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Selkirk Rovers]]'''
 | -
 |1
-|<span style=color:green>1,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 1,0">1,0</span>
 | -
 !1,0
 |3%
@@ -4705,7 +4716,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[SJ Niksic]]'''
 | -
 |1
-|<span style=color:green>1,0</span>
+|<span style=color:blue title="OSE Runde 2 (OSCQ) 1,0">''1,0''</span>
 | -
 !1,0
 |1%
@@ -4716,10 +4727,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/TUR.gif '''TUR'''
 |align=left|'''[[SK Adapazari]]'''
-|raus
+|<span title="OSE Runde 2 (OSCQ)">raus</span>
 |1
 | -
-|<span style=color:green>1,0</span>
+|<span style=color:blue title="OSE Runde 2 (OSCQ) 1,0 raus">''1,0''</span>
 !1,0
 |2%
 |-align=center
@@ -4729,10 +4740,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/BLR.gif '''BLR'''
 |align=left|'''[[Dynamite Vitebsk]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>1,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 1,0 raus">''1,0''</span>
 !1,0
 |6%
 |-align=center
@@ -4742,10 +4753,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/POL.gif '''POL'''
 |align=left|'''[[Hetman Warschau]]'''
-|raus
+|<span title="OSE Runde 2 (OSCQ)">raus</span>
 |1
 | -
-|<span style=color:green>1,0</span>
+|<span style=color:blue title="OSE Runde 2 (OSCQ) 1,0 raus">''1,0''</span>
 !1,0
 |4%
 |-align=center style="border-top:2px solid grey"
@@ -4757,7 +4768,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[SC Ludza]]'''
 | -
 |1
-|<span style=color:green>0,5</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5">''0,5''</span>
 | -
 !0,5
 |1%
@@ -4768,10 +4779,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/WAL.gif '''WAL'''
 |align=left|'''[[Oswestry City]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>0,5</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5 raus">''0,5''</span>
 !0,5
 |1%
 |-align=center
@@ -4781,10 +4792,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |256
 |align=left|http://os.ongapo.com/images/flaggen/AND.gif '''AND'''
 |align=left|'''[[SC Massana]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |2
-|<span style=color:green>0,0</span>
-|<span style=color:green>0,5</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0">0,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5 raus">''0,5''</span>
 !0,5
 |3%
 |-align=center
@@ -4796,7 +4807,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Viktoria Seekirchen]]'''
 | -
 |1
-|<span style=color:green>0,5</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5">''0,5''</span>
 | -
 !0,5
 |1%
@@ -4807,10 +4818,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |229
 |align=left|http://os.ongapo.com/images/flaggen/SUI.gif '''SUI'''
 |align=left|'''[[Vorwärts Beringen]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |2
-|<span style=color:green>0,5</span>
-|<span style=color:green>0,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5">''0,5''</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0 raus">''0,0''</span>
 !0,5
 |1%
 |-align=center
@@ -4820,10 +4831,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/LTU.gif '''LTU'''
 |align=left|'''[[Sviesa Kedainiai]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>0,5</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5 raus">''0,5''</span>
 !0,5
 |1%
 |-align=center
@@ -4833,10 +4844,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |229
 |align=left|http://os.ongapo.com/images/flaggen/BLR.gif '''BLR'''
 |align=left|'''[[Tornado-FC Minsk]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |2
-|<span style=color:green>0,5</span>
-|<span style=color:green>0,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5">''0,5''</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0 raus">0,0</span>
 !0,5
 |3%
 |-align=center
@@ -4848,7 +4859,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Hoedd FK]]'''
 | -
 |1
-|<span style=color:green>0,5</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5">''0,5''</span>
 | -
 !0,5
 |2%
@@ -4859,10 +4870,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |229
 |align=left|http://os.ongapo.com/images/flaggen/SVN.gif '''SVN'''
 |align=left|'''[[Inter Ljubljana]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |2
-|<span style=color:green>0,5</span>
-|<span style=color:green>0,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5">''0,5''</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0 raus">''0,0''</span>
 !0,5
 |1%
 |-align=center
@@ -4874,7 +4885,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Diavola Bistrita]]'''
 | -
 |1
-|<span style=color:green>0,5</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5">''0,5''</span>
 | -
 !0,5
 |2%
@@ -4887,7 +4898,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Unia Allenstein]]'''
 | -
 |1
-|<span style=color:green>0,5</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5">''0,5''</span>
 | -
 !0,5
 |2%
@@ -4900,7 +4911,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Piraty Samara]]'''
 | -
 |1
-|<span style=color:green>0,5</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5">''0,5''</span>
 | -
 !0,5
 |1%
@@ -4911,10 +4922,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/POL.gif '''POL'''
 |align=left|'''[[Wisla Warschau]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>0,5</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5 raus">''0,5''</span>
 !0,5
 |2%
 |-align=center
@@ -4924,10 +4935,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/SWE.gif '''SWE'''
 |align=left|'''[[Hammarby BK]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>0,5</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5 raus">''0,5''</span>
 !0,5
 |1%
 |-align=center
@@ -4939,7 +4950,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[AK Ararat]]'''
 | -
 |1
-|<span style=color:green>0,5</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5">''0,5''</span>
 | -
 !0,5
 |2%
@@ -4950,10 +4961,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/ITA.gif '''ITA'''
 |align=left|'''[[Sampdoria Verona]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>0,5</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5 raus">''0,5''</span>
 !0,5
 |0%
 |-align=center
@@ -4963,10 +4974,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/GRE.gif '''GRE'''
 |align=left|'''[[Union Lamia]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>0,5</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5 raus">''0,5''</span>
 !0,5
 |1%
 |-align=center
@@ -4978,7 +4989,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Birkeroed FF]]'''
 | -
 |1
-|<span style=color:green>0,5</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5">''0,5''</span>
 | -
 !0,5
 |1%
@@ -4989,10 +5000,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/NED.gif '''NED'''
 |align=left|'''[[SC Veen]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>0,5</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5 raus">''0,5''</span>
 !0,5
 |1%
 |-align=center
@@ -5004,7 +5015,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Celik 02 Bihac]]'''
 | -
 |1
-|<span style=color:green>0,5</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5">''0,5''</span>
 | -
 !0,5
 |1%
@@ -5015,10 +5026,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/MKD.gif '''MKD'''
 |align=left|'''[[Rudar Kavadarci]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>0,5</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5 raus">''0,5''</span>
 !0,5
 |1%
 |-align=center
@@ -5030,7 +5041,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Besa Elbasani]]'''
 | -
 |1
-|<span style=color:green>0,5</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5">''0,5''</span>
 | -
 !0,5
 |3%
@@ -5043,7 +5054,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[FC Lelle]]'''
 | -
 |1
-|<span style=color:green>0,5</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5">''0,5''</span>
 | -
 !0,5
 |1%
@@ -5054,10 +5065,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/ARM.gif '''ARM'''
 |align=left|'''[[Lori Yerevan]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>0,5</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5 raus">''0,5''</span>
 !0,5
 |2%
 |-align=center
@@ -5069,7 +5080,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Lilleström TF]]'''
 | -
 |1
-|<span style=color:green>0,5</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5">''0,5''</span>
 | -
 !0,5
 |2%
@@ -5082,7 +5093,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Besa Burreli]]'''
 | -
 |1
-|<span style=color:green>0,5</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5">''0,5''</span>
 | -
 !0,5
 |3%
@@ -5093,10 +5104,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/ITA.gif '''ITA'''
 |align=left|'''[[FC Salernitana]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>0,5</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5 raus">''0,5''</span>
 !0,5
 |0%
 |-align=center
@@ -5108,7 +5119,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Kaunas BK]]'''
 | -
 |1
-|<span style=color:green>0,5</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5">''0,5''</span>
 | -
 !0,5
 |1%
@@ -5119,10 +5130,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/NIR.gif '''NIR'''
 |align=left|'''[[Ballymaclash Comrades]]'''
-|raus
+|<span title="OSE Runde 2 (OSCQ)">raus</span>
 |1
 | -
-|<span style=color:green>0,5</span>
+|<span style=color:blue title="OSE Runde 2 (OSCQ) 0,5 raus">''0,5''</span>
 !0,5
 |0%
 |-align=center
@@ -5132,10 +5143,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/RUS.gif '''RUS'''
 |align=left|'''[[Gigant Reutov]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>0,5</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5 raus">''0,5''</span>
 !0,5
 |1%
 |-align=center
@@ -5145,10 +5156,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/MKD.gif '''MKD'''
 |align=left|'''[[FCB Tetovo Belasica]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>0,5</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5 raus">''0,5''</span>
 !0,5
 |1%
 |-align=center style="border-top:2px solid grey"
@@ -5160,7 +5171,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[HNK Sarajevo]]'''
 | -
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0">''0,0''</span>
 | -
 !0,0
 |0%
@@ -5173,7 +5184,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Türkgücü Hacilar SK]]'''
 | -
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0">''0,0''</span>
 | -
 !0,0
 |0%
@@ -5186,7 +5197,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Wrecsam Druids SC]]'''
 | -
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0">''0,0''</span>
 | -
 !0,0
 |0%
@@ -5199,7 +5210,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Cap del Carrer]]'''
 | -
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0">''0,0''</span>
 | -
 !0,0
 |0%
@@ -5210,10 +5221,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/ESP.gif '''ESP'''
 |align=left|'''[[Racing Barcelona]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>0,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0 raus">''0,0''</span>
 !0,0
 |0%
 |-align=center
@@ -5223,10 +5234,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/GEO.gif '''GEO'''
 |align=left|'''[[Roter Stern Tiflis]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>0,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0 raus">''0,0''</span>
 !0,0
 |0%
 |-align=center
@@ -5236,10 +5247,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/NOR.gif '''NOR'''
 |align=left|'''[[FC Kristiansand]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>0,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0 raus">''0,0''</span>
 !0,0
 |0%
 |-align=center
@@ -5251,7 +5262,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Vandalia Alytus]]'''
 | -
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0">0,0</span>
 | -
 !0,0
 |0%
@@ -5264,7 +5275,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Fredericia Vikings 91]]'''
 | -
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0">0,0</span>
 | -
 !0,0
 |0%
@@ -5277,7 +5288,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Deportivo Escaldes]]'''
 | -
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:blue title="OSE Runde 2 (OSCQ) 0,0">''0,0''</span>
 | -
 !0,0
 |0%
@@ -5290,7 +5301,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[FC Stuttgart-Degerloch]]'''
 | -
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0">''0,0''</span>
 | -
 !0,0
 |0%
@@ -5303,7 +5314,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Rapid Targoviste]]'''
 | -
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:blue title="OSE Runde 2 (OSCQ) 0,0">''0,0''</span>
 | -
 !0,0
 |0%
@@ -5314,10 +5325,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/RUS.gif '''RUS'''
 |align=left|'''[[Musketer Yeletz]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>0,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0 raus">''0,0''</span>
 !0,0
 |0%
 |-align=center
@@ -5329,7 +5340,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Red Star Wormeldingen]]'''
 | -
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0">0,0</span>
 | -
 !0,0
 |0%
@@ -5342,7 +5353,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[SFK Pocernice]]'''
 | -
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0">''0,0''</span>
 | -
 !0,0
 |0%
@@ -5355,7 +5366,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[SK Lasko Sport]]'''
 | -
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0">''0,0''</span>
 | -
 !0,0
 |0%
@@ -5366,10 +5377,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/LTU.gif '''LTU'''
 |align=left|'''[[Kareda Klapeida]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>0,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0 raus">''0,0''</span>
 !0,0
 |0%
 |-align=center
@@ -5379,10 +5390,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/FRA.gif '''FRA'''
 |align=left|'''[[Saint-Etienne Sport]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>0,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0 raus">''0,0''</span>
 !0,0
 |0%
 |-align=center
@@ -5394,7 +5405,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[FC Kuopio]]'''
 | -
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0">''0,0''</span>
 | -
 !0,0
 |0%
@@ -5407,7 +5418,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[FC Timisoara]]'''
 | -
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0">''0,0''</span>
 | -
 !0,0
 |0%
@@ -5418,10 +5429,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/TUR.gif '''TUR'''
 |align=left|'''[[Türkgücü Izmir]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>0,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0 raus">''0,0''</span>
 !0,0
 |0%
 |-align=center
@@ -5431,10 +5442,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/GRE.gif '''GRE'''
 |align=left|'''[[Olympiakos Rhodos]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>0,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0 raus">''0,0''</span>
 !0,0
 |0%
 |-align=center
@@ -5444,10 +5455,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/GEO.gif '''GEO'''
 |align=left|'''[[FC Tiflis]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
 | -
-|<span style=color:green>0,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0 raus">0,0</span>
 !0,0
 |0%
 |-align=center
@@ -5459,7 +5470,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Gjoevik IF]]'''
 | -
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0">0,0</span>
 | -
 !0,0
 |0%
@@ -5472,7 +5483,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[FC Ballymena]]'''
 | -
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0">0,0</span>
 | -
 !0,0
 |0%
@@ -5485,7 +5496,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Heart of Edinburgh]]'''
 | -
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:blue title="OSE Runde 2 (OSCQ) 0,0">''0,0''</span>
 | -
 !0,0
 |0%
@@ -5498,7 +5509,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[FC Beit - Shean]]'''
 | -
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0">''0,0''</span>
 | -
 !0,0
 |0%
@@ -5511,7 +5522,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Anagennisi Nikosia]]'''
 | -
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0">''0,0''</span>
 | -
 !0,0
 |0%
@@ -5524,7 +5535,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Foresta Constanta]]'''
 | -
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0">''0,0''</span>
 | -
 !0,0
 |0%
@@ -5535,10 +5546,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |256
 |align=left|http://os.ongapo.com/images/flaggen/HUN.gif '''HUN'''
 |align=left|'''[[Budakalaszi FC]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |2
-|<span style=color:green>0,0</span>
-|<span style=color:green>0,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0">''0,0''</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0 raus">0,0</span>
 !0,0
 |0%
 |-align=center
@@ -5548,10 +5559,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/TUR.gif '''TUR'''
 |align=left|'''[[SK Gaziantep]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
 | -
-|<span style=color:green>0,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0 raus">0,0</span>
 !0,0
 |0%
 |-align=center
@@ -5561,10 +5572,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/KAZ.gif '''KAZ'''
 |align=left|'''[[Zhenis Chromtau]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
 | -
-|<span style=color:green>0,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0 raus">0,0</span>
 !0,0
 |0%
 |-align=center
@@ -5574,10 +5585,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/AUT.gif '''AUT'''
 |align=left|'''[[SV Austria Höchst]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>0,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0 raus">''0,0''</span>
 !0,0
 |0%
 |-align=center
@@ -5587,10 +5598,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/SUI.gif '''SUI'''
 |align=left|'''[[Racing Club Chênois]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
 | -
-|<span style=color:green>0,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0 raus">0,0</span>
 !0,0
 |0%
 |-align=center
@@ -5600,10 +5611,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/SWE.gif '''SWE'''
 |align=left|'''[[Brommapojkarna]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>0,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0 raus">''0,0''</span>
 !0,0
 |0%
 |-align=center
@@ -5613,10 +5624,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/TUR.gif '''TUR'''
 |align=left|'''[[Tokat Yaprakspor]]'''
-|raus
+|<span title="OSE Runde 2 (OSCQ)">raus</span>
 |1
 | -
-|<span style=color:green>0,0</span>
+|<span style=color:blue title="OSE Runde 2 (OSCQ) 0,0 raus">''0,0''</span>
 !0,0
 |0%
 |-align=center
@@ -5626,10 +5637,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/RUS.gif '''RUS'''
 |align=left|'''[[SKA Luchovizy]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
 | -
-|<span style=color:green>0,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0 raus">0,0</span>
 !0,0
 |0%
 |-align=center
@@ -5639,10 +5650,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/GER.gif '''GER'''
 |align=left|'''[[OS Bavaria München]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
 | -
-|<span style=color:green>0,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0 raus">0,0</span>
 !0,0
 |0%
 |-align=center
@@ -5654,7 +5665,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Malmö Södra]]'''
 | -
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0">''0,0''</span>
 | -
 !0,0
 |0%
@@ -5665,10 +5676,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/SWE.gif '''SWE'''
 |align=left|'''[[Heimer BK]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
 | -
-|<span style=color:green>0,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0 raus">0,0</span>
 !0,0
 |0%
 |-align=center
@@ -5678,10 +5689,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/POR.gif '''POR'''
 |align=left|'''[[SC Chaves]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
 | -
-|<span style=color:green>0,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0 raus">0,0</span>
 !0,0
 |0%
 |-align=center
@@ -5693,7 +5704,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Spartak Fier]]'''
 | -
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0">''0,0''</span>
 | -
 !0,0
 |0%
@@ -5704,10 +5715,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/POR.gif '''POR'''
 |align=left|'''[[CD Varzim]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>0,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0 raus">''0,0''</span>
 !0,0
 |0%
 |-align=center
@@ -5719,7 +5730,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Real Encamp]]'''
 | -
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0">0,0</span>
 | -
 !0,0
 |0%
@@ -5732,7 +5743,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Orit Voehma]]'''
 | -
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0">0,0</span>
 | -
 !0,0
 |0%
@@ -5743,10 +5754,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/BUL.gif '''BUL'''
 |align=left|'''[[Royal Sofia]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>0,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0 raus">''0,0''</span>
 !0,0
 |0%
 |-align=center
@@ -5756,10 +5767,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/DEN.gif '''DEN'''
 |align=left|'''[[Aalborg Viking]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>0,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0 raus">''0,0''</span>
 !0,0
 |0%
 |-align=center
@@ -5771,7 +5782,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Viljandi Sport]]'''
 | -
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:blue title="OSE Runde 2 (OSCQ) 0,0">''0,0''</span>
 | -
 !0,0
 |0%
@@ -5784,7 +5795,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[PP-73 Helsinki]]'''
 | -
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0">0,0</span>
 | -
 !0,0
 |0%
@@ -5795,10 +5806,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/GEO.gif '''GEO'''
 |align=left|'''[[Uni Samtredia 03]]'''
-|raus
+|<span title="OSE Runde 2 (OSCQ)">raus</span>
 |1
 | -
-|<span style=color:green>0,0</span>
+|<span style=color:blue title="OSE Runde 2 (OSCQ) 0,0 raus">''0,0''</span>
 !0,0
 |0%
 |-align=center
@@ -5808,10 +5819,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/KAZ.gif '''KAZ'''
 |align=left|'''[[Energetik Shimkent]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>0,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0 raus">''0,0''</span>
 !0,0
 |0%
 |-align=center
@@ -5823,7 +5834,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Lok Almaty]]'''
 | -
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0">''0,0''</span>
 | -
 !0,0
 |0%
@@ -5834,10 +5845,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/NED.gif '''NED'''
 |align=left|'''[[SC Rotterdam]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
 | -
-|<span style=color:green>0,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0 raus">0,0</span>
 !0,0
 |0%
 |-align=center
@@ -5849,7 +5860,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Chimica Agigea]]'''
 | -
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0">0,0</span>
 | -
 !0,0
 |0%
@@ -5860,10 +5871,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/ROM.gif '''ROM'''
 |align=left|'''[[Rapid Focsani]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>0,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0 raus">''0,0''</span>
 !0,0
 |0%
 |-align=center
@@ -5873,10 +5884,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/SMR.gif '''SMR'''
 |align=left|'''[[Montevito Calcio]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>0,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0 raus">''0,0''</span>
 !0,0
 |0%
 |-align=center
@@ -5886,10 +5897,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/MDA.gif '''MDA'''
 |align=left|'''[[Unispor Chisinau]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>0,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0 raus">''0,0''</span>
 !0,0
 |0%
 |-align=center
@@ -5899,10 +5910,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |256
 |align=left|http://os.ongapo.com/images/flaggen/MDA.gif '''MDA'''
 |align=left|'''[[Sporting Bardar]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |2
-|<span style=color:green>0,0</span>
-|<span style=color:green>0,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0">0,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0 raus">0,0</span>
 !0,0
 |0%
 |-align=center
@@ -5914,7 +5925,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Teleoptik Krusevac]]'''
 | -
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0">''0,0''</span>
 | -
 !0,0
 |0%
@@ -5925,10 +5936,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/SVK.gif '''SVK'''
 |align=left|'''[[FC Zilina]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
 | -
-|<span style=color:green>0,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0 raus">0,0</span>
 !0,0
 |0%
 |-align=center
@@ -5940,7 +5951,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[FC Detmarovice]]'''
 | -
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0">0,0</span>
 | -
 !0,0
 |0%
@@ -5951,10 +5962,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/CZE.gif '''CZE'''
 |align=left|'''[[RSK Liberec]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>0,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0 raus">''0,0''</span>
 !0,0
 |0%
 |-align=center
@@ -5964,10 +5975,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/UKR.gif '''UKR'''
 |align=left|'''[[Arsenal Alchevsk]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>0,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0 raus">''0,0''</span>
 !0,0
 |0%
 |-align=center
@@ -5977,10 +5988,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/UKR.gif '''UKR'''
 |align=left|'''[[FC Kiew]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>0,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0 raus">''0,0''</span>
 !0,0
 |0%
 |-align=center
@@ -5990,10 +6001,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/UKR.gif '''UKR'''
 |align=left|'''[[Metalan Charkow]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
 | -
-|<span style=color:green>0,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0 raus">0,0</span>
 !0,0
 |0%
 |-align=center
@@ -6005,7 +6016,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Kispest Haladas]]'''
 | -
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0">0,0</span>
 | -
 !0,0
 |0%
@@ -6016,10 +6027,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/WAL.gif '''WAL'''
 |align=left|'''[[SC Porthcawl Town]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
 | -
-|<span style=color:green>0,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0 raus">''0,0''</span>
 !0,0
 |0%
 |-align=center
@@ -6029,10 +6040,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/WAL.gif '''WAL'''
 |align=left|'''[[Carmarthen City]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
 | -
-|<span style=color:green>0,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0 raus">0,0</span>
 !0,0
 |0%
 |-align=center
@@ -6044,7 +6055,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[SC Gomel]]'''
 | -
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0">0,0</span>
 | -
 !0,0
 |0%
@@ -6057,7 +6068,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[SK Viking Göteborg]]'''
 | -
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0">0,0</span>
 | -
 !0,0
 |0%
@@ -6070,7 +6081,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Tornado Minsk]]'''
 | -
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0">0,0</span>
 | -
 !0,0
 |0%
@@ -6081,10 +6092,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |305
 |align=left|http://os.ongapo.com/images/flaggen/ALB.gif '''ALB'''
 |align=left|'''[[Devolli Shkoder]]'''
-|raus
+|<span title="OSE Runde 2 (OSCQ)">raus</span>
 |1
 | -
-|<span style=color:green>0,0</span>
+|<span style=color:blue title="OSE Runde 2 (OSCQ) 0,0 raus">''0,0''</span>
 !0,0
 |0%
 |-align=center
@@ -6096,7 +6107,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=left|'''[[Olimpija Zemun]]'''
 | -
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0">0,0</span>
 | -
 !0,0
 |0%
@@ -6112,9 +6123,10 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 '''Erklärung der Spalten (v.l.n.r.)'''
 :* ↕: Tendenz im Vergleich zum Vorjahr.
 :* Platzierungen: 1. Aktuell (in fett), dahinter absteigend alle vorherigen Saisons.
-:* Land: Land, für das der Verein Punkte sammelt.
-:* Verein: Verein, der am internationalen Wettbewerb teilnimmt.
+:* Land: Wappen und Name des Landes, für das der Verein Punkte sammelt.
+:* Verein: Name des Vereins, der am internationalen Wettbewerb teilnimmt.
 :* Aktiv: Angabe, ob der Verein in der laufenden Saison noch Punkte sammeln kann (Wettbewerb) oder nicht ("raus"). Verlierer der OSC-Quali sind damit noch aktiv, da sie später wieder im OSE einsteigen.
+:* #: Anzahl der Saisons, in denen der Verein am internationalen Wettbewerb teilgenommen hat.
 :* Punkte: Übersicht über alle Saisons (chronologisch).
 :* Summe: Summe aller durch den Verein eingesammelten Punkte über alle Saisons hinweg.
 :* Anteil Land: Prozentsatz der Punkte, die der Verein in seinem Land geholt hat.

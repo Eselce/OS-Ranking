@@ -1,10 +1,10 @@
 [[Kategorie:Wertungen]]
 {| style="background-color:#F9F9F9; font-family:verdana; font-size: 12px; float: right; margin:3px 3px 3px 10px; border:1px solid #999; border-color: #000000; border-collapse:collapse;" cellpadding=4 cellspacing=0
-|- bgcolor="#F9F9F9" 
+|- bgcolor="#F9F9F9"
 | ← <small>[[OS-Ranking Punkte halbe Saison 2]]</small>
 | align="right" | <small>[[OS-Ranking Punkte Saison 3]]</small> →
 |-
-| colspan="2" style="padding:0.3em; background-color:#DEDEDE; font-size: 18px" align=center| '''OS-Ranking Punkte Saison 2'''
+| colspan="2" style="padding:0.3em; background-color:#DEDEDE; font-size: 18px" align=center | '''OS-Ranking Punkte Saison 2'''
 |- bgcolor="#F9F9F9"
 | '''Int. Vereine'''
 | 304
@@ -22,7 +22,7 @@
 | [[OS-Ranking Saison 2]]
 |- bgcolor="#F9F9F9"
 | '''Vereine'''
-| [[OS-Ranking Vereine Saison 2]]
+| [[OS-Ranking Vereine Saison 2|Ranking Vereine Saison 2]]
 |}
 
 Das '''OS-Ranking''' - auch '''Dreijahreswertung''' genannt - ist eine Rangliste, nach der den einzelnen Ligaverbänden Startplätze für die [[Spielregeln_II._Wettbewerbe#b.29_internationale_Wettbewerbe|internationalen Pokalwettbewerbe]] zugewiesen werden.
@@ -34,36 +34,42 @@ Im Forum kann über die [http://os.ongapo.com/forum/index.php?page=Thread&thread
 ==== Offizielles OS-Ranking ====
 ----
 
+Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 4.
+
+<big>'''↳'''</big> [https://os.ongapo.com/forum/index.php?page=Thread&postID=323106#post323106 '''Zum offiziellen Saison-Ranking für Saison 2''' (Offizielle Saisonwertung vom 8. August 2010)]
+
 ==== Abschließende Wertung Saison 2 (inoffiziell) ====
 ----
 
-Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bisheringen Saisons. Die endgültige Festlegung erfolgt durch die Spielleitung nach Saisonende.
+Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bisherigen Saisons. Die endgültige Festlegung erfolgt durch die Spielleitung nach Saisonende.
 
 In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 6 Plätze für jedes Land. Es entfielen auch die Plätze für Titelverteidiger und aus der Fairnesswertung.
 
-<span style=color:red>'''Stand nach ZAT 70'''</span> (Saisonfinale)
+<span style=color:red>'''Stand nach ZAT 70 (OSC Finale / OSE Finale)'''</span>
+
+<span>Saisonfinale</span>
 
 {|class="wikitable sortable" style=font-family:verdana;font-size:10px
 |-
 !class=unsortable|↕
-!Platz
-!style=width:4em|[[OS-Ranking Punkte halbe Saison 2|Platz<br>H2]]
+!Platz<br/>
+!class=unsortable|[[OS-Ranking Punkte halbe Saison 2|H2<br/>]]
 !Land
 !Verein
-!data-sort-type=text|aktiv
-!#
-!Punkte<br>S2
-!Punkte<br>Summe
-!Anteil<br>Land
+!data-sort-type=text|aktiv<br/>
+!Teiln.<br/>
+!S.2<br/>
+!Summe<br/>
+!Anteil<br/>Land
 |-align=center
 !<span style=color:green>↑</span>
 !1
 |3
 |align=left|http://os.ongapo.com/images/flaggen/NIR.gif '''NIR'''
 |align=left|'''[[Crumlin City]]'''
-|<span style=color:red>OSC</span>
+|<span style=color:brown title="OSC Sieger (OSCQ)">''OSC''</span>
 |1
-|<span style=color:red>32,5</span>
+|<span style=color:brown title="OSC Sieger (OSCQ) 32,5">''32,5''</span>
 !32,5
 |50%
 |-align=center style="border-top:2px solid grey"
@@ -72,9 +78,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |1
 |align=left|http://os.ongapo.com/images/flaggen/AZE.gif '''AZE'''
 |align=left|'''[[SC Gusari]]'''
-|raus
+|<span title="OSC Halbfinale (OSCQ)">raus</span>
 |1
-|<span style=color:red>31,0</span>
+|<span style=color:brown title="OSC Halbfinale (OSCQ) 31,0 raus">''31,0''</span>
 !31,0
 |61%
 |-align=center style="border-top:2px solid grey"
@@ -83,9 +89,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |7
 |align=left|http://os.ongapo.com/images/flaggen/SWE.gif '''SWE'''
 |align=left|'''[[Mjällby BK]]'''
-|raus
+|<span title="OSC Finale (OSCQ)">raus</span>
 |1
-|<span style=color:red>28,5</span>
+|<span style=color:brown title="OSC Finale (OSCQ) 28,5 raus">''28,5''</span>
 !28,5
 |70%
 |-align=center style="border-top:2px solid grey"
@@ -94,9 +100,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |6
 |align=left|http://os.ongapo.com/images/flaggen/MLT.gif '''MLT'''
 |align=left|'''[[Xghajra Athletics]]'''
-|raus
+|<span title="OSC Viertelfinale (OSCQ)">raus</span>
 |1
-|<span style=color:red>26,0</span>
+|<span style=color:brown title="OSC Viertelfinale (OSCQ) 26,0 raus">''26,0''</span>
 !26,0
 |51%
 |-align=center style="border-top:2px solid grey"
@@ -105,9 +111,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |5
 |align=left|http://os.ongapo.com/images/flaggen/NED.gif '''NED'''
 |align=left|'''[[SC Vaals]]'''
-|raus
+|<span title="OSC Viertelfinale (OSCQ)">raus</span>
 |1
-|<span style=color:red>25,5</span>
+|<span style=color:brown title="OSC Viertelfinale (OSCQ) 25,5 raus">''25,5''</span>
 !25,5
 |57%
 |-align=center
@@ -116,9 +122,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |3
 |align=left|http://os.ongapo.com/images/flaggen/ENG.gif '''ENG'''
 |align=left|'''[[Sheffield Owls]]'''
-|raus
+|<span title="OSC Halbfinale (OSCQ)">raus</span>
 |1
-|<span style=color:red>25,5</span>
+|<span style=color:brown title="OSC Halbfinale (OSCQ) 25,5 raus">''25,5''</span>
 !25,5
 |52%
 |-align=center style="border-top:2px solid grey"
@@ -127,9 +133,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |8
 |align=left|http://os.ongapo.com/images/flaggen/BEL.gif '''BEL'''
 |align=left|'''[[CF Mons Lézard]]'''
-|raus
+|<span title="OSC Viertelfinale (OSCQ)">raus</span>
 |1
-|<span style=color:red>24,0</span>
+|<span style=color:brown title="OSC Viertelfinale (OSCQ) 24,0 raus">''24,0''</span>
 !24,0
 |55%
 |-align=center
@@ -138,9 +144,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |35
 |align=left|http://os.ongapo.com/images/flaggen/SCG.gif '''SCG'''
 |align=left|'''[[Spartak Belgrad]]'''
-|raus
+|<span title="OSE Halbfinale (OSEQ)">raus</span>
 |1
-|<span style=color:green>24,0</span>
+|<span style=color:navy title="OSE Halbfinale (OSEQ) 24,0 raus">''24,0''</span>
 !24,0
 |81%
 |-align=center style="border-top:2px solid grey"
@@ -149,9 +155,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |122
 |align=left|http://os.ongapo.com/images/flaggen/DEN.gif '''DEN'''
 |align=left|'''[[Holbaek BK]]'''
-|<span style=color:green>OSE</span>
+|<span style=color:darkmagenta title="OSE Sieger (OSCQ)">''OSE''</span>
 |1
-|<span style=color:green>22,5</span>
+|<span style=color:darkmagenta title="OSE Sieger (OSCQ) 22,5">''22,5''</span>
 !22,5
 |53%
 |-align=center style="border-top:2px solid grey"
@@ -160,9 +166,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |49
 |align=left|http://os.ongapo.com/images/flaggen/ITA.gif '''ITA'''
 |align=left|'''[[FC Vecchio Torino]]'''
-|raus
+|<span title="OSE Finale (OSE)">raus</span>
 |1
-|<span style=color:green>21,0</span>
+|<span style=color:navy title="OSE Finale (OSE) 21,0 raus">21,0</span>
 !21,0
 |42%
 |-align=center style="border-top:2px solid grey"
@@ -171,9 +177,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |21
 |align=left|http://os.ongapo.com/images/flaggen/NIR.gif '''NIR'''
 |align=left|'''[[Brantwood City]]'''
-|raus
+|<span title="OSE Viertelfinale (OSEQ)">raus</span>
 |1
-|<span style=color:green>19,5</span>
+|<span style=color:navy title="OSE Viertelfinale (OSEQ) 19,5 raus">''19,5''</span>
 !19,5
 |30%
 |-align=center style="border-top:2px solid grey"
@@ -182,9 +188,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |8
 |align=left|http://os.ongapo.com/images/flaggen/LUX.gif '''LUX'''
 |align=left|'''[[CS Berbourg]]'''
-|raus
+|<span title="OSC Viertelfinale (OSC)">raus</span>
 |1
-|<span style=color:red>19,0</span>
+|<span style=color:brown title="OSC Viertelfinale (OSC) 19,0 raus">19,0</span>
 !19,0
 |58%
 |-align=center style="border-top:2px solid grey"
@@ -193,9 +199,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |49
 |align=left|http://os.ongapo.com/images/flaggen/BIH.gif '''BIH'''
 |align=left|'''[[Sava Srbac]]'''
-|raus
+|<span title="OSE Halbfinale (OSE)">raus</span>
 |1
-|<span style=color:green>18,0</span>
+|<span style=color:navy title="OSE Halbfinale (OSE) 18,0 raus">18,0</span>
 !18,0
 |61%
 |-align=center
@@ -204,9 +210,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |35
 |align=left|http://os.ongapo.com/images/flaggen/SMR.gif '''SMR'''
 |align=left|'''[[Inter Cailungo]]'''
-|raus
+|<span title="OSE Viertelfinale (OSE)">raus</span>
 |1
-|<span style=color:green>18,0</span>
+|<span style=color:navy title="OSE Viertelfinale (OSE) 18,0 raus">18,0</span>
 !18,0
 |44%
 |-align=center
@@ -215,9 +221,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |2
 |align=left|http://os.ongapo.com/images/flaggen/DEN.gif '''DEN'''
 |align=left|'''[[Farum IF]]'''
-|raus
+|<span title="OSC-ZR (OSCQ)">raus</span>
 |1
-|<span style=color:red>18,0</span>
+|<span style=color:red title="OSC-ZR (OSCQ) 18,0 raus">''18,0''</span>
 !18,0
 |42%
 |-align=center
@@ -226,9 +232,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |64
 |align=left|http://os.ongapo.com/images/flaggen/POR.gif '''POR'''
 |align=left|'''[[Benfica Amora]]'''
-|raus
+|<span title="OSE Viertelfinale (OSE)">raus</span>
 |1
-|<span style=color:green>18,0</span>
+|<span style=color:navy title="OSE Viertelfinale (OSE) 18,0 raus">18,0</span>
 !18,0
 |41%
 |-align=center style="border-top:2px solid grey"
@@ -237,9 +243,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |13
 |align=left|http://os.ongapo.com/images/flaggen/SVN.gif '''SVN'''
 |align=left|'''[[NK Voglajna Celje]]'''
-|raus
+|<span title="OSC-ZR (OSCQ)">raus</span>
 |1
-|<span style=color:red>17,5</span>
+|<span style=color:red title="OSC-ZR (OSCQ) 17,5 raus">''17,5''</span>
 !17,5
 |67%
 |-align=center style="border-top:2px solid grey"
@@ -248,9 +254,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |8
 |align=left|http://os.ongapo.com/images/flaggen/GER.gif '''GER'''
 |align=left|'''[[Eintracht Wuppertal]]'''
-|raus
+|<span title="OSC-ZR (OSC)">raus</span>
 |1
-|<span style=color:red>17,0</span>
+|<span style=color:red title="OSC-ZR (OSC) 17,0 raus">17,0</span>
 !17,0
 |40%
 |-align=center
@@ -259,9 +265,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |64
 |align=left|http://os.ongapo.com/images/flaggen/FRA.gif '''FRA'''
 |align=left|'''[[Union Gueugnon]]'''
-|raus
+|<span title="OSE Viertelfinale (OSE)">raus</span>
 |1
-|<span style=color:green>17,0</span>
+|<span style=color:navy title="OSE Viertelfinale (OSE) 17,0 raus">17,0</span>
 !17,0
 |44%
 |-align=center
@@ -270,9 +276,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |22
 |align=left|http://os.ongapo.com/images/flaggen/MLT.gif '''MLT'''
 |align=left|'''[[Hibernians SC]]'''
-|raus
+|<span title="OSE Achtelfinale (OSE)">raus</span>
 |1
-|<span style=color:green>17,0</span>
+|<span style=color:navy title="OSE Achtelfinale (OSE) 17,0 raus">17,0</span>
 !17,0
 |33%
 |-align=center style="border-top:2px solid grey"
@@ -281,9 +287,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |8
 |align=left|http://os.ongapo.com/images/flaggen/IRL.gif '''IRL'''
 |align=left|'''[[St. Cavan Swallows]]'''
-|raus
+|<span title="OSC-ZR (OSC)">raus</span>
 |1
-|<span style=color:red>15,0</span>
+|<span style=color:red title="OSC-ZR (OSC) 15,0 raus">15,0</span>
 !15,0
 |59%
 |-align=center
@@ -292,9 +298,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |8
 |align=left|http://os.ongapo.com/images/flaggen/ITA.gif '''ITA'''
 |align=left|'''[[SC Adiga Suedtirol]]'''
-|raus
+|<span title="OSC-ZR (OSC)">raus</span>
 |1
-|<span style=color:red>15,0</span>
+|<span style=color:red title="OSC-ZR (OSC) 15,0 raus">15,0</span>
 !15,0
 |30%
 |-align=center style="border-top:2px solid grey"
@@ -303,9 +309,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |35
 |align=left|http://os.ongapo.com/images/flaggen/CYP.gif '''CYP'''
 |align=left|'''[[Aphrodite Paphos]]'''
-|raus
+|<span title="OSE Achtelfinale (OSEQ)">raus</span>
 |1
-|<span style=color:green>14,0</span>
+|<span style=color:navy title="OSE Achtelfinale (OSEQ) 14,0 raus">''14,0''</span>
 !14,0
 |74%
 |-align=center
@@ -314,9 +320,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |22
 |align=left|http://os.ongapo.com/images/flaggen/SVK.gif '''SVK'''
 |align=left|'''[[Spartak Bratislava]]'''
-|raus
+|<span title="OSE Runde 4 (OSE)">raus</span>
 |1
-|<span style=color:green>14,0</span>
+|<span style=color:darkgreen title="OSE Runde 4 (OSE) 14,0 raus">14,0</span>
 !14,0
 |33%
 |-align=center style="border-top:2px solid grey"
@@ -325,9 +331,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |22
 |align=left|http://os.ongapo.com/images/flaggen/WAL.gif '''WAL'''
 |align=left|'''[[FC Vale]]'''
-|raus
+|<span title="OSC-ZR (OSC)">raus</span>
 |1
-|<span style=color:red>13,0</span>
+|<span style=color:red title="OSC-ZR (OSC) 13,0 raus">13,0</span>
 !13,0
 |38%
 |-align=center
@@ -336,9 +342,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |22
 |align=left|http://os.ongapo.com/images/flaggen/NED.gif '''NED'''
 |align=left|'''[[Heerenveen 02]]'''
-|raus
+|<span title="OSE Runde 4 (OSE)">raus</span>
 |1
-|<span style=color:green>13,0</span>
+|<span style=color:darkgreen title="OSE Runde 4 (OSE) 13,0 raus">13,0</span>
 !13,0
 |29%
 |-align=center
@@ -347,9 +353,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |35
 |align=left|http://os.ongapo.com/images/flaggen/SMR.gif '''SMR'''
 |align=left|'''[[Santa Mustiola Rosa]]'''
-|raus
+|<span title="OSE Achtelfinale (OSE)">raus</span>
 |1
-|<span style=color:green>13,0</span>
+|<span style=color:navy title="OSE Achtelfinale (OSE) 13,0 raus">13,0</span>
 !13,0
 |32%
 |-align=center style="border-top:2px solid grey"
@@ -358,9 +364,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |22
 |align=left|http://os.ongapo.com/images/flaggen/GRE.gif '''GRE'''
 |align=left|'''[[Union Piräus]]'''
-|raus
+|<span title="OSC-ZR (OSC)">raus</span>
 |1
-|<span style=color:red>12,0</span>
+|<span style=color:red title="OSC-ZR (OSC) 12,0 raus">12,0</span>
 !12,0
 |60%
 |-align=center
@@ -369,9 +375,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |22
 |align=left|http://os.ongapo.com/images/flaggen/TUR.gif '''TUR'''
 |align=left|'''[[Kücükyali Istanbul]]'''
-|raus
+|<span title="OSE Runde 4 (OSEQ)">raus</span>
 |1
-|<span style=color:green>12,0</span>
+|<span style=color:darkgreen title="OSE Runde 4 (OSEQ) 12,0 raus">''12,0''</span>
 !12,0
 |35%
 |-align=center
@@ -380,9 +386,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |19
 |align=left|http://os.ongapo.com/images/flaggen/BEL.gif '''BEL'''
 |align=left|'''[[RSC Genk]]'''
-|raus
+|<span title="OSE Runde 4 (OSEQ)">raus</span>
 |1
-|<span style=color:green>12,0</span>
+|<span style=color:darkgreen title="OSE Runde 4 (OSEQ) 12,0 raus">''12,0''</span>
 !12,0
 |27%
 |-align=center
@@ -391,9 +397,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |49
 |align=left|http://os.ongapo.com/images/flaggen/FRO.gif '''FRO'''
 |align=left|'''[[B 26 Gotu]]'''
-|raus
+|<span title="OSE Achtelfinale (OSE)">raus</span>
 |1
-|<span style=color:green>12,0</span>
+|<span style=color:navy title="OSE Achtelfinale (OSE) 12,0 raus">12,0</span>
 !12,0
 |43%
 |-align=center
@@ -402,9 +408,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |19
 |align=left|http://os.ongapo.com/images/flaggen/POR.gif '''POR'''
 |align=left|'''[[FC Bairro]]'''
-|raus
+|<span title="OSC-ZR (OSC)">raus</span>
 |1
-|<span style=color:red>12,0</span>
+|<span style=color:red title="OSC-ZR (OSC) 12,0 raus">12,0</span>
 !12,0
 |27%
 |-align=center
@@ -413,9 +419,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |64
 |align=left|http://os.ongapo.com/images/flaggen/WAL.gif '''WAL'''
 |align=left|'''[[Flexsys Cefn Nomads]]'''
-|raus
+|<span title="OSE Achtelfinale (OSE)">raus</span>
 |1
-|<span style=color:green>12,0</span>
+|<span style=color:navy title="OSE Achtelfinale (OSE) 12,0 raus">12,0</span>
 !12,0
 |35%
 |-align=center style="border-top:2px solid grey"
@@ -424,9 +430,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |14
 |align=left|http://os.ongapo.com/images/flaggen/SUI.gif '''SUI'''
 |align=left|'''[[Bellacher SC]]'''
-|raus
+|<span title="OSC-HR (OSCQ)">raus</span>
 |1
-|<span style=color:red>11,0</span>
+|<span style=color:orange title="OSC-HR (OSCQ) 11,0 raus">''11,0''</span>
 !11,0
 |56%
 |-align=center style="border-top:2px solid grey"
@@ -435,9 +441,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |49
 |align=left|http://os.ongapo.com/images/flaggen/NIR.gif '''NIR'''
 |align=left|'''[[FC Newry Druids]]'''
-|raus
+|<span title="OSE Runde 4 (OSE)">raus</span>
 |1
-|<span style=color:green>10,0</span>
+|<span style=color:darkgreen title="OSE Runde 4 (OSE) 10,0 raus">10,0</span>
 !10,0
 |15%
 |-align=center
@@ -446,9 +452,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |15
 |align=left|http://os.ongapo.com/images/flaggen/KAZ.gif '''KAZ'''
 |align=left|'''[[Kaspirskoje-More Aktau]]'''
-|raus
+|<span title="OSC-HR (OSCQ)">raus</span>
 |1
-|<span style=color:red>10,0</span>
+|<span style=color:orange title="OSC-HR (OSCQ) 10,0 raus">''10,0''</span>
 !10,0
 |43%
 |-align=center
@@ -457,9 +463,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |15
 |align=left|http://os.ongapo.com/images/flaggen/HUN.gif '''HUN'''
 |align=left|'''[[Györi SC]]'''
-|raus
+|<span title="OSC-HR (OSCQ)">raus</span>
 |1
-|<span style=color:red>10,0</span>
+|<span style=color:orange title="OSC-HR (OSCQ) 10,0 raus">''10,0''</span>
 !10,0
 |47%
 |-align=center
@@ -468,9 +474,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |15
 |align=left|http://os.ongapo.com/images/flaggen/GER.gif '''GER'''
 |align=left|'''[[Trafo Dresden]]'''
-|raus
+|<span title="OSC-HR (OSCQ)">raus</span>
 |1
-|<span style=color:red>10,0</span>
+|<span style=color:orange title="OSC-HR (OSCQ) 10,0 raus">''10,0''</span>
 !10,0
 |23%
 |-align=center style="border-top:2px solid grey"
@@ -479,9 +485,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |18
 |align=left|http://os.ongapo.com/images/flaggen/LUX.gif '''LUX'''
 |align=left|'''[[Jeunesse Hamm]]'''
-|raus
+|<span title="OSC-HR (OSCQ)">raus</span>
 |1
-|<span style=color:red>9,5</span>
+|<span style=color:orange title="OSC-HR (OSCQ) 9,5 raus">''9,5''</span>
 !9,5
 |29%
 |-align=center
@@ -490,9 +496,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |122
 |align=left|http://os.ongapo.com/images/flaggen/ARM.gif '''ARM'''
 |align=left|'''[[SZ Goris]]'''
-|raus
+|<span title="OSE Achtelfinale (OSCQ)">raus</span>
 |1
-|<span style=color:green>9,5</span>
+|<span style=color:darkmagenta title="OSE Achtelfinale (OSCQ) 9,5 raus">''9,5''</span>
 !9,5
 |63%
 |-align=center style="border-top:2px solid grey"
@@ -501,9 +507,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |35
 |align=left|http://os.ongapo.com/images/flaggen/ISR.gif '''ISR'''
 |align=left|'''[[FC Petah-Tikva]]'''
-|raus
+|<span title="OSE Runde 3 (OSEQ)">raus</span>
 |1
-|<span style=color:green>9,0</span>
+|<span style=color:darkgreen title="OSE Runde 3 (OSEQ) 9,0 raus">''9,0''</span>
 !9,0
 |37%
 |-align=center
@@ -512,9 +518,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |35
 |align=left|http://os.ongapo.com/images/flaggen/TUR.gif '''TUR'''
 |align=left|'''[[Yesil-Mor Konyaspor]]'''
-|raus
+|<span title="OSE Runde 4 (OSE)">raus</span>
 |1
-|<span style=color:green>9,0</span>
+|<span style=color:darkgreen title="OSE Runde 4 (OSE) 9,0 raus">9,0</span>
 !9,0
 |26%
 |-align=center
@@ -523,9 +529,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |22
 |align=left|http://os.ongapo.com/images/flaggen/ESP.gif '''ESP'''
 |align=left|'''[[CD Extremadura]]'''
-|raus
+|<span title="OSE Runde 3 (OSEQ)">raus</span>
 |1
-|<span style=color:green>9,0</span>
+|<span style=color:darkgreen title="OSE Runde 3 (OSEQ) 9,0 raus">''9,0''</span>
 !9,0
 |35%
 |-align=center
@@ -534,9 +540,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |35
 |align=left|http://os.ongapo.com/images/flaggen/MKD.gif '''MKD'''
 |align=left|'''[[Vodno Skopje]]'''
-|raus
+|<span title="OSE Runde 3 (OSE)">raus</span>
 |1
-|<span style=color:green>9,0</span>
+|<span style=color:darkgreen title="OSE Runde 3 (OSE) 9,0 raus">9,0</span>
 !9,0
 |43%
 |-align=center
@@ -545,9 +551,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |22
 |align=left|http://os.ongapo.com/images/flaggen/KAZ.gif '''KAZ'''
 |align=left|'''[[FK Almaty]]'''
-|raus
+|<span title="OSE Runde 3 (OSEQ)">raus</span>
 |1
-|<span style=color:green>9,0</span>
+|<span style=color:darkgreen title="OSE Runde 3 (OSEQ) 9,0 raus">''9,0''</span>
 !9,0
 |38%
 |-align=center
@@ -556,9 +562,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |22
 |align=left|http://os.ongapo.com/images/flaggen/ENG.gif '''ENG'''
 |align=left|'''[[FC Leicester]]'''
-|raus
+|<span title="OSE Runde 3 (OSE)">raus</span>
 |1
-|<span style=color:green>9,0</span>
+|<span style=color:darkgreen title="OSE Runde 3 (OSE) 9,0 raus">9,0</span>
 !9,0
 |18%
 |-align=center
@@ -567,9 +573,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |22
 |align=left|http://os.ongapo.com/images/flaggen/LVA.gif '''LVA'''
 |align=left|'''[[Olimpia Ventspils]]'''
-|raus
+|<span title="OSE Runde 3 (OSE)">raus</span>
 |1
-|<span style=color:green>9,0</span>
+|<span style=color:darkgreen title="OSE Runde 3 (OSE) 9,0 raus">9,0</span>
 !9,0
 |47%
 |-align=center
@@ -578,9 +584,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |64
 |align=left|http://os.ongapo.com/images/flaggen/AZE.gif '''AZE'''
 |align=left|'''[[Dinamo Mashtagi]]'''
-|raus
+|<span title="OSE Runde 4 (OSE)">raus</span>
 |1
-|<span style=color:green>9,0</span>
+|<span style=color:darkgreen title="OSE Runde 4 (OSE) 9,0 raus">9,0</span>
 !9,0
 |18%
 |-align=center
@@ -589,9 +595,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |22
 |align=left|http://os.ongapo.com/images/flaggen/GER.gif '''GER'''
 |align=left|'''[[1.FK Köln]]'''
-|raus
+|<span title="OSE Runde 3 (OSE)">raus</span>
 |1
-|<span style=color:green>9,0</span>
+|<span style=color:darkgreen title="OSE Runde 3 (OSE) 9,0 raus">9,0</span>
 !9,0
 |21%
 |-align=center
@@ -600,9 +606,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |81
 |align=left|http://os.ongapo.com/images/flaggen/SVK.gif '''SVK'''
 |align=left|'''[[SK Spartak Senec]]'''
-|raus
+|<span title="OSE Runde 4 (OSCQ)">raus</span>
 |1
-|<span style=color:green>9,0</span>
+|<span style=color:blue title="OSE Runde 4 (OSCQ) 9,0 raus">''9,0''</span>
 !9,0
 |21%
 |-align=center style="border-top:2px solid grey"
@@ -611,9 +617,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |166
 |align=left|http://os.ongapo.com/images/flaggen/AUT.gif '''AUT'''
 |align=left|'''[[Schwarzach 07]]'''
-|raus
+|<span title="OSE Achtelfinale (OSCQ)">raus</span>
 |1
-|<span style=color:green>8,5</span>
+|<span style=color:darkmagenta title="OSE Achtelfinale (OSCQ) 8,5 raus">''8,5''</span>
 !8,5
 |39%
 |-align=center style="border-top:2px solid grey"
@@ -622,9 +628,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |35
 |align=left|http://os.ongapo.com/images/flaggen/GEO.gif '''GEO'''
 |align=left|'''[[CSKA Tiflis]]'''
-|raus
+|<span title="OSE Runde 3 (OSE)">raus</span>
 |1
-|<span style=color:green>8,0</span>
+|<span style=color:darkgreen title="OSE Runde 3 (OSE) 8,0 raus">8,0</span>
 !8,0
 |37%
 |-align=center
@@ -633,9 +639,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |22
 |align=left|http://os.ongapo.com/images/flaggen/ENG.gif '''ENG'''
 |align=left|'''[[Tottenham United]]'''
-|raus
+|<span title="OSC-HR (OSC)">raus</span>
 |1
-|<span style=color:red>8,0</span>
+|<span style=color:orange title="OSC-HR (OSC) 8,0 raus">8,0</span>
 !8,0
 |16%
 |-align=center
@@ -644,9 +650,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |104
 |align=left|http://os.ongapo.com/images/flaggen/ISR.gif '''ISR'''
 |align=left|'''[[Shalom Petah Tikva]]'''
-|raus
+|<span title="OSE Achtelfinale (OSCQ)">raus</span>
 |1
-|<span style=color:green>8,0</span>
+|<span style=color:darkmagenta title="OSE Achtelfinale (OSCQ) 8,0 raus">''8,0''</span>
 !8,0
 |33%
 |-align=center
@@ -655,9 +661,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |35
 |align=left|http://os.ongapo.com/images/flaggen/ALB.gif '''ALB'''
 |align=left|'''[[SC Kruje]]'''
-|raus
+|<span title="OSE Runde 3 (OSE)">raus</span>
 |1
-|<span style=color:green>8,0</span>
+|<span style=color:darkgreen title="OSE Runde 3 (OSE) 8,0 raus">8,0</span>
 !8,0
 |57%
 |-align=center style="border-top:2px solid grey"
@@ -666,9 +672,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |34
 |align=left|http://os.ongapo.com/images/flaggen/CRO.gif '''CRO'''
 |align=left|'''[[NK Hajduk Koprivinica]]'''
-|raus
+|<span title="OSE Runde 3 (OSEQ)">raus</span>
 |1
-|<span style=color:green>7,5</span>
+|<span style=color:darkgreen title="OSE Runde 3 (OSEQ) 7,5 raus">''7,5''</span>
 !7,5
 |30%
 |-align=center
@@ -677,9 +683,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |122
 |align=left|http://os.ongapo.com/images/flaggen/RUS.gif '''RUS'''
 |align=left|'''[[FK Torpedo Tomsk]]'''
-|raus
+|<span title="OSE Runde 4 (OSCQ)">raus</span>
 |1
-|<span style=color:green>7,5</span>
+|<span style=color:blue title="OSE Runde 4 (OSCQ) 7,5 raus">''7,5''</span>
 !7,5
 |34%
 |-align=center style="border-top:2px solid grey"
@@ -688,9 +694,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |81
 |align=left|http://os.ongapo.com/images/flaggen/SWE.gif '''SWE'''
 |align=left|'''[[Falkenberg BK]]'''
-|raus
+|<span title="OSE Runde 4 (OSCQ)">raus</span>
 |1
-|<span style=color:green>7,0</span>
+|<span style=color:blue title="OSE Runde 4 (OSCQ) 7,0 raus">''7,0''</span>
 !7,0
 |17%
 |-align=center
@@ -699,9 +705,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |35
 |align=left|http://os.ongapo.com/images/flaggen/FRA.gif '''FRA'''
 |align=left|'''[[Catolica Saint Priest]]'''
-|raus
+|<span title="OSC-HR (OSC)">raus</span>
 |1
-|<span style=color:red>7,0</span>
+|<span style=color:orange title="OSC-HR (OSC) 7,0 raus">7,0</span>
 !7,0
 |18%
 |-align=center
@@ -710,9 +716,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |49
 |align=left|http://os.ongapo.com/images/flaggen/LTU.gif '''LTU'''
 |align=left|'''[[Suduva Rudiskes]]'''
-|raus
+|<span title="OSE Runde 3 (OSE)">raus</span>
 |1
-|<span style=color:green>7,0</span>
+|<span style=color:darkgreen title="OSE Runde 3 (OSE) 7,0 raus">7,0</span>
 !7,0
 |48%
 |-align=center
@@ -721,9 +727,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |49
 |align=left|http://os.ongapo.com/images/flaggen/GEO.gif '''GEO'''
 |align=left|'''[[Choir Rustavi]]'''
-|raus
+|<span title="OSE Runde 3 (OSE)">raus</span>
 |1
-|<span style=color:green>7,0</span>
+|<span style=color:darkgreen title="OSE Runde 3 (OSE) 7,0 raus">7,0</span>
 !7,0
 |33%
 |-align=center
@@ -732,9 +738,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |142
 |align=left|http://os.ongapo.com/images/flaggen/TUR.gif '''TUR'''
 |align=left|'''[[Yimpas Antalya]]'''
-|raus
+|<span title="OSE Runde 4 (OSCQ)">raus</span>
 |1
-|<span style=color:green>7,0</span>
+|<span style=color:blue title="OSE Runde 4 (OSCQ) 7,0 raus">''7,0''</span>
 !7,0
 |21%
 |-align=center
@@ -743,9 +749,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |49
 |align=left|http://os.ongapo.com/images/flaggen/UKR.gif '''UKR'''
 |align=left|'''[[SKA Donezk]]'''
-|raus
+|<span title="OSE Runde 3 (OSE)">raus</span>
 |1
-|<span style=color:green>7,0</span>
+|<span style=color:darkgreen title="OSE Runde 3 (OSE) 7,0 raus">7,0</span>
 !7,0
 |42%
 |-align=center
@@ -754,9 +760,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |35
 |align=left|http://os.ongapo.com/images/flaggen/CRO.gif '''CRO'''
 |align=left|'''[[Dinamo Istra-Pula]]'''
-|raus
+|<span title="OSE Runde 3 (OSE)">raus</span>
 |1
-|<span style=color:green>7,0</span>
+|<span style=color:darkgreen title="OSE Runde 3 (OSE) 7,0 raus">7,0</span>
 !7,0
 |28%
 |-align=center
@@ -765,9 +771,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |81
 |align=left|http://os.ongapo.com/images/flaggen/SMR.gif '''SMR'''
 |align=left|'''[[SSC Murata]]'''
-|raus
+|<span title="OSE Runde 4 (OSCQ)">raus</span>
 |1
-|<span style=color:green>7,0</span>
+|<span style=color:blue title="OSE Runde 4 (OSCQ) 7,0 raus">''7,0''</span>
 !7,0
 |17%
 |-align=center style="border-top:2px solid grey"
@@ -776,9 +782,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |166
 |align=left|http://os.ongapo.com/images/flaggen/HUN.gif '''HUN'''
 |align=left|'''[[Hatvan TE]]'''
-|raus
+|<span title="OSE Runde 4 (OSCQ)">raus</span>
 |1
-|<span style=color:green>6,5</span>
+|<span style=color:blue title="OSE Runde 4 (OSCQ) 6,5 raus">''6,5''</span>
 !6,5
 |30%
 |-align=center
@@ -787,9 +793,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |46
 |align=left|http://os.ongapo.com/images/flaggen/SVK.gif '''SVK'''
 |align=left|'''[[Dukla Puchov]]'''
-|raus
+|<span title="OSE Runde 2 (OSEQ)">raus</span>
 |1
-|<span style=color:green>6,5</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSEQ) 6,5 raus">''6,5''</span>
 !6,5
 |15%
 |-align=center
@@ -798,9 +804,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |46
 |align=left|http://os.ongapo.com/images/flaggen/BLR.gif '''BLR'''
 |align=left|'''[[Tabe Borisov]]'''
-|raus
+|<span title="OSC-HR (OSCQ)">raus</span>
 |1
-|<span style=color:red>6,5</span>
+|<span style=color:orange title="OSC-HR (OSCQ) 6,5 raus">''6,5''</span>
 !6,5
 |62%
 |-align=center
@@ -809,9 +815,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |46
 |align=left|http://os.ongapo.com/images/flaggen/SVK.gif '''SVK'''
 |align=left|'''[[Inter Presov]]'''
-|raus
+|<span title="OSE Runde 2 (OSEQ)">raus</span>
 |1
-|<span style=color:green>6,5</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSEQ) 6,5 raus">''6,5''</span>
 !6,5
 |15%
 |-align=center style="border-top:2px solid grey"
@@ -820,9 +826,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |142
 |align=left|http://os.ongapo.com/images/flaggen/FRA.gif '''FRA'''
 |align=left|'''[[SC Monaco]]'''
-|raus
+|<span title="OSE Runde 4 (OSCQ)">raus</span>
 |1
-|<span style=color:green>6,0</span>
+|<span style=color:blue title="OSE Runde 4 (OSCQ) 6,0 raus">''6,0''</span>
 !6,0
 |16%
 |-align=center
@@ -831,9 +837,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |49
 |align=left|http://os.ongapo.com/images/flaggen/RUS.gif '''RUS'''
 |align=left|'''[[MosDok Wyksa]]'''
-|raus
+|<span title="OSE Runde 2 (OSEQ)">raus</span>
 |1
-|<span style=color:green>6,0</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSEQ) 6,0 raus">''6,0''</span>
 !6,0
 |27%
 |-align=center
@@ -842,9 +848,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |142
 |align=left|http://os.ongapo.com/images/flaggen/NOR.gif '''NOR'''
 |align=left|'''[[FC Raufoss]]'''
-|raus
+|<span title="OSE Runde 4 (OSCQ)">raus</span>
 |1
-|<span style=color:green>6,0</span>
+|<span style=color:blue title="OSE Runde 4 (OSCQ) 6,0 raus">''6,0''</span>
 !6,0
 |48%
 |-align=center
@@ -853,9 +859,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |49
 |align=left|http://os.ongapo.com/images/flaggen/WAL.gif '''WAL'''
 |align=left|'''[[Haverfordwest College]]'''
-|raus
+|<span title="OSE Runde 2 (OSEQ)">raus</span>
 |1
-|<span style=color:green>6,0</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSEQ) 6,0 raus">''6,0''</span>
 !6,0
 |17%
 |-align=center
@@ -864,9 +870,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |64
 |align=left|http://os.ongapo.com/images/flaggen/EST.gif '''EST'''
 |align=left|'''[[JK Hansa Tallinn]]'''
-|raus
+|<span title="OSE Runde 3 (OSE)">raus</span>
 |1
-|<span style=color:green>6,0</span>
+|<span style=color:darkgreen title="OSE Runde 3 (OSE) 6,0 raus">6,0</span>
 !6,0
 |80%
 |-align=center
@@ -875,9 +881,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |49
 |align=left|http://os.ongapo.com/images/flaggen/MLT.gif '''MLT'''
 |align=left|'''[[Mosta Wanderers]]'''
-|raus
+|<span title="OSE Runde 2 (OSE)">raus</span>
 |1
-|<span style=color:green>6,0</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 6,0 raus">6,0</span>
 !6,0
 |12%
 |-align=center
@@ -886,9 +892,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |49
 |align=left|http://os.ongapo.com/images/flaggen/POR.gif '''POR'''
 |align=left|'''[[Varzim FC]]'''
-|raus
+|<span title="OSE Runde 2 (OSE)">raus</span>
 |1
-|<span style=color:green>6,0</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 6,0 raus">6,0</span>
 !6,0
 |14%
 |-align=center
@@ -897,9 +903,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |178
 |align=left|http://os.ongapo.com/images/flaggen/ITA.gif '''ITA'''
 |align=left|'''[[SS Torres]]'''
-|raus
+|<span title="OSE Runde 4 (OSCQ)">raus</span>
 |1
-|<span style=color:green>6,0</span>
+|<span style=color:blue title="OSE Runde 4 (OSCQ) 6,0 raus">''6,0''</span>
 !6,0
 |12%
 |-align=center style="border-top:2px solid grey"
@@ -908,9 +914,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |60
 |align=left|http://os.ongapo.com/images/flaggen/FRA.gif '''FRA'''
 |align=left|'''[[AS Caen]]'''
-|raus
+|<span title="OSE Runde 2 (OSEQ)">raus</span>
 |1
-|<span style=color:green>5,5</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSEQ) 5,5 raus">''5,5''</span>
 !5,5
 |14%
 |-align=center
@@ -919,9 +925,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |60
 |align=left|http://os.ongapo.com/images/flaggen/MKD.gif '''MKD'''
 |align=left|'''[[Borec Skopje]]'''
-|raus
+|<span title="OSE Runde 2 (OSEQ)">raus</span>
 |1
-|<span style=color:green>5,5</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSEQ) 5,5 raus">''5,5''</span>
 !5,5
 |26%
 |-align=center
@@ -930,9 +936,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |98
 |align=left|http://os.ongapo.com/images/flaggen/POR.gif '''POR'''
 |align=left|'''[[FC Torrense]]'''
-|raus
+|<span title="OSE Runde 3 (OSCQ)">raus</span>
 |1
-|<span style=color:green>5,5</span>
+|<span style=color:blue title="OSE Runde 3 (OSCQ) 5,5 raus">''5,5''</span>
 !5,5
 |13%
 |-align=center
@@ -941,9 +947,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |60
 |align=left|http://os.ongapo.com/images/flaggen/ISR.gif '''ISR'''
 |align=left|'''[[AF Tel-Aviv]]'''
-|raus
+|<span title="OSE Runde 2 (OSEQ)">raus</span>
 |1
-|<span style=color:green>5,5</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSEQ) 5,5 raus">''5,5''</span>
 !5,5
 |22%
 |-align=center
@@ -952,9 +958,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |60
 |align=left|http://os.ongapo.com/images/flaggen/CZE.gif '''CZE'''
 |align=left|'''[[Dukla Pilsen]]'''
-|raus
+|<span title="OSC-HR (OSCQ)">raus</span>
 |1
-|<span style=color:red>5,5</span>
+|<span style=color:orange title="OSC-HR (OSCQ) 5,5 raus">''5,5''</span>
 !5,5
 |39%
 |-align=center style="border-top:2px solid grey"
@@ -963,9 +969,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |64
 |align=left|http://os.ongapo.com/images/flaggen/ESP.gif '''ESP'''
 |align=left|'''[[FC Burjassot]]'''
-|raus
+|<span title="OSC-HR (OSC)">raus</span>
 |1
-|<span style=color:red>5,0</span>
+|<span style=color:orange title="OSC-HR (OSC) 5,0 raus">5,0</span>
 !5,0
 |19%
 |-align=center
@@ -974,9 +980,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |64
 |align=left|http://os.ongapo.com/images/flaggen/GER.gif '''GER'''
 |align=left|'''[[SC Kaiserslautern]]'''
-|raus
+|<span title="OSE Runde 2 (OSE)">raus</span>
 |1
-|<span style=color:green>5,0</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 5,0 raus">5,0</span>
 !5,0
 |12%
 |-align=center
@@ -985,9 +991,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |104
 |align=left|http://os.ongapo.com/images/flaggen/CZE.gif '''CZE'''
 |align=left|'''[[Slavia Steti]]'''
-|raus
+|<span title="OSE Runde 3 (OSCQ)">raus</span>
 |1
-|<span style=color:green>5,0</span>
+|<span style=color:blue title="OSE Runde 3 (OSCQ) 5,0 raus">''5,0''</span>
 !5,0
 |36%
 |-align=center
@@ -996,9 +1002,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |64
 |align=left|http://os.ongapo.com/images/flaggen/ISL.gif '''ISL'''
 |align=left|'''[[Thor Reykjavik]]'''
-|raus
+|<span title="OSE Runde 2 (OSE)">raus</span>
 |1
-|<span style=color:green>5,0</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 5,0 raus">5,0</span>
 !5,0
 |34%
 |-align=center
@@ -1007,9 +1013,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |64
 |align=left|http://os.ongapo.com/images/flaggen/TUR.gif '''TUR'''
 |align=left|'''[[Kartal Salihli]]'''
-|raus
+|<span title="OSE Runde 2 (OSE)">raus</span>
 |1
-|<span style=color:green>5,0</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 5,0 raus">5,0</span>
 !5,0
 |15%
 |-align=center
@@ -1018,9 +1024,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |64
 |align=left|http://os.ongapo.com/images/flaggen/AUT.gif '''AUT'''
 |align=left|'''[[BW St. Pölten]]'''
-|raus
+|<span title="OSC-HR (OSC)">raus</span>
 |1
-|<span style=color:red>5,0</span>
+|<span style=color:orange title="OSC-HR (OSC) 5,0 raus">5,0</span>
 !5,0
 |23%
 |-align=center
@@ -1029,9 +1035,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |64
 |align=left|http://os.ongapo.com/images/flaggen/SCO.gif '''SCO'''
 |align=left|'''[[Thistle Glasgow]]'''
-|raus
+|<span title="OSE Runde 2 (OSE)">raus</span>
 |1
-|<span style=color:green>5,0</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 5,0 raus">5,0</span>
 !5,0
 |50%
 |-align=center
@@ -1040,9 +1046,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |64
 |align=left|http://os.ongapo.com/images/flaggen/BIH.gif '''BIH'''
 |align=left|'''[[Radnik Sarajevo]]'''
-|raus
+|<span title="OSE Runde 2 (OSE)">raus</span>
 |1
-|<span style=color:green>5,0</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 5,0 raus">5,0</span>
 !5,0
 |17%
 |-align=center
@@ -1051,9 +1057,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |64
 |align=left|http://os.ongapo.com/images/flaggen/BUL.gif '''BUL'''
 |align=left|'''[[Hebar Minor]]'''
-|raus
+|<span title="OSEQ Runde 3 (OSEQ)">raus</span>
 |1
-|<span style=color:green>5,0</span>
+|<span style=color:lime title="OSEQ Runde 3 (OSEQ) 5,0 raus">''5,0''</span>
 !5,0
 |33%
 |-align=center
@@ -1062,9 +1068,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |64
 |align=left|http://os.ongapo.com/images/flaggen/IRL.gif '''IRL'''
 |align=left|'''[[Whitehall United]]'''
-|raus
+|<span title="OSE Runde 3 (OSE)">raus</span>
 |1
-|<span style=color:green>5,0</span>
+|<span style=color:darkgreen title="OSE Runde 3 (OSE) 5,0 raus">5,0</span>
 !5,0
 |20%
 |-align=center
@@ -1073,9 +1079,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |64
 |align=left|http://os.ongapo.com/images/flaggen/SVK.gif '''SVK'''
 |align=left|'''[[Slowakia Nitra]]'''
-|raus
+|<span title="OSE Runde 2 (OSE)">raus</span>
 |1
-|<span style=color:green>5,0</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 5,0 raus">5,0</span>
 !5,0
 |12%
 |-align=center
@@ -1084,9 +1090,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |64
 |align=left|http://os.ongapo.com/images/flaggen/UKR.gif '''UKR'''
 |align=left|'''[[Kirbvar Krivoj Rog]]'''
-|raus
+|<span title="OSE Runde 2 (OSE)">raus</span>
 |1
-|<span style=color:green>5,0</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 5,0 raus">5,0</span>
 !5,0
 |30%
 |-align=center
@@ -1095,9 +1101,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |64
 |align=left|http://os.ongapo.com/images/flaggen/BUL.gif '''BUL'''
 |align=left|'''[[Spartak Iskar]]'''
-|raus
+|<span title="OSE Runde 2 (OSE)">raus</span>
 |1
-|<span style=color:green>5,0</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 5,0 raus">5,0</span>
 !5,0
 |33%
 |-align=center style="border-top:2px solid grey"
@@ -1106,9 +1112,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |122
 |align=left|http://os.ongapo.com/images/flaggen/CRO.gif '''CRO'''
 |align=left|'''[[Croatia Split]]'''
-|raus
+|<span title="OSE Runde 3 (OSCQ)">raus</span>
 |1
-|<span style=color:green>4,5</span>
+|<span style=color:blue title="OSE Runde 3 (OSCQ) 4,5 raus">''4,5''</span>
 !4,5
 |18%
 |-align=center style="border-top:2px solid grey"
@@ -1117,9 +1123,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |81
 |align=left|http://os.ongapo.com/images/flaggen/BEL.gif '''BEL'''
 |align=left|'''[[FC Nivellois]]'''
-|raus
+|<span title="OSC-HR (OSC)">raus</span>
 |1
-|<span style=color:red>4,0</span>
+|<span style=color:orange title="OSC-HR (OSC) 4,0 raus">4,0</span>
 !4,0
 |9%
 |-align=center
@@ -1128,9 +1134,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |142
 |align=left|http://os.ongapo.com/images/flaggen/SVN.gif '''SVN'''
 |align=left|'''[[Murska Sobota]]'''
-|raus
+|<span title="OSE Runde 3 (OSCQ)">raus</span>
 |1
-|<span style=color:green>4,0</span>
+|<span style=color:blue title="OSE Runde 3 (OSCQ) 4,0 raus">''4,0''</span>
 !4,0
 |15%
 |-align=center
@@ -1139,9 +1145,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |81
 |align=left|http://os.ongapo.com/images/flaggen/FRO.gif '''FRO'''
 |align=left|'''[[FS Sandavagur]]'''
-|raus
+|<span title="OSEQ Runde 3 (OSEQ)">raus</span>
 |1
-|<span style=color:green>4,0</span>
+|<span style=color:lime title="OSEQ Runde 3 (OSEQ) 4,0 raus">''4,0''</span>
 !4,0
 |14%
 |-align=center
@@ -1150,9 +1156,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |81
 |align=left|http://os.ongapo.com/images/flaggen/FRO.gif '''FRO'''
 |align=left|'''[[Viking Midvágur]]'''
-|raus
+|<span title="OSEQ Runde 3 (OSEQ)">raus</span>
 |1
-|<span style=color:green>4,0</span>
+|<span style=color:lime title="OSEQ Runde 3 (OSEQ) 4,0 raus">''4,0''</span>
 !4,0
 |14%
 |-align=center
@@ -1161,9 +1167,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |81
 |align=left|http://os.ongapo.com/images/flaggen/MDA.gif '''MDA'''
 |align=left|'''[[Intersport Carpineni]]'''
-|raus
+|<span title="OSEQ Runde 3 (OSEQ)">raus</span>
 |1
-|<span style=color:green>4,0</span>
+|<span style=color:lime title="OSEQ Runde 3 (OSEQ) 4,0 raus">''4,0''</span>
 !4,0
 |40%
 |-align=center
@@ -1172,9 +1178,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |81
 |align=left|http://os.ongapo.com/images/flaggen/LVA.gif '''LVA'''
 |align=left|'''[[Vulkans Rezekne]]'''
-|raus
+|<span title="OSE Runde 2 (OSE)">raus</span>
 |1
-|<span style=color:green>4,0</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 4,0 raus">4,0</span>
 !4,0
 |21%
 |-align=center
@@ -1183,9 +1189,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |104
 |align=left|http://os.ongapo.com/images/flaggen/ESP.gif '''ESP'''
 |align=left|'''[[CD Gernika]]'''
-|raus
+|<span title="OSE Runde 3 (OSCQ)">raus</span>
 |1
-|<span style=color:green>4,0</span>
+|<span style=color:blue title="OSE Runde 3 (OSCQ) 4,0 raus">''4,0''</span>
 !4,0
 |15%
 |-align=center
@@ -1194,9 +1200,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |81
 |align=left|http://os.ongapo.com/images/flaggen/ESP.gif '''ESP'''
 |align=left|'''[[Cataluña Deportiva Premia]]'''
-|raus
+|<span title="OSE Runde 2 (OSE)">raus</span>
 |1
-|<span style=color:green>4,0</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 4,0 raus">4,0</span>
 !4,0
 |15%
 |-align=center
@@ -1205,9 +1211,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |81
 |align=left|http://os.ongapo.com/images/flaggen/SVN.gif '''SVN'''
 |align=left|'''[[Slavia Dravograd]]'''
-|raus
+|<span title="OSEQ Runde 3 (OSEQ)">raus</span>
 |1
-|<span style=color:green>4,0</span>
+|<span style=color:lime title="OSEQ Runde 3 (OSEQ) 4,0 raus">''4,0''</span>
 !4,0
 |15%
 |-align=center
@@ -1216,9 +1222,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |81
 |align=left|http://os.ongapo.com/images/flaggen/CRO.gif '''CRO'''
 |align=left|'''[[Lokomotive Zagreb]]'''
-|raus
+|<span title="OSE Runde 2 (OSE)">raus</span>
 |1
-|<span style=color:green>4,0</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 4,0 raus">4,0</span>
 !4,0
 |16%
 |-align=center
@@ -1227,9 +1233,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |81
 |align=left|http://os.ongapo.com/images/flaggen/RUS.gif '''RUS'''
 |align=left|'''[[Lok Stavropol]]'''
-|raus
+|<span title="OSC-HR (OSC)">raus</span>
 |1
-|<span style=color:red>4,0</span>
+|<span style=color:orange title="OSC-HR (OSC) 4,0 raus">4,0</span>
 !4,0
 |18%
 |-align=center
@@ -1238,9 +1244,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |81
 |align=left|http://os.ongapo.com/images/flaggen/SWE.gif '''SWE'''
 |align=left|'''[[Malmö IS]]'''
-|raus
+|<span title="OSE Runde 2 (OSE)">raus</span>
 |1
-|<span style=color:green>4,0</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 4,0 raus">4,0</span>
 !4,0
 |10%
 |-align=center
@@ -1249,9 +1255,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |142
 |align=left|http://os.ongapo.com/images/flaggen/FRO.gif '''FRO'''
 |align=left|'''[[KB Klaksvik]]'''
-|raus
+|<span title="OSE Runde 3 (OSCQ)">raus</span>
 |1
-|<span style=color:green>4,0</span>
+|<span style=color:blue title="OSE Runde 3 (OSCQ) 4,0 raus">''4,0''</span>
 !4,0
 |14%
 |-align=center
@@ -1260,9 +1266,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |81
 |align=left|http://os.ongapo.com/images/flaggen/AZE.gif '''AZE'''
 |align=left|'''[[KF Agdam]]'''
-|raus
+|<span title="OSE Runde 2 (OSE)">raus</span>
 |1
-|<span style=color:green>4,0</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 4,0 raus">4,0</span>
 !4,0
 |8%
 |-align=center
@@ -1271,9 +1277,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |81
 |align=left|http://os.ongapo.com/images/flaggen/HUN.gif '''HUN'''
 |align=left|'''[[Olimpija Nagykanizsa]]'''
-|raus
+|<span title="OSEQ Runde 3 (OSEQ)">raus</span>
 |1
-|<span style=color:green>4,0</span>
+|<span style=color:lime title="OSEQ Runde 3 (OSEQ) 4,0 raus">''4,0''</span>
 !4,0
 |19%
 |-align=center
@@ -1282,9 +1288,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |81
 |align=left|http://os.ongapo.com/images/flaggen/AUT.gif '''AUT'''
 |align=left|'''[[Mattersburg OSC]]'''
-|raus
+|<span title="OSE Runde 2 (OSE)">raus</span>
 |1
-|<span style=color:green>4,0</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 4,0 raus">4,0</span>
 !4,0
 |18%
 |-align=center
@@ -1293,9 +1299,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |81
 |align=left|http://os.ongapo.com/images/flaggen/SCG.gif '''SCG'''
 |align=left|'''[[FC Kabel]]'''
-|raus
+|<span title="OSE Runde 2 (OSE)">raus</span>
 |1
-|<span style=color:green>4,0</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 4,0 raus">4,0</span>
 !4,0
 |14%
 |-align=center style="border-top:2px solid grey"
@@ -1304,9 +1310,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |98
 |align=left|http://os.ongapo.com/images/flaggen/ENG.gif '''ENG'''
 |align=left|'''[[Yeovil Rovers]]'''
-|raus
+|<span title="OSEQ Runde 3 (OSEQ)">raus</span>
 |1
-|<span style=color:green>3,5</span>
+|<span style=color:lime title="OSEQ Runde 3 (OSEQ) 3,5 raus">''3,5''</span>
 !3,5
 |7%
 |-align=center
@@ -1315,9 +1321,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |98
 |align=left|http://os.ongapo.com/images/flaggen/NOR.gif '''NOR'''
 |align=left|'''[[Stavanger Fotball]]'''
-|raus
+|<span title="OSE Runde 3 (OSCQ)">raus</span>
 |1
-|<span style=color:green>3,5</span>
+|<span style=color:blue title="OSE Runde 3 (OSCQ) 3,5 raus">''3,5''</span>
 !3,5
 |28%
 |-align=center
@@ -1326,9 +1332,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |98
 |align=left|http://os.ongapo.com/images/flaggen/BIH.gif '''BIH'''
 |align=left|'''[[Krusno Kakanj]]'''
-|raus
+|<span title="OSE Runde 3 (OSCQ)">raus</span>
 |1
-|<span style=color:green>3,5</span>
+|<span style=color:blue title="OSE Runde 3 (OSCQ) 3,5 raus">''3,5''</span>
 !3,5
 |12%
 |-align=center
@@ -1337,9 +1343,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |98
 |align=left|http://os.ongapo.com/images/flaggen/POL.gif '''POL'''
 |align=left|'''[[Groclin Wielkopolski]]'''
-|raus
+|<span title="OSEQ Runde 3 (OSEQ)">raus</span>
 |1
-|<span style=color:green>3,5</span>
+|<span style=color:lime title="OSEQ Runde 3 (OSEQ) 3,5 raus">''3,5''</span>
 !3,5
 |30%
 |-align=center
@@ -1348,9 +1354,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |166
 |align=left|http://os.ongapo.com/images/flaggen/MKD.gif '''MKD'''
 |align=left|'''[[Skendija Skopje]]'''
-|raus
+|<span title="OSE Runde 3 (OSCQ)">raus</span>
 |1
-|<span style=color:green>3,5</span>
+|<span style=color:blue title="OSE Runde 3 (OSCQ) 3,5 raus">''3,5''</span>
 !3,5
 |17%
 |-align=center
@@ -1359,9 +1365,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |98
 |align=left|http://os.ongapo.com/images/flaggen/AZE.gif '''AZE'''
 |align=left|'''[[Automobilchi Baku]]'''
-|raus
+|<span title="OSEQ Runde 3 (OSEQ)">raus</span>
 |1
-|<span style=color:green>3,5</span>
+|<span style=color:lime title="OSEQ Runde 3 (OSEQ) 3,5 raus">''3,5''</span>
 !3,5
 |7%
 |-align=center style="border-top:2px solid grey"
@@ -1370,9 +1376,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |104
 |align=left|http://os.ongapo.com/images/flaggen/NIR.gif '''NIR'''
 |align=left|'''[[Saintfield Town]]'''
-|raus
+|<span title="OSEQ Runde 2 (OSEQ)">raus</span>
 |1
-|<span style=color:green>3,0</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 3,0 raus">''3,0''</span>
 !3,0
 |5%
 |-align=center
@@ -1381,9 +1387,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |104
 |align=left|http://os.ongapo.com/images/flaggen/SUI.gif '''SUI'''
 |align=left|'''[[Mäntix Basel]]'''
-|raus
+|<span title="OSEQ Runde 3 (OSEQ)">raus</span>
 |1
-|<span style=color:green>3,0</span>
+|<span style=color:lime title="OSEQ Runde 3 (OSEQ) 3,0 raus">''3,0''</span>
 !3,0
 |15%
 |-align=center
@@ -1392,9 +1398,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |104
 |align=left|http://os.ongapo.com/images/flaggen/LUX.gif '''LUX'''
 |align=left|'''[[Blue Boys Etzelbrück]]'''
-|raus
+|<span title="OSEQ Runde 2 (OSEQ)">raus</span>
 |1
-|<span style=color:green>3,0</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 3,0 raus">''3,0''</span>
 !3,0
 |9%
 |-align=center
@@ -1403,9 +1409,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |104
 |align=left|http://os.ongapo.com/images/flaggen/CZE.gif '''CZE'''
 |align=left|'''[[FFK Olmütz]]'''
-|raus
+|<span title="OSEQ Runde 3 (OSEQ)">raus</span>
 |1
-|<span style=color:green>3,0</span>
+|<span style=color:lime title="OSEQ Runde 3 (OSEQ) 3,0 raus">''3,0''</span>
 !3,0
 |21%
 |-align=center
@@ -1414,9 +1420,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |104
 |align=left|http://os.ongapo.com/images/flaggen/ITA.gif '''ITA'''
 |align=left|'''[[AS Foggia]]'''
-|raus
+|<span title="OSE Runde 2 (OSE)">raus</span>
 |1
-|<span style=color:green>3,0</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 3,0 raus">3,0</span>
 !3,0
 |6%
 |-align=center
@@ -1425,9 +1431,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |104
 |align=left|http://os.ongapo.com/images/flaggen/LTU.gif '''LTU'''
 |align=left|'''[[Nabga Gargzdai]]'''
-|raus
+|<span title="OSE Runde 2 (OSCQ)">raus</span>
 |1
-|<span style=color:green>3,0</span>
+|<span style=color:blue title="OSE Runde 2 (OSCQ) 3,0 raus">''3,0''</span>
 !3,0
 |21%
 |-align=center
@@ -1436,9 +1442,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |104
 |align=left|http://os.ongapo.com/images/flaggen/NED.gif '''NED'''
 |align=left|'''[[FC Nijmegen]]'''
-|raus
+|<span title="OSC-HR (OSC)">raus</span>
 |1
-|<span style=color:red>3,0</span>
+|<span style=color:orange title="OSC-HR (OSC) 3,0 raus">3,0</span>
 !3,0
 |7%
 |-align=center
@@ -1447,9 +1453,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |104
 |align=left|http://os.ongapo.com/images/flaggen/RUS.gif '''RUS'''
 |align=left|'''[[Biochimik Wolga]]'''
-|raus
+|<span title="OSE Runde 2 (OSE)">raus</span>
 |1
-|<span style=color:green>3,0</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 3,0 raus">3,0</span>
 !3,0
 |14%
 |-align=center
@@ -1458,9 +1464,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |104
 |align=left|http://os.ongapo.com/images/flaggen/BEL.gif '''BEL'''
 |align=left|'''[[RFC Bocholt]]'''
-|raus
+|<span title="OSEQ Runde 3 (OSEQ)">raus</span>
 |1
-|<span style=color:green>3,0</span>
+|<span style=color:lime title="OSEQ Runde 3 (OSEQ) 3,0 raus">''3,0''</span>
 !3,0
 |7%
 |-align=center
@@ -1469,9 +1475,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |104
 |align=left|http://os.ongapo.com/images/flaggen/FRO.gif '''FRO'''
 |align=left|'''[[IF Torshavn]]'''
-|raus
+|<span title="OSE Runde 2 (OSE)">raus</span>
 |1
-|<span style=color:green>3,0</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 3,0 raus">3,0</span>
 !3,0
 |11%
 |-align=center
@@ -1480,9 +1486,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |104
 |align=left|http://os.ongapo.com/images/flaggen/BUL.gif '''BUL'''
 |align=left|'''[[Lokomotive Burgas]]'''
-|raus
+|<span title="OSEQ Runde 2 (OSEQ)">raus</span>
 |1
-|<span style=color:green>3,0</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 3,0 raus">''3,0''</span>
 !3,0
 |20%
 |-align=center
@@ -1491,9 +1497,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |104
 |align=left|http://os.ongapo.com/images/flaggen/BLR.gif '''BLR'''
 |align=left|'''[[Belnishja Bobruisk]]'''
-|raus
+|<span title="OSEQ Runde 3 (OSEQ)">raus</span>
 |1
-|<span style=color:green>3,0</span>
+|<span style=color:lime title="OSEQ Runde 3 (OSEQ) 3,0 raus">''3,0''</span>
 !3,0
 |29%
 |-align=center
@@ -1502,9 +1508,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |104
 |align=left|http://os.ongapo.com/images/flaggen/LVA.gif '''LVA'''
 |align=left|'''[[SC Lignums]]'''
-|raus
+|<span title="OSE Runde 2 (OSCQ)">raus</span>
 |1
-|<span style=color:green>3,0</span>
+|<span style=color:blue title="OSE Runde 2 (OSCQ) 3,0 raus">''3,0''</span>
 !3,0
 |16%
 |-align=center
@@ -1513,9 +1519,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |104
 |align=left|http://os.ongapo.com/images/flaggen/ESP.gif '''ESP'''
 |align=left|'''[[Orense RC]]'''
-|raus
+|<span title="OSEQ Runde 3 (OSEQ)">raus</span>
 |1
-|<span style=color:green>3,0</span>
+|<span style=color:lime title="OSEQ Runde 3 (OSEQ) 3,0 raus">''3,0''</span>
 !3,0
 |12%
 |-align=center
@@ -1524,9 +1530,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |142
 |align=left|http://os.ongapo.com/images/flaggen/ALB.gif '''ALB'''
 |align=left|'''[[Partisani Pogradeci]]'''
-|raus
+|<span title="OSE Runde 3 (OSCQ)">raus</span>
 |1
-|<span style=color:green>3,0</span>
+|<span style=color:blue title="OSE Runde 3 (OSCQ) 3,0 raus">''3,0''</span>
 !3,0
 |21%
 |-align=center
@@ -1535,9 +1541,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |142
 |align=left|http://os.ongapo.com/images/flaggen/GEO.gif '''GEO'''
 |align=left|'''[[Lok Tskhaltubo]]'''
-|raus
+|<span title="OSE Runde 3 (OSCQ)">raus</span>
 |1
-|<span style=color:green>3,0</span>
+|<span style=color:blue title="OSE Runde 3 (OSCQ) 3,0 raus">''3,0''</span>
 !3,0
 |14%
 |-align=center
@@ -1546,9 +1552,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |104
 |align=left|http://os.ongapo.com/images/flaggen/SUI.gif '''SUI'''
 |align=left|'''[[Glacier Sion]]'''
-|raus
+|<span title="OSE Runde 2 (OSE)">raus</span>
 |1
-|<span style=color:green>3,0</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 3,0 raus">3,0</span>
 !3,0
 |15%
 |-align=center style="border-top:2px solid grey"
@@ -1557,9 +1563,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |122
 |align=left|http://os.ongapo.com/images/flaggen/KAZ.gif '''KAZ'''
 |align=left|'''[[FK Kokshetau]]'''
-|raus
+|<span title="OSEQ Runde 2 (OSEQ)">raus</span>
 |1
-|<span style=color:green>2,5</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 2,5 raus">''2,5''</span>
 !2,5
 |11%
 |-align=center
@@ -1568,9 +1574,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |122
 |align=left|http://os.ongapo.com/images/flaggen/BIH.gif '''BIH'''
 |align=left|'''[[NK Bekjia Grude]]'''
-|raus
+|<span title="OSEQ Runde 2 (OSEQ)">raus</span>
 |1
-|<span style=color:green>2,5</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 2,5 raus">''2,5''</span>
 !2,5
 |8%
 |-align=center
@@ -1579,9 +1585,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |122
 |align=left|http://os.ongapo.com/images/flaggen/ITA.gif '''ITA'''
 |align=left|'''[[AS Martina Franca]]'''
-|raus
+|<span title="OSEQ Runde 2 (OSEQ)">raus</span>
 |1
-|<span style=color:green>2,5</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 2,5 raus">''2,5''</span>
 !2,5
 |5%
 |-align=center
@@ -1590,9 +1596,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |166
 |align=left|http://os.ongapo.com/images/flaggen/ISL.gif '''ISL'''
 |align=left|'''[[KF Hofsstaðir Stjarnan]]'''
-|raus
+|<span title="OSE Runde 3 (OSCQ)">raus</span>
 |1
-|<span style=color:green>2,5</span>
+|<span style=color:blue title="OSE Runde 3 (OSCQ) 2,5 raus">''2,5''</span>
 !2,5
 |17%
 |-align=center
@@ -1601,9 +1607,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |122
 |align=left|http://os.ongapo.com/images/flaggen/ISL.gif '''ISL'''
 |align=left|'''[[Viking Reykjavik]]'''
-|raus
+|<span title="OSEQ Runde 2 (OSEQ)">raus</span>
 |1
-|<span style=color:green>2,5</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 2,5 raus">''2,5''</span>
 !2,5
 |17%
 |-align=center
@@ -1612,9 +1618,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |122
 |align=left|http://os.ongapo.com/images/flaggen/FIN.gif '''FIN'''
 |align=left|'''[[INTER Helsinki]]'''
-|raus
+|<span title="OSE Runde 3 (OSCQ)">raus</span>
 |1
-|<span style=color:green>2,5</span>
+|<span style=color:blue title="OSE Runde 3 (OSCQ) 2,5 raus">''2,5''</span>
 !2,5
 |45%
 |-align=center
@@ -1623,9 +1629,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |122
 |align=left|http://os.ongapo.com/images/flaggen/GRE.gif '''GRE'''
 |align=left|'''[[Skoda Skopelos]]'''
-|raus
+|<span title="OSEQ Runde 3 (OSEQ)">raus</span>
 |1
-|<span style=color:green>2,5</span>
+|<span style=color:lime title="OSEQ Runde 3 (OSEQ) 2,5 raus">''2,5''</span>
 !2,5
 |13%
 |-align=center
@@ -1634,9 +1640,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |122
 |align=left|http://os.ongapo.com/images/flaggen/ITA.gif '''ITA'''
 |align=left|'''[[Alzano Lupi]]'''
-|raus
+|<span title="OSEQ Runde 2 (OSEQ)">raus</span>
 |1
-|<span style=color:green>2,5</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 2,5 raus">''2,5''</span>
 !2,5
 |5%
 |-align=center
@@ -1645,9 +1651,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |122
 |align=left|http://os.ongapo.com/images/flaggen/IRL.gif '''IRL'''
 |align=left|'''[[SC Kerry Town]]'''
-|raus
+|<span title="OSEQ Runde 2 (OSEQ)">raus</span>
 |1
-|<span style=color:green>2,5</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 2,5 raus">''2,5''</span>
 !2,5
 |10%
 |-align=center
@@ -1656,9 +1662,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |122
 |align=left|http://os.ongapo.com/images/flaggen/POR.gif '''POR'''
 |align=left|'''[[Benfica Bragança]]'''
-|raus
+|<span title="OSEQ Runde 3 (OSEQ)">raus</span>
 |1
-|<span style=color:green>2,5</span>
+|<span style=color:lime title="OSEQ Runde 3 (OSEQ) 2,5 raus">''2,5''</span>
 !2,5
 |6%
 |-align=center
@@ -1667,9 +1673,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |122
 |align=left|http://os.ongapo.com/images/flaggen/GRE.gif '''GRE'''
 |align=left|'''[[Poseidon Nikea]]'''
-|raus
+|<span title="OSE Runde 2 (OSCQ)">raus</span>
 |1
-|<span style=color:green>2,5</span>
+|<span style=color:blue title="OSE Runde 2 (OSCQ) 2,5 raus">''2,5''</span>
 !2,5
 |13%
 |-align=center
@@ -1678,9 +1684,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |122
 |align=left|http://os.ongapo.com/images/flaggen/POL.gif '''POL'''
 |align=left|'''[[Physik Glogow]]'''
-|raus
+|<span title="OSEQ Runde 2 (OSEQ)">raus</span>
 |1
-|<span style=color:green>2,5</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 2,5 raus">''2,5''</span>
 !2,5
 |22%
 |-align=center
@@ -1689,9 +1695,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |122
 |align=left|http://os.ongapo.com/images/flaggen/MDA.gif '''MDA'''
 |align=left|'''[[Dinamo Dubasari]]'''
-|raus
+|<span title="OSEQ Runde 2 (OSEQ)">raus</span>
 |1
-|<span style=color:green>2,5</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 2,5 raus">''2,5''</span>
 !2,5
 |25%
 |-align=center
@@ -1700,9 +1706,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |122
 |align=left|http://os.ongapo.com/images/flaggen/WAL.gif '''WAL'''
 |align=left|'''[[Pontllanfraith William F.C.]]'''
-|raus
+|<span title="OSE Runde 3 (OSCQ)">raus</span>
 |1
-|<span style=color:green>2,5</span>
+|<span style=color:blue title="OSE Runde 3 (OSCQ) 2,5 raus">''2,5''</span>
 !2,5
 |7%
 |-align=center
@@ -1711,9 +1717,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |122
 |align=left|http://os.ongapo.com/images/flaggen/LVA.gif '''LVA'''
 |align=left|'''[[Akora Riga]]'''
-|raus
+|<span title="OSEQ Runde 2 (OSEQ)">raus</span>
 |1
-|<span style=color:green>2,5</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 2,5 raus">''2,5''</span>
 !2,5
 |13%
 |-align=center
@@ -1722,9 +1728,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |122
 |align=left|http://os.ongapo.com/images/flaggen/LTU.gif '''LTU'''
 |align=left|'''[[FK Dainava Jegeriai]]'''
-|raus
+|<span title="OSEQ Runde 2 (OSEQ)">raus</span>
 |1
-|<span style=color:green>2,5</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 2,5 raus">''2,5''</span>
 !2,5
 |17%
 |-align=center
@@ -1733,9 +1739,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |122
 |align=left|http://os.ongapo.com/images/flaggen/AZE.gif '''AZE'''
 |align=left|'''[[FC Baku]]'''
-|raus
+|<span title="OSEQ Runde 2 (OSEQ)">raus</span>
 |1
-|<span style=color:green>2,5</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 2,5 raus">''2,5''</span>
 !2,5
 |5%
 |-align=center style="border-top:2px solid grey"
@@ -1744,9 +1750,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |142
 |align=left|http://os.ongapo.com/images/flaggen/GER.gif '''GER'''
 |align=left|'''[[Aachener BSC]]'''
-|raus
+|<span title="OSEQ Runde 2 (OSEQ)">raus</span>
 |1
-|<span style=color:green>2,0</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 2,0 raus">''2,0''</span>
 !2,0
 |5%
 |-align=center
@@ -1755,9 +1761,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |142
 |align=left|http://os.ongapo.com/images/flaggen/ENG.gif '''ENG'''
 |align=left|'''[[Wimbledon Rovers]]'''
-|raus
+|<span title="OSEQ Runde 2 (OSEQ)">raus</span>
 |1
-|<span style=color:green>2,0</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 2,0 raus">''2,0''</span>
 !2,0
 |4%
 |-align=center
@@ -1766,9 +1772,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |142
 |align=left|http://os.ongapo.com/images/flaggen/AUT.gif '''AUT'''
 |align=left|'''[[Austria Steyr]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
-|<span style=color:green>2,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 2,0 raus">2,0</span>
 !2,0
 |9%
 |-align=center
@@ -1777,9 +1783,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |142
 |align=left|http://os.ongapo.com/images/flaggen/GRE.gif '''GRE'''
 |align=left|'''[[AO Kreta]]'''
-|raus
+|<span title="OSEQ Runde 2 (OSEQ)">raus</span>
 |1
-|<span style=color:green>2,0</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 2,0 raus">''2,0''</span>
 !2,0
 |10%
 |-align=center
@@ -1788,9 +1794,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |142
 |align=left|http://os.ongapo.com/images/flaggen/FIN.gif '''FIN'''
 |align=left|'''[[SC Tampere]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
-|<span style=color:green>2,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 2,0 raus">2,0</span>
 !2,0
 |36%
 |-align=center
@@ -1799,9 +1805,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |142
 |align=left|http://os.ongapo.com/images/flaggen/POL.gif '''POL'''
 |align=left|'''[[Hutnik Zabrze]]'''
-|raus
+|<span title="OSE Runde 2 (OSE)">raus</span>
 |1
-|<span style=color:green>2,0</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 2,0 raus">2,0</span>
 !2,0
 |17%
 |-align=center
@@ -1810,9 +1816,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |142
 |align=left|http://os.ongapo.com/images/flaggen/SUI.gif '''SUI'''
 |align=left|'''[[Union Schötz]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
-|<span style=color:green>2,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 2,0 raus">2,0</span>
 !2,0
 |10%
 |-align=center
@@ -1821,9 +1827,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |142
 |align=left|http://os.ongapo.com/images/flaggen/MDA.gif '''MDA'''
 |align=left|'''[[CF Acui de Jos]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
-|<span style=color:green>2,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 2,0 raus">2,0</span>
 !2,0
 |20%
 |-align=center
@@ -1832,9 +1838,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |178
 |align=left|http://os.ongapo.com/images/flaggen/ISL.gif '''ISL'''
 |align=left|'''[[Hakarl Hafnarfjördur]]'''
-|raus
+|<span title="OSE Runde 3 (OSCQ)">raus</span>
 |1
-|<span style=color:green>2,0</span>
+|<span style=color:blue title="OSE Runde 3 (OSCQ) 2,0 raus">''2,0''</span>
 !2,0
 |14%
 |-align=center
@@ -1843,9 +1849,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |142
 |align=left|http://os.ongapo.com/images/flaggen/CYP.gif '''CYP'''
 |align=left|'''[[Anorthosis Limassol]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
-|<span style=color:green>2,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 2,0 raus">2,0</span>
 !2,0
 |11%
 |-align=center
@@ -1854,9 +1860,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |142
 |align=left|http://os.ongapo.com/images/flaggen/SCO.gif '''SCO'''
 |align=left|'''[[Celtic Huntly]]'''
-|raus
+|<span title="OSC-HR (OSC)">raus</span>
 |1
-|<span style=color:red>2,0</span>
+|<span style=color:orange title="OSC-HR (OSC) 2,0 raus">2,0</span>
 !2,0
 |20%
 |-align=center
@@ -1865,9 +1871,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |142
 |align=left|http://os.ongapo.com/images/flaggen/ARM.gif '''ARM'''
 |align=left|'''[[CSKA Gyumri]]'''
-|raus
+|<span title="OSEQ Runde 2 (OSEQ)">raus</span>
 |1
-|<span style=color:green>2,0</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 2,0 raus">''2,0''</span>
 !2,0
 |13%
 |-align=center
@@ -1876,9 +1882,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |142
 |align=left|http://os.ongapo.com/images/flaggen/AUT.gif '''AUT'''
 |align=left|'''[[SW Hundsheim 07]]'''
-|raus
+|<span title="OSEQ Runde 2 (OSEQ)">raus</span>
 |1
-|<span style=color:green>2,0</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 2,0 raus">''2,0''</span>
 !2,0
 |9%
 |-align=center
@@ -1887,9 +1893,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |142
 |align=left|http://os.ongapo.com/images/flaggen/FRA.gif '''FRA'''
 |align=left|'''[[Olympique Dunkerque]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
-|<span style=color:green>2,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 2,0 raus">2,0</span>
 !2,0
 |5%
 |-align=center
@@ -1898,9 +1904,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |142
 |align=left|http://os.ongapo.com/images/flaggen/GEO.gif '''GEO'''
 |align=left|'''[[FC Gori]]'''
-|raus
+|<span title="OSEQ Runde 2 (OSEQ)">raus</span>
 |1
-|<span style=color:green>2,0</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 2,0 raus">''2,0''</span>
 !2,0
 |9%
 |-align=center
@@ -1909,9 +1915,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |142
 |align=left|http://os.ongapo.com/images/flaggen/NOR.gif '''NOR'''
 |align=left|'''[[Fyllingen SK]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
-|<span style=color:green>2,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 2,0 raus">2,0</span>
 !2,0
 |16%
 |-align=center
@@ -1920,9 +1926,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |142
 |align=left|http://os.ongapo.com/images/flaggen/ALB.gif '''ALB'''
 |align=left|'''[[Korabi Patos]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
-|<span style=color:green>2,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 2,0 raus">2,0</span>
 !2,0
 |14%
 |-align=center
@@ -1931,9 +1937,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |142
 |align=left|http://os.ongapo.com/images/flaggen/POL.gif '''POL'''
 |align=left|'''[[Polonia Plock]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
-|<span style=color:green>2,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 2,0 raus">2,0</span>
 !2,0
 |17%
 |-align=center style="border-top:2px solid grey"
@@ -1942,9 +1948,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |166
 |align=left|http://os.ongapo.com/images/flaggen/SWE.gif '''SWE'''
 |align=left|'''[[Elfsborg BK]]'''
-|raus
+|<span title="OSEQ Runde 2 (OSEQ)">raus</span>
 |1
-|<span style=color:green>1,5</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 1,5 raus">''1,5''</span>
 !1,5
 |4%
 |-align=center
@@ -1953,9 +1959,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |166
 |align=left|http://os.ongapo.com/images/flaggen/SCO.gif '''SCO'''
 |align=left|'''[[Deveronvale United]]'''
-|raus
+|<span title="OSEQ Runde 2 (OSEQ)">raus</span>
 |1
-|<span style=color:green>1,5</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 1,5 raus">''1,5''</span>
 !1,5
 |15%
 |-align=center
@@ -1964,9 +1970,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |166
 |align=left|http://os.ongapo.com/images/flaggen/CRO.gif '''CRO'''
 |align=left|'''[[N.K. Istra Rovinj]]'''
-|raus
+|<span title="OSE Runde 2 (OSCQ)">raus</span>
 |1
-|<span style=color:green>1,5</span>
+|<span style=color:blue title="OSE Runde 2 (OSCQ) 1,5 raus">''1,5''</span>
 !1,5
 |6%
 |-align=center
@@ -1975,9 +1981,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |166
 |align=left|http://os.ongapo.com/images/flaggen/ISL.gif '''ISL'''
 |align=left|'''[[Thor Bessastadahreppur]]'''
-|raus
+|<span title="OSEQ Runde 2 (OSEQ)">raus</span>
 |1
-|<span style=color:green>1,5</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 1,5 raus">''1,5''</span>
 !1,5
 |10%
 |-align=center
@@ -1986,9 +1992,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |166
 |align=left|http://os.ongapo.com/images/flaggen/LTU.gif '''LTU'''
 |align=left|'''[[Kran Panevezys]]'''
-|raus
+|<span title="OSEQ Runde 2 (OSEQ)">raus</span>
 |1
-|<span style=color:green>1,5</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 1,5 raus">''1,5''</span>
 !1,5
 |10%
 |-align=center
@@ -1997,9 +2003,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |166
 |align=left|http://os.ongapo.com/images/flaggen/GEO.gif '''GEO'''
 |align=left|'''[[Zooveti Zugdidi]]'''
-|raus
+|<span title="OSEQ Runde 2 (OSEQ)">raus</span>
 |1
-|<span style=color:green>1,5</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 1,5 raus">''1,5''</span>
 !1,5
 |7%
 |-align=center
@@ -2008,9 +2014,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |166
 |align=left|http://os.ongapo.com/images/flaggen/SMR.gif '''SMR'''
 |align=left|'''[[SS Faetano]]'''
-|raus
+|<span title="OSEQ Runde 2 (OSEQ)">raus</span>
 |1
-|<span style=color:green>1,5</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 1,5 raus">''1,5''</span>
 !1,5
 |4%
 |-align=center
@@ -2019,9 +2025,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |166
 |align=left|http://os.ongapo.com/images/flaggen/UKR.gif '''UKR'''
 |align=left|'''[[Torpedo Kiew]]'''
-|raus
+|<span title="OSE Runde 3 (OSCQ)">raus</span>
 |1
-|<span style=color:green>1,5</span>
+|<span style=color:blue title="OSE Runde 3 (OSCQ) 1,5 raus">''1,5''</span>
 !1,5
 |9%
 |-align=center style="border-top:2px solid grey"
@@ -2030,9 +2036,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |178
 |align=left|http://os.ongapo.com/images/flaggen/SVK.gif '''SVK'''
 |align=left|'''[[Dukla Bratislava]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
-|<span style=color:green>1,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 1,0 raus">''1,0''</span>
 !1,0
 |2%
 |-align=center
@@ -2041,9 +2047,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |178
 |align=left|http://os.ongapo.com/images/flaggen/RUS.gif '''RUS'''
 |align=left|'''[[FK Metisnik Magnitogorsk]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
-|<span style=color:green>1,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 1,0 raus">1,0</span>
 !1,0
 |5%
 |-align=center
@@ -2052,9 +2058,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |178
 |align=left|http://os.ongapo.com/images/flaggen/MLT.gif '''MLT'''
 |align=left|'''[[St. Joseph SC]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
-|<span style=color:green>1,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 1,0 raus">''1,0''</span>
 !1,0
 |2%
 |-align=center
@@ -2063,9 +2069,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |178
 |align=left|http://os.ongapo.com/images/flaggen/ROM.gif '''ROM'''
 |align=left|'''[[CF Olimpia Timisoara]]'''
-|raus
+|<span title="OSE Runde 2 (OSCQ)">raus</span>
 |1
-|<span style=color:green>1,0</span>
+|<span style=color:blue title="OSE Runde 2 (OSCQ) 1,0 raus">''1,0''</span>
 !1,0
 |67%
 |-align=center
@@ -2074,9 +2080,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |178
 |align=left|http://os.ongapo.com/images/flaggen/ARM.gif '''ARM'''
 |align=left|'''[[Unispor Yerevan]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
-|<span style=color:green>1,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 1,0 raus">1,0</span>
 !1,0
 |7%
 |-align=center
@@ -2085,9 +2091,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |178
 |align=left|http://os.ongapo.com/images/flaggen/NED.gif '''NED'''
 |align=left|'''[[RW Alkmaar ´67]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
-|<span style=color:green>1,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 1,0 raus">1,0</span>
 !1,0
 |2%
 |-align=center
@@ -2096,9 +2102,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |178
 |align=left|http://os.ongapo.com/images/flaggen/ISL.gif '''ISL'''
 |align=left|'''[[KA Haukar]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
-|<span style=color:green>1,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 1,0 raus">''1,0''</span>
 !1,0
 |7%
 |-align=center
@@ -2107,9 +2113,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |178
 |align=left|http://os.ongapo.com/images/flaggen/CYP.gif '''CYP'''
 |align=left|'''[[Nea Nikosia]]'''
-|raus
+|<span title="OSE Runde 2 (OSCQ)">raus</span>
 |1
-|<span style=color:green>1,0</span>
+|<span style=color:blue title="OSE Runde 2 (OSCQ) 1,0 raus">''1,0''</span>
 !1,0
 |5%
 |-align=center
@@ -2118,9 +2124,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |178
 |align=left|http://os.ongapo.com/images/flaggen/TUR.gif '''TUR'''
 |align=left|'''[[FC Kardemir]]'''
-|raus
+|<span title="OSC-HR (OSC)">raus</span>
 |1
-|<span style=color:red>1,0</span>
+|<span style=color:orange title="OSC-HR (OSC) 1,0 raus">1,0</span>
 !1,0
 |3%
 |-align=center
@@ -2129,9 +2135,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |178
 |align=left|http://os.ongapo.com/images/flaggen/FIN.gif '''FIN'''
 |align=left|'''[[KoJK Kokkola]]'''
-|raus
+|<span title="OSEQ Runde 2 (OSEQ)">raus</span>
 |1
-|<span style=color:green>1,0</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 1,0 raus">''1,0''</span>
 !1,0
 |18%
 |-align=center
@@ -2140,9 +2146,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |178
 |align=left|http://os.ongapo.com/images/flaggen/HUN.gif '''HUN'''
 |align=left|'''[[Bekescsapa VSC]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
-|<span style=color:green>1,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 1,0 raus">''1,0''</span>
 !1,0
 |5%
 |-align=center
@@ -2151,9 +2157,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |178
 |align=left|http://os.ongapo.com/images/flaggen/ESP.gif '''ESP'''
 |align=left|'''[[CD Loeonesa]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
-|<span style=color:green>1,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 1,0 raus">1,0</span>
 !1,0
 |4%
 |-align=center
@@ -2162,9 +2168,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |178
 |align=left|http://os.ongapo.com/images/flaggen/AND.gif '''AND'''
 |align=left|'''[[CD Lusitanos]]'''
-|raus
+|<span title="OSEQ Runde 2 (OSEQ)">raus</span>
 |1
-|<span style=color:green>1,0</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 1,0 raus">''1,0''</span>
 !1,0
 |100%
 |-align=center
@@ -2173,9 +2179,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |178
 |align=left|http://os.ongapo.com/images/flaggen/WAL.gif '''WAL'''
 |align=left|'''[[Cardiff College]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
-|<span style=color:green>1,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 1,0 raus">1,0</span>
 !1,0
 |3%
 |-align=center
@@ -2184,9 +2190,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |178
 |align=left|http://os.ongapo.com/images/flaggen/CYP.gif '''CYP'''
 |align=left|'''[[Enosis Famagusta]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
-|<span style=color:green>1,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 1,0 raus">''1,0''</span>
 !1,0
 |5%
 |-align=center
@@ -2195,9 +2201,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |178
 |align=left|http://os.ongapo.com/images/flaggen/FRA.gif '''FRA'''
 |align=left|'''[[Olympique Lusitanos]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
-|<span style=color:green>1,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 1,0 raus">''1,0''</span>
 !1,0
 |3%
 |-align=center
@@ -2206,9 +2212,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |178
 |align=left|http://os.ongapo.com/images/flaggen/MKD.gif '''MKD'''
 |align=left|'''[[Pelister Belasica]]'''
-|raus
+|<span title="OSEQ Runde 2 (OSEQ)">raus</span>
 |1
-|<span style=color:green>1,0</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 1,0 raus">''1,0''</span>
 !1,0
 |5%
 |-align=center
@@ -2217,9 +2223,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |178
 |align=left|http://os.ongapo.com/images/flaggen/MLT.gif '''MLT'''
 |align=left|'''[[Santa Lucia]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
-|<span style=color:green>1,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 1,0 raus">''1,0''</span>
 !1,0
 |2%
 |-align=center
@@ -2228,9 +2234,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |178
 |align=left|http://os.ongapo.com/images/flaggen/ARM.gif '''ARM'''
 |align=left|'''[[Dinamo Kapan]]'''
-|raus
+|<span title="OSEQ Runde 2 (OSEQ)">raus</span>
 |1
-|<span style=color:green>1,0</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 1,0 raus">''1,0''</span>
 !1,0
 |7%
 |-align=center
@@ -2239,9 +2245,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |178
 |align=left|http://os.ongapo.com/images/flaggen/ISR.gif '''ISR'''
 |align=left|'''[[FC Jerusalem]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
-|<span style=color:green>1,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 1,0 raus">1,0</span>
 !1,0
 |4%
 |-align=center
@@ -2250,9 +2256,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |178
 |align=left|http://os.ongapo.com/images/flaggen/ENG.gif '''ENG'''
 |align=left|'''[[AC Kingstonian]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
-|<span style=color:green>1,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 1,0 raus">1,0</span>
 !1,0
 |2%
 |-align=center
@@ -2261,9 +2267,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |178
 |align=left|http://os.ongapo.com/images/flaggen/POL.gif '''POL'''
 |align=left|'''[[Zaglebie Krakau]]'''
-|raus
+|<span title="OSE Runde 2 (OSCQ)">raus</span>
 |1
-|<span style=color:green>1,0</span>
+|<span style=color:blue title="OSE Runde 2 (OSCQ) 1,0 raus">''1,0''</span>
 !1,0
 |9%
 |-align=center
@@ -2272,9 +2278,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |178
 |align=left|http://os.ongapo.com/images/flaggen/GRE.gif '''GRE'''
 |align=left|'''[[Aris Peristeri]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
-|<span style=color:green>1,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 1,0 raus">1,0</span>
 !1,0
 |5%
 |-align=center
@@ -2283,9 +2289,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |178
 |align=left|http://os.ongapo.com/images/flaggen/NED.gif '''NED'''
 |align=left|'''[[VV Spakenburg]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
-|<span style=color:green>1,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 1,0 raus">''1,0''</span>
 !1,0
 |2%
 |-align=center
@@ -2294,9 +2300,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |178
 |align=left|http://os.ongapo.com/images/flaggen/FRO.gif '''FRO'''
 |align=left|'''[[HB Suduroy Hvalba]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
-|<span style=color:green>1,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 1,0 raus">''1,0''</span>
 !1,0
 |4%
 |-align=center
@@ -2305,9 +2311,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |178
 |align=left|http://os.ongapo.com/images/flaggen/MKD.gif '''MKD'''
 |align=left|'''[[Bregalnica Sasa Kamenica]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
-|<span style=color:green>1,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 1,0 raus">1,0</span>
 !1,0
 |5%
 |-align=center
@@ -2316,9 +2322,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |178
 |align=left|http://os.ongapo.com/images/flaggen/IRL.gif '''IRL'''
 |align=left|'''[[FC Galway]]'''
-|raus
+|<span title="OSE Runde 2 (OSCQ)">raus</span>
 |1
-|<span style=color:green>1,0</span>
+|<span style=color:blue title="OSE Runde 2 (OSCQ) 1,0 raus">''1,0''</span>
 !1,0
 |4%
 |-align=center
@@ -2327,9 +2333,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |178
 |align=left|http://os.ongapo.com/images/flaggen/BUL.gif '''BUL'''
 |align=left|'''[[Pirin Kjustendil]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
-|<span style=color:green>1,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 1,0 raus">1,0</span>
 !1,0
 |7%
 |-align=center
@@ -2338,9 +2344,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |178
 |align=left|http://os.ongapo.com/images/flaggen/IRL.gif '''IRL'''
 |align=left|'''[[Dublin United]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
-|<span style=color:green>1,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 1,0 raus">''1,0''</span>
 !1,0
 |4%
 |-align=center
@@ -2349,9 +2355,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |178
 |align=left|http://os.ongapo.com/images/flaggen/NED.gif '''NED'''
 |align=left|'''[[Sparta Rijnsburg]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
-|<span style=color:green>1,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 1,0 raus">''1,0''</span>
 !1,0
 |2%
 |-align=center
@@ -2360,9 +2366,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |178
 |align=left|http://os.ongapo.com/images/flaggen/IRL.gif '''IRL'''
 |align=left|'''[[Cork College]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
-|<span style=color:green>1,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 1,0 raus">1,0</span>
 !1,0
 |4%
 |-align=center
@@ -2371,9 +2377,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |178
 |align=left|http://os.ongapo.com/images/flaggen/ARM.gif '''ARM'''
 |align=left|'''[[AAL Yerevan]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
-|<span style=color:green>1,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 1,0 raus">1,0</span>
 !1,0
 |7%
 |-align=center
@@ -2382,9 +2388,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |178
 |align=left|http://os.ongapo.com/images/flaggen/ISR.gif '''ISR'''
 |align=left|'''[[Ironi Majdel Krum]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
-|<span style=color:green>1,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 1,0 raus">1,0</span>
 !1,0
 |4%
 |-align=center
@@ -2393,9 +2399,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |178
 |align=left|http://os.ongapo.com/images/flaggen/AZE.gif '''AZE'''
 |align=left|'''[[Dinamo Masalli]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
-|<span style=color:green>1,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 1,0 raus">''1,0''</span>
 !1,0
 |2%
 |-align=center
@@ -2404,9 +2410,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |178
 |align=left|http://os.ongapo.com/images/flaggen/UKR.gif '''UKR'''
 |align=left|'''[[Polygraktinaka Oleksandria]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
-|<span style=color:green>1,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 1,0 raus">''1,0''</span>
 !1,0
 |6%
 |-align=center
@@ -2415,9 +2421,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |178
 |align=left|http://os.ongapo.com/images/flaggen/BEL.gif '''BEL'''
 |align=left|'''[[KSV Wevelgem]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
-|<span style=color:green>1,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 1,0 raus">1,0</span>
 !1,0
 |2%
 |-align=center
@@ -2426,9 +2432,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |178
 |align=left|http://os.ongapo.com/images/flaggen/UKR.gif '''UKR'''
 |align=left|'''[[Dynamo Dnjepropetrowsk]]'''
-|raus
+|<span title="OSEQ Runde 2 (OSEQ)">raus</span>
 |1
-|<span style=color:green>1,0</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 1,0 raus">''1,0''</span>
 !1,0
 |6%
 |-align=center
@@ -2437,9 +2443,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |178
 |align=left|http://os.ongapo.com/images/flaggen/CYP.gif '''CYP'''
 |align=left|'''[[Iraklis Idaliou]]'''
-|raus
+|<span title="OSE Runde 2 (OSCQ)">raus</span>
 |1
-|<span style=color:green>1,0</span>
+|<span style=color:blue title="OSE Runde 2 (OSCQ) 1,0 raus">''1,0''</span>
 !1,0
 |5%
 |-align=center
@@ -2448,9 +2454,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |178
 |align=left|http://os.ongapo.com/images/flaggen/EST.gif '''EST'''
 |align=left|'''[[Lövi Pärnu]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
-|<span style=color:green>1,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 1,0 raus">''1,0''</span>
 !1,0
 |13%
 |-align=center
@@ -2459,9 +2465,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |178
 |align=left|http://os.ongapo.com/images/flaggen/MKD.gif '''MKD'''
 |align=left|'''[[Karaorman Vadar]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
-|<span style=color:green>1,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 1,0 raus">''1,0''</span>
 !1,0
 |5%
 |-align=center
@@ -2470,9 +2476,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |178
 |align=left|http://os.ongapo.com/images/flaggen/DEN.gif '''DEN'''
 |align=left|'''[[BK Vanloese]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
-|<span style=color:green>1,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 1,0 raus">1,0</span>
 !1,0
 |2%
 |-align=center
@@ -2481,9 +2487,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |178
 |align=left|http://os.ongapo.com/images/flaggen/MDA.gif '''MDA'''
 |align=left|'''[[FC Balti]]'''
-|raus
+|<span title="OSE Runde 2 (OSCQ)">raus</span>
 |1
-|<span style=color:green>1,0</span>
+|<span style=color:blue title="OSE Runde 2 (OSCQ) 1,0 raus">''1,0''</span>
 !1,0
 |10%
 |-align=center
@@ -2492,9 +2498,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |178
 |align=left|http://os.ongapo.com/images/flaggen/UKR.gif '''UKR'''
 |align=left|'''[[Choromonets Odessa]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
-|<span style=color:green>1,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 1,0 raus">''1,0''</span>
 !1,0
 |6%
 |-align=center
@@ -2503,9 +2509,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |178
 |align=left|http://os.ongapo.com/images/flaggen/KAZ.gif '''KAZ'''
 |align=left|'''[[FK Torpedo Astana]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
-|<span style=color:green>1,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 1,0 raus">1,0</span>
 !1,0
 |4%
 |-align=center
@@ -2514,9 +2520,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |178
 |align=left|http://os.ongapo.com/images/flaggen/KAZ.gif '''KAZ'''
 |align=left|'''[[Dynamo Uralsk]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
-|<span style=color:green>1,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 1,0 raus">1,0</span>
 !1,0
 |4%
 |-align=center
@@ -2525,9 +2531,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |178
 |align=left|http://os.ongapo.com/images/flaggen/LUX.gif '''LUX'''
 |align=left|'''[[RC Rumelange]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
-|<span style=color:green>1,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 1,0 raus">1,0</span>
 !1,0
 |3%
 |-align=center
@@ -2536,9 +2542,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |178
 |align=left|http://os.ongapo.com/images/flaggen/SMR.gif '''SMR'''
 |align=left|'''[[SS La Fiorita Calcio]]'''
-|raus
+|<span title="OSEQ Runde 2 (OSEQ)">raus</span>
 |1
-|<span style=color:green>1,0</span>
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 1,0 raus">''1,0''</span>
 !1,0
 |2%
 |-align=center
@@ -2547,9 +2553,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |178
 |align=left|http://os.ongapo.com/images/flaggen/SCO.gif '''SCO'''
 |align=left|'''[[Selkirk Rovers]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
-|<span style=color:green>1,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 1,0 raus">1,0</span>
 !1,0
 |10%
 |-align=center
@@ -2558,9 +2564,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |178
 |align=left|http://os.ongapo.com/images/flaggen/SCG.gif '''SCG'''
 |align=left|'''[[SJ Niksic]]'''
-|raus
+|<span title="OSE Runde 2 (OSCQ)">raus</span>
 |1
-|<span style=color:green>1,0</span>
+|<span style=color:blue title="OSE Runde 2 (OSCQ) 1,0 raus">''1,0''</span>
 !1,0
 |3%
 |-align=center style="border-top:2px solid grey"
@@ -2569,9 +2575,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |229
 |align=left|http://os.ongapo.com/images/flaggen/LVA.gif '''LVA'''
 |align=left|'''[[SC Ludza]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
-|<span style=color:green>0,5</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5 raus">''0,5''</span>
 !0,5
 |3%
 |-align=center
@@ -2580,9 +2586,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |229
 |align=left|http://os.ongapo.com/images/flaggen/CRO.gif '''CRO'''
 |align=left|'''[[Naprid Zagreb]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
-|<span style=color:green>0,5</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5 raus">''0,5''</span>
 !0,5
 |2%
 |-align=center
@@ -2591,9 +2597,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |229
 |align=left|http://os.ongapo.com/images/flaggen/DEN.gif '''DEN'''
 |align=left|'''[[FC Lundtofte]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
-|<span style=color:green>0,5</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5 raus">''0,5''</span>
 !0,5
 |1%
 |-align=center
@@ -2602,9 +2608,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |229
 |align=left|http://os.ongapo.com/images/flaggen/AUT.gif '''AUT'''
 |align=left|'''[[Viktoria Seekirchen]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
-|<span style=color:green>0,5</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5 raus">''0,5''</span>
 !0,5
 |2%
 |-align=center
@@ -2613,9 +2619,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |229
 |align=left|http://os.ongapo.com/images/flaggen/SUI.gif '''SUI'''
 |align=left|'''[[Vorwärts Beringen]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
-|<span style=color:green>0,5</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5 raus">''0,5''</span>
 !0,5
 |3%
 |-align=center
@@ -2624,9 +2630,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |229
 |align=left|http://os.ongapo.com/images/flaggen/CZE.gif '''CZE'''
 |align=left|'''[[SK Vinohrady Prag]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
-|<span style=color:green>0,5</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5 raus">''0,5''</span>
 !0,5
 |4%
 |-align=center
@@ -2635,9 +2641,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |229
 |align=left|http://os.ongapo.com/images/flaggen/MDA.gif '''MDA'''
 |align=left|'''[[FC Edinet]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
-|<span style=color:green>0,5</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5 raus">''0,5''</span>
 !0,5
 |5%
 |-align=center
@@ -2646,9 +2652,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |229
 |align=left|http://os.ongapo.com/images/flaggen/BLR.gif '''BLR'''
 |align=left|'''[[Tornado-FC Minsk]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
-|<span style=color:green>0,5</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5 raus">''0,5''</span>
 !0,5
 |5%
 |-align=center
@@ -2657,9 +2663,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |229
 |align=left|http://os.ongapo.com/images/flaggen/NOR.gif '''NOR'''
 |align=left|'''[[Hoedd FK]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
-|<span style=color:green>0,5</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5 raus">''0,5''</span>
 !0,5
 |4%
 |-align=center
@@ -2668,9 +2674,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |229
 |align=left|http://os.ongapo.com/images/flaggen/SVN.gif '''SVN'''
 |align=left|'''[[Inter Ljubljana]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
-|<span style=color:green>0,5</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5 raus">''0,5''</span>
 !0,5
 |2%
 |-align=center
@@ -2679,9 +2685,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |229
 |align=left|http://os.ongapo.com/images/flaggen/ROM.gif '''ROM'''
 |align=left|'''[[Diavola Bistrita]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
-|<span style=color:green>0,5</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5 raus">''0,5''</span>
 !0,5
 |33%
 |-align=center
@@ -2690,9 +2696,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |229
 |align=left|http://os.ongapo.com/images/flaggen/POL.gif '''POL'''
 |align=left|'''[[Unia Allenstein]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
-|<span style=color:green>0,5</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5 raus">''0,5''</span>
 !0,5
 |4%
 |-align=center
@@ -2701,9 +2707,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |229
 |align=left|http://os.ongapo.com/images/flaggen/RUS.gif '''RUS'''
 |align=left|'''[[Piraty Samara]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
-|<span style=color:green>0,5</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5 raus">''0,5''</span>
 !0,5
 |2%
 |-align=center
@@ -2712,9 +2718,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |229
 |align=left|http://os.ongapo.com/images/flaggen/SCG.gif '''SCG'''
 |align=left|'''[[Mladost Svilajnac]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
-|<span style=color:green>0,5</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5 raus">''0,5''</span>
 !0,5
 |2%
 |-align=center
@@ -2723,9 +2729,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |229
 |align=left|http://os.ongapo.com/images/flaggen/ARM.gif '''ARM'''
 |align=left|'''[[AK Ararat]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
-|<span style=color:green>0,5</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5 raus">''0,5''</span>
 !0,5
 |3%
 |-align=center
@@ -2734,9 +2740,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |229
 |align=left|http://os.ongapo.com/images/flaggen/DEN.gif '''DEN'''
 |align=left|'''[[Birkeroed FF]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
-|<span style=color:green>0,5</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5 raus">''0,5''</span>
 !0,5
 |1%
 |-align=center
@@ -2745,9 +2751,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |229
 |align=left|http://os.ongapo.com/images/flaggen/BIH.gif '''BIH'''
 |align=left|'''[[Celik 02 Bihac]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
-|<span style=color:green>0,5</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5 raus">''0,5''</span>
 !0,5
 |2%
 |-align=center
@@ -2756,9 +2762,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |229
 |align=left|http://os.ongapo.com/images/flaggen/ALB.gif '''ALB'''
 |align=left|'''[[Besa Elbasani]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
-|<span style=color:green>0,5</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5 raus">''0,5''</span>
 !0,5
 |4%
 |-align=center
@@ -2767,9 +2773,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |229
 |align=left|http://os.ongapo.com/images/flaggen/EST.gif '''EST'''
 |align=left|'''[[FC Lelle]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
-|<span style=color:green>0,5</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5 raus">''0,5''</span>
 !0,5
 |7%
 |-align=center
@@ -2778,9 +2784,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |229
 |align=left|http://os.ongapo.com/images/flaggen/SCO.gif '''SCO'''
 |align=left|'''[[Forres Rangers FC]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
-|<span style=color:green>0,5</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5 raus">''0,5''</span>
 !0,5
 |5%
 |-align=center
@@ -2789,9 +2795,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |229
 |align=left|http://os.ongapo.com/images/flaggen/NOR.gif '''NOR'''
 |align=left|'''[[Lilleström TF]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
-|<span style=color:green>0,5</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5 raus">''0,5''</span>
 !0,5
 |4%
 |-align=center
@@ -2800,9 +2806,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |229
 |align=left|http://os.ongapo.com/images/flaggen/BLR.gif '''BLR'''
 |align=left|'''[[Olympia Borisov]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
-|<span style=color:green>0,5</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5 raus">''0,5''</span>
 !0,5
 |5%
 |-align=center
@@ -2811,9 +2817,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |229
 |align=left|http://os.ongapo.com/images/flaggen/NIR.gif '''NIR'''
 |align=left|'''[[Glenavon City]]'''
-|raus
+|<span title="OSE Runde 2 (OSCQ)">raus</span>
 |1
-|<span style=color:green>0,5</span>
+|<span style=color:blue title="OSE Runde 2 (OSCQ) 0,5 raus">''0,5''</span>
 !0,5
 |1%
 |-align=center
@@ -2822,9 +2828,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |229
 |align=left|http://os.ongapo.com/images/flaggen/ALB.gif '''ALB'''
 |align=left|'''[[Besa Burreli]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
-|<span style=color:green>0,5</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5 raus">''0,5''</span>
 !0,5
 |4%
 |-align=center
@@ -2833,9 +2839,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |229
 |align=left|http://os.ongapo.com/images/flaggen/BUL.gif '''BUL'''
 |align=left|'''[[Sheleznite Pernik]]'''
-|raus
+|<span title="OSE Runde 2 (OSCQ)">raus</span>
 |1
-|<span style=color:green>0,5</span>
+|<span style=color:blue title="OSE Runde 2 (OSCQ) 0,5 raus">''0,5''</span>
 !0,5
 |3%
 |-align=center
@@ -2844,9 +2850,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |229
 |align=left|http://os.ongapo.com/images/flaggen/BUL.gif '''BUL'''
 |align=left|'''[[FC Dobritsch]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
-|<span style=color:green>0,5</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5 raus">''0,5''</span>
 !0,5
 |3%
 |-align=center
@@ -2855,9 +2861,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |229
 |align=left|http://os.ongapo.com/images/flaggen/LTU.gif '''LTU'''
 |align=left|'''[[Kaunas BK]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
-|<span style=color:green>0,5</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5 raus">''0,5''</span>
 !0,5
 |3%
 |-align=center style="border-top:2px solid grey"
@@ -2866,9 +2872,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |256
 |align=left|http://os.ongapo.com/images/flaggen/BIH.gif '''BIH'''
 |align=left|'''[[HNK Sarajevo]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0 raus">''0,0''</span>
 !0,0
 |0%
 |-align=center
@@ -2877,9 +2883,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |256
 |align=left|http://os.ongapo.com/images/flaggen/TUR.gif '''TUR'''
 |align=left|'''[[Türkgücü Hacilar SK]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0 raus">''0,0''</span>
 !0,0
 |0%
 |-align=center
@@ -2888,9 +2894,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |256
 |align=left|http://os.ongapo.com/images/flaggen/WAL.gif '''WAL'''
 |align=left|'''[[Wrecsam Druids SC]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0 raus">''0,0''</span>
 !0,0
 |0%
 |-align=center
@@ -2899,9 +2905,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |256
 |align=left|http://os.ongapo.com/images/flaggen/AND.gif '''AND'''
 |align=left|'''[[Cap del Carrer]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0 raus">''0,0''</span>
 !0,0
 |0%
 |-align=center
@@ -2910,9 +2916,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |256
 |align=left|http://os.ongapo.com/images/flaggen/SUI.gif '''SUI'''
 |align=left|'''[[Winterthur Lions]]'''
-|raus
+|<span title="OSE Runde 2 (OSCQ)">raus</span>
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:blue title="OSE Runde 2 (OSCQ) 0,0 raus">''0,0''</span>
 !0,0
 |0%
 |-align=center
@@ -2921,9 +2927,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |256
 |align=left|http://os.ongapo.com/images/flaggen/GRE.gif '''GRE'''
 |align=left|'''[[Proodeftiki Patra]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0 raus">0,0</span>
 !0,0
 |0%
 |-align=center
@@ -2932,9 +2938,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |256
 |align=left|http://os.ongapo.com/images/flaggen/AND.gif '''AND'''
 |align=left|'''[[Real Principat]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0 raus">''0,0''</span>
 !0,0
 |0%
 |-align=center
@@ -2943,9 +2949,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |256
 |align=left|http://os.ongapo.com/images/flaggen/LUX.gif '''LUX'''
 |align=left|'''[[CS Mertzig 02]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0 raus">''0,0''</span>
 !0,0
 |0%
 |-align=center
@@ -2954,9 +2960,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |256
 |align=left|http://os.ongapo.com/images/flaggen/AND.gif '''AND'''
 |align=left|'''[[SC Massana]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0 raus">0,0</span>
 !0,0
 |0%
 |-align=center
@@ -2965,9 +2971,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |256
 |align=left|http://os.ongapo.com/images/flaggen/LTU.gif '''LTU'''
 |align=left|'''[[Vandalia Alytus]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0 raus">0,0</span>
 !0,0
 |0%
 |-align=center
@@ -2976,9 +2982,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |256
 |align=left|http://os.ongapo.com/images/flaggen/DEN.gif '''DEN'''
 |align=left|'''[[Fredericia Vikings 91]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0 raus">0,0</span>
 !0,0
 |0%
 |-align=center
@@ -2987,9 +2993,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |256
 |align=left|http://os.ongapo.com/images/flaggen/AND.gif '''AND'''
 |align=left|'''[[Deportivo Escaldes]]'''
-|raus
+|<span title="OSE Runde 2 (OSCQ)">raus</span>
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:blue title="OSE Runde 2 (OSCQ) 0,0 raus">''0,0''</span>
 !0,0
 |0%
 |-align=center
@@ -2998,9 +3004,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |256
 |align=left|http://os.ongapo.com/images/flaggen/GER.gif '''GER'''
 |align=left|'''[[FC Stuttgart-Degerloch]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0 raus">''0,0''</span>
 !0,0
 |0%
 |-align=center
@@ -3009,9 +3015,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |256
 |align=left|http://os.ongapo.com/images/flaggen/ROM.gif '''ROM'''
 |align=left|'''[[Rapid Targoviste]]'''
-|raus
+|<span title="OSE Runde 2 (OSCQ)">raus</span>
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:blue title="OSE Runde 2 (OSCQ) 0,0 raus">''0,0''</span>
 !0,0
 |0%
 |-align=center
@@ -3020,9 +3026,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |256
 |align=left|http://os.ongapo.com/images/flaggen/LUX.gif '''LUX'''
 |align=left|'''[[Red Star Wormeldingen]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0 raus">0,0</span>
 !0,0
 |0%
 |-align=center
@@ -3031,9 +3037,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |256
 |align=left|http://os.ongapo.com/images/flaggen/CZE.gif '''CZE'''
 |align=left|'''[[SFK Pocernice]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0 raus">''0,0''</span>
 !0,0
 |0%
 |-align=center
@@ -3042,9 +3048,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |256
 |align=left|http://os.ongapo.com/images/flaggen/SVN.gif '''SVN'''
 |align=left|'''[[SK Lasko Sport]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0 raus">''0,0''</span>
 !0,0
 |0%
 |-align=center
@@ -3053,9 +3059,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |256
 |align=left|http://os.ongapo.com/images/flaggen/BEL.gif '''BEL'''
 |align=left|'''[[FC Beerschot]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0 raus">0,0</span>
 !0,0
 |0%
 |-align=center
@@ -3064,9 +3070,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |256
 |align=left|http://os.ongapo.com/images/flaggen/FIN.gif '''FIN'''
 |align=left|'''[[FC Kuopio]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0 raus">''0,0''</span>
 !0,0
 |0%
 |-align=center
@@ -3075,9 +3081,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |256
 |align=left|http://os.ongapo.com/images/flaggen/ROM.gif '''ROM'''
 |align=left|'''[[FC Timisoara]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0 raus">''0,0''</span>
 !0,0
 |0%
 |-align=center
@@ -3086,9 +3092,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |256
 |align=left|http://os.ongapo.com/images/flaggen/MLT.gif '''MLT'''
 |align=left|'''[[Marsaxlokk Eagles]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0 raus">''0,0''</span>
 !0,0
 |0%
 |-align=center
@@ -3097,9 +3103,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |256
 |align=left|http://os.ongapo.com/images/flaggen/NOR.gif '''NOR'''
 |align=left|'''[[Gjoevik IF]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0 raus">0,0</span>
 !0,0
 |0%
 |-align=center
@@ -3108,9 +3114,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |256
 |align=left|http://os.ongapo.com/images/flaggen/NIR.gif '''NIR'''
 |align=left|'''[[FC Ballymena]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0 raus">0,0</span>
 !0,0
 |0%
 |-align=center
@@ -3119,9 +3125,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |256
 |align=left|http://os.ongapo.com/images/flaggen/SCO.gif '''SCO'''
 |align=left|'''[[Heart of Edinburgh]]'''
-|raus
+|<span title="OSE Runde 2 (OSCQ)">raus</span>
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:blue title="OSE Runde 2 (OSCQ) 0,0 raus">''0,0''</span>
 !0,0
 |0%
 |-align=center
@@ -3130,9 +3136,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |256
 |align=left|http://os.ongapo.com/images/flaggen/ISR.gif '''ISR'''
 |align=left|'''[[FC Beit - Shean]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0 raus">''0,0''</span>
 !0,0
 |0%
 |-align=center
@@ -3141,9 +3147,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |256
 |align=left|http://os.ongapo.com/images/flaggen/CYP.gif '''CYP'''
 |align=left|'''[[Anagennisi Nikosia]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0 raus">''0,0''</span>
 !0,0
 |0%
 |-align=center
@@ -3152,9 +3158,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |256
 |align=left|http://os.ongapo.com/images/flaggen/ROM.gif '''ROM'''
 |align=left|'''[[Foresta Constanta]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0 raus">''0,0''</span>
 !0,0
 |0%
 |-align=center
@@ -3163,9 +3169,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |256
 |align=left|http://os.ongapo.com/images/flaggen/SVN.gif '''SVN'''
 |align=left|'''[[SD Triglav Bovec]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0 raus">0,0</span>
 !0,0
 |0%
 |-align=center
@@ -3174,9 +3180,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |256
 |align=left|http://os.ongapo.com/images/flaggen/HUN.gif '''HUN'''
 |align=left|'''[[Budakalaszi FC]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0 raus">''0,0''</span>
 !0,0
 |0%
 |-align=center
@@ -3185,9 +3191,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |256
 |align=left|http://os.ongapo.com/images/flaggen/FIN.gif '''FIN'''
 |align=left|'''[[Jokerit Vaasa]]'''
-|raus
+|<span title="OSE Runde 2 (OSCQ)">raus</span>
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:blue title="OSE Runde 2 (OSCQ) 0,0 raus">''0,0''</span>
 !0,0
 |0%
 |-align=center
@@ -3196,9 +3202,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |256
 |align=left|http://os.ongapo.com/images/flaggen/GEO.gif '''GEO'''
 |align=left|'''[[Samgularis Gori]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0 raus">''0,0''</span>
 !0,0
 |0%
 |-align=center
@@ -3207,9 +3213,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |256
 |align=left|http://os.ongapo.com/images/flaggen/SWE.gif '''SWE'''
 |align=left|'''[[Malmö Södra]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0 raus">''0,0''</span>
 !0,0
 |0%
 |-align=center
@@ -3218,9 +3224,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |256
 |align=left|http://os.ongapo.com/images/flaggen/ALB.gif '''ALB'''
 |align=left|'''[[Spartak Fier]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0 raus">''0,0''</span>
 !0,0
 |0%
 |-align=center
@@ -3229,9 +3235,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |256
 |align=left|http://os.ongapo.com/images/flaggen/EST.gif '''EST'''
 |align=left|'''[[JK Elva]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0 raus">''0,0''</span>
 !0,0
 |0%
 |-align=center
@@ -3240,9 +3246,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |256
 |align=left|http://os.ongapo.com/images/flaggen/POR.gif '''POR'''
 |align=left|'''[[Benfica Beira-Mar]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0 raus">''0,0''</span>
 !0,0
 |0%
 |-align=center
@@ -3251,9 +3257,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |256
 |align=left|http://os.ongapo.com/images/flaggen/AND.gif '''AND'''
 |align=left|'''[[Real Encamp]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0 raus">0,0</span>
 !0,0
 |0%
 |-align=center
@@ -3262,9 +3268,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |256
 |align=left|http://os.ongapo.com/images/flaggen/EST.gif '''EST'''
 |align=left|'''[[Orit Voehma]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0 raus">0,0</span>
 !0,0
 |0%
 |-align=center
@@ -3273,9 +3279,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |256
 |align=left|http://os.ongapo.com/images/flaggen/EST.gif '''EST'''
 |align=left|'''[[Viljandi Sport]]'''
-|raus
+|<span title="OSE Runde 2 (OSCQ)">raus</span>
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:blue title="OSE Runde 2 (OSCQ) 0,0 raus">''0,0''</span>
 !0,0
 |0%
 |-align=center
@@ -3284,9 +3290,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |256
 |align=left|http://os.ongapo.com/images/flaggen/FIN.gif '''FIN'''
 |align=left|'''[[PP-73 Helsinki]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0 raus">0,0</span>
 !0,0
 |0%
 |-align=center
@@ -3295,9 +3301,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |256
 |align=left|http://os.ongapo.com/images/flaggen/KAZ.gif '''KAZ'''
 |align=left|'''[[Lok Almaty]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0 raus">''0,0''</span>
 !0,0
 |0%
 |-align=center
@@ -3306,9 +3312,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |256
 |align=left|http://os.ongapo.com/images/flaggen/ROM.gif '''ROM'''
 |align=left|'''[[Chimica Agigea]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0 raus">0,0</span>
 !0,0
 |0%
 |-align=center
@@ -3317,9 +3323,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |256
 |align=left|http://os.ongapo.com/images/flaggen/MDA.gif '''MDA'''
 |align=left|'''[[Sporting Bardar]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0 raus">0,0</span>
 !0,0
 |0%
 |-align=center
@@ -3328,9 +3334,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |256
 |align=left|http://os.ongapo.com/images/flaggen/SCG.gif '''SCG'''
 |align=left|'''[[Teleoptik Krusevac]]'''
-|raus
+|<span title="OSEQ Runde 1 (OSEQ)">raus</span>
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0 raus">''0,0''</span>
 !0,0
 |0%
 |-align=center
@@ -3339,9 +3345,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |256
 |align=left|http://os.ongapo.com/images/flaggen/CZE.gif '''CZE'''
 |align=left|'''[[FC Detmarovice]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0 raus">0,0</span>
 !0,0
 |0%
 |-align=center
@@ -3350,9 +3356,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |256
 |align=left|http://os.ongapo.com/images/flaggen/HUN.gif '''HUN'''
 |align=left|'''[[Kispest Haladas]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0 raus">0,0</span>
 !0,0
 |0%
 |-align=center
@@ -3361,9 +3367,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |256
 |align=left|http://os.ongapo.com/images/flaggen/BLR.gif '''BLR'''
 |align=left|'''[[SC Gomel]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0 raus">0,0</span>
 !0,0
 |0%
 |-align=center
@@ -3372,9 +3378,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |256
 |align=left|http://os.ongapo.com/images/flaggen/SWE.gif '''SWE'''
 |align=left|'''[[SK Viking Göteborg]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0 raus">0,0</span>
 !0,0
 |0%
 |-align=center
@@ -3383,9 +3389,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |256
 |align=left|http://os.ongapo.com/images/flaggen/BLR.gif '''BLR'''
 |align=left|'''[[Tornado Minsk]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0 raus">0,0</span>
 !0,0
 |0%
 |-align=center
@@ -3394,9 +3400,9 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |256
 |align=left|http://os.ongapo.com/images/flaggen/SCG.gif '''SCG'''
 |align=left|'''[[Olimpija Zemun]]'''
-|raus
+|<span title="OSE Runde 1 (OSE)">raus</span>
 |1
-|<span style=color:green>0,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0 raus">0,0</span>
 !0,0
 |0%
 |}
@@ -3411,9 +3417,10 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 '''Erklärung der Spalten (v.l.n.r.)'''
 :* ↕: Tendenz im Vergleich zum Vorjahr.
 :* Platzierungen: 1. Aktuell (in fett), dahinter absteigend alle vorherigen Saisons.
-:* Land: Land, für das der Verein Punkte sammelt.
-:* Verein: Verein, der am internationalen Wettbewerb teilnimmt.
+:* Land: Wappen und Name des Landes, für das der Verein Punkte sammelt.
+:* Verein: Name des Vereins, der am internationalen Wettbewerb teilnimmt.
 :* Aktiv: Angabe, ob der Verein in der laufenden Saison noch Punkte sammeln kann (Wettbewerb) oder nicht ("raus"). Verlierer der OSC-Quali sind damit noch aktiv, da sie später wieder im OSE einsteigen.
+:* #: Anzahl der Saisons (1), in denen der Verein am internationalen Wettbewerb teilgenommen hat.
 :* Punkte: Übersicht über alle Saisons (chronologisch).
 :* Summe: Summe aller durch den Verein eingesammelten Punkte über alle Saisons hinweg.
 :* Anteil Land: Prozentsatz der Punkte, die der Verein in seinem Land geholt hat.

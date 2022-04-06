@@ -1,6 +1,6 @@
 [[Kategorie:Wertungen]]
 {| style="background-color:#F9F9F9; font-family:verdana; font-size: 12px; float: right; margin:3px 3px 3px 10px; border:1px solid #999; border-color: #000000; border-collapse:collapse;" cellpadding=4 cellspacing=0
-|- bgcolor="#F9F9F9" 
+|- bgcolor="#F9F9F9"
 | ← <small>[[OS-Ranking halbe Saison 2]]</small>
 | align="right" | <small>[[OS-Ranking Saison 3]]</small> →
 |-
@@ -12,7 +12,7 @@
 | '''Zeitraum'''
 | 17.11.2009 - 27.07.2010
 |- bgcolor="#F9F9F9"
-| '''Sieger'''
+| '''Bestes OS-Ranking'''
 | 10,92 http://os.ongapo.com/images/flaggen/NIR.gif [[Nordirland]]
 |- bgcolor="#F9F9F9"
 | '''Bester Koeffizient'''
@@ -28,7 +28,7 @@
 | http://os.ongapo.com/images/flaggen/DEN.gif [[Dänemark]]
 |- bgcolor="#F9F9F9"
 | '''Vereine'''
-| [[OS-Ranking Vereine Saison 2]]<br> [[OS-Ranking Punkte Saison 2|Punkte Saison 2]]
+| [[OS-Ranking Vereine Saison 2|Ranking Vereine Saison 2]]<br> [[OS-Ranking Punkte Saison 2|Ranking Punkte Saison 2]]
 |}
 
 Das '''OS-Ranking''' - auch '''Dreijahreswertung''' genannt - ist eine Rangliste, nach der den einzelnen Ligaverbänden Startplätze für die [[Spielregeln_II._Wettbewerbe#b.29_internationale_Wettbewerbe|internationalen Pokalwettbewerbe]] zugewiesen werden.
@@ -42,7 +42,7 @@ Im Forum kann über die [http://os.ongapo.com/forum/index.php?page=Thread&thread
 
 Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 4.
 
-<big>'''↳'''</big> [http://os.ongapo.com/forum/index.php?page=Thread&postID=323106#post323106 '''Zum offiziellen OS-Ranking nach Saison 2''']
+<big>'''↳'''</big> [https://os.ongapo.com/forum/index.php?page=Thread&postID=323106#post323106 '''Zum offiziellen Saison-Ranking für Saison 2''' (Offizielle Saisonwertung vom 8. August 2010)]
 
 ==== Abschließende Wertung Saison 2 (inoffiziell) ====
 ----
@@ -51,38 +51,44 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 4. Die endgü
 
 In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 6 Plätze für jedes Land. Es entfielen auch die Plätze für Titelverteidiger und aus der Fairnesswertung.
 
-<span style=color:red>'''Stand nach ZAT 70'''</span> (Saisonfinale)
+<span style=color:red>'''Stand nach ZAT 70 (OSC Finale / OSE Finale)'''</span>
+
+<span>Saisonfinale</span>
 
 {|class="wikitable sortable" style=font-family:verdana;font-size:10px
 |-align=center
 !class=unsortable|↕
-!Platz
-!style=width:4em|[[OS-Ranking halbe Saison 2|Platz<br>H2]]
-!style=width:4em|[[OS-Ranking vor Saison 2|Platz<br>V2]]
+!Platz<br/>
+![[OS-Ranking H2|H2<br/>]]
+![[OS-Ranking V2|V2<br/>]]
 !Land
-!Teiln.
-!aktiv
-!Punkte
-!Halbe S2
-!Saison 2
-!Koeff.
-|bgcolor=#EEFFFF|'''Platz Beginn<br>Saison 3'''
-|bgcolor=#EEFFFF|'''Vorl. Koeff.<br>Saison 3'''
-|bgcolor=#EEFFFF class=unsortable|'''Starter<br>Saison 3'''
-|class=unsortable|'''Starter<br>Saison 4'''
-|class=unsortable|'''OSC'''
-|class=unsortable|'''OSCQ'''
-|class=unsortable|'''OSE'''
-|class=unsortable|'''OSEQ'''
+!Teiln.<br/>
+!CC<br/>
+!EC<br/>
+!Punkte<br/>
+!Vor S2<br/>
+!Halbe S2<br/>
+!Saison 2<br/>
+!Koeff.<br/>
+!bgcolor=#EEFFFF|'''Platz<br/>S3'''
+!bgcolor=#EEFFFF|'''Koeff.<br/>S3'''
+!bgcolor=#EEFFFF|'''Teiln.<br/>S3'''
+!class=unsortable|'''Teiln.<br/>S4'''
+!class=unsortable|'''OS<br/>C'''
+!class=unsortable|'''OS<br/>CQ'''
+!class=unsortable|'''OS<br/>E'''
+!class=unsortable|'''OS<br/>EQ'''
 |-align=center
 !<span style=color:green>↑</span>
 !1
 |3
-|23
+|50
 |align=left|http://os.ongapo.com/images/flaggen/NIR.gif '''Nordirland'''
 |6
-|1
+|bgcolor=#EEFFFF|1
+|bgcolor=#EEFFFF| -
 !65,5
+|0,00
 |5,42
 |10,92
 !10,92
@@ -98,11 +104,13 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 !<span style=color:green>↑</span>
 !2
 |4
-|49
+|25
 |align=left|http://os.ongapo.com/images/flaggen/AZE.gif '''Aserbaidschan'''
 |6
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !51,0
+|0,00
 |5,33
 |8,50
 !8,50
@@ -118,11 +126,13 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 !<span style=color:green>↑</span>
 !2
 |6
-|35
+|10
 |align=left|http://os.ongapo.com/images/flaggen/MLT.gif '''[[Malta]]'''
 |6
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !51,0
+|0,00
 |4,83
 |8,50
 !8,50
@@ -138,11 +148,13 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 !<span style=color:green>↑</span>
 !4
 |9
-|7
+|45
 |align=left|http://os.ongapo.com/images/flaggen/ITA.gif '''[[Italien]]'''
 |6
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !50,0
+|0,00
 |4,50
 |8,33
 !8,33
@@ -158,11 +170,13 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 !<span style=color:red>↓</span>
 !5
 |1
-|5
+|9
 |align=left|http://os.ongapo.com/images/flaggen/ENG.gif '''[[England]]'''
 |6
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !49,0
+|0,00
 |6,17
 |8,17
 !8,17
@@ -178,11 +192,13 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 !<span style=color:green>↑</span>
 !6
 |12
-|50
+|15
 |align=left|http://os.ongapo.com/images/flaggen/SMR.gif '''San Marino'''
 |5
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !40,5
+|0,00
 |4,10
 |8,10
 !8,10
@@ -198,11 +214,13 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 !<span style=color:green>↑</span>
 !7
 |8
-|11
-|align=left|http://os.ongapo.com/images/flaggen/NED.gif '''Niederlande'''
+|43
+|align=left|http://os.ongapo.com/images/flaggen/NED.gif '''[[Niederlande]]'''
 |6
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !44,5
+|0,00
 |4,58
 |7,42
 !7,42
@@ -218,11 +236,13 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 !<span style=color:red>↓</span>
 !8
 |6
-|9
-|align=left|http://os.ongapo.com/images/flaggen/BEL.gif '''Belgien'''
+|1
+|align=left|http://os.ongapo.com/images/flaggen/BEL.gif '''[[Belgien]]'''
 |6
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !44,0
+|0,00
 |4,83
 |7,33
 !7,33
@@ -238,11 +258,13 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 !<span style=color:green>↑</span>
 !8
 |10
-|10
-|align=left|http://os.ongapo.com/images/flaggen/POR.gif '''Portugal'''
+|5
+|align=left|http://os.ongapo.com/images/flaggen/POR.gif '''[[Portugal]]'''
 |6
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !44,0
+|0,00
 |4,33
 |7,33
 !7,33
@@ -258,11 +280,13 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 !<span style=color:red>↓</span>
 !10
 |1
-|1
+|47
 |align=left|http://os.ongapo.com/images/flaggen/GER.gif '''Deutschland'''
 |6
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !43,0
+|0,00
 |6,17
 |7,17
 !7,17
@@ -278,11 +302,13 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 !<span style=color:green>↑</span>
 !11
 |23
-|21
+|39
 |align=left|http://os.ongapo.com/images/flaggen/DEN.gif '''[[Dänemark]]'''
 |6
-|1
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF|1
 !42,5
+|0,00
 |3,25
 |7,08
 !7,08
@@ -298,11 +324,13 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 !<span style=color:red>↓</span>
 !12
 |5
-|41
+|19
 |align=left|http://os.ongapo.com/images/flaggen/SVK.gif '''[[Slowakei]]'''
 |6
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !42,0
+|0,00
 |5,17
 |7,00
 !7,00
@@ -318,11 +346,13 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 !<span style=color:green>↑</span>
 !13
 |20
-|20
+|7
 |align=left|http://os.ongapo.com/images/flaggen/SWE.gif '''[[Schweden]]'''
 |6
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !41,0
+|0,00
 |3,67
 |6,83
 !6,83
@@ -338,11 +368,13 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 !<span style=color:green>↑</span>
 !14
 |16
-|6
+|32
 |align=left|http://os.ongapo.com/images/flaggen/FRA.gif '''Frankreich'''
 |6
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !38,5
+|0,00
 |3,75
 |6,42
 !6,42
@@ -358,11 +390,13 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 !<span style=color:green>↑</span>
 !15
 |16
-|15
-|align=left|http://os.ongapo.com/images/flaggen/WAL.gif '''Wales'''
+|37
+|align=left|http://os.ongapo.com/images/flaggen/WAL.gif '''[[Wales]]'''
 |6
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !34,5
+|0,00
 |3,75
 |5,75
 !5,75
@@ -378,11 +412,13 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 !<span style=color:red>↓</span>
 !16
 |14
-|13
+|22
 |align=left|http://os.ongapo.com/images/flaggen/TUR.gif '''Türkei'''
 |6
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !34,0
+|0,00
 |3,83
 |5,67
 !5,67
@@ -398,11 +434,13 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 !<span style=color:red>↓</span>
 !17
 |11
-|14
-|align=left|http://os.ongapo.com/images/flaggen/LUX.gif '''Luxemburg'''
 |6
-| -
+|align=left|http://os.ongapo.com/images/flaggen/LUX.gif '''[[Luxemburg]]'''
+|6
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !32,5
+|0,00
 |4,25
 |5,42
 !5,42
@@ -418,11 +456,13 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 !<span style=color:green>↑</span>
 !18
 |27
-|33
-|align=left|http://os.ongapo.com/images/flaggen/BIH.gif '''Bosnien-Herzegowina'''
+|3
+|align=left|http://os.ongapo.com/images/flaggen/BIH.gif '''[[Bosnien-Herzegowina]]'''
 |6
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !29,5
+|0,00
 |2,92
 |4,92
 !4,92
@@ -438,11 +478,13 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 !<span style=color:green>↑</span>
 !18
 |37
-|37
+|12
 |align=left|http://os.ongapo.com/images/flaggen/SCG.gif '''Serbien und Montenegro'''
 |6
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !29,5
+|0,00
 |2,08
 |4,92
 !4,92
@@ -458,11 +500,13 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 !<span style=color:green>↑</span>
 !20
 |22
-|39
+|16
 |align=left|http://os.ongapo.com/images/flaggen/FRO.gif '''Färöer'''
 |6
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !28,0
+|0,00
 |3,33
 |4,67
 !4,67
@@ -478,11 +522,13 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 !<span style=color:green>↑</span>
 !21
 |26
-|27
+|34
 |align=left|http://os.ongapo.com/images/flaggen/SVN.gif '''[[Slowenien]]'''
 |6
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !26,0
+|0,00
 |3,00
 |4,33
 !4,33
@@ -498,11 +544,13 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 !<span style=color:red>↓</span>
 !21
 |13
-|4
+|48
 |align=left|http://os.ongapo.com/images/flaggen/ESP.gif '''[[Spanien]]'''
 |6
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !26,0
+|0,00
 |4,00
 |4,33
 !4,33
@@ -518,11 +566,13 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 !<span style=color:red>↓</span>
 !23
 |16
-|2
+|30
 |align=left|http://os.ongapo.com/images/flaggen/IRL.gif '''[[Irland]]'''
 |6
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !25,5
+|0,00
 |3,75
 |4,25
 !4,25
@@ -538,11 +588,13 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 !<span style=color:red>↓</span>
 !24
 |14
-|18
+|28
 |align=left|http://os.ongapo.com/images/flaggen/CRO.gif '''[[Kroatien]]'''
 |6
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !25,0
+|0,00
 |3,83
 |4,17
 !4,17
@@ -558,11 +610,13 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 !<span style=color:green>↑</span>
 !25
 |27
-|36
+|27
 |align=left|http://os.ongapo.com/images/flaggen/ISR.gif '''Israel'''
 |6
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !24,5
+|0,00
 |2,92
 |4,08
 !4,08
@@ -578,11 +632,13 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 !<span style=color:red>↓</span>
 !26
 |16
-|40
+|20
 |align=left|http://os.ongapo.com/images/flaggen/KAZ.gif '''Kasachstan'''
 |6
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !23,5
+|0,00
 |3,75
 |3,92
 !3,92
@@ -598,11 +654,13 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 !<span style=color:red>↓</span>
 !27
 |21
-|51
-|align=left|http://os.ongapo.com/images/flaggen/LVA.gif '''Lettland'''
+|46
+|align=left|http://os.ongapo.com/images/flaggen/LVA.gif '''[[Lettland]]'''
 |5
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !19,0
+|0,00
 |3,60
 |3,80
 !3,80
@@ -618,11 +676,13 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 !<span style=color:green>↑</span>
 !28
 |34
-|3
+|41
 |align=left|http://os.ongapo.com/images/flaggen/AUT.gif '''[[Österreich]]'''
 |6
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !22,0
+|0,00
 |2,50
 |3,67
 !3,67
@@ -638,11 +698,13 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 !<span style=color:green>↑</span>
 !28
 |29
-|12
+|38
 |align=left|http://os.ongapo.com/images/flaggen/RUS.gif '''Russland'''
 |6
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !22,0
+|0,00
 |2,83
 |3,67
 !3,67
@@ -658,11 +720,13 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 !<span style=color:red>↓</span>
 !30
 |25
-|38
+|49
 |align=left|http://os.ongapo.com/images/flaggen/GEO.gif '''Georgien'''
 |6
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !21,5
+|0,00
 |3,08
 |3,58
 !3,58
@@ -678,11 +742,13 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 !<span style=color:green>↑</span>
 !30
 |31
-|25
+|31
 |align=left|http://os.ongapo.com/images/flaggen/HUN.gif '''Ungarn'''
 |6
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !21,5
+|0,00
 |2,75
 |3,58
 !3,58
@@ -698,11 +764,13 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 !<span style=color:red>↓</span>
 !32
 |29
-|43
+|40
 |align=left|http://os.ongapo.com/images/flaggen/MKD.gif '''[[Mazedonien]]'''
 |6
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !21,0
+|0,00
 |2,83
 |3,50
 !3,50
@@ -718,11 +786,13 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 !<span style=color:red>↓</span>
 !33
 |32
-|8
+|21
 |align=left|http://os.ongapo.com/images/flaggen/GRE.gif '''[[Griechenland]]'''
 |6
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !20,0
+|0,00
 |2,67
 |3,33
 !3,33
@@ -738,11 +808,13 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 !<span style=color:red>↓</span>
 !34
 |23
-|19
-|align=left|http://os.ongapo.com/images/flaggen/SUI.gif '''Schweiz'''
+|35
+|align=left|http://os.ongapo.com/images/flaggen/SUI.gif '''[[Schweiz]]'''
 |6
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !19,5
+|0,00
 |3,25
 |3,25
 !3,25
@@ -758,11 +830,13 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 !<span style=color:green>↑</span>
 !35
 |39
-|26
+|14
 |align=left|http://os.ongapo.com/images/flaggen/CYP.gif '''[[Zypern]]'''
 |6
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !19,0
+|0,00
 |2,00
 |3,17
 !3,17
@@ -778,11 +852,13 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 !<span style=color:red>↓</span>
 !36
 |33
-|45
+|4
 |align=left|http://os.ongapo.com/images/flaggen/UKR.gif '''[[Ukraine]]'''
 |6
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !16,5
+|0,00
 |2,58
 |2,75
 !2,75
@@ -798,11 +874,13 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 !<span style=color:green>↑</span>
 !37
 |47
-|42
-|align=left|http://os.ongapo.com/images/flaggen/ARM.gif '''Armenien'''
+|36
+|align=left|http://os.ongapo.com/images/flaggen/ARM.gif '''[[Armenien]]'''
 |6
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !15,0
+|0,00
 |1,33
 |2,50
 !2,50
@@ -818,11 +896,13 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 !<span style=color:red>↓</span>
 !37
 |34
-|46
+|24
 |align=left|http://os.ongapo.com/images/flaggen/BUL.gif '''[[Bulgarien]]'''
 |6
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !15,0
+|0,00
 |2,50
 |2,50
 !2,50
@@ -841,8 +921,10 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |29
 |align=left|http://os.ongapo.com/images/flaggen/ISL.gif '''[[Island]]'''
 |6
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !14,5
+|0,00
 |2,08
 |2,42
 !2,42
@@ -858,11 +940,13 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 !<span style=color:red>↓</span>
 !39
 |36
-|32
+|17
 |align=left|http://os.ongapo.com/images/flaggen/LTU.gif '''[[Litauen]]'''
 |6
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !14,5
+|0,00
 |2,25
 |2,42
 !2,42
@@ -878,11 +962,13 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 !<span style=color:red>↓</span>
 !41
 |39
-|48
+|44
 |align=left|http://os.ongapo.com/images/flaggen/ALB.gif '''Albanien'''
 |6
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !14,0
+|0,00
 |2,00
 |2,33
 !2,33
@@ -898,11 +984,13 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 !<span style=color:red>↓</span>
 !41
 |39
-|24
+|52
 |align=left|http://os.ongapo.com/images/flaggen/CZE.gif '''Tschechien'''
 |6
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !14,0
+|0,00
 |2,00
 |2,33
 !2,33
@@ -918,11 +1006,13 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 !<span style=color:green>↑</span>
 !43
 |46
-|17
+|2
 |align=left|http://os.ongapo.com/images/flaggen/NOR.gif '''[[Norwegen]]'''
 |6
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !12,5
+|0,00
 |1,42
 |2,08
 !2,08
@@ -938,11 +1028,13 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 !<span style=color:red>↓</span>
 !44
 |42
-|34
+|33
 |align=left|http://os.ongapo.com/images/flaggen/POL.gif '''[[Polen]]'''
 |6
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !11,5
+|0,00
 |1,92
 |1,92
 !1,92
@@ -958,11 +1050,13 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 !<span style=color:red>↓</span>
 !45
 |43
-|47
+|13
 |align=left|http://os.ongapo.com/images/flaggen/BLR.gif '''Weißrussland'''
 |6
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !10,5
+|0,00
 |1,75
 |1,75
 !1,75
@@ -978,11 +1072,13 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 !<span style=color:red>↓</span>
 !46
 |44
-|30
+|11
 |align=left|http://os.ongapo.com/images/flaggen/MDA.gif '''[[Moldawien]]'''
 |6
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !10,0
+|0,00
 |1,67
 |1,67
 !1,67
@@ -998,11 +1094,13 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 !<span style=color:red>↓</span>
 !46
 |44
-|16
+|8
 |align=left|http://os.ongapo.com/images/flaggen/SCO.gif '''[[Schottland]]'''
 |6
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !10,0
+|0,00
 |1,67
 |1,67
 !1,67
@@ -1018,11 +1116,13 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 !
 !48
 |48
-|44
+|26
 |align=left|http://os.ongapo.com/images/flaggen/EST.gif '''Estland'''
 |6
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !7,5
+|0,00
 |1,08
 |1,25
 !1,25
@@ -1038,11 +1138,13 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 !
 !49
 |49
-|22
+|18
 |align=left|http://os.ongapo.com/images/flaggen/FIN.gif '''[[Finnland]]'''
 |6
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !5,5
+|0,00
 |0,92
 |0,92
 !0,92
@@ -1058,11 +1160,13 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 !
 !50
 |50
-|28
+|42
 |align=left|http://os.ongapo.com/images/flaggen/ROM.gif '''Rumänien'''
 |6
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !1,5
+|0,00
 |0,25
 |0,25
 !0,25
@@ -1078,11 +1182,13 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 !
 !51
 |51
-|31
+|23
 |align=left|http://os.ongapo.com/images/flaggen/AND.gif '''[[Andorra]]'''
 |6
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !1,0
+|0,00
 |0,17
 |0,17
 !0,17
@@ -1094,6 +1200,28 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 |1
 |1
 |1
+|-align=center style="border-top:2px solid black"
+!
+!52
+|52
+|51
+|align=left|http://os.ongapo.com/images/flaggen/LIE.gif '''[[Liechtenstein]]'''
+| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
+!0,0
+|0,00
+| -
+| -
+!0,00
+|bgcolor=#EEFFFF|52
+|bgcolor=#EEFFFF|0,00
+|bgcolor=#EEFFFF| -
+| -
+| -
+| -
+| -
+| -
 |}
 
 '''Punktevergabe'''
@@ -1105,9 +1233,10 @@ In dieser Saison gab es außer für San Marino und Lettland (5 Plätze) jeweils 
 
 '''Erklärung der Spalten (v.l.n.r.)'''
 :* ↕: Tendenz im Vergleich zum Vorjahr.
-:* Platzierungen: 1. Aktuell (in fett), 2. Vorjahr (Auskunft über die Startplätze der nächsten Saison), 3. Vorletztes Jahr (Herkunft der Startplätze der laufenden Saison).
+:* Platzierungen: 1. Aktuell (in fett), 2. Halbzeit der aktuellen Saison (Auskunft über die Startplätze der nächsten Saison), 3. Setzliste zum Start des Rankings (Herkunft der Startplätze der laufenden Saison).
+:* Land: Wappen und Name des Landes.
 :* Teiln.: Anzahl der Teilnehmer eines Landes in der laufenden Saison.
-:* Aktiv: Anzahl der Teilnehmer eines Landes, die in der laufenden Saison noch Punkte sammeln können. Verlierer der OSC-Quali sind damit noch aktiv, da sie später wieder im OSE einsteigen.
+:* CC/EC: Aufteilung der restlichen Teilnehmer eines Landes auf die Wettbewerbe OSCQ/OSC bzw. OSEQ/OSE.
 :* Punkte: Summe der Punkte aller Teilnehmer eines Landes in der laufenden Saison.
 :* Saisonquotienten: Teilung der erreichten Saisonpunkte durch die Anzahl der Teilnehmer eines Landes in der jeweiligen Saison.
 :* Koeffizient: Summe der letzten drei Saisonquotienten, der Endstand ist maßgeblich für die Platzvergabe.

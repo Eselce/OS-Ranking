@@ -1,6 +1,6 @@
 [[Kategorie:Wertungen]]
 {| style="background-color:#F9F9F9; font-family:verdana; font-size: 12px; float: right; margin:3px 3px 3px 10px; border:1px solid #999; border-color: #000000; border-collapse:collapse;" cellpadding=4 cellspacing=0
-|- bgcolor="#F9F9F9" 
+|- bgcolor="#F9F9F9"
 | ← <small>[[OS-Ranking Saison 2]]</small>
 | align="right" | <small>[[OS-Ranking Saison 4]]</small> →
 |-
@@ -12,7 +12,7 @@
 | '''Zeitraum'''
 | 21.09.2010 - 24.05.2011
 |- bgcolor="#F9F9F9"
-| '''Sieger'''
+| '''Bestes OS-Ranking'''
 | 19,48 http://os.ongapo.com/images/flaggen/NIR.gif [[Nordirland]]
 |- bgcolor="#F9F9F9"
 | '''Bester Koeffizient'''
@@ -28,7 +28,7 @@
 | http://os.ongapo.com/images/flaggen/ITA.gif [[Italien]]
 |- bgcolor="#F9F9F9"
 | '''Vereine'''
-| [[OS-Ranking Vereine Saison 3]]<br> [[OS-Ranking Punkte Saison 3|Punkte Saison 3]]
+| [[OS-Ranking Vereine Saison 3|Ranking Vereine Saison 3]]<br> [[OS-Ranking Punkte Saison 3|Ranking Punkte Saison 3]]
 |}
 
 Das '''OS-Ranking''' - auch '''Dreijahreswertung''' genannt - ist eine Rangliste, nach der den einzelnen Ligaverbänden Startplätze für die [[Spielregeln_II._Wettbewerbe#b.29_internationale_Wettbewerbe|internationalen Pokalwettbewerbe]] zugewiesen werden.
@@ -42,47 +42,58 @@ Im Forum kann über die [http://os.ongapo.com/forum/index.php?page=Thread&thread
 
 Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 5.
 
-<big>'''↳'''</big> [http://os.ongapo.com/forum/index.php?page=Thread&postID=443366#post443366 '''Zum offiziellen OS-Ranking nach Saison 3''']
+<big>'''↳'''</big> [https://os.ongapo.com/forum/index.php?page=Thread&postID=436924#post436924 '''Zum offiziellen Saison-Ranking für Saison 3''' (Offizielle Saisonwertung vom 28. Mai 2011)]
+----
+
+Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 5.
+
+<big>'''↳'''</big> [https://os.ongapo.com/forum/index.php?page=Thread&postID=443366#post443366 '''Zum offiziellen OS-Ranking nach Saison 3''' (Offizielle 3-Jahreswertung vom 11. Juni 2011)]
 
 ==== Abschließende Wertung Saison 3 (inoffiziell) ====
 ----
 
 Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 5. Die endgültige Festlegung erfolgt durch die Spielleitung nach Saisonende.
 
-<span style=color:red>'''Stand nach ZAT 71'''</span> (Saisonfinale)
+<span style=color:red>'''Stand nach ZAT 71 (OSC Finale / OSE Finale)'''</span>
 
-<small>Titelverteidiger [[OSC]]: Nordirland - Titelverteidiger [[OSE]]: Dänemark - Fairplaywertung: Armenien, Spanien, Georgien</small>
+<span>Saisonfinale</span>
+
+<small>Titelverteidiger [[OSC]]: Nordirland - Titelverteidiger [[OSE]]: Dänemark - Fairplaywertung: Georgien, Spanien, Armenien</small>
 
 {|class="wikitable sortable" style=font-family:verdana;font-size:10px
 |-align=center
 !class=unsortable|↕
-!Platz
-!style=width:4em|[[OS-Ranking Saison 2|Platz<br>S2]]
-!style=width:4em|[[OS-Ranking halbe Saison 2|Platz<br>H2]]
+!Platz<br/>
+![[OS-Ranking Saison 2|S.2<br/>]]
+![[OS-Ranking H2|H2<br/>]]
+![[OS-Ranking V2|V2<br/>]]
 !Land
-!Teiln.
-!aktiv
-!Punkte
-!Halbe S2
-!Saison 2
-!Saison 3
-!Koeff.
-|bgcolor=#EEFFFF|'''Platz Beginn<br>Saison 4'''
-|bgcolor=#EEFFFF|'''Vorl. Koeff.<br>Saison 4'''
-|bgcolor=#EEFFFF class=unsortable|'''Starter<br>Saison 4'''
-|class=unsortable|'''Starter<br>Saison 5'''
-|class=unsortable|'''OSC'''
-|class=unsortable|'''OSCQ'''
-|class=unsortable|'''OSE'''
-|class=unsortable|'''OSEQ'''
+!Teiln.<br/>
+!CC<br/>
+!EC<br/>
+!Punkte<br/>
+!Halbe S2<br/>
+!Saison 2<br/>
+!Saison 3<br/>
+!Koeff.<br/>
+!bgcolor=#EEFFFF|'''Platz<br/>S4'''
+!bgcolor=#EEFFFF|'''Koeff.<br/>S4'''
+!bgcolor=#EEFFFF|'''Teiln.<br/>S4'''
+!class=unsortable|'''Teiln.<br/>S5'''
+!class=unsortable|'''OS<br/>C'''
+!class=unsortable|'''OS<br/>CQ'''
+!class=unsortable|'''OS<br/>E'''
+!class=unsortable|'''OS<br/>EQ'''
 |-align=center
 !
 !1
 |1
 |3
+|50
 |align=left|http://os.ongapo.com/images/flaggen/NIR.gif '''Nordirland'''
 |9
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !77,0
 |5,42
 |10,92
@@ -101,9 +112,11 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 5. Die endgü
 !2
 |4
 |9
+|45
 |align=left|http://os.ongapo.com/images/flaggen/ITA.gif '''[[Italien]]'''
 |7
-|1
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF|1
 !74,5
 |4,50
 |8,33
@@ -122,9 +135,11 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 5. Die endgü
 !3
 |5
 |1
+|9
 |align=left|http://os.ongapo.com/images/flaggen/ENG.gif '''[[England]]'''
 |8
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !63,5
 |6,17
 |8,17
@@ -143,9 +158,11 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 5. Die endgü
 !4
 |2
 |4
+|25
 |align=left|http://os.ongapo.com/images/flaggen/AZE.gif '''Aserbaidschan'''
 |8
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !47,5
 |5,33
 |8,50
@@ -164,9 +181,11 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 5. Die endgü
 !5
 |18
 |27
-|align=left|http://os.ongapo.com/images/flaggen/BIH.gif '''Bosnien-Herzegowina'''
+|3
+|align=left|http://os.ongapo.com/images/flaggen/BIH.gif '''[[Bosnien-Herzegowina]]'''
 |6
-|1
+|bgcolor=#EEFFFF|1
+|bgcolor=#EEFFFF| -
 !55,0
 |2,92
 |4,92
@@ -185,9 +204,11 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 5. Die endgü
 !6
 |8
 |6
-|align=left|http://os.ongapo.com/images/flaggen/BEL.gif '''Belgien'''
+|1
+|align=left|http://os.ongapo.com/images/flaggen/BEL.gif '''[[Belgien]]'''
 |7
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !46,0
 |4,83
 |7,33
@@ -206,9 +227,11 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 5. Die endgü
 !7
 |18
 |37
+|12
 |align=left|http://os.ongapo.com/images/flaggen/SCG.gif '''Serbien und Montenegro'''
 |5
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !44,5
 |2,08
 |4,92
@@ -227,9 +250,11 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 5. Die endgü
 !8
 |11
 |23
+|39
 |align=left|http://os.ongapo.com/images/flaggen/DEN.gif '''[[Dänemark]]'''
 |8
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !48,5
 |3,25
 |7,08
@@ -248,9 +273,11 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 5. Die endgü
 !9
 |10
 |1
+|47
 |align=left|http://os.ongapo.com/images/flaggen/GER.gif '''Deutschland'''
 |8
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !46,5
 |6,17
 |7,17
@@ -269,9 +296,11 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 5. Die endgü
 !10
 |2
 |6
+|10
 |align=left|http://os.ongapo.com/images/flaggen/MLT.gif '''[[Malta]]'''
 |8
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !33,0
 |4,83
 |8,50
@@ -290,9 +319,11 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 5. Die endgü
 !11
 |8
 |10
-|align=left|http://os.ongapo.com/images/flaggen/POR.gif '''Portugal'''
+|5
+|align=left|http://os.ongapo.com/images/flaggen/POR.gif '''[[Portugal]]'''
 |7
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !37,0
 |4,33
 |7,33
@@ -311,9 +342,11 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 5. Die endgü
 !12
 |14
 |16
+|32
 |align=left|http://os.ongapo.com/images/flaggen/FRA.gif '''Frankreich'''
 |7
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !41,0
 |3,75
 |6,42
@@ -332,9 +365,11 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 5. Die endgü
 !13
 |48
 |48
+|26
 |align=left|http://os.ongapo.com/images/flaggen/EST.gif '''Estland'''
 |3
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !32,0
 |1,08
 |1,25
@@ -353,9 +388,11 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 5. Die endgü
 !14
 |7
 |8
-|align=left|http://os.ongapo.com/images/flaggen/NED.gif '''Niederlande'''
+|43
+|align=left|http://os.ongapo.com/images/flaggen/NED.gif '''[[Niederlande]]'''
 |7
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !29,5
 |4,58
 |7,42
@@ -374,9 +411,11 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 5. Die endgü
 !15
 |12
 |5
+|19
 |align=left|http://os.ongapo.com/images/flaggen/SVK.gif '''[[Slowakei]]'''
 |8
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !29,5
 |5,17
 |7,00
@@ -395,9 +434,11 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 5. Die endgü
 !16
 |6
 |12
+|15
 |align=left|http://os.ongapo.com/images/flaggen/SMR.gif '''San Marino'''
 |7
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !15,5
 |4,10
 |8,10
@@ -416,9 +457,11 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 5. Die endgü
 !17
 |25
 |27
+|27
 |align=left|http://os.ongapo.com/images/flaggen/ISR.gif '''Israel'''
 |6
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !33,5
 |2,92
 |4,08
@@ -437,9 +480,11 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 5. Die endgü
 !18
 |39
 |36
+|17
 |align=left|http://os.ongapo.com/images/flaggen/LTU.gif '''[[Litauen]]'''
 |5
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !35,0
 |2,25
 |2,42
@@ -458,9 +503,11 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 5. Die endgü
 !19
 |46
 |44
+|8
 |align=left|http://os.ongapo.com/images/flaggen/SCO.gif '''[[Schottland]]'''
 |4
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !30,0
 |1,67
 |1,67
@@ -479,9 +526,11 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 5. Die endgü
 !20
 |15
 |16
-|align=left|http://os.ongapo.com/images/flaggen/WAL.gif '''Wales'''
+|37
+|align=left|http://os.ongapo.com/images/flaggen/WAL.gif '''[[Wales]]'''
 |7
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !22,5
 |3,75
 |5,75
@@ -500,9 +549,11 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 5. Die endgü
 !21
 |13
 |20
+|7
 |align=left|http://os.ongapo.com/images/flaggen/SWE.gif '''[[Schweden]]'''
 |7
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !14,0
 |3,67
 |6,83
@@ -521,9 +572,11 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 5. Die endgü
 !22
 |24
 |14
+|28
 |align=left|http://os.ongapo.com/images/flaggen/CRO.gif '''[[Kroatien]]'''
 |7
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !32,0
 |3,83
 |4,17
@@ -542,9 +595,11 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 5. Die endgü
 !23
 |27
 |21
-|align=left|http://os.ongapo.com/images/flaggen/LVA.gif '''Lettland'''
+|46
+|align=left|http://os.ongapo.com/images/flaggen/LVA.gif '''[[Lettland]]'''
 |7
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !31,5
 |3,60
 |3,80
@@ -563,9 +618,11 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 5. Die endgü
 !24
 |21
 |26
+|34
 |align=left|http://os.ongapo.com/images/flaggen/SVN.gif '''[[Slowenien]]'''
 |6
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !23,0
 |3,00
 |4,33
@@ -584,9 +641,11 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 5. Die endgü
 !25
 |20
 |22
+|16
 |align=left|http://os.ongapo.com/images/flaggen/FRO.gif '''Färöer'''
 |7
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !24,0
 |3,33
 |4,67
@@ -605,9 +664,11 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 5. Die endgü
 !26
 |32
 |29
+|40
 |align=left|http://os.ongapo.com/images/flaggen/MKD.gif '''[[Mazedonien]]'''
 |6
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !26,5
 |2,83
 |3,50
@@ -626,9 +687,11 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 5. Die endgü
 !27
 |17
 |11
-|align=left|http://os.ongapo.com/images/flaggen/LUX.gif '''Luxemburg'''
+|6
+|align=left|http://os.ongapo.com/images/flaggen/LUX.gif '''[[Luxemburg]]'''
 |7
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !17,0
 |4,25
 |5,42
@@ -647,9 +710,11 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 5. Die endgü
 !28
 |33
 |32
+|21
 |align=left|http://os.ongapo.com/images/flaggen/GRE.gif '''[[Griechenland]]'''
 |6
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !26,5
 |2,67
 |3,33
@@ -668,9 +733,11 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 5. Die endgü
 !29
 |23
 |16
+|30
 |align=left|http://os.ongapo.com/images/flaggen/IRL.gif '''[[Irland]]'''
 |7
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !23,0
 |3,75
 |4,25
@@ -689,9 +756,11 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 5. Die endgü
 !30
 |21
 |13
+|48
 |align=left|http://os.ongapo.com/images/flaggen/ESP.gif '''[[Spanien]]'''
 |8
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !23,5
 |4,00
 |4,33
@@ -710,9 +779,11 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 5. Die endgü
 !31
 |36
 |33
+|4
 |align=left|http://os.ongapo.com/images/flaggen/UKR.gif '''[[Ukraine]]'''
 |6
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !27,0
 |2,58
 |2,75
@@ -731,9 +802,11 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 5. Die endgü
 !32
 |50
 |50
+|42
 |align=left|http://os.ongapo.com/images/flaggen/ROM.gif '''Rumänien'''
 |3
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !19,5
 |0,25
 |0,25
@@ -752,9 +825,11 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 5. Die endgü
 !33
 |16
 |14
+|22
 |align=left|http://os.ongapo.com/images/flaggen/TUR.gif '''Türkei'''
 |7
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !7,0
 |3,83
 |5,67
@@ -773,9 +848,11 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 5. Die endgü
 !34
 |28
 |34
+|41
 |align=left|http://os.ongapo.com/images/flaggen/AUT.gif '''[[Österreich]]'''
 |6
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !17,0
 |2,50
 |3,67
@@ -794,9 +871,11 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 5. Die endgü
 !35
 |43
 |46
+|2
 |align=left|http://os.ongapo.com/images/flaggen/NOR.gif '''[[Norwegen]]'''
 |3
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !13,0
 |1,42
 |2,08
@@ -815,9 +894,11 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 5. Die endgü
 !35
 |30
 |31
+|31
 |align=left|http://os.ongapo.com/images/flaggen/HUN.gif '''Ungarn'''
 |6
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !17,0
 |2,75
 |3,58
@@ -836,9 +917,11 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 5. Die endgü
 !37
 |26
 |16
+|20
 |align=left|http://os.ongapo.com/images/flaggen/KAZ.gif '''Kasachstan'''
 |7
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !16,5
 |3,75
 |3,92
@@ -857,9 +940,11 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 5. Die endgü
 !38
 |35
 |39
+|14
 |align=left|http://os.ongapo.com/images/flaggen/CYP.gif '''[[Zypern]]'''
 |5
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !15,5
 |2,00
 |3,17
@@ -878,9 +963,11 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 5. Die endgü
 !39
 |34
 |23
-|align=left|http://os.ongapo.com/images/flaggen/SUI.gif '''Schweiz'''
+|35
+|align=left|http://os.ongapo.com/images/flaggen/SUI.gif '''[[Schweiz]]'''
 |6
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !16,5
 |3,25
 |3,25
@@ -899,9 +986,11 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 5. Die endgü
 !40
 |28
 |29
+|38
 |align=left|http://os.ongapo.com/images/flaggen/RUS.gif '''Russland'''
 |6
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !12,5
 |2,83
 |3,67
@@ -920,9 +1009,11 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 5. Die endgü
 !41
 |49
 |49
+|18
 |align=left|http://os.ongapo.com/images/flaggen/FIN.gif '''[[Finnland]]'''
 |3
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !14,0
 |0,92
 |0,92
@@ -941,9 +1032,11 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 5. Die endgü
 !42
 |39
 |37
+|29
 |align=left|http://os.ongapo.com/images/flaggen/ISL.gif '''[[Island]]'''
 |5
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !15,0
 |2,08
 |2,42
@@ -962,9 +1055,11 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 5. Die endgü
 !43
 |30
 |25
+|49
 |align=left|http://os.ongapo.com/images/flaggen/GEO.gif '''Georgien'''
 |7
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !11,5
 |3,08
 |3,58
@@ -983,9 +1078,11 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 5. Die endgü
 !44
 |44
 |42
+|33
 |align=left|http://os.ongapo.com/images/flaggen/POL.gif '''[[Polen]]'''
 |4
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !12,0
 |1,92
 |1,92
@@ -1004,9 +1101,11 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 5. Die endgü
 !45
 |51
 |51
+|23
 |align=left|http://os.ongapo.com/images/flaggen/AND.gif '''[[Andorra]]'''
 |3
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !13,5
 |0,17
 |0,17
@@ -1025,9 +1124,11 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 5. Die endgü
 !46
 |41
 |39
+|52
 |align=left|http://os.ongapo.com/images/flaggen/CZE.gif '''Tschechien'''
 |4
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !9,0
 |2,00
 |2,33
@@ -1046,9 +1147,11 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 5. Die endgü
 !47
 |37
 |47
-|align=left|http://os.ongapo.com/images/flaggen/ARM.gif '''Armenien'''
+|36
+|align=left|http://os.ongapo.com/images/flaggen/ARM.gif '''[[Armenien]]'''
 |4
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !8,0
 |1,33
 |2,50
@@ -1067,9 +1170,11 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 5. Die endgü
 !48
 |41
 |39
+|44
 |align=left|http://os.ongapo.com/images/flaggen/ALB.gif '''Albanien'''
 |4
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !4,5
 |2,00
 |2,33
@@ -1088,9 +1193,11 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 5. Die endgü
 !49
 |37
 |34
+|24
 |align=left|http://os.ongapo.com/images/flaggen/BUL.gif '''[[Bulgarien]]'''
 |5
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !4,5
 |2,50
 |2,50
@@ -1109,9 +1216,11 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 5. Die endgü
 !50
 |45
 |43
+|13
 |align=left|http://os.ongapo.com/images/flaggen/BLR.gif '''Weißrussland'''
 |4
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !6,0
 |1,75
 |1,75
@@ -1130,9 +1239,11 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 5. Die endgü
 !51
 |46
 |44
+|11
 |align=left|http://os.ongapo.com/images/flaggen/MDA.gif '''[[Moldawien]]'''
 |3
-| -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
 !2,0
 |1,67
 |1,67
@@ -1151,10 +1262,12 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 5. Die endgü
 !52
 |52
 |52
+|51
 |align=left|http://os.ongapo.com/images/flaggen/LIE.gif '''[[Liechtenstein]]'''
 | -
-| -
-! -
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF| -
+!0,0
 | -
 | -
 | -
@@ -1178,9 +1291,10 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 5. Die endgü
 
 '''Erklärung der Spalten (v.l.n.r.)'''
 :* ↕: Tendenz im Vergleich zum Vorjahr.
-:* Platzierungen: 1. Aktuell (in fett), 2. Vorjahr (Auskunft über die Startplätze der nächsten Saison), 3. Vorletztes Jahr (Herkunft der Startplätze der laufenden Saison).
+:* Platzierungen: 1. Aktuell (in fett), 2. Vorjahr (Auskunft über die Startplätze der nächsten Saison), 3. Halbzeit der aktuellen Saison (Herkunft der Startplätze der laufenden Saison), 4. Setzliste zum Start des Rankings (Herkunft der Startplätze der vergangenen Saison).
+:* Land: Wappen und Name des Landes.
 :* Teiln.: Anzahl der Teilnehmer eines Landes in der laufenden Saison.
-:* Aktiv: Anzahl der Teilnehmer eines Landes, die in der laufenden Saison noch Punkte sammeln können. Verlierer der OSC-Quali sind damit noch aktiv, da sie später wieder im OSE einsteigen.
+:* CC/EC: Aufteilung der restlichen Teilnehmer eines Landes auf die Wettbewerbe OSCQ/OSC bzw. OSEQ/OSE.
 :* Punkte: Summe der Punkte aller Teilnehmer eines Landes in der laufenden Saison.
 :* Saisonquotienten: Teilung der erreichten Saisonpunkte durch die Anzahl der Teilnehmer eines Landes in der jeweiligen Saison.
 :* Koeffizient: Summe der letzten drei Saisonquotienten, der Endstand ist maßgeblich für die Platzvergabe.
