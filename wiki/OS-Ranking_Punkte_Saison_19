@@ -2,9 +2,9 @@
 {| style="background-color:#F9F9F9; font-family:verdana; font-size: 12px; float: right; margin:3px 3px 3px 10px; border:1px solid #999; border-color: #000000; border-collapse:collapse;" cellpadding=4 cellspacing=0
 |- bgcolor="#F9F9F9"
 | ← <small>[[OS-Ranking Punkte Saison 18]]</small>
-| align="right" |
+| align="right" | <small>[[OS-Ranking Punkte Saison 20]]</small> →
 |-
-| colspan="2" style="padding:0.3em; background-color:#DEDEDE; font-size: 18px" align=center | '''OS-Ranking Punkte'''
+| colspan="2" style="padding:0.3em; background-color:#DEDEDE; font-size: 18px" align=center | '''OS-Ranking Punkte Saison 19'''
 |- bgcolor="#F9F9F9"
 | '''Int. Vereine'''
 | 1071
@@ -19,10 +19,10 @@
 | http://os.ongapo.com/images/flaggen/AUT.gif Mödling OSC
 |- bgcolor="#F9F9F9"
 | '''Länder'''
-| [[OS-Ranking]]
+| [[OS-Ranking Saison 19]]
 |- bgcolor="#F9F9F9"
 | '''Vereine'''
-| [[OS-Ranking Vereine]]
+| [[OS-Ranking Vereine Saison 19|Ranking Vereine Saison 19]]
 |}
 
 Das '''OS-Ranking''' - auch '''Dreijahreswertung''' genannt - ist eine Rangliste, nach der den einzelnen Ligaverbänden Startplätze für die [[Spielregeln_II._Wettbewerbe#b.29_internationale_Wettbewerbe|internationalen Pokalwettbewerbe]] zugewiesen werden.
@@ -49383,5 +49383,4 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 :* Teiln.: Anzahl der Saisons, in denen der Verein am internationalen Wettbewerb teilgenommen hat.
 :* Punkte: Übersicht über alle Saisons (chronologisch).
 :* Summe: Summe aller durch den Verein eingesammelten Punkte über alle Saisons hinweg.
-:* Neu: Am letzten ZAT hinzugewonnene Punkte (+: nicht im Einsatz, -: nicht im Wettbewerb).
 :* Anteil Land: Prozentsatz der Punkte, die der Verein in seinem Land geholt hat.
