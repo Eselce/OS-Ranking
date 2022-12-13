@@ -7,7 +7,7 @@
 | colspan="2" style="padding:0.3em; background-color:#DEDEDE; font-size: 18px" align=center | '''OS-Ranking Punkte Saison 19'''
 |- bgcolor="#F9F9F9"
 | '''Int. Vereine'''
-| 1072
+| 1060
 |- bgcolor="#F9F9F9"
 | '''Zeitraum'''
 | 27.12.2022 - 15.08.2023
@@ -8770,8 +8770,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |81
 |align=center|<span title="Spanien">http://os.ongapo.com/images/flaggen/ESP.gif</span>
 |align=left style="height:4ex"|'''[[Cataluña Deportiva Premia]]'''
-| -
-|5
+|<span style=color:gold title="OSCQ Runde 1 (OSCQ)">''OSCQ''</span>
+|6
 |<span style=color:darkgreen title="OSE Runde 2 (OSE) 4,0">4,0</span>
 |<span style=color:darkgreen title="OSE Runde 3 (OSE) 8,0">8,0</span>
 |<span style=color:darkgreen title="OSE Runde 3 (OSE) 8,0">8,0</span>
@@ -8789,13 +8789,13 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 | -
 | -
-| -
+|<span style=color:gold title="OSCQ Runde 1 (OSCQ) 0,0">''0,0''</span>
 !38,5
 | -
 |5%
 |-align=center style="border-top:2px solid grey"
-!
-!190
+!<span style=color:red>↓</span>
+!191
 |190
 |176
 |168
@@ -8840,8 +8840,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |5%
 |-align=center
-!
-!190
+!<span style=color:red>↓</span>
+!191
 |190
 |176
 |168
@@ -8886,8 +8886,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |15%
 |-align=center style="border-top:2px solid grey"
-!
-!192
+!<span style=color:red>↓</span>
+!193
 |192
 |180
 |172
@@ -8932,8 +8932,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |10%
 |-align=center
-!
-!192
+!<span style=color:red>↓</span>
+!193
 |192
 |180
 |181
@@ -8978,8 +8978,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |5%
 |-align=center
-!
-!192
+!<span style=color:red>↓</span>
+!193
 |192
 |180
 |172
@@ -9024,8 +9024,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |9%
 |-align=center
-!
-!192
+!<span style=color:red>↓</span>
+!193
 |192
 |185
 |183
@@ -9071,7 +9071,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |13%
 |-align=center style="border-top:2px solid grey"
 !<span style=color:green>↑</span>
-!196
+!197
 |201
 |194
 |181
@@ -9116,8 +9116,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |<span title="OSC-HR (OSC)">+</span>
 |5%
 |-align=center
-!
-!196
+!<span style=color:red>↓</span>
+!197
 |196
 |187
 |189
@@ -9162,8 +9162,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |12%
 |-align=center
-!
-!196
+!<span style=color:red>↓</span>
+!197
 |196
 |187
 |176
@@ -9209,7 +9209,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |8%
 |-align=center style="border-top:2px solid grey"
 !<span style=color:red>↓</span>
-!199
+!200
 |198
 |220
 |226
@@ -9255,7 +9255,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |15%
 |-align=center
 !<span style=color:red>↓</span>
-!199
+!200
 |198
 |192
 |179
@@ -9301,7 +9301,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |15%
 |-align=center
 !<span style=color:red>↓</span>
-!199
+!200
 |198
 |192
 |179
@@ -9346,8 +9346,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |5%
 |-align=center style="border-top:2px solid grey"
-!
-!202
+!<span style=color:red>↓</span>
+!203
 |202
 |195
 |183
@@ -9392,8 +9392,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |5%
 |-align=center style="border-top:2px solid grey"
-!
-!203
+!<span style=color:red>↓</span>
+!204
 |203
 |196
 |201
@@ -9438,8 +9438,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |7%
 |-align=center
-!
-!203
+!<span style=color:red>↓</span>
+!204
 |203
 |196
 |186
@@ -9484,8 +9484,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |10%
 |-align=center style="border-top:2px solid grey"
-!
-!205
+!<span style=color:red>↓</span>
+!206
 |205
 |199
 |189
@@ -9530,8 +9530,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |6%
 |-align=center
-!
-!205
+!<span style=color:red>↓</span>
+!206
 |205
 |199
 |189
@@ -9576,8 +9576,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |12%
 |-align=center
-!
-!205
+!<span style=color:red>↓</span>
+!206
 |205
 |209
 |267
@@ -9622,8 +9622,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |12%
 |-align=center style="border-top:2px solid grey"
-!
-!208
+!<span style=color:red>↓</span>
+!209
 |208
 |201
 |197
@@ -9668,8 +9668,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |13%
 |-align=center
-!
-!208
+!<span style=color:red>↓</span>
+!209
 |208
 |201
 |197
@@ -9714,8 +9714,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |9%
 |-align=center
-!
-!208
+!<span style=color:red>↓</span>
+!209
 |208
 |201
 |193
@@ -9760,8 +9760,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |8%
 |-align=center style="border-top:2px solid grey"
-!
-!211
+!<span style=color:red>↓</span>
+!212
 |211
 |205
 |195
@@ -9806,8 +9806,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |7%
 |-align=center
-!
-!211
+!<span style=color:red>↓</span>
+!212
 |211
 |245
 |296
@@ -9852,8 +9852,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |17%
 |-align=center
-!
-!211
+!<span style=color:red>↓</span>
+!212
 |211
 |205
 |195
@@ -9898,8 +9898,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |4%
 |-align=center
-!
-!211
+!<span style=color:red>↓</span>
+!212
 |211
 |375
 |455
@@ -9944,8 +9944,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |9%
 |-align=center style="border-top:2px solid grey"
-!
-!215
+!<span style=color:red>↓</span>
+!216
 |215
 |207
 |197
@@ -9990,8 +9990,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |4%
 |-align=center
-!
-!215
+!<span style=color:red>↓</span>
+!216
 |215
 |234
 |226
@@ -10036,8 +10036,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center
-!
-!215
+!<span style=color:red>↓</span>
+!216
 |215
 |207
 |197
@@ -10082,8 +10082,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |11%
 |-align=center
-!
-!215
+!<span style=color:red>↓</span>
+!216
 |215
 |217
 |237
@@ -10128,8 +10128,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |4%
 |-align=center
-!
-!215
+!<span style=color:red>↓</span>
+!216
 |215
 |217
 |209
@@ -10175,7 +10175,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |12%
 |-align=center style="border-top:2px solid grey"
 !<span style=color:green>↑</span>
-!220
+!221
 |227
 |280
 |274
@@ -10220,8 +10220,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |<span title="OSC-HR (OSC)">+</span>
 |8%
 |-align=center
-!
-!220
+!<span style=color:red>↓</span>
+!221
 |220
 |209
 |201
@@ -10266,8 +10266,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |4%
 |-align=center
-!
-!220
+!<span style=color:red>↓</span>
+!221
 |220
 |209
 |201
@@ -10312,8 +10312,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |11%
 |-align=center
-!
-!220
+!<span style=color:red>↓</span>
+!221
 |220
 |209
 |201
@@ -10358,8 +10358,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |11%
 |-align=center
-!
-!220
+!<span style=color:red>↓</span>
+!221
 |220
 |250
 |242
@@ -10405,7 +10405,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |4%
 |-align=center style="border-top:2px solid grey"
 !<span style=color:red>↓</span>
-!225
+!226
 |224
 |213
 |205
@@ -10451,7 +10451,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |10%
 |-align=center
 !<span style=color:red>↓</span>
-!225
+!226
 |224
 |213
 |205
@@ -10497,7 +10497,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |3%
 |-align=center
 !<span style=color:red>↓</span>
-!225
+!226
 |224
 |247
 |237
@@ -10543,7 +10543,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |5%
 |-align=center style="border-top:2px solid grey"
 !<span style=color:red>↓</span>
-!228
+!229
 |227
 |215
 |207
@@ -10589,7 +10589,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |3%
 |-align=center
 !<span style=color:red>↓</span>
-!228
+!229
 |227
 |337
 |398
@@ -10634,8 +10634,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |4%
 |-align=center style="border-top:2px solid grey"
-!
-!230
+!<span style=color:red>↓</span>
+!231
 |230
 |217
 |209
@@ -10680,8 +10680,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |10%
 |-align=center style="border-top:2px solid grey"
-!
-!231
+!<span style=color:red>↓</span>
+!232
 |231
 |220
 |211
@@ -10726,8 +10726,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |8%
 |-align=center
-!
-!231
+!<span style=color:red>↓</span>
+!232
 |231
 |266
 |283
@@ -10772,8 +10772,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |5%
 |-align=center
-!
-!231
+!<span style=color:red>↓</span>
+!232
 |231
 |234
 |296
@@ -10818,8 +10818,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |5%
 |-align=center
-!
-!231
+!<span style=color:red>↓</span>
+!232
 |231
 |220
 |211
@@ -10864,8 +10864,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center style="border-top:2px solid grey"
-!
-!235
+!<span style=color:red>↓</span>
+!236
 |235
 |223
 |215
@@ -10910,8 +10910,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |8%
 |-align=center
-!
-!235
+!<span style=color:red>↓</span>
+!236
 |235
 |223
 |215
@@ -10956,8 +10956,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |5%
 |-align=center
-!
-!235
+!<span style=color:red>↓</span>
+!236
 |235
 |223
 |215
@@ -11002,8 +11002,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |8%
 |-align=center
-!
-!235
+!<span style=color:red>↓</span>
+!236
 |235
 |223
 |215
@@ -11048,8 +11048,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |7%
 |-align=center
-!
-!235
+!<span style=color:red>↓</span>
+!236
 |235
 |223
 |237
@@ -11094,8 +11094,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |11%
 |-align=center style="border-top:2px solid grey"
-!
-!240
+!<span style=color:red>↓</span>
+!241
 |240
 |228
 |220
@@ -11140,8 +11140,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |9%
 |-align=center
-!
-!240
+!<span style=color:red>↓</span>
+!241
 |240
 |228
 |220
@@ -11186,8 +11186,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |8%
 |-align=center
-!
-!240
+!<span style=color:red>↓</span>
+!241
 |240
 |234
 |226
@@ -11232,8 +11232,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |7%
 |-align=center
-!
-!240
+!<span style=color:red>↓</span>
+!241
 |240
 |228
 |236
@@ -11278,8 +11278,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |5%
 |-align=center style="border-top:2px solid grey"
-!
-!244
+!<span style=color:red>↓</span>
+!245
 |244
 |231
 |222
@@ -11324,8 +11324,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |5%
 |-align=center
-!
-!244
+!<span style=color:red>↓</span>
+!245
 |244
 |231
 |222
@@ -11370,8 +11370,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |11%
 |-align=center
-!
-!244
+!<span style=color:red>↓</span>
+!245
 |244
 |231
 |222
@@ -11416,8 +11416,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |5%
 |-align=center style="border-top:2px solid grey"
-!
-!247
+!<span style=color:red>↓</span>
+!248
 |247
 |324
 |316
@@ -11462,8 +11462,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |8%
 |-align=center
-!
-!247
+!<span style=color:red>↓</span>
+!248
 |247
 |234
 |226
@@ -11508,8 +11508,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |7%
 |-align=center
-!
-!247
+!<span style=color:red>↓</span>
+!248
 |247
 |272
 |398
@@ -11554,8 +11554,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |7%
 |-align=center
-!
-!247
+!<span style=color:red>↓</span>
+!248
 |247
 |272
 |261
@@ -11600,8 +11600,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |9%
 |-align=center style="border-top:2px solid grey"
-!
-!251
+!<span style=color:red>↓</span>
+!252
 |251
 |239
 |306
@@ -11646,8 +11646,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |4%
 |-align=center
-!
-!251
+!<span style=color:red>↓</span>
+!252
 |251
 |239
 |231
@@ -11692,8 +11692,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |10%
 |-align=center
-!
-!251
+!<span style=color:red>↓</span>
+!252
 |251
 |239
 |231
@@ -11738,8 +11738,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |5%
 |-align=center
-!
-!251
+!<span style=color:red>↓</span>
+!252
 |251
 |239
 |231
@@ -11784,8 +11784,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |16%
 |-align=center
-!
-!251
+!<span style=color:red>↓</span>
+!252
 |251
 |239
 |231
@@ -11830,8 +11830,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |8%
 |-align=center
-!
-!251
+!<span style=color:red>↓</span>
+!252
 |251
 |239
 |231
@@ -11876,8 +11876,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |5%
 |-align=center
-!
-!251
+!<span style=color:red>↓</span>
+!252
 |251
 |445
 |469
@@ -11922,8 +11922,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |9%
 |-align=center
-!
-!251
+!<span style=color:red>↓</span>
+!252
 |251
 |277
 |261
@@ -11968,8 +11968,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center
-!
-!251
+!<span style=color:red>↓</span>
+!252
 |251
 |259
 |261
@@ -12014,8 +12014,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |5%
 |-align=center style="border-top:2px solid grey"
-!
-!260
+!<span style=color:red>↓</span>
+!261
 |260
 |245
 |255
@@ -12060,8 +12060,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |5%
 |-align=center
-!
-!260
+!<span style=color:red>↓</span>
+!261
 |260
 |250
 |242
@@ -12106,8 +12106,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |5%
 |-align=center
-!
-!260
+!<span style=color:red>↓</span>
+!261
 |260
 |295
 |316
@@ -12152,8 +12152,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |6%
 |-align=center style="border-top:2px solid grey"
-!
-!263
+!<span style=color:red>↓</span>
+!264
 |263
 |272
 |329
@@ -12198,8 +12198,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |6%
 |-align=center
-!
-!263
+!<span style=color:red>↓</span>
+!264
 |263
 |247
 |237
@@ -12244,8 +12244,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |4%
 |-align=center
-!
-!263
+!<span style=color:red>↓</span>
+!264
 |263
 |247
 |237
@@ -12290,8 +12290,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |5%
 |-align=center style="border-top:2px solid grey"
-!
-!266
+!<span style=color:red>↓</span>
+!267
 |266
 |250
 |242
@@ -12336,8 +12336,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |9%
 |-align=center
-!
-!266
+!<span style=color:red>↓</span>
+!267
 |266
 |250
 |242
@@ -12382,8 +12382,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |4%
 |-align=center
-!
-!266
+!<span style=color:red>↓</span>
+!267
 |266
 |250
 |296
@@ -12428,8 +12428,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |9%
 |-align=center
-!
-!266
+!<span style=color:red>↓</span>
+!267
 |266
 |250
 |242
@@ -12474,54 +12474,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center
-!
-!266
-|266
-|250
-|242
-|235
-|222
-|202
-|191
-|169
-|145
-|131
-|113
-|141
-|135
-|171
-|258
-|195
-|97
-|81
-|align=center|<span title="Ungarn">http://os.ongapo.com/images/flaggen/HUN.gif</span>
-|align=left style="height:4ex"|'''Olimpija Nagykanizsa'''
-| -
-|7
-|<span style=color:lime title="OSEQ Runde 3 (OSEQ) 4,0">''4,0''</span>
-| -
-|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5">''0,5''</span>
-|<span style=color:darkgreen title="OSE Runde 3 (OSE) 6,0">6,0</span>
-|<span style=color:darkgreen title="OSE Runde 2 (OSEQ) 5,5">''5,5''</span>
-|<span style=color:blue title="OSE Runde 2 (OSCQ) 2,0">''2,0''</span>
-|<span style=color:blue title="OSE Runde 4 (OSCQ) 6,5">''6,5''</span>
-| -
-| -
-|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0">''0,0''</span>
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-!24,5
-| -
-|8%
-|-align=center
-!
-!266
+!<span style=color:red>↓</span>
+!267
 |266
 |250
 |242
@@ -12566,8 +12520,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |10%
 |-align=center
-!
-!266
+!<span style=color:red>↓</span>
+!267
 |266
 |250
 |242
@@ -12612,8 +12566,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |5%
 |-align=center
-!
-!266
+!<span style=color:red>↓</span>
+!267
 |266
 |472
 |724
@@ -12657,9 +12611,55 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 !24,5
 | -
 |3%
+|-align=center
+!<span style=color:red>↓</span>
+!267
+|266
+|250
+|242
+|235
+|222
+|202
+|191
+|169
+|145
+|131
+|113
+|141
+|135
+|171
+|258
+|195
+|97
+|81
+|align=center|<span title="Ungarn">http://os.ongapo.com/images/flaggen/HUN.gif</span>
+|align=left style="height:4ex"|'''Olimpija Nagykanizsa'''
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ)">''OSEQ''</span>
+|8
+|<span style=color:lime title="OSEQ Runde 3 (OSEQ) 4,0">''4,0''</span>
+| -
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5">''0,5''</span>
+|<span style=color:darkgreen title="OSE Runde 3 (OSE) 6,0">6,0</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSEQ) 5,5">''5,5''</span>
+|<span style=color:blue title="OSE Runde 2 (OSCQ) 2,0">''2,0''</span>
+|<span style=color:blue title="OSE Runde 4 (OSCQ) 6,5">''6,5''</span>
+| -
+| -
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0">''0,0''</span>
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0">''0,0''</span>
+!24,5
+| -
+|8%
 |-align=center style="border-top:2px solid grey"
-!
-!274
+!<span style=color:red>↓</span>
+!276
 |274
 |259
 |250
@@ -12704,8 +12704,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |10%
 |-align=center
-!
-!274
+!<span style=color:red>↓</span>
+!276
 |274
 |259
 |250
@@ -12750,8 +12750,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |8%
 |-align=center
-!
-!274
+!<span style=color:red>↓</span>
+!276
 |274
 |259
 |250
@@ -12796,8 +12796,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |4%
 |-align=center
-!
-!274
+!<span style=color:red>↓</span>
+!276
 |274
 |259
 |250
@@ -12842,8 +12842,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |4%
 |-align=center
-!
-!274
+!<span style=color:red>↓</span>
+!276
 |274
 |259
 |250
@@ -12864,8 +12864,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |166
 |align=center|<span title="Ukraine">http://os.ongapo.com/images/flaggen/UKR.gif</span>
 |align=left style="height:4ex"|'''Torpedo Kiew'''
-| -
-|6
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ)">''OSEQ''</span>
+|7
 |<span style=color:blue title="OSE Runde 3 (OSCQ) 1,5">''1,5''</span>
 | -
 |<span style=color:darkgreen title="OSE Runde 3 (OSEQ) 10,5">''10,5''</span>
@@ -12883,13 +12883,13 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 | -
 | -
-| -
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0">''0,0''</span>
 !24,0
 | -
 |10%
 |-align=center style="border-top:2px solid grey"
-!
-!279
+!<span style=color:red>↓</span>
+!282
 |279
 |266
 |255
@@ -12934,8 +12934,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center
-!
-!279
+!<span style=color:red>↓</span>
+!282
 |279
 |280
 |306
@@ -12980,8 +12980,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |8%
 |-align=center
-!
-!279
+!<span style=color:red>↓</span>
+!282
 |279
 |361
 |376
@@ -13026,8 +13026,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |5%
 |-align=center
-!
-!279
+!<span style=color:red>↓</span>
+!282
 |279
 |266
 |255
@@ -13072,8 +13072,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |8%
 |-align=center
-!
-!279
+!<span style=color:red>↓</span>
+!282
 |279
 |266
 |267
@@ -13118,8 +13118,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center style="border-top:2px solid grey"
-!
-!284
+!<span style=color:red>↓</span>
+!287
 |284
 |272
 |283
@@ -13164,8 +13164,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |8%
 |-align=center
-!
-!284
+!<span style=color:red>↓</span>
+!287
 |284
 |270
 |258
@@ -13210,8 +13210,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |4%
 |-align=center
-!
-!284
+!<span style=color:red>↓</span>
+!287
 |284
 |277
 |274
@@ -13256,8 +13256,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |13%
 |-align=center
-!
-!284
+!<span style=color:red>↓</span>
+!287
 |284
 |270
 |258
@@ -13302,8 +13302,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |9%
 |-align=center style="border-top:2px solid grey"
-!
-!288
+!<span style=color:red>↓</span>
+!291
 |288
 |272
 |260
@@ -13348,8 +13348,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |5%
 |-align=center
-!
-!288
+!<span style=color:red>↓</span>
+!291
 |288
 |316
 |306
@@ -13394,8 +13394,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center
-!
-!288
+!<span style=color:red>↓</span>
+!291
 |288
 |511
 |514
@@ -13440,8 +13440,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |7%
 |-align=center
-!
-!288
+!<span style=color:red>↓</span>
+!291
 |288
 |280
 |267
@@ -13486,8 +13486,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |7%
 |-align=center
-!
-!288
+!<span style=color:red>↓</span>
+!291
 |288
 |445
 |525
@@ -13532,8 +13532,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |7%
 |-align=center style="border-top:2px solid grey"
-!
-!293
+!<span style=color:red>↓</span>
+!296
 |293
 |330
 |321
@@ -13578,8 +13578,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |6%
 |-align=center
-!
-!293
+!<span style=color:red>↓</span>
+!296
 |293
 |352
 |342
@@ -13624,8 +13624,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |5%
 |-align=center
-!
-!293
+!<span style=color:red>↓</span>
+!296
 |293
 |277
 |261
@@ -13670,8 +13670,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!293
+!<span style=color:red>↓</span>
+!296
 |293
 |287
 |274
@@ -13716,8 +13716,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |4%
 |-align=center style="border-top:2px solid grey"
-!
-!297
+!<span style=color:red>↓</span>
+!300
 |297
 |308
 |296
@@ -13762,54 +13762,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |7%
 |-align=center
-!
-!297
-|297
-|280
-|267
-|258
-|247
-|236
-|219
-|197
-|170
-|149
-|131
-|113
-|90
-|98
-|64
-|84
-|305
-|305
-|align=center|<span title="Deutschland">http://os.ongapo.com/images/flaggen/GER.gif</span>
-|align=left style="height:4ex"|'''Borussia Wolfsburg'''
-| -
-|4
-| -
-|<span style=color:red title="OSC-ZR (OSC) 10,0">10,0</span>
-|<span style=color:darkgreen title="OSE Runde 2 (OSEQ) 6,5">''6,5''</span>
-| -
-|<span style=color:darkgreen title="OSE Runde 2 (OSE) 4,0">4,0</span>
-| -
-|<span style=color:green title="OSE Runde 1 (OSE) 1,0">1,0</span>
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-!21,5
-| -
-|2%
-|-align=center
-!
-!297
+!<span style=color:red>↓</span>
+!300
 |297
 |280
 |267
@@ -13854,8 +13808,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |9%
 |-align=center
-!
-!297
+!<span style=color:red>↓</span>
+!300
 |297
 |280
 |267
@@ -13900,8 +13854,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center
-!
-!297
+!<span style=color:red>↓</span>
+!300
 |297
 |280
 |267
@@ -13945,9 +13899,55 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 !21,5
 | -
 |5%
+|-align=center
+!<span style=color:red>↓</span>
+!300
+|297
+|280
+|267
+|258
+|247
+|236
+|219
+|197
+|170
+|149
+|131
+|113
+|90
+|98
+|64
+|84
+|305
+|305
+|align=center|<span title="Deutschland">http://os.ongapo.com/images/flaggen/GER.gif</span>
+|align=left style="height:4ex"|'''Borussia Wolfsburg'''
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ)">''OSEQ''</span>
+|5
+| -
+|<span style=color:red title="OSC-ZR (OSC) 10,0">10,0</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSEQ) 6,5">''6,5''</span>
+| -
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 4,0">4,0</span>
+| -
+|<span style=color:green title="OSE Runde 1 (OSE) 1,0">1,0</span>
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0">''0,0''</span>
+!21,5
+| -
+|2%
 |-align=center style="border-top:2px solid grey"
-!
-!302
+!<span style=color:red>↓</span>
+!306
 |302
 |301
 |482
@@ -13992,8 +13992,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |5%
 |-align=center
-!
-!302
+!<span style=color:red>↓</span>
+!306
 |302
 |287
 |398
@@ -14038,8 +14038,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |4%
 |-align=center
-!
-!302
+!<span style=color:red>↓</span>
+!306
 |302
 |287
 |274
@@ -14084,8 +14084,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |4%
 |-align=center
-!
-!302
+!<span style=color:red>↓</span>
+!306
 |302
 |287
 |274
@@ -14130,8 +14130,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |7%
 |-align=center
-!
-!302
+!<span style=color:red>↓</span>
+!306
 |302
 |287
 |274
@@ -14176,8 +14176,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |5%
 |-align=center
-!
-!302
+!<span style=color:red>↓</span>
+!306
 |302
 |287
 |274
@@ -14222,8 +14222,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |4%
 |-align=center
-!
-!302
+!<span style=color:red>↓</span>
+!306
 |302
 |287
 |274
@@ -14268,8 +14268,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |6%
 |-align=center
-!
-!302
+!<span style=color:red>↓</span>
+!306
 |302
 |287
 |290
@@ -14314,8 +14314,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |6%
 |-align=center
-!
-!302
+!<span style=color:red>↓</span>
+!306
 |302
 |324
 |469
@@ -14360,8 +14360,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |6%
 |-align=center style="border-top:2px solid grey"
-!
-!311
+!<span style=color:red>↓</span>
+!315
 |311
 |324
 |351
@@ -14406,8 +14406,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |5%
 |-align=center
-!
-!311
+!<span style=color:red>↓</span>
+!315
 |311
 |295
 |283
@@ -14452,8 +14452,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center
-!
-!311
+!<span style=color:red>↓</span>
+!315
 |311
 |295
 |283
@@ -14498,8 +14498,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |4%
 |-align=center
-!
-!311
+!<span style=color:red>↓</span>
+!315
 |311
 |295
 |283
@@ -14544,8 +14544,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center
-!
-!311
+!<span style=color:red>↓</span>
+!315
 |311
 |295
 |283
@@ -14590,8 +14590,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |4%
 |-align=center
-!
-!311
+!<span style=color:red>↓</span>
+!315
 |311
 |295
 |283
@@ -14636,8 +14636,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |5%
 |-align=center style="border-top:2px solid grey"
-!
-!317
+!<span style=color:red>↓</span>
+!321
 |317
 |301
 |290
@@ -14682,8 +14682,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |4%
 |-align=center
-!
-!317
+!<span style=color:red>↓</span>
+!321
 |317
 |301
 |290
@@ -14728,8 +14728,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center
-!
-!317
+!<span style=color:red>↓</span>
+!321
 |317
 |368
 |357
@@ -14774,8 +14774,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |7%
 |-align=center
-!
-!317
+!<span style=color:red>↓</span>
+!321
 |317
 |301
 |290
@@ -14820,8 +14820,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |6%
 |-align=center
-!
-!317
+!<span style=color:red>↓</span>
+!321
 |317
 |301
 |290
@@ -14866,8 +14866,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |7%
 |-align=center
-!
-!317
+!<span style=color:red>↓</span>
+!321
 |317
 |301
 |329
@@ -14912,8 +14912,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |7%
 |-align=center
-!
-!317
+!<span style=color:red>↓</span>
+!321
 |317
 |301
 |290
@@ -14958,8 +14958,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |4%
 |-align=center
-!
-!317
+!<span style=color:red>↓</span>
+!321
 |317
 |330
 |357
@@ -15004,8 +15004,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |8%
 |-align=center
-!
-!317
+!<span style=color:red>↓</span>
+!321
 |317
 |368
 |383
@@ -15050,8 +15050,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |8%
 |-align=center style="border-top:2px solid grey"
-!
-!326
+!<span style=color:red>↓</span>
+!330
 |326
 |308
 |296
@@ -15096,8 +15096,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center
-!
-!326
+!<span style=color:red>↓</span>
+!330
 |326
 |308
 |296
@@ -15142,8 +15142,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center
-!
-!326
+!<span style=color:red>↓</span>
+!330
 |326
 |308
 |296
@@ -15188,8 +15188,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |8%
 |-align=center
-!
-!326
+!<span style=color:red>↓</span>
+!330
 |326
 |308
 |296
@@ -15234,8 +15234,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |13%
 |-align=center
-!
-!326
+!<span style=color:red>↓</span>
+!330
 |326
 |308
 |296
@@ -15280,8 +15280,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |8%
 |-align=center
-!
-!326
+!<span style=color:red>↓</span>
+!330
 |326
 |308
 |327
@@ -15326,8 +15326,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |12%
 |-align=center
-!
-!326
+!<span style=color:red>↓</span>
+!330
 |326
 |308
 |296
@@ -15372,8 +15372,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center style="border-top:2px solid grey"
-!
-!333
+!<span style=color:red>↓</span>
+!337
 |333
 |330
 |321
@@ -15418,8 +15418,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |12%
 |-align=center
-!
-!333
+!<span style=color:red>↓</span>
+!337
 |333
 |316
 |306
@@ -15464,8 +15464,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |12%
 |-align=center
-!
-!333
+!<span style=color:red>↓</span>
+!337
 |333
 |316
 |306
@@ -15510,8 +15510,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |4%
 |-align=center
-!
-!333
+!<span style=color:red>↓</span>
+!337
 |333
 |316
 |306
@@ -15556,8 +15556,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |8%
 |-align=center
-!
-!333
+!<span style=color:red>↓</span>
+!337
 |333
 |316
 |306
@@ -15602,8 +15602,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center
-!
-!333
+!<span style=color:red>↓</span>
+!337
 |333
 |316
 |306
@@ -15648,8 +15648,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |7%
 |-align=center
-!
-!333
+!<span style=color:red>↓</span>
+!337
 |333
 |316
 |306
@@ -15694,8 +15694,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |7%
 |-align=center
-!
-!333
+!<span style=color:red>↓</span>
+!337
 |333
 |316
 |306
@@ -15740,8 +15740,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |6%
 |-align=center style="border-top:2px solid grey"
-!
-!341
+!<span style=color:red>↓</span>
+!345
 |341
 |324
 |316
@@ -15786,8 +15786,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!341
+!<span style=color:red>↓</span>
+!345
 |341
 |344
 |398
@@ -15832,8 +15832,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |11%
 |-align=center
-!
-!341
+!<span style=color:red>↓</span>
+!345
 |341
 |324
 |316
@@ -15878,8 +15878,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |12%
 |-align=center
-!
-!341
+!<span style=color:red>↓</span>
+!345
 |341
 |337
 |327
@@ -15924,8 +15924,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |6%
 |-align=center
-!
-!341
+!<span style=color:red>↓</span>
+!345
 |341
 |324
 |316
@@ -15970,8 +15970,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |5%
 |-align=center
-!
-!341
+!<span style=color:red>↓</span>
+!345
 |341
 |741
 |862
@@ -16016,8 +16016,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |5%
 |-align=center style="border-top:2px solid grey"
-!
-!347
+!<span style=color:red>↓</span>
+!351
 |347
 |361
 |351
@@ -16062,8 +16062,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!347
+!<span style=color:red>↓</span>
+!351
 |347
 |330
 |321
@@ -16108,8 +16108,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center
-!
-!347
+!<span style=color:red>↓</span>
+!351
 |347
 |330
 |321
@@ -16154,8 +16154,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |4%
 |-align=center
-!
-!347
+!<span style=color:red>↓</span>
+!351
 |347
 |330
 |321
@@ -16200,8 +16200,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!347
+!<span style=color:red>↓</span>
+!351
 |347
 |330
 |321
@@ -16246,8 +16246,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |4%
 |-align=center
-!
-!347
+!<span style=color:red>↓</span>
+!351
 |347
 |381
 |455
@@ -16292,8 +16292,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center style="border-top:2px solid grey"
-!
-!353
+!<span style=color:red>↓</span>
+!357
 |353
 |344
 |335
@@ -16338,8 +16338,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |4%
 |-align=center
-!
-!353
+!<span style=color:red>↓</span>
+!357
 |353
 |375
 |369
@@ -16384,8 +16384,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |11%
 |-align=center style="border-top:2px solid grey"
-!
-!355
+!<span style=color:red>↓</span>
+!359
 |355
 |339
 |329
@@ -16430,8 +16430,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center
-!
-!355
+!<span style=color:red>↓</span>
+!359
 |355
 |339
 |329
@@ -16476,8 +16476,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |6%
 |-align=center
-!
-!355
+!<span style=color:red>↓</span>
+!359
 |355
 |339
 |329
@@ -16522,8 +16522,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center
-!
-!355
+!<span style=color:red>↓</span>
+!359
 |355
 |339
 |329
@@ -16568,8 +16568,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!355
+!<span style=color:red>↓</span>
+!359
 |355
 |339
 |342
@@ -16614,8 +16614,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |4%
 |-align=center
-!
-!355
+!<span style=color:red>↓</span>
+!359
 |355
 |429
 |415
@@ -16660,8 +16660,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |5%
 |-align=center
-!
-!355
+!<span style=color:red>↓</span>
+!359
 |355
 |413
 |398
@@ -16706,8 +16706,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |6%
 |-align=center style="border-top:2px solid grey"
-!
-!362
+!<span style=color:red>↓</span>
+!366
 |362
 |344
 |335
@@ -16752,8 +16752,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |4%
 |-align=center
-!
-!362
+!<span style=color:red>↓</span>
+!366
 |362
 |344
 |335
@@ -16798,8 +16798,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |5%
 |-align=center
-!
-!362
+!<span style=color:red>↓</span>
+!366
 |362
 |344
 |335
@@ -16844,8 +16844,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |4%
 |-align=center
-!
-!362
+!<span style=color:red>↓</span>
+!366
 |362
 |344
 |335
@@ -16890,8 +16890,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |9%
 |-align=center
-!
-!362
+!<span style=color:red>↓</span>
+!366
 |362
 |344
 |335
@@ -16936,8 +16936,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center
-!
-!362
+!<span style=color:red>↓</span>
+!366
 |362
 |344
 |335
@@ -16982,8 +16982,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |4%
 |-align=center
-!
-!362
+!<span style=color:red>↓</span>
+!366
 |362
 |361
 |364
@@ -17028,54 +17028,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center style="border-top:2px solid grey"
-!
-!369
-|369
-|352
-|342
-|326
-|315
-|298
-|284
-|264
-|239
-|213
-|209
-|221
-|184
-|150
-|101
-|84
-|97
-|142
-|align=center|<span title="Slowenien">http://os.ongapo.com/images/flaggen/SVN.gif</span>
-|align=left style="height:4ex"|'''Murska Sobota'''
-| -
-|6
-|<span style=color:blue title="OSE Runde 3 (OSCQ) 4,0">''4,0''</span>
-|<span style=color:darkgreen title="OSE Runde 3 (OSE) 6,0">6,0</span>
-|<span style=color:blue title="OSE Runde 3 (OSCQ) 2,0">''2,0''</span>
-| -
-| -
-| -
-|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 2,0">''2,0''</span>
-|<span style=color:green title="OSE Runde 1 (OSE) 2,0">2,0</span>
-| -
-| -
-| -
-| -
-| -
-|<span style=color:green title="OSE Runde 1 (OSE) 0,0">0,0</span>
-| -
-| -
-| -
-| -
-!16,0
-| -
-|3%
-|-align=center
-!
-!369
+!<span style=color:red>↓</span>
+!373
 |369
 |381
 |369
@@ -17120,8 +17074,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |5%
 |-align=center
-!
-!369
+!<span style=color:red>↓</span>
+!373
 |369
 |352
 |342
@@ -17166,8 +17120,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |4%
 |-align=center
-!
-!369
+!<span style=color:red>↓</span>
+!373
 |369
 |352
 |342
@@ -17212,8 +17166,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!369
+!<span style=color:red>↓</span>
+!373
 |369
 |352
 |342
@@ -17258,8 +17212,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |6%
 |-align=center
-!
-!369
+!<span style=color:red>↓</span>
+!373
 |369
 |352
 |342
@@ -17304,8 +17258,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!369
+!<span style=color:red>↓</span>
+!373
 |369
 |352
 |342
@@ -17350,8 +17304,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!369
+!<span style=color:red>↓</span>
+!373
 |369
 |352
 |342
@@ -17396,8 +17350,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |10%
 |-align=center
-!
-!369
+!<span style=color:red>↓</span>
+!373
 |369
 |502
 |525
@@ -17442,8 +17396,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |6%
 |-align=center
-!
-!369
+!<span style=color:red>↓</span>
+!373
 |369
 |352
 |376
@@ -17488,8 +17442,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!369
+!<span style=color:red>↓</span>
+!373
 |369
 |389
 |398
@@ -17533,9 +17487,55 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 !16,0
 | -
 |4%
+|-align=center
+!<span style=color:red>↓</span>
+!373
+|369
+|352
+|342
+|326
+|315
+|298
+|284
+|264
+|239
+|213
+|209
+|221
+|184
+|150
+|101
+|84
+|97
+|142
+|align=center|<span title="Slowenien">http://os.ongapo.com/images/flaggen/SVN.gif</span>
+|align=left style="height:4ex"|'''Murska Sobota'''
+|<span style=color:green title="OSE Runde 1 (OSE)">OSE</span>
+|7
+|<span style=color:blue title="OSE Runde 3 (OSCQ) 4,0">''4,0''</span>
+|<span style=color:darkgreen title="OSE Runde 3 (OSE) 6,0">6,0</span>
+|<span style=color:blue title="OSE Runde 3 (OSCQ) 2,0">''2,0''</span>
+| -
+| -
+| -
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 2,0">''2,0''</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 2,0">2,0</span>
+| -
+| -
+| -
+| -
+| -
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0">0,0</span>
+| -
+| -
+| -
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0">0,0</span>
+!16,0
+| -
+|3%
 |-align=center style="border-top:2px solid grey"
-!
-!380
+!<span style=color:red>↓</span>
+!385
 |380
 |413
 |514
@@ -17580,8 +17580,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |4%
 |-align=center
-!
-!380
+!<span style=color:red>↓</span>
+!385
 |380
 |361
 |351
@@ -17626,8 +17626,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |5%
 |-align=center
-!
-!380
+!<span style=color:red>↓</span>
+!385
 |380
 |361
 |351
@@ -17672,8 +17672,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |8%
 |-align=center
-!
-!380
+!<span style=color:red>↓</span>
+!385
 |380
 |361
 |351
@@ -17718,8 +17718,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!380
+!<span style=color:red>↓</span>
+!385
 |380
 |413
 |398
@@ -17764,8 +17764,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center
-!
-!380
+!<span style=color:red>↓</span>
+!385
 |380
 |361
 |351
@@ -17810,8 +17810,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center
-!
-!380
+!<span style=color:red>↓</span>
+!385
 |380
 |454
 |462
@@ -17856,8 +17856,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |5%
 |-align=center
-!
-!380
+!<span style=color:red>↓</span>
+!385
 |380
 |445
 |431
@@ -17902,8 +17902,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |8%
 |-align=center
-!
-!380
+!<span style=color:red>↓</span>
+!385
 |380
 |536
 |546
@@ -17948,8 +17948,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center style="border-top:2px solid grey"
-!
-!389
+!<span style=color:red>↓</span>
+!394
 |389
 |368
 |357
@@ -17994,8 +17994,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |6%
 |-align=center
-!
-!389
+!<span style=color:red>↓</span>
+!394
 |389
 |413
 |455
@@ -18040,8 +18040,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center
-!
-!389
+!<span style=color:red>↓</span>
+!394
 |389
 |368
 |357
@@ -18086,8 +18086,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!389
+!<span style=color:red>↓</span>
+!394
 |389
 |368
 |357
@@ -18132,8 +18132,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |4%
 |-align=center
-!
-!389
+!<span style=color:red>↓</span>
+!394
 |389
 |368
 |357
@@ -18178,8 +18178,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |5%
 |-align=center
-!
-!389
+!<span style=color:red>↓</span>
+!394
 |389
 |368
 |357
@@ -18224,8 +18224,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |4%
 |-align=center
-!
-!389
+!<span style=color:red>↓</span>
+!394
 |389
 |395
 |438
@@ -18270,8 +18270,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |4%
 |-align=center
-!
-!389
+!<span style=color:red>↓</span>
+!394
 |389
 |395
 |415
@@ -18316,8 +18316,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |5%
 |-align=center
-!
-!389
+!<span style=color:red>↓</span>
+!394
 |389
 |472
 |683
@@ -18362,8 +18362,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |4%
 |-align=center style="border-top:2px solid grey"
-!
-!398
+!<span style=color:red>↓</span>
+!403
 |398
 |375
 |364
@@ -18408,8 +18408,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |5%
 |-align=center
-!
-!398
+!<span style=color:red>↓</span>
+!403
 |398
 |375
 |364
@@ -18454,8 +18454,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |5%
 |-align=center
-!
-!398
+!<span style=color:red>↓</span>
+!403
 |398
 |375
 |364
@@ -18500,8 +18500,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |4%
 |-align=center
-!
-!398
+!<span style=color:red>↓</span>
+!403
 |398
 |375
 |364
@@ -18546,8 +18546,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center
-!
-!398
+!<span style=color:red>↓</span>
+!403
 |398
 |381
 |369
@@ -18592,8 +18592,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |4%
 |-align=center
-!
-!398
+!<span style=color:red>↓</span>
+!403
 |398
 |800
 |784
@@ -18638,8 +18638,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center style="border-top:2px solid grey"
-!
-!404
+!<span style=color:red>↓</span>
+!409
 |404
 |381
 |369
@@ -18684,8 +18684,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |5%
 |-align=center
-!
-!404
+!<span style=color:red>↓</span>
+!409
 |404
 |381
 |369
@@ -18730,8 +18730,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center
-!
-!404
+!<span style=color:red>↓</span>
+!409
 |404
 |381
 |415
@@ -18776,8 +18776,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!404
+!<span style=color:red>↓</span>
+!409
 |404
 |381
 |369
@@ -18822,8 +18822,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |4%
 |-align=center
-!
-!404
+!<span style=color:red>↓</span>
+!409
 |404
 |381
 |369
@@ -18868,8 +18868,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center style="border-top:2px solid grey"
-!
-!409
+!<span style=color:red>↓</span>
+!414
 |409
 |445
 |431
@@ -18914,8 +18914,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!409
+!<span style=color:red>↓</span>
+!414
 |409
 |389
 |376
@@ -18960,8 +18960,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!409
+!<span style=color:red>↓</span>
+!414
 |409
 |389
 |376
@@ -19006,8 +19006,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |4%
 |-align=center
-!
-!409
+!<span style=color:red>↓</span>
+!414
 |409
 |389
 |376
@@ -19052,8 +19052,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center
-!
-!409
+!<span style=color:red>↓</span>
+!414
 |409
 |413
 |490
@@ -19098,8 +19098,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!409
+!<span style=color:red>↓</span>
+!414
 |409
 |429
 |415
@@ -19144,8 +19144,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center
-!
-!409
+!<span style=color:red>↓</span>
+!414
 |409
 |389
 |376
@@ -19190,8 +19190,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |8%
 |-align=center
-!
-!409
+!<span style=color:red>↓</span>
+!414
 |409
 |389
 |376
@@ -19236,8 +19236,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |9%
 |-align=center style="border-top:2px solid grey"
-!
-!417
+!<span style=color:red>↓</span>
+!422
 |417
 |395
 |383
@@ -19282,8 +19282,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center
-!
-!417
+!<span style=color:red>↓</span>
+!422
 |417
 |395
 |383
@@ -19328,8 +19328,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!417
+!<span style=color:red>↓</span>
+!422
 |417
 |395
 |383
@@ -19374,8 +19374,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center
-!
-!417
+!<span style=color:red>↓</span>
+!422
 |417
 |395
 |415
@@ -19420,8 +19420,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |4%
 |-align=center
-!
-!417
+!<span style=color:red>↓</span>
+!422
 |417
 |395
 |383
@@ -19466,8 +19466,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!417
+!<span style=color:red>↓</span>
+!422
 |417
 |395
 |383
@@ -19512,8 +19512,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!417
+!<span style=color:red>↓</span>
+!422
 |417
 |395
 |383
@@ -19558,8 +19558,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!417
+!<span style=color:red>↓</span>
+!422
 |417
 |395
 |383
@@ -19604,8 +19604,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center
-!
-!417
+!<span style=color:red>↓</span>
+!422
 |417
 |395
 |383
@@ -19650,8 +19650,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center
-!
-!417
+!<span style=color:red>↓</span>
+!422
 |417
 |395
 |383
@@ -19696,8 +19696,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center
-!
-!417
+!<span style=color:red>↓</span>
+!422
 |417
 |717
 |862
@@ -19742,8 +19742,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!417
+!<span style=color:red>↓</span>
+!422
 |417
 |395
 |383
@@ -19788,8 +19788,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |5%
 |-align=center
-!
-!417
+!<span style=color:red>↓</span>
+!422
 |417
 |395
 |383
@@ -19834,8 +19834,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!417
+!<span style=color:red>↓</span>
+!422
 |417
 |395
 |383
@@ -19880,8 +19880,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!417
+!<span style=color:red>↓</span>
+!422
 |417
 |413
 |431
@@ -19926,8 +19926,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |4%
 |-align=center
-!
-!417
+!<span style=color:red>↓</span>
+!422
 |417
 |395
 |383
@@ -19972,8 +19972,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!417
+!<span style=color:red>↓</span>
+!422
 |417
 |395
 |383
@@ -20018,8 +20018,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |4%
 |-align=center
-!
-!417
+!<span style=color:red>↓</span>
+!422
 |417
 |395
 |609
@@ -20064,8 +20064,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |4%
 |-align=center style="border-top:2px solid grey"
-!
-!435
+!<span style=color:red>↓</span>
+!440
 |435
 |413
 |398
@@ -20110,8 +20110,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |4%
 |-align=center
-!
-!435
+!<span style=color:red>↓</span>
+!440
 |435
 |413
 |398
@@ -20156,8 +20156,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |4%
 |-align=center
-!
-!435
+!<span style=color:red>↓</span>
+!440
 |435
 |413
 |398
@@ -20202,8 +20202,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |5%
 |-align=center
-!
-!435
+!<span style=color:red>↓</span>
+!440
 |435
 |413
 |398
@@ -20248,8 +20248,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center
-!
-!435
+!<span style=color:red>↓</span>
+!440
 |435
 |567
 |546
@@ -20294,8 +20294,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center
-!
-!435
+!<span style=color:red>↓</span>
+!440
 |435
 |413
 |398
@@ -20340,8 +20340,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!435
+!<span style=color:red>↓</span>
+!440
 |435
 |413
 |398
@@ -20386,8 +20386,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!435
+!<span style=color:red>↓</span>
+!440
 |435
 |413
 |398
@@ -20432,8 +20432,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!435
+!<span style=color:red>↓</span>
+!440
 |435
 |413
 |398
@@ -20478,8 +20478,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center
-!
-!435
+!<span style=color:red>↓</span>
+!440
 |435
 |413
 |398
@@ -20524,8 +20524,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!435
+!<span style=color:red>↓</span>
+!440
 |435
 |413
 |398
@@ -20570,8 +20570,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center style="border-top:2px solid grey"
-!
-!446
+!<span style=color:red>↓</span>
+!451
 |446
 |429
 |415
@@ -20616,8 +20616,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |7%
 |-align=center
-!
-!446
+!<span style=color:red>↓</span>
+!451
 |446
 |429
 |415
@@ -20662,8 +20662,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |4%
 |-align=center
-!
-!446
+!<span style=color:red>↓</span>
+!451
 |446
 |429
 |415
@@ -20708,8 +20708,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center
-!
-!446
+!<span style=color:red>↓</span>
+!451
 |446
 |429
 |415
@@ -20754,8 +20754,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |4%
 |-align=center
-!
-!446
+!<span style=color:red>↓</span>
+!451
 |446
 |429
 |415
@@ -20800,8 +20800,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!446
+!<span style=color:red>↓</span>
+!451
 |446
 |429
 |415
@@ -20846,8 +20846,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |4%
 |-align=center
-!
-!446
+!<span style=color:red>↓</span>
+!451
 |446
 |429
 |431
@@ -20892,8 +20892,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center
-!
-!446
+!<span style=color:red>↓</span>
+!451
 |446
 |429
 |415
@@ -20938,8 +20938,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!446
+!<span style=color:red>↓</span>
+!451
 |446
 |429
 |415
@@ -20984,8 +20984,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!446
+!<span style=color:red>↓</span>
+!451
 |446
 |429
 |415
@@ -21030,8 +21030,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |7%
 |-align=center
-!
-!446
+!<span style=color:red>↓</span>
+!451
 |446
 |429
 |415
@@ -21076,8 +21076,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center
-!
-!446
+!<span style=color:red>↓</span>
+!451
 |446
 |502
 |482
@@ -21122,8 +21122,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!446
+!<span style=color:red>↓</span>
+!451
 |446
 |429
 |514
@@ -21168,8 +21168,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |8%
 |-align=center
-!
-!446
+!<span style=color:red>↓</span>
+!451
 |446
 |429
 |415
@@ -21214,8 +21214,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!446
+!<span style=color:red>↓</span>
+!451
 |446
 |429
 |1005
@@ -21260,8 +21260,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center style="border-top:2px solid grey"
-!
-!461
+!<span style=color:red>↓</span>
+!466
 |461
 |445
 |431
@@ -21306,8 +21306,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!461
+!<span style=color:red>↓</span>
+!466
 |461
 |445
 |431
@@ -21352,8 +21352,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!461
+!<span style=color:red>↓</span>
+!466
 |461
 |445
 |431
@@ -21398,8 +21398,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!461
+!<span style=color:red>↓</span>
+!466
 |461
 |445
 |514
@@ -21444,8 +21444,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center
-!
-!461
+!<span style=color:red>↓</span>
+!466
 |461
 |445
 |683
@@ -21490,8 +21490,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center style="border-top:2px solid grey"
-!
-!466
+!<span style=color:red>↓</span>
+!471
 |466
 |454
 |438
@@ -21536,8 +21536,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |6%
 |-align=center
-!
-!466
+!<span style=color:red>↓</span>
+!471
 |466
 |502
 |525
@@ -21582,8 +21582,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |4%
 |-align=center
-!
-!466
+!<span style=color:red>↓</span>
+!471
 |466
 |454
 |438
@@ -21628,8 +21628,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center
-!
-!466
+!<span style=color:red>↓</span>
+!471
 |466
 |454
 |438
@@ -21674,8 +21674,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!466
+!<span style=color:red>↓</span>
+!471
 |466
 |454
 |438
@@ -21720,8 +21720,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center
-!
-!466
+!<span style=color:red>↓</span>
+!471
 |466
 |454
 |438
@@ -21766,8 +21766,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center
-!
-!466
+!<span style=color:red>↓</span>
+!471
 |466
 |454
 |438
@@ -21812,8 +21812,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center
-!
-!466
+!<span style=color:red>↓</span>
+!471
 |466
 |454
 |438
@@ -21858,8 +21858,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center
-!
-!466
+!<span style=color:red>↓</span>
+!471
 |466
 |454
 |438
@@ -21904,8 +21904,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!466
+!<span style=color:red>↓</span>
+!471
 |466
 |454
 |438
@@ -21950,8 +21950,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!466
+!<span style=color:red>↓</span>
+!471
 |466
 |454
 |438
@@ -21996,8 +21996,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!466
+!<span style=color:red>↓</span>
+!471
 |466
 |454
 |438
@@ -22042,8 +22042,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |7%
 |-align=center
-!
-!466
+!<span style=color:red>↓</span>
+!471
 |466
 |454
 |482
@@ -22088,8 +22088,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!466
+!<span style=color:red>↓</span>
+!471
 |466
 |454
 |438
@@ -22134,8 +22134,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center
-!
-!466
+!<span style=color:red>↓</span>
+!471
 |466
 |454
 |438
@@ -22180,8 +22180,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center
-!
-!466
+!<span style=color:red>↓</span>
+!471
 |466
 |454
 |438
@@ -22226,8 +22226,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center
-!
-!466
+!<span style=color:red>↓</span>
+!471
 |466
 |454
 |438
@@ -22272,8 +22272,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |4%
 |-align=center
-!
-!466
+!<span style=color:red>↓</span>
+!471
 |466
 |454
 |438
@@ -22318,8 +22318,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center style="border-top:2px solid grey"
-!
-!484
+!<span style=color:red>↓</span>
+!489
 |484
 |489
 |469
@@ -22364,8 +22364,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!484
+!<span style=color:red>↓</span>
+!489
 |484
 |472
 |455
@@ -22410,8 +22410,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!484
+!<span style=color:red>↓</span>
+!489
 |484
 |472
 |455
@@ -22456,8 +22456,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center
-!
-!484
+!<span style=color:red>↓</span>
+!489
 |484
 |472
 |455
@@ -22502,8 +22502,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!484
+!<span style=color:red>↓</span>
+!489
 |484
 |481
 |563
@@ -22548,8 +22548,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!484
+!<span style=color:red>↓</span>
+!489
 |484
 |472
 |455
@@ -22594,8 +22594,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!484
+!<span style=color:red>↓</span>
+!489
 |484
 |472
 |546
@@ -22640,8 +22640,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center
-!
-!484
+!<span style=color:red>↓</span>
+!489
 |484
 |472
 |636
@@ -22686,8 +22686,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |4%
 |-align=center style="border-top:2px solid grey"
-!
-!492
+!<span style=color:red>↓</span>
+!497
 |492
 |481
 |462
@@ -22732,8 +22732,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center
-!
-!492
+!<span style=color:red>↓</span>
+!497
 |492
 |481
 |462
@@ -22778,8 +22778,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!492
+!<span style=color:red>↓</span>
+!497
 |492
 |481
 |462
@@ -22824,8 +22824,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center
-!
-!492
+!<span style=color:red>↓</span>
+!497
 |492
 |481
 |462
@@ -22870,8 +22870,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!492
+!<span style=color:red>↓</span>
+!497
 |492
 |481
 |563
@@ -22916,8 +22916,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!492
+!<span style=color:red>↓</span>
+!497
 |492
 |481
 |462
@@ -22962,8 +22962,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center
-!
-!492
+!<span style=color:red>↓</span>
+!497
 |492
 |582
 |563
@@ -23008,8 +23008,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center
-!
-!492
+!<span style=color:red>↓</span>
+!497
 |492
 |481
 |462
@@ -23054,8 +23054,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!492
+!<span style=color:red>↓</span>
+!497
 |492
 |582
 |1005
@@ -23100,8 +23100,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center style="border-top:2px solid grey"
-!
-!501
+!<span style=color:red>↓</span>
+!506
 |501
 |489
 |591
@@ -23146,8 +23146,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |4%
 |-align=center
-!
-!501
+!<span style=color:red>↓</span>
+!506
 |501
 |489
 |469
@@ -23192,8 +23192,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center
-!
-!501
+!<span style=color:red>↓</span>
+!506
 |501
 |489
 |469
@@ -23238,8 +23238,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center
-!
-!501
+!<span style=color:red>↓</span>
+!506
 |501
 |489
 |469
@@ -23284,8 +23284,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!501
+!<span style=color:red>↓</span>
+!506
 |501
 |489
 |469
@@ -23330,8 +23330,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center
-!
-!501
+!<span style=color:red>↓</span>
+!506
 |501
 |489
 |469
@@ -23376,8 +23376,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!501
+!<span style=color:red>↓</span>
+!506
 |501
 |489
 |469
@@ -23422,8 +23422,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!501
+!<span style=color:red>↓</span>
+!506
 |501
 |489
 |469
@@ -23468,8 +23468,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |6%
 |-align=center
-!
-!501
+!<span style=color:red>↓</span>
+!506
 |501
 |489
 |469
@@ -23514,8 +23514,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!501
+!<span style=color:red>↓</span>
+!506
 |501
 |489
 |469
@@ -23560,8 +23560,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center
-!
-!501
+!<span style=color:red>↓</span>
+!506
 |501
 |489
 |469
@@ -23606,8 +23606,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |6%
 |-align=center
-!
-!501
+!<span style=color:red>↓</span>
+!506
 |501
 |567
 |546
@@ -23652,8 +23652,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!501
+!<span style=color:red>↓</span>
+!506
 |501
 |489
 |514
@@ -23698,8 +23698,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |6%
 |-align=center
-!
-!501
+!<span style=color:red>↓</span>
+!506
 |501
 |536
 |525
@@ -23744,8 +23744,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center style="border-top:2px solid grey"
-!
-!515
+!<span style=color:red>↓</span>
+!520
 |515
 |502
 |482
@@ -23790,8 +23790,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!515
+!<span style=color:red>↓</span>
+!520
 |515
 |502
 |482
@@ -23836,8 +23836,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!515
+!<span style=color:red>↓</span>
+!520
 |515
 |502
 |482
@@ -23883,7 +23883,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |1%
 |-align=center
 !<span style=color:green>↑</span>
-!515
+!520
 |534
 |536
 |784
@@ -23928,8 +23928,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |<span title="OSC-HR (OSC)">+</span>
 |2%
 |-align=center
-!
-!515
+!<span style=color:red>↓</span>
+!520
 |515
 |502
 |501
@@ -23974,8 +23974,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |4%
 |-align=center
-!
-!515
+!<span style=color:red>↓</span>
+!520
 |515
 |502
 |482
@@ -24020,8 +24020,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!515
+!<span style=color:red>↓</span>
+!520
 |515
 |502
 |482
@@ -24066,8 +24066,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!515
+!<span style=color:red>↓</span>
+!520
 |515
 |1018
 |1005
@@ -24113,7 +24113,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |1%
 |-align=center style="border-top:2px solid grey"
 !<span style=color:red>↓</span>
-!523
+!528
 |522
 |511
 |490
@@ -24159,7 +24159,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |3%
 |-align=center
 !<span style=color:red>↓</span>
-!523
+!528
 |522
 |511
 |490
@@ -24205,7 +24205,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |1%
 |-align=center
 !<span style=color:red>↓</span>
-!523
+!528
 |522
 |511
 |490
@@ -24251,7 +24251,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |2%
 |-align=center
 !<span style=color:red>↓</span>
-!523
+!528
 |522
 |511
 |490
@@ -24297,7 +24297,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |2%
 |-align=center
 !<span style=color:red>↓</span>
-!523
+!528
 |522
 |511
 |514
@@ -24343,7 +24343,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |2%
 |-align=center
 !<span style=color:red>↓</span>
-!523
+!528
 |522
 |511
 |490
@@ -24389,7 +24389,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |1%
 |-align=center
 !<span style=color:red>↓</span>
-!523
+!528
 |522
 |511
 |490
@@ -24435,7 +24435,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |5%
 |-align=center
 !<span style=color:red>↓</span>
-!523
+!528
 |522
 |511
 |490
@@ -24481,7 +24481,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |3%
 |-align=center
 !<span style=color:red>↓</span>
-!523
+!528
 |522
 |511
 |490
@@ -24527,7 +24527,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |2%
 |-align=center
 !<span style=color:red>↓</span>
-!523
+!528
 |522
 |511
 |490
@@ -24573,7 +24573,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |2%
 |-align=center
 !<span style=color:red>↓</span>
-!523
+!528
 |522
 |511
 |490
@@ -24619,7 +24619,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |2%
 |-align=center
 !<span style=color:red>↓</span>
-!523
+!528
 |522
 |582
 |750
@@ -24665,7 +24665,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |1%
 |-align=center style="border-top:2px solid grey"
 !<span style=color:red>↓</span>
-!535
+!540
 |534
 |615
 |591
@@ -24711,7 +24711,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |2%
 |-align=center
 !<span style=color:red>↓</span>
-!535
+!540
 |534
 |523
 |501
@@ -24757,7 +24757,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |2%
 |-align=center
 !<span style=color:red>↓</span>
-!535
+!540
 |534
 |523
 |501
@@ -24803,7 +24803,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |3%
 |-align=center
 !<span style=color:red>↓</span>
-!535
+!540
 |534
 |523
 |501
@@ -24849,7 +24849,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |1%
 |-align=center
 !<span style=color:red>↓</span>
-!535
+!540
 |534
 |523
 |501
@@ -24895,7 +24895,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |1%
 |-align=center
 !<span style=color:red>↓</span>
-!535
+!540
 |534
 |523
 |501
@@ -24941,7 +24941,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |4%
 |-align=center
 !<span style=color:red>↓</span>
-!535
+!540
 |534
 |523
 |609
@@ -24987,7 +24987,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |3%
 |-align=center
 !<span style=color:red>↓</span>
-!535
+!540
 |534
 |523
 |501
@@ -25033,7 +25033,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |2%
 |-align=center
 !<span style=color:red>↓</span>
-!535
+!540
 |534
 |523
 |501
@@ -25079,7 +25079,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |2%
 |-align=center
 !<span style=color:red>↓</span>
-!535
+!540
 |534
 |523
 |501
@@ -25125,7 +25125,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |1%
 |-align=center
 !<span style=color:red>↓</span>
-!535
+!540
 |534
 |523
 |501
@@ -25171,7 +25171,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |1%
 |-align=center
 !<span style=color:red>↓</span>
-!535
+!540
 |534
 |523
 |501
@@ -25217,7 +25217,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |2%
 |-align=center
 !<span style=color:red>↓</span>
-!535
+!540
 |534
 |523
 |501
@@ -25263,7 +25263,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |5%
 |-align=center
 !<span style=color:red>↓</span>
-!535
+!540
 |534
 |523
 |501
@@ -25309,7 +25309,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |2%
 |-align=center
 !<span style=color:red>↓</span>
-!535
+!540
 |534
 |1018
 |1005
@@ -25354,8 +25354,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center style="border-top:2px solid grey"
-!
-!550
+!<span style=color:red>↓</span>
+!555
 |550
 |536
 |514
@@ -25400,8 +25400,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!550
+!<span style=color:red>↓</span>
+!555
 |550
 |536
 |514
@@ -25446,8 +25446,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!550
+!<span style=color:red>↓</span>
+!555
 |550
 |536
 |546
@@ -25492,8 +25492,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!550
+!<span style=color:red>↓</span>
+!555
 |550
 |536
 |514
@@ -25538,8 +25538,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!550
+!<span style=color:red>↓</span>
+!555
 |550
 |536
 |636
@@ -25584,8 +25584,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!550
+!<span style=color:red>↓</span>
+!555
 |550
 |536
 |514
@@ -25630,8 +25630,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!550
+!<span style=color:red>↓</span>
+!555
 |550
 |536
 |525
@@ -25676,8 +25676,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center
-!
-!550
+!<span style=color:red>↓</span>
+!555
 |550
 |536
 |514
@@ -25722,8 +25722,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!550
+!<span style=color:red>↓</span>
+!555
 |550
 |536
 |525
@@ -25768,8 +25768,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!550
+!<span style=color:red>↓</span>
+!555
 |550
 |657
 |636
@@ -25814,8 +25814,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!550
+!<span style=color:red>↓</span>
+!555
 |550
 |536
 |656
@@ -25860,8 +25860,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!550
+!<span style=color:red>↓</span>
+!555
 |550
 |536
 |636
@@ -25906,8 +25906,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!550
+!<span style=color:red>↓</span>
+!555
 |550
 |536
 |1005
@@ -25952,8 +25952,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center style="border-top:2px solid grey"
-!
-!563
+!<span style=color:red>↓</span>
+!568
 |563
 |551
 |525
@@ -25998,8 +25998,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!563
+!<span style=color:red>↓</span>
+!568
 |563
 |551
 |525
@@ -26044,8 +26044,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!563
+!<span style=color:red>↓</span>
+!568
 |563
 |551
 |525
@@ -26090,8 +26090,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!563
+!<span style=color:red>↓</span>
+!568
 |563
 |551
 |609
@@ -26136,8 +26136,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!563
+!<span style=color:red>↓</span>
+!568
 |563
 |551
 |525
@@ -26182,54 +26182,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!563
-|563
-|551
-|525
-|511
-|492
-|472
-|451
-|434
-|416
-|385
-|359
-|582
-|536
-|478
-|560
-|466
-|305
-|305
-|align=center|<span title="Niederlande">http://os.ongapo.com/images/flaggen/NED.gif</span>
-|align=left style="height:4ex"|'''NEC Kerkrade'''
-| -
-|2
-| -
-| -
-| -
-|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 1,0">''1,0''</span>
-| -
-| -
-|<span style=color:darkgreen title="OSE Runde 2 (OSE) 6,0">6,0</span>
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-!7,0
-| -
-|1%
-|-align=center
-!
-!563
+!<span style=color:red>↓</span>
+!568
 |563
 |551
 |525
@@ -26274,8 +26228,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |4%
 |-align=center
-!
-!563
+!<span style=color:red>↓</span>
+!568
 |563
 |551
 |525
@@ -26320,8 +26274,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!563
+!<span style=color:red>↓</span>
+!568
 |563
 |551
 |525
@@ -26366,8 +26320,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!563
+!<span style=color:red>↓</span>
+!568
 |563
 |551
 |525
@@ -26412,8 +26366,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!563
+!<span style=color:red>↓</span>
+!568
 |563
 |551
 |525
@@ -26458,8 +26412,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!563
+!<span style=color:red>↓</span>
+!568
 |563
 |551
 |636
@@ -26504,8 +26458,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!563
+!<span style=color:red>↓</span>
+!568
 |563
 |551
 |525
@@ -26550,8 +26504,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!563
+!<span style=color:red>↓</span>
+!568
 |563
 |551
 |525
@@ -26596,8 +26550,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!563
+!<span style=color:red>↓</span>
+!568
 |563
 |551
 |525
@@ -26642,8 +26596,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |5%
 |-align=center
-!
-!563
+!<span style=color:red>↓</span>
+!568
 |563
 |551
 |525
@@ -26688,8 +26642,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!563
+!<span style=color:red>↓</span>
+!568
 |563
 |582
 |1005
@@ -26733,9 +26687,55 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 !7,0
 | -
 |1%
+|-align=center
+!<span style=color:red>↓</span>
+!568
+|563
+|551
+|525
+|511
+|492
+|472
+|451
+|434
+|416
+|385
+|359
+|582
+|536
+|478
+|560
+|466
+|305
+|305
+|align=center|<span title="Niederlande">http://os.ongapo.com/images/flaggen/NED.gif</span>
+|align=left style="height:4ex"|'''NEC Kerkrade'''
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ)">''OSEQ''</span>
+|3
+| -
+| -
+| -
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 1,0">''1,0''</span>
+| -
+| -
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 6,0">6,0</span>
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0">''0,0''</span>
+!7,0
+| -
+|1%
 |-align=center style="border-top:2px solid grey"
-!
-!580
+!<span style=color:red>↓</span>
+!586
 |580
 |567
 |546
@@ -26780,54 +26780,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!580
-|580
-|567
-|546
-|529
-|550
-|530
-|512
-|495
-|477
-|451
-|422
-|404
-|361
-|305
-|243
-|173
-|83
-|64
-|align=center|<span title="Island">http://os.ongapo.com/images/flaggen/ISL.gif</span>
-|align=left style="height:4ex"|'''Thor Reykjavik'''
-| -
-|4
-|<span style=color:darkgreen title="OSE Runde 2 (OSE) 5,0">5,0</span>
-| -
-| -
-| -
-| -
-| -
-|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5">''0,5''</span>
-| -
-| -
-| -
-| -
-| -
-|<span style=color:green title="OSE Runde 1 (OSE) 0,0">0,0</span>
-|<span style=color:green title="OSE Runde 1 (OSE) 1,0">1,0</span>
-| -
-| -
-| -
-| -
-!6,5
-| -
-|3%
-|-align=center
-!
-!580
+!<span style=color:red>↓</span>
+!586
 |580
 |567
 |546
@@ -26872,8 +26826,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!580
+!<span style=color:red>↓</span>
+!586
 |580
 |567
 |546
@@ -26918,8 +26872,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!580
+!<span style=color:red>↓</span>
+!586
 |580
 |567
 |546
@@ -26964,8 +26918,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!580
+!<span style=color:red>↓</span>
+!586
 |580
 |567
 |546
@@ -27010,8 +26964,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!580
+!<span style=color:red>↓</span>
+!586
 |580
 |567
 |546
@@ -27056,8 +27010,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!580
+!<span style=color:red>↓</span>
+!586
 |580
 |567
 |546
@@ -27102,8 +27056,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center
-!
-!580
+!<span style=color:red>↓</span>
+!586
 |580
 |567
 |546
@@ -27148,8 +27102,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!580
+!<span style=color:red>↓</span>
+!586
 |580
 |567
 |546
@@ -27194,8 +27148,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!580
+!<span style=color:red>↓</span>
+!586
 |580
 |567
 |546
@@ -27240,8 +27194,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!580
+!<span style=color:red>↓</span>
+!586
 |580
 |632
 |609
@@ -27286,8 +27240,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!580
+!<span style=color:red>↓</span>
+!586
 |580
 |567
 |811
@@ -27332,8 +27286,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!580
+!<span style=color:red>↓</span>
+!586
 |580
 |567
 |546
@@ -27378,8 +27332,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!580
+!<span style=color:red>↓</span>
+!586
 |580
 |918
 |905
@@ -27423,9 +27377,55 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 !6,5
 | -
 |1%
+|-align=center
+!<span style=color:red>↓</span>
+!586
+|580
+|567
+|546
+|529
+|550
+|530
+|512
+|495
+|477
+|451
+|422
+|404
+|361
+|305
+|243
+|173
+|83
+|64
+|align=center|<span title="Island">http://os.ongapo.com/images/flaggen/ISL.gif</span>
+|align=left style="height:4ex"|'''Thor Reykjavik'''
+|<span style=color:green title="OSE Runde 1 (OSE)">OSE</span>
+|5
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 5,0">5,0</span>
+| -
+| -
+| -
+| -
+| -
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5">''0,5''</span>
+| -
+| -
+| -
+| -
+| -
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0">0,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 1,0">1,0</span>
+| -
+| -
+| -
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0">0,0</span>
+!6,5
+| -
+|3%
 |-align=center style="border-top:2px solid grey"
-!
-!595
+!<span style=color:red>↓</span>
+!602
 |595
 |582
 |563
@@ -27470,8 +27470,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!595
+!<span style=color:red>↓</span>
+!602
 |595
 |582
 |563
@@ -27516,8 +27516,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!595
+!<span style=color:red>↓</span>
+!602
 |595
 |582
 |563
@@ -27562,8 +27562,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!595
+!<span style=color:red>↓</span>
+!602
 |595
 |582
 |563
@@ -27608,54 +27608,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!595
-|595
-|582
-|563
-|546
-|526
-|506
-|485
-|469
-|449
-|425
-|399
-|362
-|318
-|658
-|560
-|466
-|305
-|305
-|align=center|<span title="Luxemburg">http://os.ongapo.com/images/flaggen/LUX.gif</span>
-|align=left style="height:4ex"|'''FC Beggen'''
-| -
-|1
-| -
-| -
-| -
-| -
-|<span style=color:darkgreen title="OSE Runde 2 (OSE) 6,0">6,0</span>
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-!6,0
-| -
-|1%
-|-align=center
-!
-!595
+!<span style=color:red>↓</span>
+!602
 |595
 |582
 |563
@@ -27700,8 +27654,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!595
+!<span style=color:red>↓</span>
+!602
 |595
 |582
 |563
@@ -27746,8 +27700,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!595
+!<span style=color:red>↓</span>
+!602
 |595
 |582
 |563
@@ -27792,8 +27746,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!595
+!<span style=color:red>↓</span>
+!602
 |595
 |582
 |563
@@ -27838,8 +27792,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center
-!
-!595
+!<span style=color:red>↓</span>
+!602
 |595
 |582
 |563
@@ -27884,8 +27838,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!595
+!<span style=color:red>↓</span>
+!602
 |595
 |582
 |563
@@ -27930,8 +27884,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!595
+!<span style=color:red>↓</span>
+!602
 |595
 |582
 |563
@@ -27976,8 +27930,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!595
+!<span style=color:red>↓</span>
+!602
 |595
 |582
 |609
@@ -28022,8 +27976,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!595
+!<span style=color:red>↓</span>
+!602
 |595
 |582
 |563
@@ -28068,8 +28022,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!595
+!<span style=color:red>↓</span>
+!602
 |595
 |615
 |591
@@ -28114,8 +28068,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!595
+!<span style=color:red>↓</span>
+!602
 |595
 |582
 |563
@@ -28160,8 +28114,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!595
+!<span style=color:red>↓</span>
+!602
 |595
 |582
 |563
@@ -28206,8 +28160,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!595
+!<span style=color:red>↓</span>
+!602
 |595
 |582
 |563
@@ -28252,8 +28206,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!595
+!<span style=color:red>↓</span>
+!602
 |595
 |582
 |563
@@ -28298,8 +28252,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center
-!
-!595
+!<span style=color:red>↓</span>
+!602
 |595
 |582
 |563
@@ -28344,8 +28298,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!595
+!<span style=color:red>↓</span>
+!602
 |595
 |582
 |563
@@ -28390,8 +28344,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!595
+!<span style=color:red>↓</span>
+!602
 |595
 |582
 |563
@@ -28436,8 +28390,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!595
+!<span style=color:red>↓</span>
+!602
 |595
 |582
 |591
@@ -28482,8 +28436,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!595
+!<span style=color:red>↓</span>
+!602
 |595
 |582
 |563
@@ -28528,8 +28482,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!595
+!<span style=color:red>↓</span>
+!602
 |595
 |582
 |563
@@ -28574,8 +28528,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!595
+!<span style=color:red>↓</span>
+!602
 |595
 |582
 |656
@@ -28620,8 +28574,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!595
+!<span style=color:red>↓</span>
+!602
 |595
 |615
 |784
@@ -28666,8 +28620,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!595
+!<span style=color:red>↓</span>
+!602
 |595
 |582
 |563
@@ -28712,8 +28666,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!595
+!<span style=color:red>↓</span>
+!602
 |595
 |582
 |563
@@ -28758,8 +28712,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center
-!
-!595
+!<span style=color:red>↓</span>
+!602
 |595
 |582
 |563
@@ -28804,8 +28758,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!595
+!<span style=color:red>↓</span>
+!602
 |595
 |582
 |905
@@ -28849,9 +28803,55 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 !6,0
 | -
 |1%
+|-align=center
+!<span style=color:red>↓</span>
+!602
+|595
+|582
+|563
+|546
+|526
+|506
+|485
+|469
+|449
+|425
+|399
+|362
+|318
+|658
+|560
+|466
+|305
+|305
+|align=center|<span title="Luxemburg">http://os.ongapo.com/images/flaggen/LUX.gif</span>
+|align=left style="height:4ex"|'''FC Beggen'''
+|<span style=color:gold title="OSCQ Runde 1 (OSCQ)">''OSCQ''</span>
+|2
+| -
+| -
+| -
+| -
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 6,0">6,0</span>
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+|<span style=color:gold title="OSCQ Runde 1 (OSCQ) 0,0">''0,0''</span>
+!6,0
+| -
+|1%
 |-align=center style="border-top:2px solid grey"
-!
-!626
+!<span style=color:red>↓</span>
+!634
 |626
 |615
 |591
@@ -28896,8 +28896,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!626
+!<span style=color:red>↓</span>
+!634
 |626
 |615
 |591
@@ -28942,8 +28942,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!626
+!<span style=color:red>↓</span>
+!634
 |626
 |615
 |591
@@ -28988,8 +28988,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!626
+!<span style=color:red>↓</span>
+!634
 |626
 |615
 |591
@@ -29034,8 +29034,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!626
+!<span style=color:red>↓</span>
+!634
 |626
 |615
 |591
@@ -29080,8 +29080,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!626
+!<span style=color:red>↓</span>
+!634
 |626
 |615
 |591
@@ -29126,8 +29126,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!626
+!<span style=color:red>↓</span>
+!634
 |626
 |615
 |591
@@ -29172,8 +29172,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!626
+!<span style=color:red>↓</span>
+!634
 |626
 |615
 |591
@@ -29218,8 +29218,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!626
+!<span style=color:red>↓</span>
+!634
 |626
 |615
 |591
@@ -29264,8 +29264,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!626
+!<span style=color:red>↓</span>
+!634
 |626
 |615
 |591
@@ -29310,8 +29310,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!626
+!<span style=color:red>↓</span>
+!634
 |626
 |615
 |591
@@ -29356,8 +29356,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!626
+!<span style=color:red>↓</span>
+!634
 |626
 |615
 |591
@@ -29402,8 +29402,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!626
+!<span style=color:red>↓</span>
+!634
 |626
 |657
 |636
@@ -29448,8 +29448,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!626
+!<span style=color:red>↓</span>
+!634
 |626
 |615
 |591
@@ -29494,8 +29494,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!626
+!<span style=color:red>↓</span>
+!634
 |626
 |825
 |811
@@ -29540,8 +29540,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!626
+!<span style=color:red>↓</span>
+!634
 |626
 |632
 |700
@@ -29586,8 +29586,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!626
+!<span style=color:red>↓</span>
+!634
 |626
 |615
 |591
@@ -29632,8 +29632,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!626
+!<span style=color:red>↓</span>
+!634
 |626
 |825
 |1005
@@ -29678,8 +29678,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center style="border-top:2px solid grey"
-!
-!644
+!<span style=color:red>↓</span>
+!652
 |644
 |632
 |609
@@ -29724,8 +29724,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!644
+!<span style=color:red>↓</span>
+!652
 |644
 |632
 |609
@@ -29770,8 +29770,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center
-!
-!644
+!<span style=color:red>↓</span>
+!652
 |644
 |632
 |609
@@ -29816,8 +29816,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!644
+!<span style=color:red>↓</span>
+!652
 |644
 |632
 |609
@@ -29862,8 +29862,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!644
+!<span style=color:red>↓</span>
+!652
 |644
 |632
 |609
@@ -29908,8 +29908,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!644
+!<span style=color:red>↓</span>
+!652
 |644
 |632
 |609
@@ -29954,8 +29954,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!644
+!<span style=color:red>↓</span>
+!652
 |644
 |632
 |609
@@ -30000,8 +30000,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!644
+!<span style=color:red>↓</span>
+!652
 |644
 |632
 |609
@@ -30046,8 +30046,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!644
+!<span style=color:red>↓</span>
+!652
 |644
 |632
 |609
@@ -30092,8 +30092,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!644
+!<span style=color:red>↓</span>
+!652
 |644
 |632
 |609
@@ -30138,8 +30138,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!644
+!<span style=color:red>↓</span>
+!652
 |644
 |632
 |609
@@ -30184,8 +30184,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!644
+!<span style=color:red>↓</span>
+!652
 |644
 |632
 |609
@@ -30230,8 +30230,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!644
+!<span style=color:red>↓</span>
+!652
 |644
 |632
 |609
@@ -30276,8 +30276,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!644
+!<span style=color:red>↓</span>
+!652
 |644
 |632
 |609
@@ -30322,8 +30322,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!644
+!<span style=color:red>↓</span>
+!652
 |644
 |632
 |609
@@ -30368,8 +30368,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!644
+!<span style=color:red>↓</span>
+!652
 |644
 |632
 |609
@@ -30414,8 +30414,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center
-!
-!644
+!<span style=color:red>↓</span>
+!652
 |644
 |632
 |609
@@ -30460,8 +30460,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!644
+!<span style=color:red>↓</span>
+!652
 |644
 |632
 |609
@@ -30506,8 +30506,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!644
+!<span style=color:red>↓</span>
+!652
 |644
 |632
 |609
@@ -30552,8 +30552,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!644
+!<span style=color:red>↓</span>
+!652
 |644
 |825
 |862
@@ -30598,8 +30598,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center
-!
-!644
+!<span style=color:red>↓</span>
+!652
 |644
 |632
 |609
@@ -30644,8 +30644,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!644
+!<span style=color:red>↓</span>
+!652
 |644
 |632
 |700
@@ -30690,8 +30690,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center
-!
-!644
+!<span style=color:red>↓</span>
+!652
 |644
 |632
 |656
@@ -30736,8 +30736,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!644
+!<span style=color:red>↓</span>
+!652
 |644
 |632
 |609
@@ -30782,8 +30782,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!644
+!<span style=color:red>↓</span>
+!652
 |644
 |765
 |811
@@ -30828,8 +30828,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!644
+!<span style=color:red>↓</span>
+!652
 |644
 |918
 |1005
@@ -30874,8 +30874,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |3%
 |-align=center style="border-top:2px solid grey"
-!
-!670
+!<span style=color:red>↓</span>
+!678
 |670
 |657
 |724
@@ -30920,8 +30920,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!670
+!<span style=color:red>↓</span>
+!678
 |670
 |657
 |636
@@ -30966,8 +30966,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!670
+!<span style=color:red>↓</span>
+!678
 |670
 |657
 |636
@@ -31012,8 +31012,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!670
+!<span style=color:red>↓</span>
+!678
 |670
 |657
 |636
@@ -31058,8 +31058,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!670
+!<span style=color:red>↓</span>
+!678
 |670
 |657
 |636
@@ -31104,8 +31104,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!670
+!<span style=color:red>↓</span>
+!678
 |670
 |657
 |636
@@ -31150,8 +31150,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!670
+!<span style=color:red>↓</span>
+!678
 |670
 |657
 |636
@@ -31196,8 +31196,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!670
+!<span style=color:red>↓</span>
+!678
 |670
 |657
 |636
@@ -31242,8 +31242,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!670
+!<span style=color:red>↓</span>
+!678
 |670
 |657
 |636
@@ -31288,8 +31288,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!670
+!<span style=color:red>↓</span>
+!678
 |670
 |657
 |636
@@ -31334,8 +31334,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!670
+!<span style=color:red>↓</span>
+!678
 |670
 |657
 |636
@@ -31380,8 +31380,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!670
+!<span style=color:red>↓</span>
+!678
 |670
 |657
 |636
@@ -31426,8 +31426,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!670
+!<span style=color:red>↓</span>
+!678
 |670
 |657
 |636
@@ -31472,54 +31472,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!670
-|670
-|657
-|636
-|618
-|598
-|581
-|923
-|889
-|860
-|830
-|808
-|760
-|711
-|658
-|560
-|466
-|305
-|305
-|align=center|<span title="Schweiz">http://os.ongapo.com/images/flaggen/SUI.gif</span>
-|align=left style="height:4ex"|'''Springbock Chur'''
-| -
-|1
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-|<span style=color:lime title="OSEQ Runde 3 (OSEQ) 4,5">''4,5''</span>
-| -
-| -
-| -
-| -
-| -
-| -
-!4,5
-| -
-|2%
-|-align=center
-!
-!670
+!<span style=color:red>↓</span>
+!678
 |670
 |657
 |636
@@ -31563,9 +31517,55 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 !4,5
 | -
 |1%
+|-align=center
+!<span style=color:red>↓</span>
+!678
+|670
+|657
+|636
+|618
+|598
+|581
+|923
+|889
+|860
+|830
+|808
+|760
+|711
+|658
+|560
+|466
+|305
+|305
+|align=center|<span title="Schweiz">http://os.ongapo.com/images/flaggen/SUI.gif</span>
+|align=left style="height:4ex"|'''Springbock Chur'''
+|<span style=color:green title="OSE Runde 1 (OSE)">OSE</span>
+|2
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+|<span style=color:lime title="OSEQ Runde 3 (OSEQ) 4,5">''4,5''</span>
+| -
+| -
+| -
+| -
+| -
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0">0,0</span>
+!4,5
+| -
+|2%
 |-align=center style="border-top:2px solid grey"
-!
-!685
+!<span style=color:red>↓</span>
+!694
 |685
 |674
 |656
@@ -31610,8 +31610,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!685
+!<span style=color:red>↓</span>
+!694
 |685
 |674
 |656
@@ -31656,8 +31656,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!685
+!<span style=color:red>↓</span>
+!694
 |685
 |674
 |683
@@ -31702,8 +31702,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!685
+!<span style=color:red>↓</span>
+!694
 |685
 |674
 |750
@@ -31748,8 +31748,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!685
+!<span style=color:red>↓</span>
+!694
 |685
 |674
 |656
@@ -31794,8 +31794,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!685
+!<span style=color:red>↓</span>
+!694
 |685
 |674
 |656
@@ -31840,8 +31840,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!685
+!<span style=color:red>↓</span>
+!694
 |685
 |674
 |656
@@ -31886,8 +31886,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!685
+!<span style=color:red>↓</span>
+!694
 |685
 |674
 |656
@@ -31932,8 +31932,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!685
+!<span style=color:red>↓</span>
+!694
 |685
 |674
 |656
@@ -31978,8 +31978,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!685
+!<span style=color:red>↓</span>
+!694
 |685
 |674
 |656
@@ -32024,8 +32024,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!685
+!<span style=color:red>↓</span>
+!694
 |685
 |674
 |656
@@ -32070,8 +32070,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!685
+!<span style=color:red>↓</span>
+!694
 |685
 |674
 |656
@@ -32116,8 +32116,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!685
+!<span style=color:red>↓</span>
+!694
 |685
 |674
 |656
@@ -32162,8 +32162,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!685
+!<span style=color:red>↓</span>
+!694
 |685
 |674
 |656
@@ -32208,8 +32208,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!685
+!<span style=color:red>↓</span>
+!694
 |685
 |674
 |700
@@ -32254,54 +32254,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!685
-|685
-|674
-|656
-|634
-|615
-|595
-|580
-|559
-|536
-|516
-|480
-|440
-|401
-|346
-|265
-|195
-|97
-|81
-|align=center|<span title="Österreich">http://os.ongapo.com/images/flaggen/AUT.gif</span>
-|align=left style="height:4ex"|'''Mattersburg OSC'''
-| -
-|1
-|<span style=color:darkgreen title="OSE Runde 2 (OSE) 4,0">4,0</span>
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-!4,0
-| -
-|0%
-|-align=center
-!
-!685
+!<span style=color:red>↓</span>
+!694
 |685
 |674
 |656
@@ -32346,8 +32300,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!685
+!<span style=color:red>↓</span>
+!694
 |685
 |674
 |656
@@ -32392,8 +32346,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!685
+!<span style=color:red>↓</span>
+!694
 |685
 |674
 |656
@@ -32438,8 +32392,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!685
+!<span style=color:red>↓</span>
+!694
 |685
 |674
 |656
@@ -32484,8 +32438,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!685
+!<span style=color:red>↓</span>
+!694
 |685
 |674
 |656
@@ -32530,8 +32484,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!685
+!<span style=color:red>↓</span>
+!694
 |685
 |674
 |656
@@ -32576,8 +32530,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!685
+!<span style=color:red>↓</span>
+!694
 |685
 |674
 |656
@@ -32622,8 +32576,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!685
+!<span style=color:red>↓</span>
+!694
 |685
 |765
 |905
@@ -32668,8 +32622,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!685
+!<span style=color:red>↓</span>
+!694
 |685
 |674
 |656
@@ -32714,8 +32668,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!685
+!<span style=color:red>↓</span>
+!694
 |685
 |674
 |656
@@ -32760,8 +32714,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!685
+!<span style=color:red>↓</span>
+!694
 |685
 |674
 |656
@@ -32806,8 +32760,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!685
+!<span style=color:red>↓</span>
+!694
 |685
 |674
 |656
@@ -32852,8 +32806,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!685
+!<span style=color:red>↓</span>
+!694
 |685
 |825
 |905
@@ -32898,8 +32852,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!685
+!<span style=color:red>↓</span>
+!694
 |685
 |717
 |700
@@ -32944,8 +32898,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!685
+!<span style=color:red>↓</span>
+!694
 |685
 |674
 |1005
@@ -32990,8 +32944,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!685
+!<span style=color:red>↓</span>
+!694
 |685
 |1018
 |1005
@@ -33036,8 +32990,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!685
+!<span style=color:red>↓</span>
+!694
 |685
 |1018
 |1005
@@ -33081,9 +33035,55 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 !4,0
 | -
 |1%
+|-align=center
+!<span style=color:red>↓</span>
+!694
+|685
+|674
+|656
+|634
+|615
+|595
+|580
+|559
+|536
+|516
+|480
+|440
+|401
+|346
+|265
+|195
+|97
+|81
+|align=center|<span title="Österreich">http://os.ongapo.com/images/flaggen/AUT.gif</span>
+|align=left style="height:4ex"|'''Mattersburg OSC'''
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ)">''OSEQ''</span>
+|2
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 4,0">4,0</span>
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0">''0,0''</span>
+!4,0
+| -
+|0%
 |-align=center style="border-top:2px solid grey"
-!
-!718
+!<span style=color:red>↓</span>
+!728
 |718
 |702
 |683
@@ -33128,8 +33128,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!718
+!<span style=color:red>↓</span>
+!728
 |718
 |702
 |683
@@ -33174,8 +33174,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!718
+!<span style=color:red>↓</span>
+!728
 |718
 |702
 |683
@@ -33220,8 +33220,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!718
+!<span style=color:red>↓</span>
+!728
 |718
 |702
 |683
@@ -33266,8 +33266,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!718
+!<span style=color:red>↓</span>
+!728
 |718
 |702
 |683
@@ -33312,8 +33312,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!718
+!<span style=color:red>↓</span>
+!728
 |718
 |702
 |683
@@ -33358,8 +33358,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!718
+!<span style=color:red>↓</span>
+!728
 |718
 |702
 |683
@@ -33404,8 +33404,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!718
+!<span style=color:red>↓</span>
+!728
 |718
 |702
 |683
@@ -33450,8 +33450,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!718
+!<span style=color:red>↓</span>
+!728
 |718
 |741
 |724
@@ -33496,8 +33496,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!718
+!<span style=color:red>↓</span>
+!728
 |718
 |702
 |683
@@ -33542,8 +33542,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!718
+!<span style=color:red>↓</span>
+!728
 |718
 |702
 |683
@@ -33588,8 +33588,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!718
+!<span style=color:red>↓</span>
+!728
 |718
 |702
 |683
@@ -33634,8 +33634,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!718
+!<span style=color:red>↓</span>
+!728
 |718
 |702
 |683
@@ -33680,8 +33680,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!718
+!<span style=color:red>↓</span>
+!728
 |718
 |702
 |683
@@ -33726,8 +33726,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!718
+!<span style=color:red>↓</span>
+!728
 |718
 |741
 |724
@@ -33772,8 +33772,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!718
+!<span style=color:red>↓</span>
+!728
 |718
 |702
 |683
@@ -33818,8 +33818,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!718
+!<span style=color:red>↓</span>
+!728
 |718
 |702
 |724
@@ -33864,8 +33864,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!718
+!<span style=color:red>↓</span>
+!728
 |718
 |1018
 |1005
@@ -33910,8 +33910,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center style="border-top:2px solid grey"
-!
-!736
+!<span style=color:red>↓</span>
+!746
 |736
 |717
 |724
@@ -33956,8 +33956,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!736
+!<span style=color:red>↓</span>
+!746
 |736
 |717
 |700
@@ -34002,8 +34002,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!736
+!<span style=color:red>↓</span>
+!746
 |736
 |717
 |700
@@ -34048,8 +34048,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!736
+!<span style=color:red>↓</span>
+!746
 |736
 |717
 |700
@@ -34094,8 +34094,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!736
+!<span style=color:red>↓</span>
+!746
 |736
 |717
 |700
@@ -34140,8 +34140,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |2%
 |-align=center
-!
-!736
+!<span style=color:red>↓</span>
+!746
 |736
 |717
 |700
@@ -34186,8 +34186,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!736
+!<span style=color:red>↓</span>
+!746
 |736
 |717
 |700
@@ -34232,8 +34232,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!736
+!<span style=color:red>↓</span>
+!746
 |736
 |717
 |700
@@ -34278,8 +34278,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!736
+!<span style=color:red>↓</span>
+!746
 |736
 |717
 |700
@@ -34324,8 +34324,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!736
+!<span style=color:red>↓</span>
+!746
 |736
 |717
 |700
@@ -34370,8 +34370,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!736
+!<span style=color:red>↓</span>
+!746
 |736
 |717
 |700
@@ -34416,8 +34416,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!736
+!<span style=color:red>↓</span>
+!746
 |736
 |717
 |700
@@ -34462,8 +34462,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!736
+!<span style=color:red>↓</span>
+!746
 |736
 |717
 |700
@@ -34508,8 +34508,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!736
+!<span style=color:red>↓</span>
+!746
 |736
 |765
 |750
@@ -34554,8 +34554,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!736
+!<span style=color:red>↓</span>
+!746
 |736
 |717
 |700
@@ -34600,8 +34600,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!736
+!<span style=color:red>↓</span>
+!746
 |736
 |717
 |700
@@ -34646,8 +34646,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!736
+!<span style=color:red>↓</span>
+!746
 |736
 |717
 |700
@@ -34692,8 +34692,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!736
+!<span style=color:red>↓</span>
+!746
 |736
 |717
 |700
@@ -34738,8 +34738,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!736
+!<span style=color:red>↓</span>
+!746
 |736
 |825
 |811
@@ -34784,8 +34784,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!736
+!<span style=color:red>↓</span>
+!746
 |736
 |717
 |700
@@ -34830,8 +34830,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!736
+!<span style=color:red>↓</span>
+!746
 |736
 |717
 |784
@@ -34876,8 +34876,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!736
+!<span style=color:red>↓</span>
+!746
 |736
 |717
 |700
@@ -34922,8 +34922,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!736
+!<span style=color:red>↓</span>
+!746
 |736
 |717
 |700
@@ -34968,8 +34968,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!736
+!<span style=color:red>↓</span>
+!746
 |736
 |717
 |700
@@ -35014,8 +35014,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!736
+!<span style=color:red>↓</span>
+!746
 |736
 |918
 |905
@@ -35060,8 +35060,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!736
+!<span style=color:red>↓</span>
+!746
 |736
 |800
 |784
@@ -35106,8 +35106,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!736
+!<span style=color:red>↓</span>
+!746
 |736
 |825
 |811
@@ -35152,8 +35152,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!736
+!<span style=color:red>↓</span>
+!746
 |736
 |741
 |724
@@ -35198,8 +35198,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!736
+!<span style=color:red>↓</span>
+!746
 |736
 |1018
 |1005
@@ -35244,8 +35244,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center style="border-top:2px solid grey"
-!
-!765
+!<span style=color:red>↓</span>
+!775
 |765
 |741
 |724
@@ -35290,8 +35290,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!765
+!<span style=color:red>↓</span>
+!775
 |765
 |741
 |724
@@ -35336,8 +35336,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!765
+!<span style=color:red>↓</span>
+!775
 |765
 |741
 |724
@@ -35382,8 +35382,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!765
+!<span style=color:red>↓</span>
+!775
 |765
 |741
 |724
@@ -35428,8 +35428,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!765
+!<span style=color:red>↓</span>
+!775
 |765
 |741
 |724
@@ -35474,8 +35474,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!765
+!<span style=color:red>↓</span>
+!775
 |765
 |741
 |724
@@ -35520,8 +35520,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!765
+!<span style=color:red>↓</span>
+!775
 |765
 |741
 |750
@@ -35566,8 +35566,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!765
+!<span style=color:red>↓</span>
+!775
 |765
 |741
 |724
@@ -35612,8 +35612,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!765
+!<span style=color:red>↓</span>
+!775
 |765
 |741
 |724
@@ -35658,8 +35658,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!765
+!<span style=color:red>↓</span>
+!775
 |765
 |741
 |724
@@ -35704,8 +35704,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!765
+!<span style=color:red>↓</span>
+!775
 |765
 |741
 |724
@@ -35750,8 +35750,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!765
+!<span style=color:red>↓</span>
+!775
 |765
 |741
 |724
@@ -35796,8 +35796,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!765
+!<span style=color:red>↓</span>
+!775
 |765
 |741
 |724
@@ -35842,8 +35842,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!765
+!<span style=color:red>↓</span>
+!775
 |765
 |741
 |724
@@ -35888,8 +35888,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!765
+!<span style=color:red>↓</span>
+!775
 |765
 |741
 |724
@@ -35934,8 +35934,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!765
+!<span style=color:red>↓</span>
+!775
 |765
 |741
 |724
@@ -35980,8 +35980,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!765
+!<span style=color:red>↓</span>
+!775
 |765
 |741
 |724
@@ -36026,8 +36026,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!765
+!<span style=color:red>↓</span>
+!775
 |765
 |741
 |724
@@ -36072,8 +36072,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!765
+!<span style=color:red>↓</span>
+!775
 |765
 |741
 |724
@@ -36118,8 +36118,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!765
+!<span style=color:red>↓</span>
+!775
 |765
 |741
 |724
@@ -36164,8 +36164,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center style="border-top:2px solid grey"
-!
-!785
+!<span style=color:red>↓</span>
+!795
 |785
 |765
 |750
@@ -36210,8 +36210,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!785
+!<span style=color:red>↓</span>
+!795
 |785
 |765
 |750
@@ -36256,8 +36256,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!785
+!<span style=color:red>↓</span>
+!795
 |785
 |765
 |750
@@ -36302,8 +36302,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!785
+!<span style=color:red>↓</span>
+!795
 |785
 |765
 |750
@@ -36348,8 +36348,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!785
+!<span style=color:red>↓</span>
+!795
 |785
 |765
 |750
@@ -36394,8 +36394,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!785
+!<span style=color:red>↓</span>
+!795
 |785
 |765
 |750
@@ -36440,8 +36440,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!785
+!<span style=color:red>↓</span>
+!795
 |785
 |765
 |750
@@ -36486,8 +36486,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!785
+!<span style=color:red>↓</span>
+!795
 |785
 |765
 |750
@@ -36532,8 +36532,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!785
+!<span style=color:red>↓</span>
+!795
 |785
 |765
 |750
@@ -36578,8 +36578,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!785
+!<span style=color:red>↓</span>
+!795
 |785
 |765
 |750
@@ -36624,8 +36624,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!785
+!<span style=color:red>↓</span>
+!795
 |785
 |765
 |750
@@ -36670,8 +36670,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!785
+!<span style=color:red>↓</span>
+!795
 |785
 |765
 |750
@@ -36716,8 +36716,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!785
+!<span style=color:red>↓</span>
+!795
 |785
 |825
 |811
@@ -36762,8 +36762,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!785
+!<span style=color:red>↓</span>
+!795
 |785
 |765
 |750
@@ -36808,8 +36808,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!785
+!<span style=color:red>↓</span>
+!795
 |785
 |765
 |750
@@ -36854,8 +36854,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!785
+!<span style=color:red>↓</span>
+!795
 |785
 |765
 |750
@@ -36900,8 +36900,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!785
+!<span style=color:red>↓</span>
+!795
 |785
 |765
 |750
@@ -36946,8 +36946,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!785
+!<span style=color:red>↓</span>
+!795
 |785
 |765
 |750
@@ -36992,8 +36992,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!785
+!<span style=color:red>↓</span>
+!795
 |785
 |765
 |750
@@ -37038,8 +37038,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!785
+!<span style=color:red>↓</span>
+!795
 |785
 |765
 |750
@@ -37084,8 +37084,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!785
+!<span style=color:red>↓</span>
+!795
 |785
 |765
 |750
@@ -37130,8 +37130,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!785
+!<span style=color:red>↓</span>
+!795
 |785
 |765
 |750
@@ -37176,8 +37176,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!785
+!<span style=color:red>↓</span>
+!795
 |785
 |765
 |750
@@ -37222,8 +37222,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!785
+!<span style=color:red>↓</span>
+!795
 |785
 |765
 |750
@@ -37268,8 +37268,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!785
+!<span style=color:red>↓</span>
+!795
 |785
 |765
 |750
@@ -37314,8 +37314,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!785
+!<span style=color:red>↓</span>
+!795
 |785
 |765
 |750
@@ -37360,8 +37360,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!785
+!<span style=color:red>↓</span>
+!795
 |785
 |765
 |750
@@ -37406,8 +37406,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!785
+!<span style=color:red>↓</span>
+!795
 |785
 |765
 |750
@@ -37452,8 +37452,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!785
+!<span style=color:red>↓</span>
+!795
 |785
 |765
 |750
@@ -37498,8 +37498,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!785
+!<span style=color:red>↓</span>
+!795
 |785
 |765
 |905
@@ -37544,8 +37544,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!785
+!<span style=color:red>↓</span>
+!795
 |785
 |918
 |905
@@ -37590,8 +37590,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!785
+!<span style=color:red>↓</span>
+!795
 |785
 |918
 |905
@@ -37636,8 +37636,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!785
+!<span style=color:red>↓</span>
+!795
 |785
 |918
 |905
@@ -37682,8 +37682,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!785
+!<span style=color:red>↓</span>
+!795
 |785
 |765
 |750
@@ -37728,8 +37728,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!785
+!<span style=color:red>↓</span>
+!795
 |785
 |825
 |811
@@ -37774,8 +37774,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!785
+!<span style=color:red>↓</span>
+!795
 |785
 |765
 |750
@@ -37820,8 +37820,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!785
+!<span style=color:red>↓</span>
+!795
 |785
 |765
 |1005
@@ -37866,8 +37866,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center style="border-top:2px solid grey"
-!
-!822
+!<span style=color:red>↓</span>
+!832
 |822
 |800
 |784
@@ -37912,8 +37912,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!822
+!<span style=color:red>↓</span>
+!832
 |822
 |800
 |784
@@ -37958,8 +37958,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!822
+!<span style=color:red>↓</span>
+!832
 |822
 |800
 |784
@@ -38004,8 +38004,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!822
+!<span style=color:red>↓</span>
+!832
 |822
 |800
 |784
@@ -38050,8 +38050,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!822
+!<span style=color:red>↓</span>
+!832
 |822
 |800
 |784
@@ -38096,8 +38096,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!822
+!<span style=color:red>↓</span>
+!832
 |822
 |800
 |784
@@ -38142,8 +38142,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!822
+!<span style=color:red>↓</span>
+!832
 |822
 |800
 |784
@@ -38188,8 +38188,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!822
+!<span style=color:red>↓</span>
+!832
 |822
 |800
 |784
@@ -38234,8 +38234,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!822
+!<span style=color:red>↓</span>
+!832
 |822
 |800
 |784
@@ -38280,8 +38280,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!822
+!<span style=color:red>↓</span>
+!832
 |822
 |800
 |784
@@ -38326,8 +38326,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!822
+!<span style=color:red>↓</span>
+!832
 |822
 |800
 |784
@@ -38372,8 +38372,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!822
+!<span style=color:red>↓</span>
+!832
 |822
 |800
 |784
@@ -38418,8 +38418,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!822
+!<span style=color:red>↓</span>
+!832
 |822
 |800
 |784
@@ -38464,8 +38464,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!822
+!<span style=color:red>↓</span>
+!832
 |822
 |800
 |784
@@ -38510,8 +38510,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!822
+!<span style=color:red>↓</span>
+!832
 |822
 |800
 |784
@@ -38556,8 +38556,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!822
+!<span style=color:red>↓</span>
+!832
 |822
 |800
 |784
@@ -38602,8 +38602,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!822
+!<span style=color:red>↓</span>
+!832
 |822
 |800
 |784
@@ -38648,54 +38648,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!822
-|822
-|800
-|784
-|766
-|745
-|729
-|710
-|683
-|660
-|634
-|603
-|760
-|711
-|658
-|560
-|466
-|305
-|305
-|align=center|<span title="Lettland">http://os.ongapo.com/images/flaggen/LVA.gif</span>
-|align=left style="height:4ex"|'''Jelgava Metalurgs'''
-| -
-|2
-| -
-| -
-| -
-| -
-| -
-| -
-|<span style=color:blue title="OSE Runde 2 (OSCQ) 1,5">''1,5''</span>
-| -
-|<span style=color:green title="OSE Runde 1 (OSE) 0,0">0,0</span>
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-!1,5
-| -
-|1%
-|-align=center
-!
-!822
+!<span style=color:red>↓</span>
+!832
 |822
 |800
 |784
@@ -38740,8 +38694,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!822
+!<span style=color:red>↓</span>
+!832
 |822
 |800
 |784
@@ -38786,8 +38740,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!822
+!<span style=color:red>↓</span>
+!832
 |822
 |800
 |784
@@ -38832,8 +38786,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!822
+!<span style=color:red>↓</span>
+!832
 |822
 |800
 |784
@@ -38878,8 +38832,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!822
+!<span style=color:red>↓</span>
+!832
 |822
 |800
 |811
@@ -38923,9 +38877,55 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 !1,5
 | -
 |0%
+|-align=center
+!<span style=color:red>↓</span>
+!832
+|822
+|800
+|784
+|766
+|745
+|729
+|710
+|683
+|660
+|634
+|603
+|760
+|711
+|658
+|560
+|466
+|305
+|305
+|align=center|<span title="Lettland">http://os.ongapo.com/images/flaggen/LVA.gif</span>
+|align=left style="height:4ex"|'''Jelgava Metalurgs'''
+|<span style=color:green title="OSE Runde 1 (OSE)">OSE</span>
+|3
+| -
+| -
+| -
+| -
+| -
+| -
+|<span style=color:blue title="OSE Runde 2 (OSCQ) 1,5">''1,5''</span>
+| -
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0">0,0</span>
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0">0,0</span>
+!1,5
+| -
+|1%
 |-align=center style="border-top:2px solid grey"
-!
-!845
+!<span style=color:red>↓</span>
+!856
 |845
 |825
 |811
@@ -38970,8 +38970,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!845
+!<span style=color:red>↓</span>
+!856
 |845
 |825
 |811
@@ -39016,8 +39016,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!845
+!<span style=color:red>↓</span>
+!856
 |845
 |825
 |811
@@ -39062,8 +39062,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!845
+!<span style=color:red>↓</span>
+!856
 |845
 |825
 |811
@@ -39108,8 +39108,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!845
+!<span style=color:red>↓</span>
+!856
 |845
 |825
 |811
@@ -39154,8 +39154,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!845
+!<span style=color:red>↓</span>
+!856
 |845
 |825
 |811
@@ -39200,8 +39200,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!845
+!<span style=color:red>↓</span>
+!856
 |845
 |825
 |811
@@ -39246,8 +39246,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!845
+!<span style=color:red>↓</span>
+!856
 |845
 |825
 |811
@@ -39292,8 +39292,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!845
+!<span style=color:red>↓</span>
+!856
 |845
 |825
 |811
@@ -39338,8 +39338,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!845
+!<span style=color:red>↓</span>
+!856
 |845
 |825
 |811
@@ -39384,8 +39384,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!845
+!<span style=color:red>↓</span>
+!856
 |845
 |825
 |811
@@ -39430,8 +39430,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!845
+!<span style=color:red>↓</span>
+!856
 |845
 |825
 |811
@@ -39476,8 +39476,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!845
+!<span style=color:red>↓</span>
+!856
 |845
 |825
 |811
@@ -39522,8 +39522,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!845
+!<span style=color:red>↓</span>
+!856
 |845
 |825
 |811
@@ -39568,8 +39568,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!845
+!<span style=color:red>↓</span>
+!856
 |845
 |825
 |811
@@ -39614,8 +39614,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!845
+!<span style=color:red>↓</span>
+!856
 |845
 |825
 |811
@@ -39660,8 +39660,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!845
+!<span style=color:red>↓</span>
+!856
 |845
 |825
 |811
@@ -39706,8 +39706,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!845
+!<span style=color:red>↓</span>
+!856
 |845
 |825
 |811
@@ -39752,8 +39752,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!845
+!<span style=color:red>↓</span>
+!856
 |845
 |825
 |811
@@ -39798,8 +39798,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!845
+!<span style=color:red>↓</span>
+!856
 |845
 |825
 |811
@@ -39844,8 +39844,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!845
+!<span style=color:red>↓</span>
+!856
 |845
 |825
 |811
@@ -39890,8 +39890,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!845
+!<span style=color:red>↓</span>
+!856
 |845
 |825
 |811
@@ -39936,8 +39936,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!845
+!<span style=color:red>↓</span>
+!856
 |845
 |825
 |811
@@ -39982,8 +39982,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!845
+!<span style=color:red>↓</span>
+!856
 |845
 |825
 |811
@@ -40028,8 +40028,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!845
+!<span style=color:red>↓</span>
+!856
 |845
 |825
 |811
@@ -40074,8 +40074,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!845
+!<span style=color:red>↓</span>
+!856
 |845
 |825
 |811
@@ -40120,8 +40120,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!845
+!<span style=color:red>↓</span>
+!856
 |845
 |825
 |811
@@ -40166,8 +40166,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!845
+!<span style=color:red>↓</span>
+!856
 |845
 |918
 |905
@@ -40212,8 +40212,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!845
+!<span style=color:red>↓</span>
+!856
 |845
 |825
 |811
@@ -40258,8 +40258,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!845
+!<span style=color:red>↓</span>
+!856
 |845
 |825
 |811
@@ -40304,8 +40304,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!845
+!<span style=color:red>↓</span>
+!856
 |845
 |825
 |811
@@ -40350,8 +40350,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!845
+!<span style=color:red>↓</span>
+!856
 |845
 |825
 |811
@@ -40396,8 +40396,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!845
+!<span style=color:red>↓</span>
+!856
 |845
 |825
 |811
@@ -40442,8 +40442,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!845
+!<span style=color:red>↓</span>
+!856
 |845
 |825
 |811
@@ -40488,8 +40488,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!845
+!<span style=color:red>↓</span>
+!856
 |845
 |825
 |811
@@ -40534,8 +40534,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!845
+!<span style=color:red>↓</span>
+!856
 |845
 |918
 |905
@@ -40580,8 +40580,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!845
+!<span style=color:red>↓</span>
+!856
 |845
 |825
 |811
@@ -40626,8 +40626,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!845
+!<span style=color:red>↓</span>
+!856
 |845
 |825
 |811
@@ -40672,8 +40672,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!845
+!<span style=color:red>↓</span>
+!856
 |845
 |825
 |811
@@ -40718,8 +40718,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!845
+!<span style=color:red>↓</span>
+!856
 |845
 |825
 |811
@@ -40764,8 +40764,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!845
+!<span style=color:red>↓</span>
+!856
 |845
 |825
 |811
@@ -40810,8 +40810,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!845
+!<span style=color:red>↓</span>
+!856
 |845
 |918
 |905
@@ -40856,8 +40856,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!845
+!<span style=color:red>↓</span>
+!856
 |845
 |918
 |905
@@ -40902,8 +40902,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!845
+!<span style=color:red>↓</span>
+!856
 |845
 |825
 |905
@@ -40948,8 +40948,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!845
+!<span style=color:red>↓</span>
+!856
 |845
 |825
 |811
@@ -40994,8 +40994,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!845
+!<span style=color:red>↓</span>
+!856
 |845
 |878
 |862
@@ -41040,8 +41040,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!845
+!<span style=color:red>↓</span>
+!856
 |845
 |825
 |811
@@ -41086,8 +41086,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!845
+!<span style=color:red>↓</span>
+!856
 |845
 |825
 |811
@@ -41132,8 +41132,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!845
+!<span style=color:red>↓</span>
+!856
 |845
 |825
 |811
@@ -41178,8 +41178,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |1%
 |-align=center
-!
-!845
+!<span style=color:red>↓</span>
+!856
 |845
 |825
 |1005
@@ -41224,8 +41224,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center style="border-top:2px solid grey"
-!
-!895
+!<span style=color:red>↓</span>
+!906
 |895
 |878
 |862
@@ -41270,8 +41270,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!895
+!<span style=color:red>↓</span>
+!906
 |895
 |878
 |862
@@ -41316,8 +41316,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!895
+!<span style=color:red>↓</span>
+!906
 |895
 |878
 |862
@@ -41362,8 +41362,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!895
+!<span style=color:red>↓</span>
+!906
 |895
 |878
 |862
@@ -41408,8 +41408,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!895
+!<span style=color:red>↓</span>
+!906
 |895
 |878
 |862
@@ -41454,8 +41454,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!895
+!<span style=color:red>↓</span>
+!906
 |895
 |878
 |862
@@ -41500,8 +41500,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!895
+!<span style=color:red>↓</span>
+!906
 |895
 |878
 |862
@@ -41546,8 +41546,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!895
+!<span style=color:red>↓</span>
+!906
 |895
 |878
 |862
@@ -41592,8 +41592,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!895
+!<span style=color:red>↓</span>
+!906
 |895
 |878
 |862
@@ -41638,8 +41638,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!895
+!<span style=color:red>↓</span>
+!906
 |895
 |878
 |862
@@ -41684,8 +41684,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!895
+!<span style=color:red>↓</span>
+!906
 |895
 |878
 |862
@@ -41730,8 +41730,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!895
+!<span style=color:red>↓</span>
+!906
 |895
 |878
 |862
@@ -41776,8 +41776,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!895
+!<span style=color:red>↓</span>
+!906
 |895
 |878
 |862
@@ -41822,8 +41822,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!895
+!<span style=color:red>↓</span>
+!906
 |895
 |878
 |862
@@ -41868,8 +41868,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!895
+!<span style=color:red>↓</span>
+!906
 |895
 |878
 |862
@@ -41914,8 +41914,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!895
+!<span style=color:red>↓</span>
+!906
 |895
 |878
 |862
@@ -41960,8 +41960,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!895
+!<span style=color:red>↓</span>
+!906
 |895
 |878
 |862
@@ -42006,8 +42006,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!895
+!<span style=color:red>↓</span>
+!906
 |895
 |878
 |862
@@ -42052,8 +42052,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!895
+!<span style=color:red>↓</span>
+!906
 |895
 |878
 |862
@@ -42098,8 +42098,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!895
+!<span style=color:red>↓</span>
+!906
 |895
 |878
 |862
@@ -42144,8 +42144,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!895
+!<span style=color:red>↓</span>
+!906
 |895
 |878
 |862
@@ -42190,8 +42190,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!895
+!<span style=color:red>↓</span>
+!906
 |895
 |878
 |862
@@ -42236,8 +42236,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!895
+!<span style=color:red>↓</span>
+!906
 |895
 |878
 |862
@@ -42282,8 +42282,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!895
+!<span style=color:red>↓</span>
+!906
 |895
 |878
 |862
@@ -42328,8 +42328,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!895
+!<span style=color:red>↓</span>
+!906
 |895
 |878
 |862
@@ -42374,8 +42374,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!895
+!<span style=color:red>↓</span>
+!906
 |895
 |878
 |862
@@ -42420,8 +42420,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!895
+!<span style=color:red>↓</span>
+!906
 |895
 |878
 |862
@@ -42466,8 +42466,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!895
+!<span style=color:red>↓</span>
+!906
 |895
 |878
 |862
@@ -42512,8 +42512,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!895
+!<span style=color:red>↓</span>
+!906
 |895
 |878
 |862
@@ -42558,8 +42558,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!895
+!<span style=color:red>↓</span>
+!906
 |895
 |878
 |862
@@ -42604,8 +42604,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!895
+!<span style=color:red>↓</span>
+!906
 |895
 |878
 |862
@@ -42650,8 +42650,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!895
+!<span style=color:red>↓</span>
+!906
 |895
 |878
 |862
@@ -42696,8 +42696,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!895
+!<span style=color:red>↓</span>
+!906
 |895
 |878
 |862
@@ -42742,8 +42742,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!895
+!<span style=color:red>↓</span>
+!906
 |895
 |878
 |862
@@ -42788,8 +42788,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!895
+!<span style=color:red>↓</span>
+!906
 |895
 |878
 |862
@@ -42834,8 +42834,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!895
+!<span style=color:red>↓</span>
+!906
 |895
 |878
 |862
@@ -42880,8 +42880,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!895
+!<span style=color:red>↓</span>
+!906
 |895
 |878
 |862
@@ -42926,8 +42926,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!895
+!<span style=color:red>↓</span>
+!906
 |895
 |878
 |862
@@ -42972,8 +42972,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!895
+!<span style=color:red>↓</span>
+!906
 |895
 |878
 |862
@@ -43018,8 +43018,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!895
+!<span style=color:red>↓</span>
+!906
 |895
 |1018
 |1005
@@ -43064,8 +43064,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!895
+!<span style=color:red>↓</span>
+!906
 |895
 |1018
 |1005
@@ -43110,8 +43110,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center style="border-top:2px solid grey"
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -43156,8 +43156,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -43202,8 +43202,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -43248,8 +43248,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -43294,8 +43294,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -43340,8 +43340,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -43386,8 +43386,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -43432,8 +43432,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -43478,8 +43478,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -43524,8 +43524,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -43570,8 +43570,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -43616,8 +43616,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -43662,8 +43662,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -43708,8 +43708,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -43754,8 +43754,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -43800,8 +43800,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -43846,8 +43846,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -43892,8 +43892,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -43938,8 +43938,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -43984,8 +43984,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -44030,8 +44030,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -44076,8 +44076,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -44122,8 +44122,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -44168,8 +44168,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -44214,8 +44214,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -44260,8 +44260,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -44306,8 +44306,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -44352,8 +44352,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -44398,8 +44398,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -44444,8 +44444,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -44490,8 +44490,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -44536,8 +44536,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -44582,8 +44582,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -44628,8 +44628,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -44674,8 +44674,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -44720,8 +44720,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -44766,8 +44766,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -44812,8 +44812,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -44858,8 +44858,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -44904,8 +44904,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -44950,8 +44950,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -44996,8 +44996,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -45042,8 +45042,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -45088,8 +45088,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -45134,54 +45134,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
-|936
-|918
-|905
-|891
-|873
-|856
-|837
-|805
-|783
-|756
-|729
-|685
-|634
-|658
-|560
-|466
-|305
-|305
-|align=center|<span title="Serbien und Montenegro">http://os.ongapo.com/images/flaggen/SCG.gif</span>
-|align=left style="height:4ex"|'''Roter Stern Raska'''
-| -
-|1
-| -
-| -
-| -
-| -
-|<span style=color:green title="OSE Runde 1 (OSE) 0,0">0,0</span>
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-!0,0
-| -
-|0%
-|-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -45226,8 +45180,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -45272,8 +45226,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -45318,8 +45272,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -45364,8 +45318,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -45410,8 +45364,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -45456,8 +45410,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -45502,8 +45456,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -45548,8 +45502,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -45594,8 +45548,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -45640,8 +45594,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -45686,8 +45640,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -45732,8 +45686,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -45778,8 +45732,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -45824,8 +45778,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -45870,8 +45824,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -45916,8 +45870,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -45962,8 +45916,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -46008,8 +45962,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -46054,8 +46008,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -46100,8 +46054,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -46146,8 +46100,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -46192,8 +46146,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -46238,8 +46192,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -46284,8 +46238,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -46330,8 +46284,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -46376,8 +46330,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -46422,8 +46376,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -46468,8 +46422,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -46514,8 +46468,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -46560,8 +46514,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -46606,8 +46560,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -46652,8 +46606,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -46698,8 +46652,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -46744,8 +46698,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -46790,8 +46744,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -46836,8 +46790,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -46882,8 +46836,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -46928,8 +46882,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -46974,8 +46928,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -47020,8 +46974,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |905
@@ -47066,8 +47020,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |1005
@@ -47112,8 +47066,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |1005
@@ -47158,8 +47112,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |1005
@@ -47204,8 +47158,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |918
 |1005
@@ -47250,8 +47204,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |1018
 |1005
@@ -47296,8 +47250,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |1018
 |1005
@@ -47342,8 +47296,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |1018
 |1005
@@ -47388,8 +47342,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!
-!936
+!<span style=color:red>↓</span>
+!947
 |936
 |1018
 |1005
@@ -47435,7 +47389,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |0%
 |-align=center
 !<span style=color:green>↑</span>
-!936
+!947
 |1030
 |1018
 |1005
@@ -47481,7 +47435,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |0%
 |-align=center
 !<span style=color:green>↑</span>
-!936
+!947
 |1030
 |1018
 |1005
@@ -47527,7 +47481,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |0%
 |-align=center
 !<span style=color:green>↑</span>
-!936
+!947
 |1030
 |1018
 |1005
@@ -47573,7 +47527,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |0%
 |-align=center
 !<span style=color:green>↑</span>
-!936
+!947
 |1030
 |1018
 |1005
@@ -47619,7 +47573,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |0%
 |-align=center
 !<span style=color:green>↑</span>
-!936
+!947
 |1030
 |1018
 |1005
@@ -47665,7 +47619,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |0%
 |-align=center
 !<span style=color:green>↑</span>
-!936
+!947
 |1030
 |1018
 |1005
@@ -47711,7 +47665,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |0%
 |-align=center
 !<span style=color:green>↑</span>
-!936
+!947
 |1030
 |1018
 |1005
@@ -47757,7 +47711,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |0%
 |-align=center
 !<span style=color:green>↑</span>
-!936
+!947
 |1030
 |1018
 |1005
@@ -47803,7 +47757,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |0%
 |-align=center
 !<span style=color:green>↑</span>
-!936
+!947
 |1030
 |1018
 |1005
@@ -47849,7 +47803,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |0%
 |-align=center
 !<span style=color:green>↑</span>
-!936
+!947
 |1030
 |1018
 |1005
@@ -47895,7 +47849,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |0%
 |-align=center
 !<span style=color:green>↑</span>
-!936
+!947
 |1030
 |1018
 |1005
@@ -47941,7 +47895,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |0%
 |-align=center
 !<span style=color:green>↑</span>
-!936
+!947
 |1030
 |1018
 |1005
@@ -47987,7 +47941,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |0%
 |-align=center
 !<span style=color:green>↑</span>
-!936
+!947
 |1030
 |1018
 |1005
@@ -48033,7 +47987,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |0%
 |-align=center
 !<span style=color:green>↑</span>
-!936
+!947
 |1030
 |1018
 |1005
@@ -48079,7 +48033,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |0%
 |-align=center
 !<span style=color:green>↑</span>
-!936
+!947
 |1030
 |1018
 |1005
@@ -48125,7 +48079,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |0%
 |-align=center
 !<span style=color:green>↑</span>
-!936
+!947
 |1030
 |1018
 |1005
@@ -48171,7 +48125,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |0%
 |-align=center
 !<span style=color:green>↑</span>
-!936
+!947
 |1030
 |1018
 |1005
@@ -48217,7 +48171,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |0%
 |-align=center
 !<span style=color:green>↑</span>
-!936
+!947
 |1030
 |1018
 |1005
@@ -48263,7 +48217,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |0%
 |-align=center
 !<span style=color:green>↑</span>
-!936
+!947
 |1030
 |1018
 |1005
@@ -48309,7 +48263,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |0%
 |-align=center
 !<span style=color:green>↑</span>
-!936
+!947
 |1030
 |1018
 |1005
@@ -48355,7 +48309,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |0%
 |-align=center
 !<span style=color:green>↑</span>
-!936
+!947
 |1030
 |1018
 |1005
@@ -48401,7 +48355,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |0%
 |-align=center
 !<span style=color:green>↑</span>
-!936
+!947
 |1030
 |1018
 |1005
@@ -48447,7 +48401,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |0%
 |-align=center
 !<span style=color:green>↑</span>
-!936
+!947
 |1030
 |1018
 |1005
@@ -48493,7 +48447,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |0%
 |-align=center
 !<span style=color:green>↑</span>
-!936
+!947
 |1030
 |1018
 |1005
@@ -48539,145 +48493,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |0%
 |-align=center
 !<span style=color:green>↑</span>
-!936
-|1030
-|1018
-|1005
-|989
-|964
-|943
-|923
-|889
-|860
-|830
-|808
-|760
-|711
-|658
-|560
-|466
-|305
-|305
-|align=center|<span title="Ukraine">http://os.ongapo.com/images/flaggen/UKR.gif</span>
-|align=left style="height:4ex"|'''Torpedo Kiew'''
-|<span style=color:lime title="OSEQ Runde 1 (OSEQ)">''OSEQ''</span>
-|1
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0">''0,0''</span>
-!0,0
-| -
-|0%
-|-align=center
-!<span style=color:green>↑</span>
-!936
-|1030
-|1018
-|1005
-|989
-|964
-|943
-|923
-|889
-|860
-|830
-|808
-|760
-|711
-|658
-|560
-|466
-|305
-|305
-|align=center|<span title="Schweiz">http://os.ongapo.com/images/flaggen/SUI.gif</span>
-|align=left style="height:4ex"|'''Springbock Chur'''
-|<span style=color:green title="OSE Runde 1 (OSE)">OSE</span>
-|1
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-|<span style=color:green title="OSE Runde 1 (OSE) 0,0">0,0</span>
-!0,0
-| -
-|0%
-|-align=center
-!<span style=color:green>↑</span>
-!936
-|1030
-|1018
-|1005
-|989
-|964
-|943
-|923
-|889
-|860
-|830
-|808
-|760
-|711
-|658
-|560
-|466
-|305
-|305
-|align=center|<span title="Island">http://os.ongapo.com/images/flaggen/ISL.gif</span>
-|align=left style="height:4ex"|'''Thor Reykjavik'''
-|<span style=color:green title="OSE Runde 1 (OSE)">OSE</span>
-|1
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-|<span style=color:green title="OSE Runde 1 (OSE) 0,0">0,0</span>
-!0,0
-| -
-|0%
-|-align=center
-!<span style=color:green>↑</span>
-!936
+!947
 |1030
 |1018
 |1005
@@ -48723,7 +48539,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |0%
 |-align=center
 !<span style=color:green>↑</span>
-!936
+!947
 |1030
 |1018
 |1005
@@ -48768,113 +48584,21 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |0%
 |-align=center
-!<span style=color:green>↑</span>
-!936
-|1030
-|1018
-|1005
-|989
-|964
-|943
-|923
-|889
-|860
-|830
-|808
-|760
-|711
-|658
-|560
-|466
-|305
-|305
-|align=center|<span title="Ungarn">http://os.ongapo.com/images/flaggen/HUN.gif</span>
-|align=left style="height:4ex"|'''Olimpija Nagykanizsa'''
-|<span style=color:lime title="OSEQ Runde 1 (OSEQ)">''OSEQ''</span>
-|1
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0">''0,0''</span>
-!0,0
-| -
-|0%
-|-align=center
-!<span style=color:green>↑</span>
-!936
-|1030
-|1018
-|1005
-|989
-|964
-|943
-|923
-|889
-|860
-|830
-|808
-|760
-|711
-|658
-|560
-|466
-|305
-|305
-|align=center|<span title="Spanien">http://os.ongapo.com/images/flaggen/ESP.gif</span>
-|align=left style="height:4ex"|'''Cataluña Deportiva Premia'''
-|<span style=color:gold title="OSCQ Runde 1 (OSCQ)">''OSCQ''</span>
-|1
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-|<span style=color:gold title="OSCQ Runde 1 (OSCQ) 0,0">''0,0''</span>
-!0,0
-| -
-|0%
-|-align=center
-!<span style=color:green>↑</span>
-!936
-|1030
-|1018
-|1005
-|989
-|964
-|943
-|923
-|889
-|860
-|830
-|808
-|760
-|711
+!<span style=color:red>↓</span>
+!947
+|936
+|918
+|905
+|891
+|873
+|856
+|837
+|805
+|783
+|756
+|729
+|685
+|634
 |658
 |560
 |466
@@ -48883,104 +48607,12 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |align=center|<span title="Serbien und Montenegro">http://os.ongapo.com/images/flaggen/SCG.gif</span>
 |align=left style="height:4ex"|'''Roter Stern Raska'''
 |<span style=color:lime title="OSEQ Runde 1 (OSEQ)">''OSEQ''</span>
-|1
+|2
 | -
 | -
 | -
 | -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0">''0,0''</span>
-!0,0
-| -
-|0%
-|-align=center
-!<span style=color:green>↑</span>
-!936
-|1030
-|1018
-|1005
-|989
-|964
-|943
-|923
-|889
-|860
-|830
-|808
-|760
-|711
-|658
-|560
-|466
-|305
-|305
-|align=center|<span title="Luxemburg">http://os.ongapo.com/images/flaggen/LUX.gif</span>
-|align=left style="height:4ex"|'''FC Beggen'''
-|<span style=color:gold title="OSCQ Runde 1 (OSCQ)">''OSCQ''</span>
-|1
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-|<span style=color:gold title="OSCQ Runde 1 (OSCQ) 0,0">''0,0''</span>
-!0,0
-| -
-|0%
-|-align=center
-!<span style=color:green>↑</span>
-!936
-|1030
-|1018
-|1005
-|989
-|964
-|943
-|923
-|889
-|860
-|830
-|808
-|760
-|711
-|658
-|560
-|466
-|305
-|305
-|align=center|<span title="Österreich">http://os.ongapo.com/images/flaggen/AUT.gif</span>
-|align=left style="height:4ex"|'''Mattersburg OSC'''
-|<span style=color:lime title="OSEQ Runde 1 (OSEQ)">''OSEQ''</span>
-|1
-| -
-| -
-| -
-| -
-| -
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0">0,0</span>
 | -
 | -
 | -
@@ -48999,7 +48631,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |0%
 |-align=center
 !<span style=color:green>↑</span>
-!936
+!947
 |1030
 |1018
 |1005
@@ -49045,7 +48677,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |0%
 |-align=center
 !<span style=color:green>↑</span>
-!936
+!947
 |1030
 |1018
 |1005
@@ -49091,145 +48723,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |0%
 |-align=center
 !<span style=color:green>↑</span>
-!936
-|1030
-|1018
-|1005
-|989
-|964
-|943
-|923
-|889
-|860
-|830
-|808
-|760
-|711
-|658
-|560
-|466
-|305
-|305
-|align=center|<span title="Niederlande">http://os.ongapo.com/images/flaggen/NED.gif</span>
-|align=left style="height:4ex"|'''NEC Kerkrade'''
-|<span style=color:lime title="OSEQ Runde 1 (OSEQ)">''OSEQ''</span>
-|1
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0">''0,0''</span>
-!0,0
-| -
-|0%
-|-align=center
-!<span style=color:green>↑</span>
-!936
-|1030
-|1018
-|1005
-|989
-|964
-|943
-|923
-|889
-|860
-|830
-|808
-|760
-|711
-|658
-|560
-|466
-|305
-|305
-|align=center|<span title="Lettland">http://os.ongapo.com/images/flaggen/LVA.gif</span>
-|align=left style="height:4ex"|'''Jelgava Metalurgs'''
-|<span style=color:green title="OSE Runde 1 (OSE)">OSE</span>
-|1
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-|<span style=color:green title="OSE Runde 1 (OSE) 0,0">0,0</span>
-!0,0
-| -
-|0%
-|-align=center
-!<span style=color:green>↑</span>
-!936
-|1030
-|1018
-|1005
-|989
-|964
-|943
-|923
-|889
-|860
-|830
-|808
-|760
-|711
-|658
-|560
-|466
-|305
-|305
-|align=center|<span title="Deutschland">http://os.ongapo.com/images/flaggen/GER.gif</span>
-|align=left style="height:4ex"|'''Borussia Wolfsburg'''
-|<span style=color:lime title="OSEQ Runde 1 (OSEQ)">''OSEQ''</span>
-|1
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0">''0,0''</span>
-!0,0
-| -
-|0%
-|-align=center
-!<span style=color:green>↑</span>
-!936
+!947
 |1030
 |1018
 |1005
@@ -49275,7 +48769,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |0%
 |-align=center
 !<span style=color:green>↑</span>
-!936
+!947
 |1030
 |1018
 |1005
@@ -49321,7 +48815,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |0%
 |-align=center
 !<span style=color:green>↑</span>
-!936
+!947
 |1030
 |1018
 |1005
@@ -49340,9 +48834,9 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |466
 |305
 |305
-|align=center|<span title="Slowenien">http://os.ongapo.com/images/flaggen/SVN.gif</span>
-|align=left style="height:4ex"|'''Murska Sobota'''
-|<span style=color:green title="OSE Runde 1 (OSE)">OSE</span>
+|align=center|<span title="Schottland">http://os.ongapo.com/images/flaggen/SCO.gif</span>
+|align=left style="height:4ex"|'''FC Glasgow'''
+|<span style=color:gold title="OSCQ Runde 1 (OSCQ)">''OSCQ''</span>
 |1
 | -
 | -
@@ -49361,7 +48855,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 | -
 | -
-|<span style=color:green title="OSE Runde 1 (OSE) 0,0">0,0</span>
+|<span style=color:gold title="OSCQ Runde 1 (OSCQ) 0,0">''0,0''</span>
 !0,0
 | -
 |0%
