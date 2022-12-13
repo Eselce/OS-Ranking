@@ -2,9 +2,9 @@
 {| style="background-color:#F9F9F9; font-family:verdana; font-size: 12px; float: right; margin:3px 3px 3px 10px; border:1px solid #999; border-color: #000000; border-collapse:collapse;" cellpadding=4 cellspacing=0
 |- bgcolor="#F9F9F9"
 | ← <small>[[OS-Ranking Vereine Saison 18]]</small>
-| align="right" |
+| align="right" | <small>[[OS-Ranking Vereine Saison 20]]</small> →
 |-
-| colspan="2" style="padding:0.3em; background-color:#DEDEDE; font-size: 18px" align=center | '''OS-Ranking Vereine'''
+| colspan="2" style="padding:0.3em; background-color:#DEDEDE; font-size: 18px" align=center | '''OS-Ranking Vereine Saison 19'''
 |- bgcolor="#F9F9F9"
 | '''Int. Vereine'''
 | 1060
@@ -19,10 +19,10 @@
 | http://os.ongapo.com/images/flaggen/AUT.gif Mödling OSC
 |- bgcolor="#F9F9F9"
 | '''Länder'''
-| [[OS-Ranking]]
+| [[OS-Ranking Saison 19]]
 |- bgcolor="#F9F9F9"
 | '''Vereine'''
-| [[OS-Ranking Punkte|Punkte]]
+| [[OS-Ranking Punkte Saison 19|Ranking Punkte Saison 19]]
 |}
 
 Das '''OS-Ranking''' - auch '''Dreijahreswertung''' genannt - ist eine Rangliste, nach der den einzelnen Ligaverbänden Startplätze für die [[Spielregeln_II._Wettbewerbe#b.29_internationale_Wettbewerbe|internationalen Pokalwettbewerbe]] zugewiesen werden.
@@ -20231,8 +20231,6 @@ Anteil der Vereine eines Landes zum OS-Ranking, das maßgeblich für die Verteil
 :* Aktiv: Angabe, ob der Verein in der laufenden Saison noch Punkte sammeln kann (Wettbewerb) oder nicht ("raus"). Verlierer der OSC-Quali sind damit noch aktiv, da sie später wieder im OSE einsteigen.
 :* Teiln.: Anzahl der Teilnehmer des Landes in der laufenden Saison.
 :* Punkte: Summe der Punkte des Vereins in der laufenden Saison.
-:* Neu: Am letzten ZAT hinzugewonnene Punkte (+: nicht im Einsatz, -: nicht im Wettbewerb).
 :* Saisonquotienten: Teilung der erreichten Saisonpunkte durch die Anzahl der Teilnehmer eines Landes in der jeweiligen Saison.
 :* Koeffizient: Summe der letzten drei Saisonquotienten, der Endstand ist maßgeblich für die Platzvergabe.
-:* Neu: Änderung des Koeffizienten am letzten ZAT durch Teilnehmer des Landes.
 :* Platzierung und vorläufiger Koeffizient zu Beginn der nächsten Saison: Summe der letzten zwei Saisonquotienten (Ausgangsposition des OS-Rankings der nächsten Saison).
