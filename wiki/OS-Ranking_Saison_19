@@ -13,13 +13,13 @@
 | 27.12.2022 - 15.08.2023
 |- bgcolor="#F9F9F9"
 | '''Bestes OS-Ranking'''
-| 18,34 http://os.ongapo.com/images/flaggen/AUT.gif [[Österreich]]
+| 18,59 http://os.ongapo.com/images/flaggen/AUT.gif [[Österreich]]
 |- bgcolor="#F9F9F9"
 | '''Bester Koeffizient'''
-| 0,30 http://os.ongapo.com/images/flaggen/ESP.gif [[Spanien]]
+| 0,75 http://os.ongapo.com/images/flaggen/BEL.gif [[Belgien]]
 |- bgcolor="#F9F9F9"
 | '''Meiste Punkte'''
-| 3,0 http://os.ongapo.com/images/flaggen/ESP.gif [[Spanien]]
+| 6,0 http://os.ongapo.com/images/flaggen/ESP.gif [[Spanien]]
 |- bgcolor="#F9F9F9"
 | '''OSC-Sieger'''
 | http://os.ongapo.com/images/flaggen/ESP.gif [[Spanien]]
@@ -54,9 +54,9 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 20.
 
 Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 21. Die endgültige Festlegung erfolgt durch die Spielleitung nach Saisonende.
 
-<span style=color:red>'''Stand vor ZAT 5 (OSCQ / OSEQ)'''</span>
+<span style=color:red>'''Stand nach ZAT 5 (OSCQ Runde 1 Hinspiel / OSEQ Runde 1 Hinspiel)'''</span>
 
-<span>Nächster Spieltag: ZAT 5 (OSCQ Runde 1 Hinspiel / OSEQ Runde 1 Hinspiel)</span>
+<span>Nächster Spieltag: ZAT 7 (OSCQ Runde 1 Rückspiel / OSEQ Runde 1 Rückspiel)</span>
 
 <small>Titelverteidiger [[OSC]]: Spanien - Titelverteidiger [[OSE]]: Österreich - Fairplaywertung: Ukraine, England, Dänemark, Schottland</small>
 
@@ -69,13 +69,17 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 21. Die endg�
 ![[OS-Ranking Saison 16|S.16<br/>]]
 !Land
 !Teiln.<br/>
+!drin<br/>
 !CC<br/>
 !EC<br/>
+!neu<br/>
 !Punkte<br/>
+!neu<br/>
 !Saison 17<br/>
 !Saison 18<br/>
 !Saison 19<br/>
 !Koeff.<br/>
+!neu<br/>
 !bgcolor=#EEFFFF|'''Platz<br/>S20'''
 !bgcolor=#EEFFFF|'''Koeff.<br/>S20'''
 !bgcolor=#EEFFFF|'''Teiln.<br/>S20'''
@@ -92,15 +96,19 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 21. Die endg�
 |2
 |align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/AUT.gif '''[[Österreich]]'''
 |10
+|10
 |bgcolor=#EEFFFF|4
 |bgcolor=#EEFFFF|6
-!2,0
+|4
+!4,5
+| +2,5
 |9,14
 |9,00
-|0,20
-!18,34
+|0,45
+!18,59
+| +0,25
 |bgcolor=#EEFFFF|2
-|bgcolor=#EEFFFF|9,20
+|bgcolor=#EEFFFF|9,45
 |bgcolor=#EEFFFF|8
 |8
 |2
@@ -115,15 +123,19 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 21. Die endg�
 |3
 |align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/ESP.gif '''[[Spanien]]'''
 |10
+|10
 |bgcolor=#EEFFFF|6
 |bgcolor=#EEFFFF|4
-!3,0
+|5
+!6,0
+| +3,0
 |7,38
 |8,31
-|0,30
-!15,99
+|0,60
+!16,29
+| +0,30
 |bgcolor=#EEFFFF|3
-|bgcolor=#EEFFFF|8,61
+|bgcolor=#EEFFFF|8,91
 |bgcolor=#EEFFFF|8
 |8
 |2
@@ -138,15 +150,19 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 21. Die endg�
 |7
 |align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/POR.gif '''[[Portugal]]'''
 |8
+|8
 |bgcolor=#EEFFFF|3
 |bgcolor=#EEFFFF|5
-!1,0
+|4
+!2,0
+| +1,0
 |10,36
 |5,21
-|0,13
-!15,70
-|bgcolor=#EEFFFF|13
-|bgcolor=#EEFFFF|5,34
+|0,25
+!15,82
+| +0,13
+|bgcolor=#EEFFFF|15
+|bgcolor=#EEFFFF|5,46
 |bgcolor=#EEFFFF|8
 |8
 |2
@@ -156,21 +172,25 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 21. Die endg�
 |-align=center style="border-top:2px solid grey"
 !<span style=color:green>↑</span>
 !4
-|11
 |8
-|13
-|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/GRE.gif '''[[Griechenland]]'''
-|7
-|bgcolor=#EEFFFF|3
-|bgcolor=#EEFFFF|4
-!1,0
-|5,33
-|8,29
-|0,14
-!13,76
-|bgcolor=#EEFFFF|4
-|bgcolor=#EEFFFF|8,43
-|bgcolor=#EEFFFF|7
+|18
+|24
+|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/BLR.gif '''Weißrussland'''
+|6
+|6
+|bgcolor=#EEFFFF|1
+|bgcolor=#EEFFFF|5
+|3
+!2,5
+| +2,5
+|3,93
+|9,83
+|0,42
+!14,18
+| +0,42
+|bgcolor=#EEFFFF|1
+|bgcolor=#EEFFFF|10,25
+|bgcolor=#EEFFFF|8
 |8
 |1
 |2
@@ -178,22 +198,26 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 21. Die endg�
 |2
 |-align=center
 !<span style=color:green>↑</span>
-!4
+!5
+|11
 |8
-|18
-|24
-|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/BLR.gif '''Weißrussland'''
-|6
-|bgcolor=#EEFFFF|1
-|bgcolor=#EEFFFF|5
-!0,0
-|3,93
-|9,83
-|0,00
-!13,76
-|bgcolor=#EEFFFF|1
-|bgcolor=#EEFFFF|9,83
-|bgcolor=#EEFFFF|8
+|13
+|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/GRE.gif '''[[Griechenland]]'''
+|7
+|7
+|bgcolor=#EEFFFF|3
+|bgcolor=#EEFFFF|4
+|4
+!3,0
+| +2,0
+|5,33
+|8,29
+|0,43
+!14,05
+| +0,29
+|bgcolor=#EEFFFF|4
+|bgcolor=#EEFFFF|8,72
+|bgcolor=#EEFFFF|7
 |8
 |1
 |2
@@ -207,15 +231,19 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 21. Die endg�
 |32
 |align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/ENG.gif '''[[England]]'''
 |7
+|7
 |bgcolor=#EEFFFF|1
 |bgcolor=#EEFFFF|6
-!0,0
+|5
+!3,0
+| +3,0
 |5,60
 |7,70
-|0,00
-!13,30
+|0,43
+!13,73
+| +0,43
 |bgcolor=#EEFFFF|5
-|bgcolor=#EEFFFF|7,70
+|bgcolor=#EEFFFF|8,13
 |bgcolor=#EEFFFF|7
 |8
 |1
@@ -230,15 +258,19 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 21. Die endg�
 |14
 |align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/AZE.gif '''Aserbaidschan'''
 |7
+|7
 |bgcolor=#EEFFFF|2
 |bgcolor=#EEFFFF|5
-!1,0
+|3
+!2,0
+| +1,0
 |6,14
 |6,93
-|0,14
-!13,21
+|0,29
+!13,36
+| +0,14
 |bgcolor=#EEFFFF|7
-|bgcolor=#EEFFFF|7,07
+|bgcolor=#EEFFFF|7,22
 |bgcolor=#EEFFFF|8
 |8
 |1
@@ -246,46 +278,54 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 21. Die endg�
 |2
 |3
 |-align=center
-!<span style=color:red>↓</span>
+!<span style=color:green>↑</span>
 !8
-|2
-|1
-|5
-|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/BIH.gif '''[[Bosnien-Herzegowina]]'''
-|8
+|12
+|14
+|17
+|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/WAL.gif '''[[Wales]]'''
+|7
+|7
+|bgcolor=#EEFFFF|2
 |bgcolor=#EEFFFF|5
-|bgcolor=#EEFFFF|3
-!2,0
-|7,33
-|5,25
-|0,25
-!12,83
-|bgcolor=#EEFFFF|11
-|bgcolor=#EEFFFF|5,50
-|bgcolor=#EEFFFF|8
+|4
+!3,5
+| +3,5
+|7,00
+|5,44
+|0,50
+!12,94
+| +0,50
+|bgcolor=#EEFFFF|10
+|bgcolor=#EEFFFF|5,94
+|bgcolor=#EEFFFF|7
 |8
 |1
 |2
 |2
 |3
 |-align=center style="border-top:2px solid black"
-!<span style=color:green>↑</span>
+!<span style=color:red>↓</span>
 !9
-|12
-|14
-|17
-|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/WAL.gif '''[[Wales]]'''
-|7
-|bgcolor=#EEFFFF|2
+|2
+|1
+|5
+|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/BIH.gif '''[[Bosnien-Herzegowina]]'''
+|8
+|8
 |bgcolor=#EEFFFF|5
-!0,0
-|7,00
-|5,44
-|0,00
-!12,44
+|bgcolor=#EEFFFF|3
+|4
+!2,5
+| +0,5
+|7,33
+|5,25
+|0,31
+!12,89
+| +0,06
 |bgcolor=#EEFFFF|12
-|bgcolor=#EEFFFF|5,44
-|bgcolor=#EEFFFF|7
+|bgcolor=#EEFFFF|5,56
+|bgcolor=#EEFFFF|8
 |7
 |1
 |2
@@ -294,20 +334,24 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 21. Die endg�
 |-align=center
 !<span style=color:red>↓</span>
 !10
-|5
+|6
+|6
 |4
-|1
-|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/NED.gif '''[[Niederlande]]'''
+|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/CRO.gif '''[[Kroatien]]'''
+|9
 |9
 |bgcolor=#EEFFFF|3
 |bgcolor=#EEFFFF|6
-!1,0
-|6,81
-|4,75
-|0,11
-!11,67
-|bgcolor=#EEFFFF|17
-|bgcolor=#EEFFFF|4,86
+|5
+!4,0
+| +3,0
+|7,94
+|3,61
+|0,44
+!11,99
+| +0,33
+|bgcolor=#EEFFFF|27
+|bgcolor=#EEFFFF|4,05
 |bgcolor=#EEFFFF|8
 |7
 |1
@@ -317,21 +361,25 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 21. Die endg�
 |-align=center style="border-top:2px solid grey"
 !<span style=color:red>↓</span>
 !11
-|6
-|6
-|4
-|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/CRO.gif '''[[Kroatien]]'''
 |9
+|9
+|8
+|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/FRA.gif '''Frankreich'''
+|7
+|7
 |bgcolor=#EEFFFF|3
-|bgcolor=#EEFFFF|6
-!1,0
-|7,94
-|3,61
-|0,11
-!11,66
-|bgcolor=#EEFFFF|27
-|bgcolor=#EEFFFF|3,72
-|bgcolor=#EEFFFF|8
+|bgcolor=#EEFFFF|4
+|4
+!3,5
+| +2,5
+|6,79
+|4,64
+|0,50
+!11,93
+| +0,36
+|bgcolor=#EEFFFF|17
+|bgcolor=#EEFFFF|5,14
+|bgcolor=#EEFFFF|7
 |7
 |1
 |1
@@ -340,21 +388,25 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 21. Die endg�
 |-align=center
 !<span style=color:red>↓</span>
 !12
+|5
+|4
+|1
+|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/NED.gif '''[[Niederlande]]'''
 |9
 |9
-|8
-|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/FRA.gif '''Frankreich'''
-|7
 |bgcolor=#EEFFFF|3
-|bgcolor=#EEFFFF|4
-!1,0
-|6,79
-|4,64
-|0,14
-!11,57
+|bgcolor=#EEFFFF|6
+|5
+!3,0
+| +2,0
+|6,81
+|4,75
+|0,33
+!11,89
+| +0,22
 |bgcolor=#EEFFFF|18
-|bgcolor=#EEFFFF|4,78
-|bgcolor=#EEFFFF|7
+|bgcolor=#EEFFFF|5,08
+|bgcolor=#EEFFFF|8
 |7
 |1
 |1
@@ -368,15 +420,19 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 21. Die endg�
 |29
 |align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/SCG.gif '''Serbien und Montenegro'''
 |8
+|8
 |bgcolor=#EEFFFF|2
 |bgcolor=#EEFFFF|6
-!1,0
+|4
+!2,0
+| +1,0
 |6,80
 |4,58
-|0,13
-!11,51
-|bgcolor=#EEFFFF|21
-|bgcolor=#EEFFFF|4,71
+|0,25
+!11,63
+| +0,13
+|bgcolor=#EEFFFF|22
+|bgcolor=#EEFFFF|4,83
 |bgcolor=#EEFFFF|7
 |7
 | -
@@ -391,15 +447,19 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 21. Die endg�
 |18
 |align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/NOR.gif '''[[Norwegen]]'''
 |7
+|7
 |bgcolor=#EEFFFF|1
 |bgcolor=#EEFFFF|6
-!0,0
+|4
+!2,0
+| +2,0
 |3,79
 |7,42
-|0,00
-!11,21
+|0,29
+!11,50
+| +0,29
 |bgcolor=#EEFFFF|6
-|bgcolor=#EEFFFF|7,42
+|bgcolor=#EEFFFF|7,71
 |bgcolor=#EEFFFF|7
 |7
 | -
@@ -409,21 +469,25 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 21. Die endg�
 |-align=center style="border-top:2px solid grey"
 !<span style=color:green>↑</span>
 !15
-|20
-|7
+|28
+|30
+|36
+|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/SWE.gif '''[[Schweden]]'''
 |6
-|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/GER.gif '''Deutschland'''
-|14
-|bgcolor=#EEFFFF|4
-|bgcolor=#EEFFFF|10
-!1,0
-|5,50
-|4,69
-|0,07
-!10,26
-|bgcolor=#EEFFFF|19
-|bgcolor=#EEFFFF|4,76
-|bgcolor=#EEFFFF|7
+|6
+|bgcolor=#EEFFFF|1
+|bgcolor=#EEFFFF|5
+|5
+!4,0
+| +4,0
+|4,17
+|5,90
+|0,67
+!10,74
+| +0,67
+|bgcolor=#EEFFFF|9
+|bgcolor=#EEFFFF|6,57
+|bgcolor=#EEFFFF|6
 |7
 | -
 |2
@@ -432,21 +496,25 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 21. Die endg�
 |-align=center
 !<span style=color:green>↑</span>
 !16
-|28
-|30
-|36
-|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/SWE.gif '''[[Schweden]]'''
+|20
+|7
 |6
-|bgcolor=#EEFFFF|1
-|bgcolor=#EEFFFF|5
-!0,0
-|4,17
-|5,90
-|0,00
-!10,07
-|bgcolor=#EEFFFF|9
-|bgcolor=#EEFFFF|5,90
-|bgcolor=#EEFFFF|6
+|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/GER.gif '''Deutschland'''
+|14
+|14
+|bgcolor=#EEFFFF|4
+|bgcolor=#EEFFFF|10
+|10
+!5,5
+| +4,5
+|5,50
+|4,69
+|0,39
+!10,58
+| +0,32
+|bgcolor=#EEFFFF|18
+|bgcolor=#EEFFFF|5,08
+|bgcolor=#EEFFFF|7
 |7
 | -
 |2
@@ -460,15 +528,19 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 21. Die endg�
 |45
 |align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/NIR.gif '''Nordirland'''
 |5
+|5
 |bgcolor=#EEFFFF|1
 |bgcolor=#EEFFFF|4
-!0,0
+|4
+!2,0
+| +2,0
 |5,00
 |4,88
-|0,00
-!9,88
+|0,40
+!10,28
+| +0,40
 |bgcolor=#EEFFFF|16
-|bgcolor=#EEFFFF|4,88
+|bgcolor=#EEFFFF|5,28
 |bgcolor=#EEFFFF|7
 |7
 | -
@@ -483,15 +555,19 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 21. Die endg�
 |25
 |align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/LUX.gif '''[[Luxemburg]]'''
 |8
+|8
 |bgcolor=#EEFFFF|2
 |bgcolor=#EEFFFF|6
-!0,0
+|4
+!2,0
+| +2,0
 |4,92
 |4,75
-|0,00
-!9,67
+|0,25
+!9,92
+| +0,25
 |bgcolor=#EEFFFF|20
-|bgcolor=#EEFFFF|4,75
+|bgcolor=#EEFFFF|5,00
 |bgcolor=#EEFFFF|7
 |7
 | -
@@ -506,15 +582,19 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 21. Die endg�
 |15
 |align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/HUN.gif '''Ungarn'''
 |8
+|8
 |bgcolor=#EEFFFF|2
 |bgcolor=#EEFFFF|6
-!0,0
+|5
+!3,5
+| +3,5
 |4,67
 |4,13
-|0,00
-!8,80
-|bgcolor=#EEFFFF|26
-|bgcolor=#EEFFFF|4,13
+|0,44
+!9,24
+| +0,44
+|bgcolor=#EEFFFF|25
+|bgcolor=#EEFFFF|4,57
 |bgcolor=#EEFFFF|7
 |7
 | -
@@ -529,15 +609,19 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 21. Die endg�
 |19
 |align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/IRL.gif '''[[Irland]]'''
 |7
+|7
 |bgcolor=#EEFFFF|3
 |bgcolor=#EEFFFF|4
-!1,0
+|4
+!2,0
+| +1,0
 |4,30
 |4,33
-|0,14
-!8,77
+|0,29
+!8,92
+| +0,14
 |bgcolor=#EEFFFF|24
-|bgcolor=#EEFFFF|4,47
+|bgcolor=#EEFFFF|4,62
 |bgcolor=#EEFFFF|7
 |7
 | -
@@ -545,22 +629,26 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 21. Die endg�
 |3
 |3
 |-align=center
-!<span style=color:green>↑</span>
+!<span style=color:red>↓</span>
 !21
-|22
 |15
-|31
-|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/ITA.gif '''[[Italien]]'''
-|7
+|21
+|34
+|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/LTU.gif '''[[Litauen]]'''
+|6
+|6
 |bgcolor=#EEFFFF|1
-|bgcolor=#EEFFFF|6
-!0,0
-|5,50
-|3,08
-|0,00
-!8,58
-|bgcolor=#EEFFFF|33
-|bgcolor=#EEFFFF|3,08
+|bgcolor=#EEFFFF|5
+|4
+!2,5
+| +2,5
+|5,00
+|3,40
+|0,42
+!8,82
+| +0,42
+|bgcolor=#EEFFFF|30
+|bgcolor=#EEFFFF|3,82
 |bgcolor=#EEFFFF|7
 |7
 | -
@@ -568,22 +656,26 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 21. Die endg�
 |3
 |3
 |-align=center style="border-top:2px solid grey"
-!<span style=color:red>↓</span>
+!
 !22
+|22
 |15
-|21
-|34
-|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/LTU.gif '''[[Litauen]]'''
-|6
+|31
+|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/ITA.gif '''[[Italien]]'''
+|7
+|7
 |bgcolor=#EEFFFF|1
-|bgcolor=#EEFFFF|5
-!0,0
-|5,00
-|3,40
-|0,00
-!8,40
-|bgcolor=#EEFFFF|29
-|bgcolor=#EEFFFF|3,40
+|bgcolor=#EEFFFF|6
+|3
+!1,0
+| +1,0
+|5,50
+|3,08
+|0,14
+!8,72
+| +0,14
+|bgcolor=#EEFFFF|35
+|bgcolor=#EEFFFF|3,22
 |bgcolor=#EEFFFF|7
 |7
 | -
@@ -598,15 +690,19 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 21. Die endg�
 |47
 |align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/AND.gif '''[[Andorra]]'''
 |4
+|4
 |bgcolor=#EEFFFF|1
 |bgcolor=#EEFFFF|3
-!0,0
+|3
+!2,0
+| +2,0
 |3,63
 |4,50
-|0,00
-!8,13
-|bgcolor=#EEFFFF|23
-|bgcolor=#EEFFFF|4,50
+|0,50
+!8,63
+| +0,50
+|bgcolor=#EEFFFF|20
+|bgcolor=#EEFFFF|5,00
 |bgcolor=#EEFFFF|6
 |7
 | -
@@ -621,15 +717,19 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 21. Die endg�
 |10
 |align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/ROM.gif '''Rumänien'''
 |6
+|6
 |bgcolor=#EEFFFF|1
 |bgcolor=#EEFFFF|5
-!0,0
+|4
+!1,5
+| +1,5
 |5,25
 |2,86
-|0,00
-!8,11
+|0,25
+!8,36
+| +0,25
 |bgcolor=#EEFFFF|37
-|bgcolor=#EEFFFF|2,86
+|bgcolor=#EEFFFF|3,11
 |bgcolor=#EEFFFF|7
 |7
 | -
@@ -644,15 +744,19 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 21. Die endg�
 |11
 |align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/MDA.gif '''[[Moldawien]]'''
 |7
+|7
 |bgcolor=#EEFFFF|1
 |bgcolor=#EEFFFF|6
-!0,0
+|4
+!0,5
+| +0,5
 |3,33
 |4,71
-|0,00
-!8,04
-|bgcolor=#EEFFFF|21
-|bgcolor=#EEFFFF|4,71
+|0,07
+!8,11
+| +0,07
+|bgcolor=#EEFFFF|23
+|bgcolor=#EEFFFF|4,78
 |bgcolor=#EEFFFF|7
 |7
 | -
@@ -667,15 +771,19 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 21. Die endg�
 |9
 |align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/DEN.gif '''[[Dänemark]]'''
 |7
+|7
 |bgcolor=#EEFFFF|1
 |bgcolor=#EEFFFF|6
-!0,0
+|6
+!1,0
+| +1,0
 |2,38
 |5,57
-|0,00
-!7,95
-|bgcolor=#EEFFFF|10
-|bgcolor=#EEFFFF|5,57
+|0,14
+!8,09
+| +0,14
+|bgcolor=#EEFFFF|11
+|bgcolor=#EEFFFF|5,71
 |bgcolor=#EEFFFF|7
 |7
 | -
@@ -686,19 +794,23 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 21. Die endg�
 !<span style=color:red>↓</span>
 !27
 |26
-|22
 |35
-|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/SVN.gif '''[[Slowenien]]'''
-|7
+|30
+|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/TUR.gif '''Türkei'''
+|5
+|5
 |bgcolor=#EEFFFF|1
-|bgcolor=#EEFFFF|6
-!0,0
-|4,57
-|3,00
-|0,00
-!7,57
-|bgcolor=#EEFFFF|34
-|bgcolor=#EEFFFF|3,00
+|bgcolor=#EEFFFF|4
+|4
+!2,5
+| +2,5
+|1,25
+|6,29
+|0,50
+!8,04
+| +0,50
+|bgcolor=#EEFFFF|8
+|bgcolor=#EEFFFF|6,79
 |bgcolor=#EEFFFF|7
 |6
 | -
@@ -709,19 +821,23 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 21. Die endg�
 !<span style=color:red>↓</span>
 !28
 |26
+|22
 |35
-|30
-|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/TUR.gif '''Türkei'''
-|5
+|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/SVN.gif '''[[Slowenien]]'''
+|7
+|7
 |bgcolor=#EEFFFF|1
-|bgcolor=#EEFFFF|4
-!0,0
-|1,25
-|6,29
-|0,00
-!7,54
-|bgcolor=#EEFFFF|8
-|bgcolor=#EEFFFF|6,29
+|bgcolor=#EEFFFF|6
+|4
+!3,0
+| +3,0
+|4,57
+|3,00
+|0,43
+!8,00
+| +0,43
+|bgcolor=#EEFFFF|33
+|bgcolor=#EEFFFF|3,43
 |bgcolor=#EEFFFF|7
 |6
 | -
@@ -736,15 +852,19 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 21. Die endg�
 |48
 |align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/BEL.gif '''[[Belgien]]'''
 |4
+|4
 |bgcolor=#EEFFFF|1
 |bgcolor=#EEFFFF|3
-!0,0
+|3
+!3,0
+| +3,0
 |3,90
 |3,13
-|0,00
-!7,03
-|bgcolor=#EEFFFF|32
-|bgcolor=#EEFFFF|3,13
+|0,75
+!7,78
+| +0,75
+|bgcolor=#EEFFFF|28
+|bgcolor=#EEFFFF|3,88
 |bgcolor=#EEFFFF|6
 |6
 | -
@@ -759,15 +879,19 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 21. Die endg�
 |52
 |align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/UKR.gif '''[[Ukraine]]'''
 |6
+|6
 |bgcolor=#EEFFFF|1
 |bgcolor=#EEFFFF|5
-!0,0
+|5
+!3,0
+| +3,0
 |2,00
 |5,00
-|0,00
-!7,00
-|bgcolor=#EEFFFF|15
-|bgcolor=#EEFFFF|5,00
+|0,50
+!7,50
+| +0,50
+|bgcolor=#EEFFFF|13
+|bgcolor=#EEFFFF|5,50
 |bgcolor=#EEFFFF|4
 |6
 | -
@@ -782,15 +906,19 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 21. Die endg�
 |41
 |align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/FRO.gif '''Färöer'''
 |6
+|6
 |bgcolor=#EEFFFF|1
 |bgcolor=#EEFFFF|5
-!0,0
+|5
+!2,0
+| +2,0
 |4,50
 |2,30
-|0,00
-!6,80
-|bgcolor=#EEFFFF|40
-|bgcolor=#EEFFFF|2,30
+|0,33
+!7,13
+| +0,33
+|bgcolor=#EEFFFF|41
+|bgcolor=#EEFFFF|2,63
 |bgcolor=#EEFFFF|7
 |6
 | -
@@ -805,15 +933,19 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 21. Die endg�
 |27
 |align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/RUS.gif '''Russland'''
 |5
+|5
 |bgcolor=#EEFFFF|1
 |bgcolor=#EEFFFF|4
-!0,0
+|4
+!1,0
+| +1,0
 |3,36
 |3,33
-|0,00
-!6,69
-|bgcolor=#EEFFFF|30
-|bgcolor=#EEFFFF|3,33
+|0,20
+!6,89
+| +0,20
+|bgcolor=#EEFFFF|32
+|bgcolor=#EEFFFF|3,53
 |bgcolor=#EEFFFF|6
 |6
 | -
@@ -821,46 +953,54 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 21. Die endg�
 |2
 |3
 |-align=center style="border-top:2px solid grey"
-!<span style=color:green>↑</span>
+!<span style=color:red>↓</span>
 !33
-|39
-|52
-|50
-|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/EST.gif '''Estland'''
-|3
-|bgcolor=#EEFFFF| -
-|bgcolor=#EEFFFF|3
-!0,0
-|1,30
-|5,33
-|0,00
-!6,63
-|bgcolor=#EEFFFF|14
-|bgcolor=#EEFFFF|5,33
-|bgcolor=#EEFFFF|5
+|32
+|33
+|42
+|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/ISR.gif '''Israel'''
+|5
+|5
+|bgcolor=#EEFFFF|1
+|bgcolor=#EEFFFF|4
+|4
+!1,5
+| +1,5
+|3,70
+|2,88
+|0,30
+!6,88
+| +0,30
+|bgcolor=#EEFFFF|36
+|bgcolor=#EEFFFF|3,18
+|bgcolor=#EEFFFF|6
 |6
 | -
 |1
 |1
 |4
 |-align=center
-!<span style=color:red>↓</span>
+!<span style=color:green>↑</span>
 !34
-|32
-|33
-|42
-|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/ISR.gif '''Israel'''
-|5
-|bgcolor=#EEFFFF|1
-|bgcolor=#EEFFFF|4
-!0,0
-|3,70
-|2,88
-|0,00
-!6,58
-|bgcolor=#EEFFFF|36
-|bgcolor=#EEFFFF|2,88
-|bgcolor=#EEFFFF|6
+|39
+|52
+|50
+|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/EST.gif '''Estland'''
+|3
+|3
+|bgcolor=#EEFFFF| -
+|bgcolor=#EEFFFF|3
+|1
+!0,5
+| +0,5
+|1,30
+|5,33
+|0,17
+!6,80
+| +0,17
+|bgcolor=#EEFFFF|13
+|bgcolor=#EEFFFF|5,50
+|bgcolor=#EEFFFF|5
 |6
 | -
 |1
@@ -874,15 +1014,19 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 21. Die endg�
 |12
 |align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/MKD.gif '''[[Mazedonien]]'''
 |6
+|6
 |bgcolor=#EEFFFF|1
 |bgcolor=#EEFFFF|5
-!0,0
+|4
+!2,0
+| +2,0
 |2,14
 |4,21
-|0,00
-!6,35
-|bgcolor=#EEFFFF|25
-|bgcolor=#EEFFFF|4,21
+|0,33
+!6,68
+| +0,33
+|bgcolor=#EEFFFF|26
+|bgcolor=#EEFFFF|4,54
 |bgcolor=#EEFFFF|6
 |6
 | -
@@ -897,15 +1041,19 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 21. Die endg�
 |16
 |align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/POL.gif '''[[Polen]]'''
 |6
+|6
 |bgcolor=#EEFFFF|1
 |bgcolor=#EEFFFF|5
-!0,0
+|4
+!1,5
+| +1,5
 |3,64
 |2,50
-|0,00
-!6,14
-|bgcolor=#EEFFFF|39
-|bgcolor=#EEFFFF|2,50
+|0,25
+!6,39
+| +0,25
+|bgcolor=#EEFFFF|40
+|bgcolor=#EEFFFF|2,75
 |bgcolor=#EEFFFF|6
 |6
 | -
@@ -920,15 +1068,19 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 21. Die endg�
 |43
 |align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/BUL.gif '''[[Bulgarien]]'''
 |5
+|5
 |bgcolor=#EEFFFF|1
 |bgcolor=#EEFFFF|4
-!0,0
+|4
+!3,0
+| +3,0
 |2,30
 |3,00
-|0,00
-!5,30
-|bgcolor=#EEFFFF|34
-|bgcolor=#EEFFFF|3,00
+|0,60
+!5,90
+| +0,60
+|bgcolor=#EEFFFF|31
+|bgcolor=#EEFFFF|3,60
 |bgcolor=#EEFFFF|5
 |6
 | -
@@ -943,15 +1095,19 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 21. Die endg�
 |51
 |align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/LVA.gif '''[[Lettland]]'''
 |4
+|4
 |bgcolor=#EEFFFF|1
 |bgcolor=#EEFFFF|3
-!0,0
+|2
+!1,0
+| +1,0
 |1,75
 |3,17
-|0,00
-!4,92
-|bgcolor=#EEFFFF|31
-|bgcolor=#EEFFFF|3,17
+|0,25
+!5,17
+| +0,25
+|bgcolor=#EEFFFF|34
+|bgcolor=#EEFFFF|3,42
 |bgcolor=#EEFFFF|4
 |5
 | -
@@ -966,15 +1122,19 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 21. Die endg�
 |40
 |align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/ALB.gif '''Albanien'''
 |3
+|3
 |bgcolor=#EEFFFF|1
 |bgcolor=#EEFFFF|2
-!0,0
+|2
+!1,0
+| +1,0
 |1,17
 |3,50
-|0,00
-!4,67
-|bgcolor=#EEFFFF|28
-|bgcolor=#EEFFFF|3,50
+|0,33
+!5,00
+| +0,33
+|bgcolor=#EEFFFF|29
+|bgcolor=#EEFFFF|3,83
 |bgcolor=#EEFFFF|4
 |5
 | -
@@ -989,15 +1149,19 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 21. Die endg�
 |21
 |align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/SVK.gif '''[[Slowakei]]'''
 |6
+|6
 |bgcolor=#EEFFFF|1
 |bgcolor=#EEFFFF|5
-!0,0
+|4
+!1,5
+| +1,5
 |3,30
 |1,33
-|0,00
-!4,63
-|bgcolor=#EEFFFF|45
-|bgcolor=#EEFFFF|1,33
+|0,25
+!4,88
+| +0,25
+|bgcolor=#EEFFFF|46
+|bgcolor=#EEFFFF|1,58
 |bgcolor=#EEFFFF|6
 |5
 | -
@@ -1012,15 +1176,19 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 21. Die endg�
 |26
 |align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/ARM.gif '''[[Armenien]]'''
 |5
+|5
 |bgcolor=#EEFFFF|1
 |bgcolor=#EEFFFF|4
-!0,0
+|4
+!3,5
+| +3,5
 |1,75
 |2,25
-|0,00
-!4,00
-|bgcolor=#EEFFFF|41
-|bgcolor=#EEFFFF|2,25
+|0,70
+!4,70
+| +0,70
+|bgcolor=#EEFFFF|39
+|bgcolor=#EEFFFF|2,95
 |bgcolor=#EEFFFF|6
 |4
 | -
@@ -1035,15 +1203,19 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 21. Die endg�
 |38
 |align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/MLT.gif '''[[Malta]]'''
 |4
+|4
 |bgcolor=#EEFFFF|1
 |bgcolor=#EEFFFF|3
-!0,0
+|3
+!1,5
+| +1,5
 |1,17
 |2,70
-|0,00
-!3,87
+|0,38
+!4,25
+| +0,38
 |bgcolor=#EEFFFF|38
-|bgcolor=#EEFFFF|2,70
+|bgcolor=#EEFFFF|3,08
 |bgcolor=#EEFFFF|5
 |4
 | -
@@ -1053,20 +1225,24 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 21. Die endg�
 |-align=center
 !<span style=color:green>↑</span>
 !43
+|47
+|47
 |46
-|45
-|37
-|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/FIN.gif '''[[Finnland]]'''
+|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/SMR.gif '''San Marino'''
+|4
 |4
 |bgcolor=#EEFFFF|1
 |bgcolor=#EEFFFF|3
-!0,0
-|1,75
-|1,50
-|0,00
-!3,25
-|bgcolor=#EEFFFF|43
-|bgcolor=#EEFFFF|1,50
+|3
+!2,0
+| +2,0
+|2,25
+|0,75
+|0,50
+!3,50
+| +0,50
+|bgcolor=#EEFFFF|48
+|bgcolor=#EEFFFF|1,25
 |bgcolor=#EEFFFF|3
 |4
 | -
@@ -1076,20 +1252,24 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 21. Die endg�
 |-align=center
 !<span style=color:green>↑</span>
 !44
-|47
-|47
 |46
-|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/SMR.gif '''San Marino'''
+|45
+|37
+|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/FIN.gif '''[[Finnland]]'''
+|4
 |4
 |bgcolor=#EEFFFF|1
 |bgcolor=#EEFFFF|3
-!0,0
-|2,25
-|0,75
-|0,00
-!3,00
-|bgcolor=#EEFFFF|48
-|bgcolor=#EEFFFF|0,75
+|3
+!0,5
+| +0,5
+|1,75
+|1,50
+|0,13
+!3,38
+| +0,13
+|bgcolor=#EEFFFF|45
+|bgcolor=#EEFFFF|1,63
 |bgcolor=#EEFFFF|3
 |4
 | -
@@ -1099,21 +1279,25 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 21. Die endg�
 |-align=center style="border-top:2px solid black"
 !<span style=color:red>↓</span>
 !45
-|43
 |36
-|33
-|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/SUI.gif '''[[Schweiz]]'''
+|42
+|39
+|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/SCO.gif '''[[Schottland]]'''
 |6
-|bgcolor=#EEFFFF|1
-|bgcolor=#EEFFFF|5
-!0,0
-|1,33
-|1,40
-|0,00
-!2,73
-|bgcolor=#EEFFFF|44
-|bgcolor=#EEFFFF|1,40
+|6
+|bgcolor=#EEFFFF|2
 |bgcolor=#EEFFFF|4
+|5
+!3,0
+| +3,0
+|0,63
+|2,00
+|0,50
+!3,13
+| +0,50
+|bgcolor=#EEFFFF|42
+|bgcolor=#EEFFFF|2,50
+|bgcolor=#EEFFFF|6
 |3
 | -
 |1
@@ -1122,21 +1306,25 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 21. Die endg�
 |-align=center
 !<span style=color:red>↓</span>
 !46
+|43
 |36
-|42
-|39
-|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/SCO.gif '''[[Schottland]]'''
+|33
+|align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/SUI.gif '''[[Schweiz]]'''
 |6
-|bgcolor=#EEFFFF|2
+|6
+|bgcolor=#EEFFFF|1
+|bgcolor=#EEFFFF|5
+|4
+!2,0
+| +2,0
+|1,33
+|1,40
+|0,33
+!3,06
+| +0,33
+|bgcolor=#EEFFFF|43
+|bgcolor=#EEFFFF|1,73
 |bgcolor=#EEFFFF|4
-!0,0
-|0,63
-|2,00
-|0,00
-!2,63
-|bgcolor=#EEFFFF|42
-|bgcolor=#EEFFFF|2,00
-|bgcolor=#EEFFFF|6
 |3
 | -
 |1
@@ -1150,15 +1338,19 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 21. Die endg�
 |49
 |align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/CZE.gif '''Tschechien'''
 |3
+|3
 |bgcolor=#EEFFFF|1
 |bgcolor=#EEFFFF|2
-!0,0
+|2
+!1,0
+| +1,0
 |1,00
 |1,33
-|0,00
-!2,33
-|bgcolor=#EEFFFF|45
-|bgcolor=#EEFFFF|1,33
+|0,33
+!2,66
+| +0,33
+|bgcolor=#EEFFFF|44
+|bgcolor=#EEFFFF|1,66
 |bgcolor=#EEFFFF|3
 |3
 | -
@@ -1173,15 +1365,19 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 21. Die endg�
 |28
 |align=left style="height:6ex"|http://os.ongapo.com/images/flaggen/ISL.gif '''[[Island]]'''
 |6
+|6
 |bgcolor=#EEFFFF|1
 |bgcolor=#EEFFFF|5
-!0,0
+|4
+!1,0
+| +1,0
 |0,92
 |1,17
-|0,00
-!2,09
+|0,17
+!2,26
+| +0,17
 |bgcolor=#EEFFFF|47
-|bgcolor=#EEFFFF|1,17
+|bgcolor=#EEFFFF|1,34
 |bgcolor=#EEFFFF|3
 |3
 | -
