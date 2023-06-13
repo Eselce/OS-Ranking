@@ -48,9 +48,9 @@ Maßgeblich für die Verteilung der Europapokal-Plätze der Saison 20.
 
 Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bisherigen Saisons. Die endgültige Festlegung erfolgt durch die Spielleitung nach Saisonende.
 
-<span style=color:red>'''Stand nach ZAT 49 (OSC-ZR Spiel 6 Rückrunde / OSE Achtelfinale Rückspiel)'''</span>
+<span style=color:red>'''Stand nach ZAT 53 (OSC Viertelfinale Hinspiel / OSE Viertelfinale Hinspiel)'''</span>
 
-<span>Nächster Spieltag: ZAT 53 (OSC Viertelfinale Hinspiel / OSE Viertelfinale Hinspiel)</span>
+<span>Nächster Spieltag: ZAT 55 (OSC Viertelfinale Rückspiel / OSE Viertelfinale Rückspiel)</span>
 
 {|class="wikitable sortable" style=font-family:verdana;font-size:10px
 |-
@@ -143,7 +143,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |<span style=color:blue title="OSE Runde 3 (OSCQ) 3,5">''3,5''</span>
 |<span style=color:brown title="OSC Viertelfinale (OSC) 17,0">17,0</span>
 !339,0
-|<span title="OSC Viertelfinale (OSC) +1,0">+1,0</span>
+|<span title="OSC Viertelfinale (OSC) +0,0">+0,0</span>
 |47%
 |-align=center style="border-top:2px solid grey"
 !
@@ -187,9 +187,9 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |<span style=color:blue title="OSE Runde 3 (OSCQ) 4,5">''4,5''</span>
 |<span style=color:orange title="OSC-HR (OSC) 5,0">5,0</span>
 |<span style=color:orange title="OSC-HR (OSC) 6,0">6,0</span>
-|<span style=color:darkmagenta title="OSE Viertelfinale (OSCQ) 12,5">''12,5''</span>
-!328,0
-|<span title="OSE Viertelfinale (OSCQ) +3,0">+3,0</span>
+|<span style=color:darkmagenta title="OSE Viertelfinale (OSCQ) 14,5">''14,5''</span>
+!330,0
+|<span title="OSE Viertelfinale (OSCQ) +2,0">+2,0</span>
 |37%
 |-align=center style="border-top:2px solid grey"
 !<span style=color:green>↑</span>
@@ -233,9 +233,9 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |<span style=color:brown title="OSC Viertelfinale (OSC) 23,0">23,0</span>
 |<span style=color:brown title="OSC Sieger (OSCQ) 35,0">''35,0''</span>
 |<span style=color:brown title="OSC Halbfinale (OSC) 25,0">25,0</span>
-|<span style=color:brown title="OSC Viertelfinale (OSCQ) 27,0">''27,0''</span>
-!265,5
-|<span title="OSC Viertelfinale (OSCQ) +3,0">+3,0</span>
+|<span style=color:brown title="OSC Viertelfinale (OSCQ) 29,0">''29,0''</span>
+!267,5
+|<span title="OSC Viertelfinale (OSCQ) +2,0">+2,0</span>
 |44%
 |-align=center style="border-top:2px solid grey"
 !<span style=color:red>↓</span>
@@ -281,7 +281,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |<span style=color:red title="OSC-ZR (OSC) 13,0">13,0</span>
 |<span style=color:red title="OSC-ZR (OSCQ) 16,0 raus">''16,0''</span>
 !256,5
-|<span title="OSC-ZR (OSCQ) +1,0 raus">+1,0</span>
+| -
 |25%
 |-align=center style="border-top:2px solid grey"
 !
@@ -373,7 +373,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |<span style=color:orange title="OSC-HR (OSC) 1,0">1,0</span>
 |<span style=color:navy title="OSE Achtelfinale (OSE) 13,0 raus">13,0</span>
 !193,5
-|<span title="OSE Achtelfinale (OSE) +1,0 raus">+1,0</span>
+| -
 |21%
 |-align=center style="border-top:2px solid grey"
 !<span style=color:red>↓</span>
@@ -511,7 +511,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |<span style=color:brown title="OSC Viertelfinale (OSC) 22,0">22,0</span>
 |<span style=color:red title="OSC-ZR (OSCQ) 20,5 raus">''20,5''</span>
 !174,5
-|<span title="OSC-ZR (OSCQ) +2,0 raus">+2,0</span>
+| -
 |49%
 |-align=center style="border-top:2px solid grey"
 !<span style=color:red>↓</span>
@@ -560,8 +560,54 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |22%
 |-align=center style="border-top:2px solid grey"
-!<span style=color:red>↓</span>
+!<span style=color:green>↑</span>
 !11
+|14
+|23
+|30
+|46
+|54
+|59
+|133
+|189
+|230
+|293
+|323
+|295
+|711
+|658
+|560
+|466
+|305
+|305
+|align=center|<span title="Bosnien-Herzegowina">http://os.ongapo.com/images/flaggen/BIH.gif</span>
+|align=left style="height:4ex"|'''FC Sloboda Visoko'''
+|<span style=color:brown title="OSC Viertelfinale (OSC)">OSC</span>
+|12
+| -
+| -
+| -
+| -
+| -
+|<span style=color:blue title="OSE Runde 4 (OSCQ) 8,5">''8,5''</span>
+| -
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 2,5">''2,5''</span>
+|<span style=color:blue title="OSE Runde 3 (OSCQ) 5,5">''5,5''</span>
+|<span style=color:blue title="OSE Runde 3 (OSCQ) 6,0">''6,0''</span>
+|<span style=color:darkmagenta title="OSE Achtelfinale (OSCQ) 9,0">''9,0''</span>
+|<span style=color:navy title="OSE Sieger (OSEQ) 27,5">''27,5''</span>
+|<span style=color:darkgreen title="OSE Runde 3 (OSE) 7,0">7,0</span>
+|<span style=color:orange title="OSC-HR (OSC) 9,0">9,0</span>
+|<span style=color:brown title="OSC Finale (OSC) 31,0">31,0</span>
+|<span style=color:brown title="OSC Viertelfinale (OSC) 21,0">21,0</span>
+|<span style=color:brown title="OSC Viertelfinale (OSC) 21,0">21,0</span>
+|<span style=color:brown title="OSC Viertelfinale (OSC) 25,0">25,0</span>
+!173,0
+|<span title="OSC Viertelfinale (OSC) +2,0">+2,0</span>
+|24%
+|-align=center style="border-top:2px solid grey"
+!<span style=color:red>↓</span>
+!12
 |9
 |11
 |11
@@ -605,52 +651,6 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 !172,5
 | -
 |34%
-|-align=center style="border-top:2px solid grey"
-!<span style=color:green>↑</span>
-!12
-|14
-|23
-|30
-|46
-|54
-|59
-|133
-|189
-|230
-|293
-|323
-|295
-|711
-|658
-|560
-|466
-|305
-|305
-|align=center|<span title="Bosnien-Herzegowina">http://os.ongapo.com/images/flaggen/BIH.gif</span>
-|align=left style="height:4ex"|'''FC Sloboda Visoko'''
-|<span style=color:brown title="OSC Viertelfinale (OSC)">OSC</span>
-|12
-| -
-| -
-| -
-| -
-| -
-|<span style=color:blue title="OSE Runde 4 (OSCQ) 8,5">''8,5''</span>
-| -
-|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 2,5">''2,5''</span>
-|<span style=color:blue title="OSE Runde 3 (OSCQ) 5,5">''5,5''</span>
-|<span style=color:blue title="OSE Runde 3 (OSCQ) 6,0">''6,0''</span>
-|<span style=color:darkmagenta title="OSE Achtelfinale (OSCQ) 9,0">''9,0''</span>
-|<span style=color:navy title="OSE Sieger (OSEQ) 27,5">''27,5''</span>
-|<span style=color:darkgreen title="OSE Runde 3 (OSE) 7,0">7,0</span>
-|<span style=color:orange title="OSC-HR (OSC) 9,0">9,0</span>
-|<span style=color:brown title="OSC Finale (OSC) 31,0">31,0</span>
-|<span style=color:brown title="OSC Viertelfinale (OSC) 21,0">21,0</span>
-|<span style=color:brown title="OSC Viertelfinale (OSC) 21,0">21,0</span>
-|<span style=color:brown title="OSC Viertelfinale (OSC) 23,0">23,0</span>
-!171,0
-|<span title="OSC Viertelfinale (OSC) +3,0">+3,0</span>
-|24%
 |-align=center style="border-top:2px solid grey"
 !<span style=color:red>↓</span>
 !13
@@ -741,7 +741,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |<span style=color:orange title="OSC-HR (OSCQ) 8,5">''8,5''</span>
 |<span style=color:red title="OSC-ZR (OSCQ) 17,5 raus">''17,5''</span>
 !161,0
-|<span title="OSC-ZR (OSCQ) +1,0 raus">+1,0</span>
+| -
 |36%
 |-align=center style="border-top:2px solid grey"
 !<span style=color:red>↓</span>
@@ -833,7 +833,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |<span style=color:darkgreen title="OSE Runde 2 (OSE) 4,0">4,0</span>
 |<span style=color:darkmagenta title="OSE Viertelfinale (OSCQ) 12,0">''12,0''</span>
 !153,5
-|<span title="OSE Viertelfinale (OSCQ) +1,0">+1,0</span>
+|<span title="OSE Viertelfinale (OSCQ) +0,0">+0,0</span>
 |15%
 |-align=center style="border-top:2px solid grey"
 !<span style=color:green>↑</span>
@@ -879,7 +879,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |<span style=color:blue title="OSE Runde 2 (OSCQ) 3,0">''3,0''</span>
 |<span style=color:red title="OSC-ZR (OSC) 16,0 raus">16,0</span>
 !152,5
-|<span title="OSC-ZR (OSC) +2,0 raus">+2,0</span>
+| -
 |15%
 |-align=center style="border-top:2px solid grey"
 !<span style=color:green>↑</span>
@@ -1063,7 +1063,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |<span style=color:red title="OSC-ZR (OSC) 17,0">17,0</span>
 |<span style=color:navy title="OSE Achtelfinale (OSE) 10,0 raus">10,0</span>
 !138,0
-|<span title="OSE Achtelfinale (OSE) +0,0 raus">+0,0</span>
+| -
 |14%
 |-align=center
 !<span style=color:green>↑</span>
@@ -1337,9 +1337,9 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |<span style=color:orange title="OSC-HR (OSC) 1,0">1,0</span>
 |<span style=color:blue title="OSE Runde 2 (OSCQ) 0,0">''0,0''</span>
-|<span style=color:darkmagenta title="OSE Viertelfinale (OSCQ) 16,0">''16,0''</span>
-!132,5
-|<span title="OSE Viertelfinale (OSCQ) +3,0">+3,0</span>
+|<span style=color:darkmagenta title="OSE Viertelfinale (OSCQ) 17,0">''17,0''</span>
+!133,5
+|<span title="OSE Viertelfinale (OSCQ) +1,0">+1,0</span>
 |16%
 |-align=center style="border-top:2px solid grey"
 !<span style=color:red>↓</span>
@@ -1429,9 +1429,9 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |<span style=color:orange title="OSC-HR (OSCQ) 9,0">''9,0''</span>
 |<span style=color:blue title="OSE Runde 3 (OSCQ) 2,0">''2,0''</span>
 |<span style=color:blue title="OSE Runde 4 (OSCQ) 5,0">''5,0''</span>
-|<span style=color:navy title="OSE Viertelfinale (OSEQ) 16,0">''16,0''</span>
-!128,0
-|<span title="OSE Viertelfinale (OSEQ) +3,0">+3,0</span>
+|<span style=color:navy title="OSE Viertelfinale (OSEQ) 17,0">''17,0''</span>
+!129,0
+|<span title="OSE Viertelfinale (OSEQ) +1,0">+1,0</span>
 |46%
 |-align=center style="border-top:2px solid grey"
 !<span style=color:red>↓</span>
@@ -1707,7 +1707,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |<span style=color:darkgreen title="OSE Runde 4 (OSE) 10,0">10,0</span>
 |<span style=color:navy title="OSE Achtelfinale (OSE) 17,0 raus">17,0</span>
 !117,5
-|<span title="OSE Achtelfinale (OSE) +0,0 raus">+0,0</span>
+| -
 |13%
 |-align=center style="border-top:2px solid grey"
 !<span style=color:green>↑</span>
@@ -1753,7 +1753,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |<span style=color:darkmagenta title="OSE Halbfinale (OSCQ) 19,5">''19,5''</span>
 |<span style=color:navy title="OSE Achtelfinale (OSE) 14,0 raus">14,0</span>
 !116,5
-|<span title="OSE Achtelfinale (OSE) +0,0 raus">+0,0</span>
+| -
 |13%
 |-align=center style="border-top:2px solid grey"
 !<span style=color:green>↑</span>
@@ -1797,9 +1797,9 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |<span style=color:navy title="OSE Viertelfinale (OSE) 19,0">19,0</span>
 |<span style=color:navy title="OSE Achtelfinale (OSE) 14,0">14,0</span>
 |<span style=color:navy title="OSE Sieger (OSE) 27,0">27,0</span>
-|<span style=color:darkmagenta title="OSE Viertelfinale (OSCQ) 15,0">''15,0''</span>
-!114,0
-|<span title="OSE Viertelfinale (OSCQ) +3,0">+3,0</span>
+|<span style=color:darkmagenta title="OSE Viertelfinale (OSCQ) 17,0">''17,0''</span>
+!116,0
+|<span title="OSE Viertelfinale (OSCQ) +2,0">+2,0</span>
 |11%
 |-align=center style="border-top:2px solid grey"
 !<span style=color:red>↓</span>
@@ -1891,7 +1891,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |<span style=color:red title="OSC-ZR (OSC) 18,0 raus">18,0</span>
 !111,5
-|<span title="OSC-ZR (OSC) +0,0 raus">+0,0</span>
+| -
 |11%
 |-align=center style="border-top:2px solid grey"
 !<span style=color:red>↓</span>
@@ -1942,6 +1942,52 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |-align=center style="border-top:2px solid grey"
 !<span style=color:green>↑</span>
 !41
+|43
+|88
+|110
+|117
+|216
+|199
+|215
+|367
+|687
+|659
+|808
+|760
+|711
+|658
+|560
+|466
+|305
+|305
+|align=center|<span title="Griechenland">http://os.ongapo.com/images/flaggen/GRE.gif</span>
+|align=left style="height:4ex"|'''Lárisa FC'''
+|<span style=color:darkmagenta title="OSE Viertelfinale (OSCQ)">''OSE''</span>
+|11
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 1,0">''1,0''</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0">''0,0''</span>
+|<span style=color:darkmagenta title="OSE Achtelfinale (OSCQ) 9,0">''9,0''</span>
+|<span style=color:darkgreen title="OSE Runde 4 (OSE) 12,0">12,0</span>
+|<span style=color:blue title="OSE Runde 2 (OSCQ) 3,0">''3,0''</span>
+|<span style=color:blue title="OSE Runde 2 (OSCQ) 0,5">''0,5''</span>
+|<span style=color:darkmagenta title="OSE Sieger (OSCQ) 21,0">''21,0''</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 5,0">5,0</span>
+|<span style=color:orange title="OSC-HR (OSCQ) 11,0">''11,0''</span>
+|<span style=color:brown title="OSC Finale (OSCQ) 31,0">''31,0''</span>
+|<span style=color:darkmagenta title="OSE Viertelfinale (OSCQ) 14,0">''14,0''</span>
+!107,5
+|<span title="OSE Viertelfinale (OSCQ) +2,0">+2,0</span>
+|22%
+|-align=center style="border-top:2px solid grey"
+!<span style=color:green>↑</span>
+!42
 |56
 |52
 |43
@@ -1983,54 +2029,8 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |<span style=color:green title="OSE Runde 1 (OSE) 1,0">1,0</span>
 |<span style=color:brown title="OSC Viertelfinale (OSCQ) 23,5">''23,5''</span>
 !106,5
-|<span title="OSC Viertelfinale (OSCQ) +3,0">+3,0</span>
+|<span title="OSC Viertelfinale (OSCQ) +0,0">+0,0</span>
 |29%
-|-align=center style="border-top:2px solid grey"
-!<span style=color:green>↑</span>
-!42
-|43
-|88
-|110
-|117
-|216
-|199
-|215
-|367
-|687
-|659
-|808
-|760
-|711
-|658
-|560
-|466
-|305
-|305
-|align=center|<span title="Griechenland">http://os.ongapo.com/images/flaggen/GRE.gif</span>
-|align=left style="height:4ex"|'''Lárisa FC'''
-|<span style=color:darkmagenta title="OSE Viertelfinale (OSCQ)">''OSE''</span>
-|11
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 1,0">''1,0''</span>
-|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,0">''0,0''</span>
-|<span style=color:darkmagenta title="OSE Achtelfinale (OSCQ) 9,0">''9,0''</span>
-|<span style=color:darkgreen title="OSE Runde 4 (OSE) 12,0">12,0</span>
-|<span style=color:blue title="OSE Runde 2 (OSCQ) 3,0">''3,0''</span>
-|<span style=color:blue title="OSE Runde 2 (OSCQ) 0,5">''0,5''</span>
-|<span style=color:darkmagenta title="OSE Sieger (OSCQ) 21,0">''21,0''</span>
-|<span style=color:darkgreen title="OSE Runde 2 (OSE) 5,0">5,0</span>
-|<span style=color:orange title="OSC-HR (OSCQ) 11,0">''11,0''</span>
-|<span style=color:brown title="OSC Finale (OSCQ) 31,0">''31,0''</span>
-|<span style=color:darkmagenta title="OSE Viertelfinale (OSCQ) 12,0">''12,0''</span>
-!105,5
-|<span title="OSE Viertelfinale (OSCQ) +3,0">+3,0</span>
-|22%
 |-align=center style="border-top:2px solid grey"
 !<span style=color:red>↓</span>
 !43
@@ -3041,7 +3041,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |<span style=color:lime title="OSEQ Runde 3 (OSEQ) 4,0">''4,0''</span>
 |<span style=color:brown title="OSC Viertelfinale (OSCQ) 21,0">''21,0''</span>
 !82,0
-|<span title="OSC Viertelfinale (OSCQ) +1,0">+1,0</span>
+|<span title="OSC Viertelfinale (OSCQ) +0,0">+0,0</span>
 |19%
 |-align=center style="border-top:2px solid grey"
 !<span style=color:red>↓</span>
@@ -3225,7 +3225,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |<span style=color:red title="OSC-ZR (OSC) 19,0">19,0</span>
 |<span style=color:darkmagenta title="OSE Viertelfinale (OSCQ) 12,5">''12,5''</span>
 !81,5
-|<span title="OSE Viertelfinale (OSCQ) +3,0">+3,0</span>
+|<span title="OSE Viertelfinale (OSCQ) +0,0">+0,0</span>
 |15%
 |-align=center style="border-top:2px solid grey"
 !<span style=color:green>↑</span>
@@ -3596,6 +3596,52 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |41%
 |-align=center style="border-top:2px solid grey"
+!<span style=color:green>↑</span>
+!77
+|145
+|259
+|525
+|574
+|550
+|552
+|532
+|625
+|602
+|576
+|687
+|642
+|711
+|658
+|560
+|466
+|305
+|305
+|align=center|<span title="Ungarn">http://os.ongapo.com/images/flaggen/HUN.gif</span>
+|align=left style="height:4ex"|'''Banyas Budapest'''
+|<span style=color:brown title="OSC Viertelfinale (OSCQ)">''OSC''</span>
+|8
+| -
+| -
+| -
+| -
+| -
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5">''0,5''</span>
+| -
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 2,0">''2,0''</span>
+| -
+| -
+|<span style=color:lime title="OSEQ Runde 3 (OSEQ) 2,5">''2,5''</span>
+| -
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5">''0,5''</span>
+| -
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 1,5">''1,5''</span>
+|<span style=color:darkmagenta title="OSE Halbfinale (OSCQ) 17,0">''17,0''</span>
+|<span style=color:brown title="OSC Viertelfinale (OSCQ) 25,0">''25,0''</span>
+|<span style=color:brown title="OSC Viertelfinale (OSCQ) 26,5">''26,5''</span>
+!75,5
+|<span title="OSC Viertelfinale (OSCQ) +1,0">+1,0</span>
+|21%
+|-align=center
 !<span style=color:red>↓</span>
 !77
 |71
@@ -3689,52 +3735,6 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |10%
 |-align=center style="border-top:2px solid grey"
 !<span style=color:green>↑</span>
-!79
-|145
-|259
-|525
-|574
-|550
-|552
-|532
-|625
-|602
-|576
-|687
-|642
-|711
-|658
-|560
-|466
-|305
-|305
-|align=center|<span title="Ungarn">http://os.ongapo.com/images/flaggen/HUN.gif</span>
-|align=left style="height:4ex"|'''Banyas Budapest'''
-|<span style=color:brown title="OSC Viertelfinale (OSCQ)">''OSC''</span>
-|8
-| -
-| -
-| -
-| -
-| -
-|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5">''0,5''</span>
-| -
-|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 2,0">''2,0''</span>
-| -
-| -
-|<span style=color:lime title="OSEQ Runde 3 (OSEQ) 2,5">''2,5''</span>
-| -
-|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5">''0,5''</span>
-| -
-|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 1,5">''1,5''</span>
-|<span style=color:darkmagenta title="OSE Halbfinale (OSCQ) 17,0">''17,0''</span>
-|<span style=color:brown title="OSC Viertelfinale (OSCQ) 25,0">''25,0''</span>
-|<span style=color:brown title="OSC Viertelfinale (OSCQ) 25,5">''25,5''</span>
-!74,5
-|<span title="OSC Viertelfinale (OSCQ) +3,0">+3,0</span>
-|20%
-|-align=center style="border-top:2px solid grey"
-!<span style=color:green>↑</span>
 !80
 |106
 |234
@@ -3777,7 +3777,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |<span style=color:brown title="OSC Sieger (OSCQ) 33,5">''33,5''</span>
 |<span style=color:red title="OSC-ZR (OSC) 13,0 raus">13,0</span>
 !73,0
-|<span title="OSC-ZR (OSC) +0,0 raus">+0,0</span>
+| -
 |9%
 |-align=center
 !<span style=color:green>↑</span>
@@ -3823,7 +3823,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |<span style=color:red title="OSC-ZR (OSC) 15,0 raus">15,0</span>
 !73,0
-|<span title="OSC-ZR (OSC) +0,0 raus">+0,0</span>
+| -
 |9%
 |-align=center style="border-top:2px solid grey"
 !<span style=color:red>↓</span>
@@ -5252,8 +5252,54 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |23%
 |-align=center style="border-top:2px solid grey"
-!<span style=color:red>↓</span>
+!<span style=color:green>↑</span>
 !113
+|176
+|185
+|226
+|326
+|315
+|506
+|732
+|805
+|860
+|830
+|808
+|760
+|711
+|658
+|560
+|466
+|305
+|305
+|align=center|<span title="Spanien">http://os.ongapo.com/images/flaggen/ESP.gif</span>
+|align=left style="height:4ex"|'''Real Zamora'''
+|<span style=color:brown title="OSC Viertelfinale (OSC)">OSC</span>
+|8
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0">0,0</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 1,0">1,0</span>
+|<span style=color:orange title="OSC-HR (OSC) 5,0">5,0</span>
+|<span style=color:darkgreen title="OSE Runde 3 (OSE) 10,0">10,0</span>
+| -
+|<span style=color:orange title="OSC-HR (OSCQ) 10,5">''10,5''</span>
+|<span style=color:darkgreen title="OSE Runde 4 (OSE) 9,0">9,0</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 5,0">5,0</span>
+|<span style=color:brown title="OSC Viertelfinale (OSC) 21,0">21,0</span>
+!61,5
+|<span title="OSC Viertelfinale (OSC) +2,0">+2,0</span>
+|8%
+|-align=center style="border-top:2px solid grey"
+!<span style=color:red>↓</span>
+!114
 |101
 |98
 |92
@@ -5299,7 +5345,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |15%
 |-align=center style="border-top:2px solid grey"
 !<span style=color:red>↓</span>
-!114
+!115
 |110
 |96
 |83
@@ -5343,52 +5389,6 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 !59,5
 | -
 |21%
-|-align=center
-!<span style=color:green>↑</span>
-!114
-|176
-|185
-|226
-|326
-|315
-|506
-|732
-|805
-|860
-|830
-|808
-|760
-|711
-|658
-|560
-|466
-|305
-|305
-|align=center|<span title="Spanien">http://os.ongapo.com/images/flaggen/ESP.gif</span>
-|align=left style="height:4ex"|'''Real Zamora'''
-|<span style=color:brown title="OSC Viertelfinale (OSC)">OSC</span>
-|8
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-| -
-|<span style=color:green title="OSE Runde 1 (OSE) 0,0">0,0</span>
-|<span style=color:green title="OSE Runde 1 (OSE) 1,0">1,0</span>
-|<span style=color:orange title="OSC-HR (OSC) 5,0">5,0</span>
-|<span style=color:darkgreen title="OSE Runde 3 (OSE) 10,0">10,0</span>
-| -
-|<span style=color:orange title="OSC-HR (OSCQ) 10,5">''10,5''</span>
-|<span style=color:darkgreen title="OSE Runde 4 (OSE) 9,0">9,0</span>
-|<span style=color:darkgreen title="OSE Runde 2 (OSE) 5,0">5,0</span>
-|<span style=color:brown title="OSC Viertelfinale (OSC) 19,0">19,0</span>
-!59,5
-|<span title="OSC Viertelfinale (OSC) +1,0">+1,0</span>
-|7%
 |-align=center style="border-top:2px solid grey"
 !<span style=color:green>↑</span>
 !116
@@ -6537,7 +6537,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |<span style=color:darkmagenta title="OSE Achtelfinale (OSCQ) 14,0 raus">''14,0''</span>
 !52,5
-|<span title="OSE Achtelfinale (OSCQ) +2,0 raus">+2,0</span>
+| -
 |6%
 |-align=center style="border-top:2px solid grey"
 !<span style=color:green>↑</span>
@@ -6583,7 +6583,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |<span style=color:navy title="OSE Finale (OSE) 31,0">31,0</span>
 |<span style=color:darkmagenta title="OSE Achtelfinale (OSCQ) 10,5 raus">''10,5''</span>
 !52,0
-|<span title="OSE Achtelfinale (OSCQ) +0,0 raus">+0,0</span>
+| -
 |16%
 |-align=center
 !<span style=color:green>↑</span>
@@ -7276,6 +7276,52 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |6%
 |-align=center style="border-top:2px solid grey"
+!<span style=color:green>↑</span>
+!157
+|227
+|280
+|274
+|311
+|444
+|426
+|414
+|398
+|379
+|353
+|381
+|560
+|512
+|658
+|560
+|466
+|305
+|305
+|align=center|<span title="Irland">http://os.ongapo.com/images/flaggen/IRL.gif</span>
+|align=left style="height:4ex"|'''[[FC Cork]]'''
+|<span style=color:brown title="OSC Viertelfinale (OSC)">OSC</span>
+|10
+| -
+| -
+| -
+| -
+|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 1,5">''1,5''</span>
+| -
+|<span style=color:blue title="OSE Runde 3 (OSCQ) 5,0">''5,0''</span>
+|<span style=color:blue title="OSE Runde 2 (OSCQ) 2,0">''2,0''</span>
+|<span style=color:green title="OSE Runde 1 (OSE) 0,0">0,0</span>
+| -
+| -
+|<span style=color:blue title="OSE Runde 2 (OSCQ) 0,5">''0,5''</span>
+| -
+|<span style=color:blue title="OSE Runde 4 (OSCQ) 8,0">''8,0''</span>
+|<span style=color:darkgreen title="OSE Runde 2 (OSE) 4,0">4,0</span>
+|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5">''0,5''</span>
+|<span style=color:darkmagenta title="OSE Achtelfinale (OSCQ) 8,0">''8,0''</span>
+|<span style=color:brown title="OSC Viertelfinale (OSC) 19,0">19,0</span>
+!48,5
+|<span title="OSC Viertelfinale (OSC) +1,0">+1,0</span>
+|12%
+|-align=center
 !<span style=color:red>↓</span>
 !157
 |148
@@ -7323,7 +7369,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |11%
 |-align=center style="border-top:2px solid grey"
 !<span style=color:green>↑</span>
-!158
+!159
 |181
 |168
 |157
@@ -7369,7 +7415,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |10%
 |-align=center
 !<span style=color:green>↑</span>
-!158
+!159
 |163
 |154
 |154
@@ -7413,52 +7459,6 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 !48,0
 | -
 |28%
-|-align=center style="border-top:2px solid grey"
-!<span style=color:green>↑</span>
-!160
-|227
-|280
-|274
-|311
-|444
-|426
-|414
-|398
-|379
-|353
-|381
-|560
-|512
-|658
-|560
-|466
-|305
-|305
-|align=center|<span title="Irland">http://os.ongapo.com/images/flaggen/IRL.gif</span>
-|align=left style="height:4ex"|'''[[FC Cork]]'''
-|<span style=color:brown title="OSC Viertelfinale (OSC)">OSC</span>
-|10
-| -
-| -
-| -
-| -
-|<span style=color:lime title="OSEQ Runde 2 (OSEQ) 1,5">''1,5''</span>
-| -
-|<span style=color:blue title="OSE Runde 3 (OSCQ) 5,0">''5,0''</span>
-|<span style=color:blue title="OSE Runde 2 (OSCQ) 2,0">''2,0''</span>
-|<span style=color:green title="OSE Runde 1 (OSE) 0,0">0,0</span>
-| -
-| -
-|<span style=color:blue title="OSE Runde 2 (OSCQ) 0,5">''0,5''</span>
-| -
-|<span style=color:blue title="OSE Runde 4 (OSCQ) 8,0">''8,0''</span>
-|<span style=color:darkgreen title="OSE Runde 2 (OSE) 4,0">4,0</span>
-|<span style=color:lime title="OSEQ Runde 1 (OSEQ) 0,5">''0,5''</span>
-|<span style=color:darkmagenta title="OSE Achtelfinale (OSCQ) 8,0">''8,0''</span>
-|<span style=color:brown title="OSC Viertelfinale (OSC) 18,0">18,0</span>
-!47,5
-|<span title="OSC Viertelfinale (OSC) +3,0">+3,0</span>
-|12%
 |-align=center style="border-top:2px solid grey"
 !<span style=color:red>↓</span>
 !161
@@ -9389,7 +9389,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |<span style=color:darkgreen title="OSE Runde 2 (OSE) 2,0">2,0</span>
 |<span style=color:red title="OSC-ZR (OSCQ) 16,0 raus">''16,0''</span>
 !36,5
-|<span title="OSC-ZR (OSCQ) +0,0 raus">+0,0</span>
+| -
 |8%
 |-align=center
 !<span style=color:red>↓</span>
@@ -9527,7 +9527,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |<span style=color:darkmagenta title="OSE Achtelfinale (OSCQ) 9,0 raus">''9,0''</span>
 !36,5
-|<span title="OSE Achtelfinale (OSCQ) +0,0 raus">+0,0</span>
+| -
 |6%
 |-align=center style="border-top:2px solid grey"
 !<span style=color:green>↑</span>
@@ -12563,7 +12563,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 |<span style=color:blue title="OSE Runde 2 (OSCQ) 2,0">''2,0''</span>
 |<span style=color:darkmagenta title="OSE Achtelfinale (OSCQ) 10,0 raus">''10,0''</span>
 !25,0
-|<span title="OSE Achtelfinale (OSCQ) +0,0 raus">+0,0</span>
+| -
 |8%
 |-align=center style="border-top:2px solid grey"
 !<span style=color:red>↓</span>
@@ -20843,7 +20843,7 @@ Summe aller durch die Vereine für das OS-Ranking gesammelten Punkte in allen bi
 | -
 |<span style=color:darkmagenta title="OSE Viertelfinale (OSCQ) 13,0">''13,0''</span>
 !13,0
-|<span title="OSE Viertelfinale (OSCQ) +2,0">+2,0</span>
+|<span title="OSE Viertelfinale (OSCQ) +0,0">+0,0</span>
 |2%
 |-align=center style="border-top:2px solid grey"
 !<span style=color:red>↓</span>
